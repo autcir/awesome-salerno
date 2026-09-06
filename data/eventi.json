@@ -8,7 +8,9 @@
     "periodo": "Novembre - Gennaio",
     "frequenza": "annuale",
     "link": "https://www.comune.salerno.it",
-    "fonte": "sito-ufficiale"
+    "fonte": "sito-ufficiale",
+    "lat": 40.6795,
+    "lng": 14.7589
   },
   {
     "id": "festa-san-matteo",
@@ -19,7 +21,9 @@
     "periodo": "19-21 Settembre",
     "frequenza": "annuale",
     "link": "https://www.comune.salerno.it",
-    "fonte": "sito-ufficiale"
+    "fonte": "sito-ufficiale",
+    "lat": 40.6795,
+    "lng": 14.7589
   },
   {
     "id": "presepe-vivente",
@@ -30,7 +34,9 @@
     "periodo": "Dicembre",
     "frequenza": "annuale",
     "link": "https://www.comune.salerno.it",
-    "fonte": "sito-ufficiale"
+    "fonte": "sito-ufficiale",
+    "lat": 40.6795,
+    "lng": 14.7589
   },
   {
     "id": "ravello-festival",
@@ -41,7 +47,9 @@
     "periodo": "Giugno - Settembre",
     "frequenza": "annuale",
     "link": "https://www.ravellofestival.it",
-    "fonte": "sito-ufficiale"
+    "fonte": "sito-ufficiale",
+    "lat": 40.65,
+    "lng": 14.6139
   },
   {
     "id": "regata-repubbliche-marinare",
@@ -52,7 +60,9 @@
     "periodo": "Giugno",
     "frequenza": "annuale",
     "link": "https://www.regatarepubblichemarinare.it",
-    "fonte": "sito-ufficiale"
+    "fonte": "sito-ufficiale",
+    "lat": 40.6338,
+    "lng": 14.6027
   },
   {
     "id": "festa-santandrea",
@@ -63,7 +73,9 @@
     "periodo": "27 Novembre - 30 Novembre",
     "frequenza": "annuale",
     "link": "https://www.comune.amalfi.it",
-    "fonte": "sito-ufficiale"
+    "fonte": "sito-ufficiale",
+    "lat": 40.6338,
+    "lng": 14.6027
   },
   {
     "id": "battentieri",
@@ -74,7 +86,9 @@
     "periodo": "Agosto",
     "frequenza": "annuale",
     "link": "https://www.battentieri.it",
-    "fonte": "sito-ufficiale"
+    "fonte": "sito-ufficiale",
+    "lat": 40.35,
+    "lng": 14.9833
   },
   {
     "id": "paestum-festival",
@@ -85,7 +99,9 @@
     "periodo": "Luglio - Agosto",
     "frequenza": "annuale",
     "link": "https://www.paestumfestival.it",
-    "fonte": "sito-ufficiale"
+    "fonte": "sito-ufficiale",
+    "lat": 40.4167,
+    "lng": 15.0
   },
   {
     "id": "sagra-pesce-cetara",
@@ -96,7 +112,9 @@
     "periodo": "Agosto",
     "frequenza": "annuale",
     "link": "https://www.sagradelpescecetara.it",
-    "fonte": "sito-ufficiale"
+    "fonte": "sito-ufficiale",
+    "lat": 40.6466,
+    "lng": 14.7025
   },
   {
     "id": "festa-ceramica-vietri",
@@ -107,7 +125,9 @@
     "periodo": "Settembre",
     "frequenza": "annuale",
     "link": "https://www.festadellaceramica.it",
-    "fonte": "sito-ufficiale"
+    "fonte": "sito-ufficiale",
+    "lat": 40.6583,
+    "lng": 14.7267
   },
   {
     "id": "cilento-golfo-film-festival",
@@ -118,7 +138,9 @@
     "periodo": "Agosto",
     "frequenza": "annuale",
     "link": "https://www.cilentogolfofilmfestival.it",
-    "fonte": "sito-ufficiale"
+    "fonte": "sito-ufficiale",
+    "lat": 40.0036,
+    "lng": 15.3672
   },
   {
     "id": "sagra-limone-costiera",
@@ -129,6 +151,8 @@
     "periodo": "Maggio",
     "frequenza": "annuale",
     "link": "",
-    "fonte": "web-research"
+    "fonte": "web-research",
+    "lat": 40.6333,
+    "lng": 14.6
   }
 ]
