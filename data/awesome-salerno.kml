@@ -16757,7 +16757,7 @@ Zona: Costiera | Città: Vietri sul Mare | Tipo: chiesa<br/>
         <name>Villa Comunale di Salerno</name>
         <description><![CDATA[Giardino pubblico del XIX secolo con panorami sul golfo. Fontane, gazebo e aree verdi.<br/>
 Zona: Costiera | Città: Vietri sul Mare | Tipo: altro<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.6785&amp;mlon=14.7532#map=16/40.6785/14.7532">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Villa_comunale_di_Salerno">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.7532,40.6785,0</coordinates>
@@ -16807,7 +16807,7 @@ Zona: Costiera | Città: Vietri sul Mare | Tipo: altro<br/>
         <name>Duomo di Amalfi (Cattedrale di Sant'Andrea)</name>
         <description><![CDATA[Cattedrale arabo-normanna del XIII secolo. Chiostro del Paradiso con colonne marmoree. Scalinata monumentale.<br/>
 Zona: Costiera | Città: Amalfi | Tipo: chiesa<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.634&amp;mlon=14.6026#map=16/40.634/14.6026">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Duomo_di_Amalfi">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.6026,40.634,0</coordinates>
@@ -16887,7 +16887,7 @@ Zona: Costiera | Città: Amalfi | Tipo: chiesa<br/>
         <name>Chiesa di Santa Maria Assunta</name>
         <description><![CDATA[Chiesa con cupola maiolicata. Icona bizantina della Madonna del XII secolo.<br/>
 Zona: Costiera | Città: Positano | Tipo: chiesa<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.6278&amp;mlon=14.4847#map=16/40.6278/14.4847">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Assunta">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.4847,40.6278,0</coordinates>
@@ -16927,7 +16927,7 @@ Zona: Costiera | Città: Vietri sul Mare | Tipo: castello<br/>
         <name>Tempio di Nettuno (Basilica)</name>
         <description><![CDATA[Tempio dorico del IV secolo a.C. Meglio conservato della Magna Grecia. 6 colonne sul lato corto.<br/>
 Zona: Cilento | Città: Capaccio Paestum | Tipo: chiesa<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.418&amp;mlon=15.007#map=16/40.418/15.007">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Tempio_di_Nettuno_%28Paestum%29">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>15.007,40.418,0</coordinates>
@@ -16947,7 +16947,7 @@ Zona: Cilento | Città: Capaccio Paestum | Tipo: chiesa<br/>
         <name>Tempio di Atena</name>
         <description><![CDATA[Tempio dorico del V secolo a.C. Sulla collina orientale della città.<br/>
 Zona: Cilento | Città: Capaccio Paestum | Tipo: archeologico<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.419&amp;mlon=15.009#map=16/40.419/15.009">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Tempio_di_Atena_%28Paestum%29">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>15.009,40.419,0</coordinates>
@@ -16957,7 +16957,7 @@ Zona: Cilento | Città: Capaccio Paestum | Tipo: archeologico<br/>
         <name>Tomba del Tuffatore</name>
         <description><![CDATA[Affresco funerario del V secolo a.C. Unica tomba dipinta della Magna Grecia. Nel Museo Nazionale di Paestum.<br/>
 Zona: Cilento | Città: Capaccio Paestum | Tipo: archeologico<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.4185&amp;mlon=15.008#map=16/40.4185/15.008">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Tomba_del_tuffatore">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>15.008,40.4185,0</coordinates>
@@ -16967,7 +16967,7 @@ Zona: Cilento | Città: Capaccio Paestum | Tipo: archeologico<br/>
         <name>Museo Archeologico di Paestum</name>
         <description><![CDATA[Museo con reperti dalla Magna Grecia. Tomba del Tuffatore, cratere di Diving Youth.<br/>
 Zona: Cilento | Città: Capaccio Paestum | Tipo: museo<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.4185&amp;mlon=15.008#map=16/40.4185/15.008">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Museo_archeologico_nazionale_di_Paestum">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>15.008,40.4185,0</coordinates>
@@ -21568,7 +21568,7 @@ Zona: Cilento | Città: Casal Velino | Tipo: chiesa<br/>
         <name>San Pietro a Corte</name>
         <description><![CDATA[Religione: christian. Denominazione: catholic<br/>
 Zona: Costiera | Città: Vietri sul Mare | Tipo: altro<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.6795961&amp;mlon=14.7574962#map=16/40.6795961/14.7574962">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Complesso_archeologico_di_San_Pietro_a_Corte">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.7574962,40.6795961,0</coordinates>
@@ -24398,7 +24398,7 @@ Zona: Cilento | Città: Capaccio Paestum | Tipo: castello<br/>
         <name>Castello Doria</name>
         <description><![CDATA[Castello Doria a Sant'Egidio del Monte Albino. Edificio storico.<br/>
 Zona: Salerno | Città: Sant'Egidio del Monte Albino | Tipo: castello<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.7381857&amp;mlon=14.5718939#map=16/40.7381857/14.5718939">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Castello_Doria">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.5718939,40.7381857,0</coordinates>
@@ -26418,7 +26418,7 @@ Zona: Salerno | Città: Pompei | Tipo: altro<br/>
         <name>Tempio di Venere (VIII.1.3)</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Pompei | Tipo: archeologico<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.7484237&amp;mlon=14.4837195#map=16/40.7484237/14.4837195">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Tempio_di_Venere">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.4837195,40.7484237,0</coordinates>
@@ -26458,7 +26458,7 @@ Zona: Salerno | Città: Pompei | Tipo: altro<br/>
         <name>Casa del Chirurgo (VI.1.10)</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Pompei | Tipo: altro<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.7516167&amp;mlon=14.4818647#map=16/40.7516167/14.4818647">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Casa_del_Chirurgo">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.4818647,40.7516167,0</coordinates>
@@ -26478,7 +26478,7 @@ Zona: Salerno | Città: Pompei | Tipo: altro<br/>
         <name>Casa dei Dioscuri (VI.9.6)</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Pompei | Tipo: altro<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.7517671&amp;mlon=14.4836964#map=16/40.7517671/14.4836964">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Casa_dei_Dioscuri">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.4836964,40.7517671,0</coordinates>
@@ -26508,7 +26508,7 @@ Zona: Salerno | Città: Pompei | Tipo: altro<br/>
         <name>Villa di Diomede</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Torre Annunziata | Tipo: altro<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.7523925&amp;mlon=14.4786501#map=16/40.7523925/14.4786501">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Villa_di_Diomede">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.4786501,40.7523925,0</coordinates>
@@ -26698,7 +26698,7 @@ Zona: Salerno | Città: Ricigliano | Tipo: fonte<br/>
         <name>Terme Suburbane</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Pompei | Tipo: altro<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.7486758&amp;mlon=14.4827788#map=16/40.7486758/14.4827788">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Terme_Suburbane">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.4827788,40.7486758,0</coordinates>
@@ -26738,7 +26738,7 @@ Zona: Salerno | Città: Pompei | Tipo: archeologico<br/>
         <name>Casa del Principe di Napoli (VI.15.8)</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Pompei | Tipo: altro<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.7526256&amp;mlon=14.4843524#map=16/40.7526256/14.4843524">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Casa_del_Principe_di_Napoli">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.4843524,40.7526256,0</coordinates>
@@ -26778,7 +26778,7 @@ Zona: Salerno | Città: Pompei | Tipo: altro<br/>
         <name>Fullonica di Stephanus (I.6.7)</name>
         <description><![CDATA[Fullonica di Stephanus (I.6.7) a Pompei. Punto di interesse.<br/>
 Zona: Salerno | Città: Pompei | Tipo: altro<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.7502861&amp;mlon=14.4891237#map=16/40.7502861/14.4891237">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Fullonica_di_Stephanus">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.4891237,40.7502861,0</coordinates>
@@ -26988,7 +26988,7 @@ Zona: Salerno | Città: Sant'Egidio del Monte Albino | Tipo: archeologico<br/>
         <name>Acquedotto Romano</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Sant'Egidio del Monte Albino | Tipo: fonte<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.7328029&amp;mlon=14.6042778#map=16/40.7328029/14.6042778">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Acquedotto_romano">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.6042778,40.7328029,0</coordinates>
@@ -28428,7 +28428,7 @@ Zona: Salerno | Città: Pompei | Tipo: castello<br/>
         <name>Casa della Venere in Conchiglia (II.3.3)</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Pompei | Tipo: altro<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.7518125&amp;mlon=14.4927848#map=16/40.7518125/14.4927848">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Casa_della_Venere_in_conchiglia">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.4927848,40.7518125,0</coordinates>
@@ -28758,7 +28758,7 @@ Zona: Salerno | Città: Colliano | Tipo: altro<br/>
         <name>Terme del Foro (VII.5.2)</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Pompei | Tipo: archeologico<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.7503359&amp;mlon=14.4841235#map=16/40.7503359/14.4841235">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Terme_del_Foro">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.4841235,40.7503359,0</coordinates>
@@ -28948,7 +28948,7 @@ Zona: Costiera | Città: Furore | Tipo: chiesa<br/>
         <name>Basilica di Pompei (VIII.1.1)</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Pompei | Tipo: chiesa<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.7487369&amp;mlon=14.4844795#map=16/40.7487369/14.4844795">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Basilica_%28Pompei%29">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.4844795,40.7487369,0</coordinates>
@@ -29018,7 +29018,7 @@ Zona: Salerno | Città: Pompei | Tipo: altro<br/>
         <name>Edificio di Eumachia (VII.9.1)</name>
         <description><![CDATA[VII,9,1. Tipo: ruins<br/>
 Zona: Salerno | Città: Pompei | Tipo: altro<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.7494174&amp;mlon=14.4855878#map=16/40.7494174/14.4855878">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Edificio_di_Eumachia">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.4855878,40.7494174,0</coordinates>
@@ -29068,7 +29068,7 @@ Zona: Salerno | Città: Pompei | Tipo: archeologico<br/>
         <name>Tempio di Giove (VII.8.1)</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Pompei | Tipo: archeologico<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.749947&amp;mlon=14.4845076#map=16/40.749947/14.4845076">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Tempio_di_Giove">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.4845076,40.749947,0</coordinates>
@@ -29158,7 +29158,7 @@ Zona: Salerno | Città: Sant'Antonio Abate | Tipo: altro<br/>
         <name>Casa dell'Ara Massima (VI.16.15)</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Pompei | Tipo: altro<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.7526832&amp;mlon=14.484774#map=16/40.7526832/14.484774">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Casa_dell%27Ara_Massima">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.484774,40.7526832,0</coordinates>
@@ -29368,7 +29368,7 @@ Zona: Salerno | Città: Pompei | Tipo: altro<br/>
         <name>Tempio della Fortuna Augusta</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Pompei | Tipo: archeologico<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.7507135&amp;mlon=14.484412#map=16/40.7507135/14.484412">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Tempio_della_Fortuna_Augusta">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.484412,40.7507135,0</coordinates>
@@ -29468,7 +29468,7 @@ Zona: Salerno | Città: Pompei | Tipo: altro<br/>
         <name>Foro di Pompei (VII.8)</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Pompei | Tipo: archeologico<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.7493293&amp;mlon=14.4848509#map=16/40.7493293/14.4848509">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Foro_di_Pompei">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.4848509,40.7493293,0</coordinates>
@@ -29608,7 +29608,7 @@ Zona: Salerno | Città: Montano Antilia | Tipo: castello<br/>
         <name>Casa di Sallustio (VI.2.4)</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Pompei | Tipo: altro<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.7511967&amp;mlon=14.4826103#map=16/40.7511967/14.4826103">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Casa_di_Sallustio">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.4826103,40.7511967,0</coordinates>
@@ -31918,7 +31918,7 @@ Zona: Salerno | Città: Pompei | Tipo: altro<br/>
         <name>Tempio d'Iside (VIII.7.28)</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Pompei | Tipo: archeologico<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.7491818&amp;mlon=14.4882708#map=16/40.7491818/14.4882708">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Tempio_di_Iside_%28Pompei%29">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.4882708,40.7491818,0</coordinates>
@@ -32258,7 +32258,7 @@ Zona: Cilento | Città: Piaggine | Tipo: castello<br/>
         <name>Villa dei Misteri</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Torre Annunziata | Tipo: altro<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.7537173&amp;mlon=14.4775307#map=16/40.7537173/14.4775307">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Villa_dei_Misteri">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.4775307,40.7537173,0</coordinates>
@@ -32448,7 +32448,7 @@ Zona: Salerno | Città: Pompei | Tipo: altro<br/>
         <name>Foro Triangolare (VIII.7.30)</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Pompei | Tipo: archeologico<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.7485135&amp;mlon=14.4881374#map=16/40.7485135/14.4881374">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Foro_Triangolare">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.4881374,40.7485135,0</coordinates>
@@ -35459,7 +35459,7 @@ Zona: Salerno | Città: Caposele | Tipo: chiesa<br/>
         <name>Chiesa del Santissimo Redentore</name>
         <description><![CDATA[Religione: christian. Denominazione: catholic<br/>
 Zona: Salerno | Città: Boscotrecase | Tipo: chiesa<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.8022285&amp;mlon=14.3622577#map=16/40.8022285/14.3622577">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Chiesa_del_Santissimo_Redentore">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.3622577,40.8022285,0</coordinates>
@@ -36309,7 +36309,7 @@ Zona: Salerno | Città: Boscotrecase | Tipo: chiesa<br/>
         <name>Chiesa San Giuseppe e Madonna di Lourdes</name>
         <description><![CDATA[Religione: christian. Denominazione: roman_catholic. Architetto: Giulio De Luca. Costruito: 1964<br/>
 Zona: Salerno | Città: Boscotrecase | Tipo: chiesa<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.8404444&amp;mlon=14.3066798#map=16/40.8404444/14.3066798">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Chiesa_di_San_Giuseppe_e_Madonna_di_Lourdes">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.3066798,40.8404444,0</coordinates>
@@ -37639,7 +37639,7 @@ Zona: Salerno | Città: Colliano | Tipo: museo<br/>
         <name>Museo Archeologico della Media Valle del Sele</name>
         <description><![CDATA[Museo Museo Archeologico della Media Valle del Sele a Eboli<br/>
 Zona: Salerno | Città: Eboli | Tipo: museo<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.6186397&amp;mlon=15.0566203#map=16/40.6186397/15.0566203">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Museo_archeologico_nazionale_di_Eboli_e_della_media_valle_del_Sele">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>15.0566203,40.6186397,0</coordinates>
@@ -37699,7 +37699,7 @@ Zona: Salerno | Città: Boscoreale | Tipo: museo<br/>
         <name>Museo Archeologico Nazionale di Muro Lucano</name>
         <description><![CDATA[Museo Museo Archeologico Nazionale di Muro Lucano a Teora<br/>
 Zona: Salerno | Città: Teora | Tipo: museo<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.7533257&amp;mlon=15.4883444#map=16/40.7533257/15.4883444">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Museo_archeologico_nazionale_di_Muro_Lucano">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>15.4883444,40.7533257,0</coordinates>
@@ -37769,7 +37769,7 @@ Zona: Salerno | Città: Sorrento | Tipo: altro<br/>
         <name>Museo archeologico territoriale della penisola sorrentina Georges Vallet</name>
         <description><![CDATA[Museo Museo archeologico territoriale della penisola sorrentina Georges Vallet a Sorrento<br/>
 Zona: Salerno | Città: Sorrento | Tipo: museo<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.6380322&amp;mlon=14.4020984#map=16/40.6380322/14.4020984">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Museo_archeologico_territoriale_della_penisola_sorrentina_Georges_Vallet">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.4020984,40.6380322,0</coordinates>
@@ -37819,7 +37819,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: museo<br/>
         <name>Museo archeologico nazionale di Pontecagnano</name>
         <description><![CDATA[Museo Museo archeologico nazionale di Pontecagnano a Pontecagnano Faiano<br/>
 Zona: Salerno | Città: Pontecagnano Faiano | Tipo: museo<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.6401119&amp;mlon=14.8791815#map=16/40.6401119/14.8791815">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Museo_archeologico_nazionale_di_Pontecagnano">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.8791815,40.6401119,0</coordinates>
@@ -37869,7 +37869,7 @@ Zona: Cilento | Città: Sant'Angelo a Fasanella | Tipo: museo<br/>
         <name>Museo archeologico nazionale della Valle del Sarno</name>
         <description><![CDATA[Museo Museo archeologico nazionale della Valle del Sarno a Siano<br/>
 Zona: Salerno | Città: Siano | Tipo: museo<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.8125952&amp;mlon=14.6222783#map=16/40.8125952/14.6222783">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Museo_archeologico_nazionale_della_Valle_del_Sarno">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.6222783,40.8125952,0</coordinates>
@@ -38009,7 +38009,7 @@ Zona: Salerno | Città: Contursi Terme | Tipo: museo<br/>
         <name>Museo archeologico nazionale di Paestum</name>
         <description><![CDATA[Museo Museo archeologico nazionale di Paestum a Capaccio Paestum<br/>
 Zona: Cilento | Città: Capaccio Paestum | Tipo: museo<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.4234463&amp;mlon=15.0074197#map=16/40.4234463/15.0074197">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Museo_archeologico_nazionale_di_Paestum">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>15.0074197,40.4234463,0</coordinates>
@@ -38289,7 +38289,7 @@ Zona: Salerno | Città: Siano | Tipo: torre<br/>
         <name>Teatro romano di Ercolano</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Boscotrecase | Tipo: archeologico<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.8082328&amp;mlon=14.3477597#map=16/40.8082328/14.3477597">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Teatro_romano_di_Ercolano">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.3477597,40.8082328,0</coordinates>
@@ -38399,7 +38399,7 @@ Zona: Salerno | Città: Castellammare di Stabia | Tipo: altro<br/>
         <name>Collegio degli Augustali</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Boscotrecase | Tipo: altro<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.8067321&amp;mlon=14.3478164#map=16/40.8067321/14.3478164">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Collegio_degli_Augustali">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.3478164,40.8067321,0</coordinates>
@@ -38509,7 +38509,7 @@ Zona: Salerno | Città: Boscotrecase | Tipo: altro<br/>
         <name>Terme del Foro</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Boscotrecase | Tipo: archeologico<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.8063883&amp;mlon=14.3474612#map=16/40.8063883/14.3474612">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Terme_del_Foro">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.3474612,40.8063883,0</coordinates>
@@ -38839,7 +38839,7 @@ Zona: Salerno | Città: Boscotrecase | Tipo: altro<br/>
         <name>Casa dell'Atrio a Mosaico</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Boscotrecase | Tipo: altro<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.8056844&amp;mlon=14.3467338#map=16/40.8056844/14.3467338">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Casa_dell%27Atrio_a_Mosaico">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.3467338,40.8056844,0</coordinates>
@@ -38889,7 +38889,7 @@ Zona: Salerno | Città: Boscotrecase | Tipo: altro<br/>
         <name>Casa di Aristide</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Boscotrecase | Tipo: altro<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.8061059&amp;mlon=14.3459862#map=16/40.8061059/14.3459862">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Casa_di_Aristide">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.3459862,40.8061059,0</coordinates>
@@ -38899,7 +38899,7 @@ Zona: Salerno | Città: Boscotrecase | Tipo: altro<br/>
         <name>Casa del Genio</name>
         <description><![CDATA[Tipo: archaeological_site<br/>
 Zona: Salerno | Città: Boscotrecase | Tipo: altro<br/>
-<a href="https://www.openstreetmap.org/?mlat=40.8063612&amp;mlon=14.3465661#map=16/40.8063612/14.3465661">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Casa_del_Genio">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.3465661,40.8063612,0</coordinates>

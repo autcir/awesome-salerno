@@ -24,6 +24,8 @@
 - [Luci d'Artista](#luci-dartista)
 - [Map](#map)
 - [API](#api)
+- [Ask Salerno](#ask-salerno)
+- [Monthly digest](#monthly-digest)
 - [Data quality](#data-quality)
 - [RAG dataset](#rag-dataset)
 - [MCP server](#mcp-server)
@@ -323,15 +325,49 @@ curl "http://localhost:8080/api/geojson" > awesome-salerno.geojson
 https://autcir.github.io/awesome-salerno/data/events.xml
 ```
 
+## Ask Salerno
+
+Ask a question in Italian and get answers that cite the dataset:
+[Ask Salerno](https://autcir.github.io/awesome-salerno/ask.html)
+
+Retrieval (BM25 with a crude Italian stemmer) runs in the browser over
+`chunks.jsonl` - no API key, no server, nothing generated. Every answer is a
+real list entry with its source and verification date. For LLM-written answers,
+point an MCP client at `mcp/server.py` or index the chunks in Qdrant.
+
+`node scripts/test_ask.js` runs the page's own retrieval under node against the
+real data.
+
+## Monthly digest
+
+Upcoming events, dataset changes and link health, one page per month:
+[digest](https://autcir.github.io/awesome-salerno/digest/index.md)
+
+```bash
+python3 scripts/build_digest.py            # current month
+python3 scripts/build_digest.py 2026-01    # a specific one
+```
+
+`.github/workflows/digest.yml` builds it on the 1st of each month. The
+"what changed" section is read from git history, so it cannot drift from the
+repo.
+
 ## Data quality
 
 Every POI carries a `last_verified` date (`YYYY-MM-DD`).
 
-`.github/workflows/link-check.yml` runs `scripts/verify_links.py` every Monday.
-Reachable links get today's date; broken ones land in `data/broken_links.json`
-and open an issue labelled `needs-verification`. OpenStreetMap links are
-generated from the coordinates, so they are stamped without a network call. The
-map shows a "to be verified" badge for anything older than 180 days.
+`.github/workflows/link-check.yml` runs every Monday and does three things:
+`verify_links.py --fix` checks every external link, stamps the reachable ones
+and swaps a dead one for the OpenStreetMap link built from the POI coordinates
+(the original stays in `link_rotto`); `relink_wikipedia.py --apply` then puts a
+Wikipedia article back wherever one exists whose own coordinates land near the
+POI; whatever is left is reported in `data/broken_links.json` and in an issue
+labelled `needs-verification`. OpenStreetMap links are generated from the
+coordinates, so they are stamped without a network call. The map shows a
+"to be verified" badge for anything older than 180 days.
+
+An official source beats both fallbacks, so the issue is worth reading: the
+automation keeps entries usable, it does not make them good.
 
 ```bash
 python3 scripts/verify_links.py --stale-days 30

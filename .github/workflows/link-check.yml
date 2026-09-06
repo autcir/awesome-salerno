@@ -18,15 +18,18 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Verify links + stamp last_verified
-        run: python3 scripts/verify_links.py --stale-days 30
+      - name: Verify links, stamp last_verified, repair dead ones
+        run: python3 scripts/verify_links.py --stale-days 30 --fix
+
+      - name: Recover official sources from Wikipedia
+        run: python3 scripts/relink_wikipedia.py --apply
 
       - name: Commit updated verification dates
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git diff --staged --quiet || git commit -m "chore: link check + last_verified $(date -I)"
+          git diff --staged --quiet || git commit -m "chore: link check, last_verified + repairs $(date -I)"
           git push
 
       - name: Open issue for broken links
@@ -41,6 +44,11 @@ jobs:
             }
             const body = [
               `Link check del ${report.checked_at}: **${report.broken.length} link rotti** su ${report.checked} controllati.`,
+              '',
+              `${report.fixed} POI sono stati spostati sul link OpenStreetMap generato dalle coordinate`,
+              '(URL originale conservato in `link_rotto`), poi `relink_wikipedia.py` ha rimesso',
+              'una voce di Wikipedia dove ne esiste una con le coordinate giuste.',
+              'Restano da controllare a mano: la fonte ufficiale e sempre meglio del fallback.',
               '',
               '| URL | Errore | POI |',
               '|---|---|---|',

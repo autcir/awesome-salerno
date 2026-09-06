@@ -16,6 +16,7 @@ jobs:
           node-version: 20
       - run: npm ci
       - run: npx awesome-lint
+      - run: node scripts/test_ask.js
 
   validate-data:
     runs-on: ubuntu-latest

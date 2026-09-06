@@ -6,6 +6,9 @@
     "lint": "awesome-lint",
     "check-links": "python3 scripts/verify_links.py",
     "build-rag": "python3 scripts/build_rag.py",
+    "build-digest": "python3 scripts/build_digest.py",
+    "relink": "python3 scripts/relink_wikipedia.py",
+    "test-ask": "node scripts/test_ask.js",
     "mcp": "python3 mcp/server.py",
     "export-data": "python3 scripts/export_data.py"
   },

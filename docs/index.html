@@ -64,6 +64,11 @@
         }
         #header h1 { font-size: 20px; font-weight: 600; }
         #header .stats { font-size: 14px; opacity: 0.8; }
+        #site-nav { margin-left: auto; margin-right: 14px; }
+        #site-nav a { color: rgba(255,255,255,0.8); text-decoration: none; margin-left: 18px; font-size: 13px; }
+        #site-nav a:hover { color: #fff; }
+        @media (max-width: 640px) { #site-nav { display: none; } }
+
         #lang-toggle {
             background: rgba(255,255,255,0.15);
             color: white;
@@ -288,6 +293,11 @@
     <div id="header">
         <h1>Awesome Salerno</h1>
         <span class="stats" id="tagline">Mappa interattiva con tutti i POI turistici</span>
+        <nav id="site-nav">
+            <a href="calendar.html">Calendario</a>
+            <a href="stats.html">Statistiche</a>
+            <a href="ask.html">Ask</a>
+        </nav>
         <button id="lang-toggle" title="Switch to English">EN</button>
     </div>
 
