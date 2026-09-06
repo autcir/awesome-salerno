@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <defs>
+    <linearGradient id="sea" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0077b6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00b4d8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="sun" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#fca311;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e5989b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="200" fill="url(#sea)" rx="8"/>
+  
+  <!-- Sun -->
+  <circle cx="650" cy="60" r="35" fill="url(#sun)" opacity="0.9"/>
+  
+  <!-- Waves -->
+  <path d="M0,140 Q100,120 200,140 T400,140 T600,140 T800,140 L800,200 L0,200 Z" fill="#023e8a" opacity="0.3"/>
+  <path d="M0,155 Q100,135 200,155 T400,155 T600,155 T800,155 L800,200 L0,200 Z" fill="#03045e" opacity="0.2"/>
+  
+  <!-- Coast silhouette -->
+  <path d="M50,130 Q120,100 200,110 T350,95 T500,105 T650,90 T780,100 L780,140 Q700,135 600,140 T400,140 T200,140 L50,140 Z" fill="#2d6a4f" opacity="0.5"/>
+  
+  <!-- Buildings silhouette -->
+  <rect x="100" y="110" width="8" height="20" fill="#f8f9fa" opacity="0.7"/>
+  <rect x="112" y="105" width="6" height="25" fill="#f8f9fa" opacity="0.6"/>
+  <rect x="122" y="112" width="10" height="18" fill="#f8f9fa" opacity="0.7"/>
+  <rect x="250" y="100" width="12" height="30" fill="#f8f9fa" opacity="0.7"/>
+  <rect x="266" y="108" width="8" height="22" fill="#f8f9fa" opacity="0.6"/>
+  <rect x="400" y="95" width="10" height="35" fill="#f8f9fa" opacity="0.7"/>
+  <rect x="414" y="102" width="6" height="28" fill="#f8f9fa" opacity="0.6"/>
+  <rect x="550" y="105" width="8" height="25" fill="#f8f9fa" opacity="0.7"/>
+  
+  <!-- Title -->
+  <text x="400" y="55" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="36" font-weight="700" fill="#ffffff" letter-spacing="1">AWESOME SALERNO</text>
+  <text x="400" y="80" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#caf0f8" letter-spacing="2">COSTIERA AMALFITANA • CILENTO • OPEN DATA</text>
+</svg>

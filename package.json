@@ -1,0 +1,13 @@
+{
+  "name": "awesome-salerno",
+  "version": "1.0.0",
+  "description": "Awesome list of resources for Salerno, Amalfi Coast and Cilento",
+  "scripts": {
+    "lint": "awesome-lint",
+    "check-links": "lychee README.md",
+    "export-data": "python3 scripts/export_data.py"
+  },
+  "devDependencies": {
+    "awesome-lint": "^1.0.0"
+  }
+}
