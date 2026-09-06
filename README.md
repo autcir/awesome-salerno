@@ -17,11 +17,12 @@
 - [Panorami](#panorami)
 - [Parchi](#parchi)
 - [Eventi](#eventi)
+- [Map](#map)
 - [API](#api)
 
 ## Sentieri
 
-> 276 hiking trails with GPS coordinates, difficulty and elevation.
+> 223 hiking trails with GPS coordinates, difficulty and elevation.
 
 - [Sentiero degli Dei](https://www.caimontilattari.it/sentiero/327/) - The most famous trail on the Amalfi Coast. 7.8 km, medium difficulty.
 - [Path of the Lemons](https://www.alltrails.com/trail/italy/campania/sentiero-dei-limoni) - Panoramic trail between Maiori and Minori through lemon terraces.
@@ -33,7 +34,7 @@
 
 ## Monumenti
 
-> 2090 churches, castles, museums and archaeological sites.
+> 1835 churches, castles, museums and archaeological sites.
 
 ### Salerno
 
@@ -60,7 +61,7 @@
 
 ## Spiagge
 
-> 40 beaches on the Amalfi Coast and Cilento. Full dataset: [spiagge.json](data/spiagge.json).
+> 39 beaches on the Amalfi Coast and Cilento.
 
 - [Spiaggia Grande](https://www.openstreetmap.org/note/4261135) - Main beach of Positano.
 - [Fiordo di Furore](https://www.openstreetmap.org/note/3856708) - Fjord with bridge and hidden beach.
@@ -72,7 +73,7 @@
 
 ## Panorami
 
-> 212 viewpoints, peaks and panoramas. Full dataset: [panorami.json](data/panorami.json).
+> 201 viewpoints, peaks and panoramas.
 
 - [Monte Centaurino](https://www.comune.ricigliano.sa.it/) - Highest peak in the Cilento.
 - [Monte Cervati](https://www.comune.salaconsilina.sa.it/) - 1898m peak with panoramic views.
@@ -80,7 +81,7 @@
 
 ## Parchi
 
-> 8 natural parks and reserves. Full dataset: [parchi.json](data/parchi.json).
+> 7 natural parks and reserves.
 
 - [Parco Nazionale del Cilento](https://www.parcocesto.it/il-parco) - UNESCO World Heritage Site. 180,000 hectares.
 - [Parco delle Ferriere](https://www.parconaturaledelleferriere.it/) - Natural park with 60m waterfalls.
@@ -89,7 +90,7 @@
 
 ## Eventi
 
-> 8 annual festivals and events. Full dataset: [eventi.json](data/eventi.json).
+> 8 annual festivals and events.
 
 - [Ravello Festival](https://www.ravellofestival.it) - Classical music festival in Villa Rufolo gardens. June-September.
 - [Paestum Festival](https://www.paestumfestival.it) - Music festival among Greek temples. July-August.
@@ -99,6 +100,10 @@
 - [Festa della Ceramica](https://www.festadellaceramica.it) - Ceramics festival in Vietri sul Mare. September.
 - [Battentieri](https://www.battentieri.it) - International dance festival in Agropoli. August.
 - [Regata Repubbliche Marinare](https://www.regatarepubblichemarinare.it) - Historic regatta in Amalfi. June.
+
+## Map
+
+Interactive map with all 2313 POI: [Open Map](https://autcir.github.io/awesome-salerno/)
 
 ## API
 
@@ -110,13 +115,13 @@ python3 api/server.py
 
 | Endpoint | Description |
 |----------|-------------|
-| `GET /api/sentieri` | All trails (276) |
-| `GET /api/monumenti` | All monuments (2090) |
-| `GET /api/spiagge` | All beaches (40) |
-| `GET /api/panorami` | All viewpoints (212) |
-| `GET /api/parchi` | All parks (8) |
+| `GET /api/sentieri` | All trails (223) |
+| `GET /api/monumenti` | All monuments (1835) |
+| `GET /api/spiagge` | All beaches (39) |
+| `GET /api/panorami` | All viewpoints (201) |
+| `GET /api/parchi` | All parks (7) |
 | `GET /api/eventi` | All events (8) |
-| `GET /api/all` | All data (2634) |
+| `GET /api/all` | All data (2313) |
 | `GET /api/search?q=<query>` | Full-text search |
 
 **Filter by zone:**
