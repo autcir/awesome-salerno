@@ -124,15 +124,24 @@ Ogni PR viene verificato automaticamente:
 1. **awesome-lint** - Controlla il formato della README
 2. **JSON validation** - Verifica che tutti i JSON siano validi
 3. **GPS bounds check** - Controlla che le coordinate siano nel range corretto
-4. **Link check** - Verifica che i link siano funzionanti
+4. **Link check** - Ogni lunedi `scripts/verify_links.py` controlla i link
+   esterni, aggiorna il campo `last_verified` di ogni voce e apre una issue
+   `needs-verification` con quelli rotti (report in `data/broken_links.json`)
 
 ## Issue
 
 Se vuoi segnalare un link morto, un errore, o suggerire una nuova sezione, apri un [Issue](https://github.com/autcir/awesome-salerno/issues).
 
+## Criteri editoriali
+
+Prima di proporre una voce, leggi i [criteri di inclusione](docs/criteria.md):
+niente attivita' commerciali, niente contenuti promozionali, niente dati non
+verificabili.
+
 ## Code of Conduct
 
-Sii rispettoso, costruttivo e inclusivo. Non tolleriamo spam, hate speech, o comportamenti tossici.
+Sii rispettoso, costruttivo e inclusivo. Non tolleriamo spam, hate speech, o
+comportamenti tossici: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
 ## License
 

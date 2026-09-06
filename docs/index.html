@@ -64,6 +64,23 @@
         }
         #header h1 { font-size: 20px; font-weight: 600; }
         #header .stats { font-size: 14px; opacity: 0.8; }
+        #lang-toggle {
+            background: rgba(255,255,255,0.15);
+            color: white;
+            border: 1px solid rgba(255,255,255,0.35);
+            border-radius: 6px;
+            padding: 4px 10px;
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+        }
+        #lang-toggle:hover { background: rgba(255,255,255,0.28); }
+        .marker-popup .verified {
+            font-size: 11px;
+            color: #27ae60;
+            margin: 4px 0 0;
+        }
+        .marker-popup .verified.stale { color: #e67e22; }
 
         #controls {
             background: #f8f9fa;
@@ -270,7 +287,8 @@
 <body>
     <div id="header">
         <h1>Awesome Salerno</h1>
-        <span class="stats">Mappa interattiva con tutti i POI turistici</span>
+        <span class="stats" id="tagline">Mappa interattiva con tutti i POI turistici</span>
+        <button id="lang-toggle" title="Switch to English">EN</button>
     </div>
 
     <button id="hamburger" aria-label="Menu filtri">&#9776;</button>
@@ -370,6 +388,82 @@
     <script>
     (function() {
         'use strict';
+
+        const STALE_DAYS = 180;
+
+        function verifiedBadge(dateStr) {
+            if (!dateStr) return '';
+            const age = (Date.now() - new Date(dateStr).getTime()) / 86400000;
+            if (age > STALE_DAYS) {
+                return '<p class="verified stale">&#9888; ' + t('stale') + '</p>';
+            }
+            return '<p class="verified">&#10003; ' + t('verified') + ' ' + dateStr + '</p>';
+        }
+
+        // Minimal UI translation: the POI data itself stays in Italian.
+        const EN = {
+            tagline: 'Interactive map of every tourist POI',
+            verified: 'verified on',
+            stale: 'to be verified',
+            loading: 'Loading...',
+            error: 'Data loading error',
+            poiOf: 'of',
+            poi: 'POI',
+            ui: {
+                'label[for=zona]': 'Area:',
+                'label[for=quartiere]': 'District:',
+                'label[for=tipo]': 'Type:',
+                'label[for=evento-filter]': 'Events:',
+                'label[for=search]': 'Search:',
+                '#fav-toggle': '\u2605 Favourites',
+                '#satellite-toggle': '\uD83C\uDF0E Satellite',
+                '#dark-toggle': '\u263E Dark',
+                '#qr-box strong': 'QR Code',
+                '#qr-box button': 'Close'
+            },
+            options: {
+                'Tutte': 'All', 'Tutti': 'All', 'Chiesa': 'Church', 'Castello': 'Castle',
+                'Museo': 'Museum', 'Sentiero': 'Trail', 'Spiaggia': 'Beach',
+                'Panorama': 'Viewpoint', 'Torre': 'Tower', 'Ponte': 'Bridge',
+                'Grotta': 'Cave', 'Fonte': 'Spring', 'Archeologico': 'Archaeological',
+                'Monumento': 'Monument', 'Festa Patronale': 'Patron Feast',
+                'Sagra': 'Food Festival', 'Altro': 'Other', 'Costiera': 'Amalfi Coast',
+                'In programma oggi': 'On today', 'Questa settimana': 'This week',
+                'Questo mese': 'This month'
+            }
+        };
+        const IT = {
+            tagline: 'Mappa interattiva con tutti i POI turistici',
+            verified: 'verificato il', stale: 'da verificare',
+            loading: 'Caricamento...', error: 'Errore caricamento dati',
+            poiOf: 'di', poi: 'POI'
+        };
+
+        let lang = localStorage.getItem('as-lang') || 'it';
+        function t(key) { return (lang === 'en' ? EN : IT)[key]; }
+
+        function applyLang() {
+            document.documentElement.lang = lang;
+            document.getElementById('tagline').textContent = t('tagline');
+            document.getElementById('lang-toggle').textContent = lang === 'en' ? 'IT' : 'EN';
+            Object.keys(EN.ui).forEach(function(sel) {
+                const el = document.querySelector(sel);
+                if (!el) return;
+                if (el.dataset.it === undefined) el.dataset.it = el.textContent.trim();
+                el.childNodes.forEach(function(n) {
+                    if (n.nodeType === 3 && n.textContent.trim()) { n.textContent = ''; }
+                });
+                el.appendChild(document.createTextNode(
+                    lang === 'en' ? EN.ui[sel] : el.dataset.it));
+            });
+            document.querySelectorAll('#controls option').forEach(function(o) {
+                if (o.dataset.it === undefined) o.dataset.it = o.textContent;
+                o.textContent = lang === 'en'
+                    ? (EN.options[o.dataset.it] || o.dataset.it) : o.dataset.it;
+            });
+            const search = document.getElementById('search');
+            if (search) search.placeholder = lang === 'en' ? 'Name, city...' : 'Nome, citta...';
+        }
 
         const COLORS = {
             chiesa: '#e74c3c',
@@ -540,6 +634,8 @@
             if (item.lat && item.lng) {
                 html += '<div class="coords">' + item.lat.toFixed(6) + ', ' + item.lng.toFixed(6) + '</div>';
             }
+
+            html += verifiedBadge(item.last_verified);
 
             html += '<div class="popup-actions">';
             html += '<button class="popup-btn star-btn' + (isFav ? ' starred' : '') + '" data-fav-id="' + favId + '" title="Preferito">' + (isFav ? '&#9733;' : '&#9734;') + '</button>';
@@ -715,7 +811,8 @@
                 typeCounts[tp]++;
             });
 
-            document.getElementById('count').textContent = total + ' di ' + allData.length + ' POI';
+            document.getElementById('count').textContent =
+                total + ' ' + t('poiOf') + ' ' + allData.length + ' ' + t('poi');
 
             const breakdownParts = [];
             Object.keys(counts).forEach(function(k) {
@@ -764,7 +861,7 @@
                 handleUrlParams();
             } catch (err) {
                 console.error('Error loading data:', err);
-                document.getElementById('count').textContent = 'Errore caricamento dati';
+                document.getElementById('count').textContent = t('error');
             }
         }
 
@@ -849,6 +946,13 @@
             controls.classList.toggle('hidden-mobile');
         });
 
+        document.getElementById('lang-toggle').addEventListener('click', function() {
+            lang = lang === 'en' ? 'it' : 'en';
+            localStorage.setItem('as-lang', lang);
+            applyLang();
+        });
+
+        applyLang();
         loadData();
     })();
     </script>

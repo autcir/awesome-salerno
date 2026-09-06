@@ -24,13 +24,15 @@ jobs:
           for cat, items in all_data.items():
             for it in items:
               if it.get('lat') and it.get('lng'):
-                feats.append({'type':'Feature','geometry':{'type':'Point','coordinates':[it['lng'],it['lat']]},'properties':{k:it.get(k) for k in ['id','nome','descrizione','zona','citta','quartiere','tipo','link']}})
+                feats.append({'type':'Feature','geometry':{'type':'Point','coordinates':[it['lng'],it['lat']]},'properties':{k:it.get(k) for k in ['id','nome','descrizione','zona','citta','quartiere','tipo','link','last_verified']}})
           json.dump({'type':'FeatureCollection','features':feats}, open(DATA/'awesome-salerno.geojson','w'), ensure_ascii=False, indent=2)
           "
       - name: Rebuild KML
         run: python3 api/kml_export.py
+      - name: Rebuild RAG chunks
+        run: python3 scripts/build_rag.py
       - name: Sync docs
-        run: cp data/all.json docs/data/all.json && cp data/awesome-salerno.geojson docs/data/awesome-salerno.geojson && cp data/events.xml docs/data/events.xml && cp data/eventi.json docs/data/eventi.json
+        run: cp data/all.json docs/data/all.json && cp data/awesome-salerno.geojson docs/data/awesome-salerno.geojson && cp data/events.xml docs/data/events.xml && cp data/eventi.json docs/data/eventi.json && mkdir -p docs/data/rag && cp data/rag/chunks.jsonl docs/data/rag/chunks.jsonl
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:

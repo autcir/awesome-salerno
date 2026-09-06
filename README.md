@@ -7,10 +7,13 @@
 
 <sub>The curated list of tourism data for Salerno, Amalfi Coast and Cilento.</sub>
 
+<sub>English list below &middot; <a href="#in-italiano">Leggi in italiano</a> &middot; the map UI has an EN/IT switch.</sub>
+
 </div>
 
 ## Contents
 
+- [In italiano](#in-italiano)
 - [Stats](#stats)
 - [Sentieri](#sentieri)
 - [Monumenti](#monumenti)
@@ -21,6 +24,27 @@
 - [Luci d'Artista](#luci-dartista)
 - [Map](#map)
 - [API](#api)
+- [Data quality](#data-quality)
+- [RAG dataset](#rag-dataset)
+- [MCP server](#mcp-server)
+
+## In italiano
+
+> Guida aperta, verificabile e mantenuta ai luoghi e agli eventi di Salerno,
+> Costiera Amalfitana e Cilento.
+
+5547 POI (sentieri, monumenti, spiagge, panorami, parchi, eventi) con coordinate
+GPS, fonte e data di verifica. Dati in JSON, GeoJSON, KML/KMZ, RSS e dataset RAG,
+licenza CC0.
+
+| Documento | Contenuto |
+|-----------|-----------|
+| [docs/criteria.md](docs/criteria.md) | Criteri editoriali: cosa entra e cosa no |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | Come proporre una voce o una correzione |
+| [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Codice di condotta |
+
+La mappa interattiva (sezione Map) ha un selettore IT/EN. Le voci della lista qui
+sotto sono in inglese; dati e documentazione per i contributor sono in italiano.
 
 ## Stats
 
@@ -298,6 +322,62 @@ curl "http://localhost:8080/api/geojson" > awesome-salerno.geojson
 ```xml
 https://autcir.github.io/awesome-salerno/data/events.xml
 ```
+
+## Data quality
+
+Every POI carries a `last_verified` date (`YYYY-MM-DD`).
+
+`.github/workflows/link-check.yml` runs `scripts/verify_links.py` every Monday.
+Reachable links get today's date; broken ones land in `data/broken_links.json`
+and open an issue labelled `needs-verification`. OpenStreetMap links are
+generated from the coordinates, so they are stamped without a network call. The
+map shows a "to be verified" badge for anything older than 180 days.
+
+```bash
+python3 scripts/verify_links.py --stale-days 30
+```
+
+Inclusion and exclusion rules: see `docs/criteria.md`.
+
+## RAG dataset
+
+One chunk per POI, ready to embed - `data/rag/chunks.jsonl`, 5547 lines, CC0.
+
+```bash
+python3 scripts/build_rag.py            # rebuild the JSONL
+python3 scripts/build_rag.py --qdrant   # embed + upsert into Qdrant
+```
+
+Each line carries the searchable `text` plus `id`, `categoria`, `tipo`, `zona`,
+`citta`, `quartiere`, `lat`, `lng`, `link` and `last_verified` as payload, so a
+retriever can filter before it ranks. The Qdrant upload needs
+`pip install "qdrant-client[fastembed]"` and reads `QDRANT_URL`,
+`QDRANT_API_KEY` and `QDRANT_COLLECTION`.
+
+Hosted copy: `https://autcir.github.io/awesome-salerno/data/rag/chunks.jsonl`
+
+## MCP server
+
+Query the dataset from any MCP client (Claude Code, Claude Desktop). Stdlib
+only, no dependencies.
+
+```json
+{
+  "mcpServers": {
+    "awesome-salerno": {
+      "command": "python3",
+      "args": ["/path/to/awesome-salerno/mcp/server.py"]
+    }
+  }
+}
+```
+
+| Tool | Description |
+|------|-------------|
+| `search_poi` | Fuzzy search with `categoria`, `zona`, `tipo`, `citta` filters |
+| `get_poi` | Full record by `id` |
+| `nearby_poi` | POI within a radius in km of a GPS point, nearest first |
+| `list_events` | Events in a date window, optionally by city |
 
 ## Contributing
 

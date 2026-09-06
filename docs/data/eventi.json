@@ -21,7 +21,8 @@
       "Lungomare",
       "Villa Comunale",
       "Piazza Vittorio Veneto"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "festa-san-matteo",
@@ -44,7 +45,8 @@
       "Duomo di Salerno",
       "Cripta di San Matteo",
       "Lungomare"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "madonna-che-viene-dal-mare",
@@ -66,7 +68,8 @@
     "luoghi": [
       "Chiesa di San Matteo",
       "Piazza Cavour"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "festa-santanna-salerno",
@@ -88,7 +91,8 @@
     "luoghi": [
       "Chiesa di Sant'Anna",
       "Via Canalone"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "salerno-sounds-2026",
@@ -110,7 +114,8 @@
     "luoghi": [
       "Anfiteatro",
       "Lungomare"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "festival-colline-mediterranee",
@@ -132,7 +137,8 @@
     "luoghi": [
       "Centro Storico",
       "Villa Comunale"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "ravello-festival-2026",
@@ -154,7 +160,8 @@
     "luoghi": [
       "Villa Rufolo",
       "Villa Cimbrone"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "festa-santandrea",
@@ -198,7 +205,8 @@
     "luoghi": [
       "Duomo dei Santi Pietro e Paolo",
       "Porto di Cetara"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "festa-sanvito-positano",
@@ -220,7 +228,8 @@
     "luoghi": [
       "Chiesa di Santa Maria Assunta",
       "Spiaggia Grande"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "madonna-costantinopoli-maiori",
@@ -242,7 +251,8 @@
     "luoghi": [
       "Chiesa di Santa Maria a Mare",
       "Lungomare"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "santapantaleone-ravello",
@@ -264,7 +274,8 @@
     "luoghi": [
       "Cattedrale di Ravello",
       "Piazza Duomo"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "madonna-assunta-positano",
@@ -286,7 +297,8 @@
     "luoghi": [
       "Chiesa di Santa Maria Assunta",
       "Spiaggia Grande"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "santa-trofimena-minori",
@@ -308,7 +320,8 @@
     "luoghi": [
       "Basilica di Santa Trofimena",
       "Centro Storico"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "madonna-della-neve-tramonti",
@@ -332,7 +345,8 @@
       "Paterno",
       "Gete",
       "Capitanara"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "sagra-pesce-cetara",
@@ -376,7 +390,8 @@
     "luoghi": [
       "Centro Storico",
       "Chiesa di San Giovanni Battista"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "sagra-limone-costiera",
@@ -465,7 +480,8 @@
     "luoghi": [
       "Chiesa di Santa Maria de Gulia",
       "Piazza XXIV Maggio"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "madonna-costantinopoli-agropoli",
@@ -487,7 +503,8 @@
     "luoghi": [
       "Porto di Agropoli",
       "Lungomare"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "san-marco-evangelista-agropoli",
@@ -509,7 +526,8 @@
     "luoghi": [
       "Chiesa Madre",
       "Porto di Agropoli"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "san-giovanni-battista-agropoli",
@@ -531,7 +549,8 @@
     "luoghi": [
       "Chiesa di San Giovanni Battista",
       "Centro Storico"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "madonna-del-carmine-agropoli",
@@ -553,7 +572,8 @@
     "luoghi": [
       "Chiesa del Carmine",
       "Porto di Agropoli"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "festa-santa-maria-angeli-san-severino",
@@ -575,7 +595,8 @@
     "luoghi": [
       "Piazza Santa Maria degli Angeli",
       "San Severino di Centola"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "santapollonio-centola",
@@ -597,7 +618,8 @@
     "luoghi": [
       "Chiesa Madre",
       "Centro Storico"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "festa-sanvito-palinuro",
@@ -619,7 +641,8 @@
     "luoghi": [
       "Porto di Palinuro",
       "Piazza Virgilio"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "madonna-del-carmine-palinuro",
@@ -641,7 +664,8 @@
     "luoghi": [
       "Santuario del Carmine",
       "Porto di Palinuro"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "madonna-della-neve-palinuro",
@@ -663,7 +687,8 @@
     "luoghi": [
       "Chiesa di Santa Maria della Neve",
       "Palinuro"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "san-rocco-palinuro",
@@ -685,7 +710,8 @@
     "luoghi": [
       "Chiesa di San Rocco",
       "Palinuro"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "santantonio-al-porto-palinuro",
@@ -706,7 +732,8 @@
     "anno_inizio": null,
     "luoghi": [
       "Porto di Palinuro"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "santa-lucia-polla",
@@ -728,7 +755,8 @@
     "luoghi": [
       "Chiesa di Santa Lucia",
       "Centro Storico"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "santantonio-da-padova-diffuso",
@@ -758,7 +786,8 @@
       "Novi Velia",
       "Piaggine",
       "Camerota"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "madonna-del-carmelo-diffuso",
@@ -788,7 +817,8 @@
       "Pioppi",
       "Pisciotta",
       "Sassano"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "san-pietro-paolo-diffuso-cilento",
@@ -814,7 +844,8 @@
       "Tortorella",
       "Cuccaro Vetere",
       "Sessa Cilento"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "madonna-assunta-diffuso-cilento",
@@ -842,7 +873,8 @@
       "Padula",
       "Sapri",
       "Ogliastro Cilento"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "san-rocco-diffuso-cilento",
@@ -869,7 +901,8 @@
       "Ispani",
       "Roscigno",
       "Santa Marina"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "sagra-cipolla-vatolla",
@@ -891,7 +924,8 @@
     "luoghi": [
       "Vatolla",
       "Centro Storico"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "festa-ceci-cicerale",
@@ -913,7 +947,8 @@
     "luoghi": [
       "Cicerale",
       "Centro Storico"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "sagra-fusillo-felitto",
@@ -935,7 +970,8 @@
     "luoghi": [
       "Felitto",
       "Centro Storico"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "sagra-cavatiello-magliano",
@@ -957,7 +993,8 @@
     "luoghi": [
       "Magliano Vetere",
       "Centro Storico"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "festa-vino-castel-san-lorenzo",
@@ -979,7 +1016,8 @@
     "luoghi": [
       "Castel San Lorenzo",
       "Cantine storiche"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "festa-fico-bianco-giungano",
@@ -1001,7 +1039,8 @@
     "luoghi": [
       "Giungano",
       "Centro Storico"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "sagra-mozzarella-novi-velia",
@@ -1045,7 +1084,8 @@
     "luoghi": [
       "Stio",
       "Centro Storico"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "festa-maiale-roccadaspide",
@@ -1067,7 +1107,8 @@
     "luoghi": [
       "Roccadaspide",
       "Centro Storico"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   },
   {
     "id": "musica-parole-paestum-velia",
@@ -1113,6 +1154,7 @@
       "Villa Comunale",
       "Piazza Flavio Gioia",
       "Lungomare"
-    ]
+    ],
+    "last_verified": "2026-09-07"
   }
 ]

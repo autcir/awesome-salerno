@@ -1,0 +1,64 @@
+name: Link check
+
+on:
+  schedule:
+    - cron: '0 5 * * 1'   # ogni lunedi
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Verify links + stamp last_verified
+        run: python3 scripts/verify_links.py --stale-days 30
+
+      - name: Commit updated verification dates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "chore: link check + last_verified $(date -I)"
+          git push
+
+      - name: Open issue for broken links
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const report = JSON.parse(fs.readFileSync('data/broken_links.json', 'utf8'));
+            if (!report.broken.length) {
+              core.info('No broken links.');
+              return;
+            }
+            const body = [
+              `Link check del ${report.checked_at}: **${report.broken.length} link rotti** su ${report.checked} controllati.`,
+              '',
+              '| URL | Errore | POI |',
+              '|---|---|---|',
+              ...report.broken.map(b => `| ${b.url} | ${b.error} | ${b.pois.join(', ')} |`),
+            ].join('\n');
+            const title = `Link rotti: ${report.broken.length} (${report.checked_at.slice(0,10)})`;
+            const existing = await github.rest.issues.listForRepo({
+              owner: context.repo.owner, repo: context.repo.repo,
+              state: 'open', labels: 'needs-verification',
+            });
+            if (existing.data.length) {
+              await github.rest.issues.update({
+                owner: context.repo.owner, repo: context.repo.repo,
+                issue_number: existing.data[0].number, title, body,
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner, repo: context.repo.repo,
+                title, body, labels: ['needs-verification'],
+              });
+            }
