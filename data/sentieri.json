@@ -2783,7 +2783,8 @@
     "frequenza": "",
     "tipo": "sentiero",
     "zona": "costiera",
-    "citta": "Ravello"
+    "citta": "Ravello",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Valle dei Mulini",
@@ -2872,7 +2873,8 @@
     "frequenza": "",
     "tipo": "sentiero",
     "zona": "costiera",
-    "citta": "Cetara"
+    "citta": "Cetara",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Traccione (Valle delle Ferriere alto)",
@@ -2916,7 +2918,7 @@
     "lat": 40.2438,
     "lng": 15.085,
     "source": "hand-written",
-    "link": "https://www.cilentolifestyle.it/trekking-sentiero-del-monte-stella/",
+    "link": "https://www.openstreetmap.org/?mlat=40.2438&mlon=15.085#map=16/40.2438/15.085",
     "id": "sentiero-monte-stella",
     "difficolta": "",
     "lunghezza_km": null,
@@ -2925,7 +2927,9 @@
     "frequenza": "",
     "tipo": "sentiero",
     "zona": "cilento",
-    "citta": "Sessa Cilento"
+    "citta": "Sessa Cilento",
+    "link_rotto": "https://www.cilentolifestyle.it/trekking-sentiero-del-monte-stella/",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Sentiero Paestum-Velia",
@@ -3243,21 +3247,6 @@
     "zona": "cilento",
     "tipo": "altro",
     "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07"
-  },
-  {
-    "id": "osm-38238833",
-    "nome": "ATTENZIONE-ACCESSI SBARRATI-PERICOLO",
-    "descrizione": "POI ATTENZIONE-ACCESSI SBARRATI-PERICOLO a Piaggine",
-    "lat": 40.3862976,
-    "lng": 15.3600271,
-    "source": "osm",
-    "osm_id": 38238833,
-    "osm_type": "way",
-    "link": "https://www.openstreetmap.org/way/38238833",
-    "zona": "cilento",
-    "tipo": "altro",
-    "citta": "Piaggine",
     "last_verified": "2026-09-07"
   },
   {
@@ -3797,21 +3786,6 @@
     "link": "https://www.openstreetmap.org/way/93892329",
     "zona": "salerno",
     "tipo": "spiaggia",
-    "citta": "Contursi Terme",
-    "last_verified": "2026-09-07"
-  },
-  {
-    "id": "osm-94314998",
-    "nome": "Ponte dei Preti",
-    "descrizione": "Ponte Ponte dei Preti a Contursi Terme",
-    "lat": 40.6660245,
-    "lng": 15.1060346,
-    "source": "osm",
-    "osm_id": 94314998,
-    "osm_type": "way",
-    "link": "https://www.openstreetmap.org/way/94314998",
-    "zona": "salerno",
-    "tipo": "ponte",
     "citta": "Contursi Terme",
     "last_verified": "2026-09-07"
   },
@@ -4416,21 +4390,6 @@
     "last_verified": "2026-09-07"
   },
   {
-    "id": "osm-129252692",
-    "nome": "Ponte Pietratetta",
-    "descrizione": "Ponte Ponte Pietratetta a Roccadaspide",
-    "lat": 40.356695,
-    "lng": 15.2465935,
-    "source": "osm",
-    "osm_id": 129252692,
-    "osm_type": "way",
-    "link": "https://www.openstreetmap.org/way/129252692",
-    "zona": "cilento",
-    "tipo": "ponte",
-    "citta": "Roccadaspide",
-    "last_verified": "2026-09-07"
-  },
-  {
     "id": "osm-129252696",
     "nome": "Iron Bridge",
     "descrizione": "POI Iron Bridge a Roccadaspide",
@@ -4443,21 +4402,6 @@
     "zona": "cilento",
     "tipo": "altro",
     "citta": "Roccadaspide",
-    "last_verified": "2026-09-07"
-  },
-  {
-    "id": "osm-133305976",
-    "nome": "Via Muzio Tuttavilla",
-    "descrizione": "POI Via Muzio Tuttavilla a Torre Annunziata",
-    "lat": 40.7568231,
-    "lng": 14.4569796,
-    "source": "osm",
-    "osm_id": 133305976,
-    "osm_type": "way",
-    "link": "https://www.openstreetmap.org/way/133305976",
-    "zona": "salerno",
-    "tipo": "altro",
-    "citta": "Torre Annunziata",
     "last_verified": "2026-09-07"
   },
   {
@@ -5993,21 +5937,6 @@
     "last_verified": "2026-09-07"
   },
   {
-    "id": "osm-211233615",
-    "nome": "Ponte dei Francesi",
-    "descrizione": "Ponte Ponte dei Francesi a Santi Cosma e Damiano",
-    "lat": 40.1865116,
-    "lng": 15.5549493,
-    "source": "osm",
-    "osm_id": 211233615,
-    "osm_type": "way",
-    "link": "https://www.openstreetmap.org/way/211233615",
-    "zona": "salerno",
-    "tipo": "ponte",
-    "citta": "Santi Cosma e Damiano",
-    "last_verified": "2026-09-07"
-  },
-  {
     "id": "osm-211531900",
     "nome": "Via Cimitero",
     "descrizione": "POI Via Cimitero a Boscotrecase",
@@ -6230,21 +6159,6 @@
     "zona": "salerno",
     "tipo": "chiesa",
     "citta": "Boscotrecase",
-    "last_verified": "2026-09-07"
-  },
-  {
-    "id": "osm-215189825",
-    "nome": "Ponte del Diavolo",
-    "descrizione": "Ponte Ponte del Diavolo a Santi Cosma e Damiano",
-    "lat": 40.1357559,
-    "lng": 15.5538889,
-    "source": "osm",
-    "osm_id": 215189825,
-    "osm_type": "way",
-    "link": "https://www.openstreetmap.org/way/215189825",
-    "zona": "salerno",
-    "tipo": "ponte",
-    "citta": "Santi Cosma e Damiano",
     "last_verified": "2026-09-07"
   },
   {
@@ -6803,21 +6717,6 @@
     "last_verified": "2026-09-07"
   },
   {
-    "id": "osm-235893019",
-    "nome": "Ponte Medioevale",
-    "descrizione": "Ponte Ponte Medioevale a Piaggine",
-    "lat": 40.3366658,
-    "lng": 15.3298291,
-    "source": "osm",
-    "osm_id": 235893019,
-    "osm_type": "way",
-    "link": "https://www.openstreetmap.org/way/235893019",
-    "zona": "cilento",
-    "tipo": "ponte",
-    "citta": "Piaggine",
-    "last_verified": "2026-09-07"
-  },
-  {
     "id": "osm-236345075",
     "nome": "Vicolo dei Sediari",
     "descrizione": "POI Vicolo dei Sediari a Salerno",
@@ -6936,21 +6835,6 @@
     "zona": "cilento",
     "tipo": "altro",
     "citta": "San Nicola Arcella",
-    "last_verified": "2026-09-07"
-  },
-  {
-    "id": "osm-244551655",
-    "nome": "Ponte di Mastromicco",
-    "descrizione": "Ponte Ponte di Mastromicco a Montano Antilia",
-    "lat": 40.1378719,
-    "lng": 15.3209478,
-    "source": "osm",
-    "osm_id": 244551655,
-    "osm_type": "way",
-    "link": "https://www.openstreetmap.org/way/244551655",
-    "zona": "salerno",
-    "tipo": "ponte",
-    "citta": "Montano Antilia",
     "last_verified": "2026-09-07"
   },
   {
@@ -9045,21 +8929,6 @@
     "last_verified": "2026-09-07"
   },
   {
-    "id": "osm-400161116",
-    "nome": "Via Marrella",
-    "descrizione": "POI Via Marrella a Boscotrecase",
-    "lat": 40.7683817,
-    "lng": 14.4739594,
-    "source": "osm",
-    "osm_id": 400161116,
-    "osm_type": "way",
-    "link": "https://www.openstreetmap.org/way/400161116",
-    "zona": "salerno",
-    "tipo": "altro",
-    "citta": "Boscotrecase",
-    "last_verified": "2026-09-07"
-  },
-  {
     "id": "osm-400161126",
     "nome": "Largo Carulli",
     "descrizione": "Piazza Largo Carulli a Boscoreale",
@@ -10261,21 +10130,6 @@
     "zona": "salerno",
     "tipo": "sentiero",
     "citta": "Campagna",
-    "last_verified": "2026-09-07"
-  },
-  {
-    "id": "osm-508238480",
-    "nome": "Via Ferrante Imparato",
-    "descrizione": "POI Via Ferrante Imparato a Boscotrecase",
-    "lat": 40.8417182,
-    "lng": 14.3014209,
-    "source": "osm",
-    "osm_id": 508238480,
-    "osm_type": "way",
-    "link": "https://www.openstreetmap.org/way/508238480",
-    "zona": "salerno",
-    "tipo": "altro",
-    "citta": "Boscotrecase",
     "last_verified": "2026-09-07"
   },
   {
@@ -11944,21 +11798,6 @@
     "zona": "salerno",
     "tipo": "sentiero",
     "citta": "Boscotrecase",
-    "last_verified": "2026-09-07"
-  },
-  {
-    "id": "osm-667466685",
-    "nome": "Ponte della Lavandaia",
-    "descrizione": "Tipo: bridge",
-    "lat": 40.8367282,
-    "lng": 15.0304901,
-    "source": "osm",
-    "osm_id": 667466685,
-    "osm_type": "way",
-    "link": "https://www.openstreetmap.org/way/667466685",
-    "zona": "salerno",
-    "tipo": "ponte",
-    "citta": "Campagna",
     "last_verified": "2026-09-07"
   },
   {
@@ -14374,21 +14213,6 @@
     "last_verified": "2026-09-07"
   },
   {
-    "id": "osm-976652287",
-    "nome": "Ponticello in Legno",
-    "descrizione": "Ponte Ponticello in Legno a Buccino",
-    "lat": 40.5845055,
-    "lng": 15.539492,
-    "source": "osm",
-    "osm_id": 976652287,
-    "osm_type": "way",
-    "link": "https://www.openstreetmap.org/way/976652287",
-    "zona": "salerno",
-    "tipo": "ponte",
-    "citta": "Buccino",
-    "last_verified": "2026-09-07"
-  },
-  {
     "id": "osm-979830957",
     "nome": "Via Rampa Pigno",
     "descrizione": "POI Via Rampa Pigno a Casola di Napoli",
@@ -14645,21 +14469,6 @@
     "last_verified": "2026-09-07"
   },
   {
-    "id": "osm-1010734934",
-    "nome": "Ponte delle Tese",
-    "descrizione": "Ponte Ponte delle Tese a Agerola",
-    "lat": 40.6667495,
-    "lng": 14.5062895,
-    "source": "osm",
-    "osm_id": 1010734934,
-    "osm_type": "way",
-    "link": "https://www.openstreetmap.org/way/1010734934",
-    "zona": "costiera",
-    "tipo": "ponte",
-    "citta": "Agerola",
-    "last_verified": "2026-09-07"
-  },
-  {
     "id": "osm-1011046216",
     "nome": "Vico Secondo Fuoro",
     "descrizione": "POI Vico Secondo Fuoro a Sorrento",
@@ -14868,21 +14677,6 @@
     "zona": "costiera",
     "tipo": "altro",
     "citta": "Tramonti",
-    "last_verified": "2026-09-07"
-  },
-  {
-    "id": "osm-1050045824",
-    "nome": "Ponte Testene",
-    "descrizione": "Ponte Ponte Testene a Capaccio Paestum",
-    "lat": 40.3543953,
-    "lng": 14.9957218,
-    "source": "osm",
-    "osm_id": 1050045824,
-    "osm_type": "way",
-    "link": "https://www.openstreetmap.org/way/1050045824",
-    "zona": "cilento",
-    "tipo": "ponte",
-    "citta": "Capaccio Paestum",
     "last_verified": "2026-09-07"
   },
   {
@@ -16056,36 +15850,6 @@
     "last_verified": "2026-09-07"
   },
   {
-    "id": "osm-1098324455",
-    "nome": "Ponte del Fascio",
-    "descrizione": "Ponte Ponte del Fascio a Campagna",
-    "lat": 40.8140468,
-    "lng": 15.0103674,
-    "source": "osm",
-    "osm_id": 1098324455,
-    "osm_type": "way",
-    "link": "https://www.openstreetmap.org/way/1098324455",
-    "zona": "salerno",
-    "tipo": "ponte",
-    "citta": "Campagna",
-    "last_verified": "2026-09-07"
-  },
-  {
-    "id": "osm-1098324457",
-    "nome": "Ponte della Tufara",
-    "descrizione": "Ponte Ponte della Tufara a Campagna",
-    "lat": 40.8069523,
-    "lng": 14.9984067,
-    "source": "osm",
-    "osm_id": 1098324457,
-    "osm_type": "way",
-    "link": "https://www.openstreetmap.org/way/1098324457",
-    "zona": "salerno",
-    "tipo": "ponte",
-    "citta": "Campagna",
-    "last_verified": "2026-09-07"
-  },
-  {
     "id": "osm-1102651321",
     "nome": "103B",
     "descrizione": "Sentiero CAI 103B nel comune di Acerno (salerno).",
@@ -16700,21 +16464,6 @@
     "zona": "salerno",
     "tipo": "altro",
     "citta": "Siano",
-    "last_verified": "2026-09-07"
-  },
-  {
-    "id": "osm-1176529942",
-    "nome": "Ponte medievale",
-    "descrizione": "Ponte Ponte medievale a Roccadaspide",
-    "lat": 40.3780164,
-    "lng": 15.2383751,
-    "source": "osm",
-    "osm_id": 1176529942,
-    "osm_type": "way",
-    "link": "https://www.openstreetmap.org/way/1176529942",
-    "zona": "cilento",
-    "tipo": "ponte",
-    "citta": "Roccadaspide",
     "last_verified": "2026-09-07"
   },
   {
@@ -18870,21 +18619,6 @@
     "link": "https://www.openstreetmap.org/way/1375509102",
     "zona": "costiera",
     "tipo": "altro",
-    "citta": "Praiano",
-    "last_verified": "2026-09-07"
-  },
-  {
-    "id": "osm-1375509105",
-    "nome": "Antico Ponte",
-    "descrizione": "Ponte Antico Ponte a Praiano",
-    "lat": 40.6345923,
-    "lng": 14.5446798,
-    "source": "osm",
-    "osm_id": 1375509105,
-    "osm_type": "way",
-    "link": "https://www.openstreetmap.org/way/1375509105",
-    "zona": "costiera",
-    "tipo": "ponte",
     "citta": "Praiano",
     "last_verified": "2026-09-07"
   },

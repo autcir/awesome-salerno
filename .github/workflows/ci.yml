@@ -30,6 +30,20 @@ jobs:
             python3 -c "import json; json.load(open('$f'))" || exit 1
             echo "✓ $f"
           done
+      - name: Check unique POI ids
+        run: |
+          python3 -c "
+          import json, collections, sys
+          ids = []
+          for cat in ['sentieri','monumenti','spiagge','eventi','panorami','parchi']:
+              ids += [i['id'] for i in json.load(open(f'data/{cat}.json'))]
+          dup = [k for k, n in collections.Counter(ids).items() if n > 1]
+          if dup:
+              print('ERROR: duplicate ids:', dup)
+              sys.exit(1)
+          print(f'{len(ids)} POI, all ids unique')
+          "
+
       - name: Check GPS coordinates
         run: |
           python3 -c "

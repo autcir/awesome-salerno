@@ -174,7 +174,7 @@
     "quartiere": "Centro Storico",
     "tipo": "festa-patronale",
     "source": "curated",
-    "link": "https://www.comune.amalfi.it",
+    "link": "https://www.openstreetmap.org/?mlat=40.6338&mlon=14.6027#map=16/40.6338/14.6027",
     "data_inizio": "2026-06-27",
     "data_fine": "2026-06-30",
     "ricorrenza": "annuale",
@@ -183,7 +183,9 @@
     "luoghi": [
       "Duomo di Amalfi",
       "Lungomare"
-    ]
+    ],
+    "link_rotto": "https://www.comune.amalfi.it",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "festa-sanpietro-paolo-cetara",
@@ -359,7 +361,7 @@
     "quartiere": "Centro Storico",
     "tipo": "sagra",
     "source": "curated",
-    "link": "https://www.sagradelpescecetara.it",
+    "link": "https://www.openstreetmap.org/?mlat=40.6466&mlon=14.7025#map=16/40.6466/14.7025",
     "data_inizio": "2026-08-15",
     "data_fine": "2026-08-18",
     "ricorrenza": "annuale",
@@ -368,7 +370,9 @@
     "luoghi": [
       "Porto di Cetara",
       "Lungomare"
-    ]
+    ],
+    "link_rotto": "https://www.sagradelpescecetara.it",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "festa-ceramica-vietri",
@@ -404,7 +408,7 @@
     "quartiere": "Centro Storico",
     "tipo": "sagra",
     "source": "curated",
-    "link": "https://www.sagradellimone.it",
+    "link": "https://www.openstreetmap.org/?mlat=40.6333&mlon=14.6#map=16/40.6333/14.6",
     "data_inizio": "2026-09-10",
     "data_fine": "2026-09-12",
     "ricorrenza": "annuale",
@@ -413,7 +417,9 @@
     "luoghi": [
       "Chiostro del Paradiso",
       "Piazza del Duomo"
-    ]
+    ],
+    "link_rotto": "https://www.sagradellimone.it",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "paestum-festival-2026",
@@ -426,7 +432,7 @@
     "quartiere": "Paestum",
     "tipo": "festival",
     "source": "curated",
-    "link": "https://www.paestumfestival.it",
+    "link": "https://www.openstreetmap.org/?mlat=40.4167&mlon=15.0#map=16/40.4167/15.0",
     "data_inizio": "2026-07-15",
     "data_fine": "2026-08-30",
     "ricorrenza": "annuale",
@@ -436,7 +442,9 @@
       "Tempio di Nettuno",
       "Tempio di Hera",
       "Anfiteatro Romano"
-    ]
+    ],
+    "link_rotto": "https://www.paestumfestival.it",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "cilento-golfo-film-festival",
@@ -449,7 +457,7 @@
     "quartiere": "Palinuro",
     "tipo": "festival",
     "source": "curated",
-    "link": "https://www.cilentogolfofilmfestival.it",
+    "link": "https://www.openstreetmap.org/?mlat=40.0036&mlon=15.3672#map=16/40.0036/15.3672",
     "data_inizio": "2026-08-20",
     "data_fine": "2026-08-25",
     "ricorrenza": "annuale",
@@ -458,7 +466,9 @@
     "luoghi": [
       "Palinuro",
       "Piazza della Vittoria"
-    ]
+    ],
+    "link_rotto": "https://www.cilentogolfofilmfestival.it",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "festa-san-costabile-castellabate",
@@ -1053,7 +1063,7 @@
     "quartiere": "",
     "tipo": "sagra",
     "source": "web",
-    "link": "https://www.comune.novivelia.sa.it/Vivere-il-comune/Scopri-Novi-Velia/Sagre-e-Feste",
+    "link": "https://www.openstreetmap.org/?mlat=40.2167&mlon=15.2833#map=16/40.2167/15.2833",
     "data_inizio": "2026-08-08",
     "data_fine": "2026-08-13",
     "ricorrenza": "annuale",
@@ -1062,7 +1072,9 @@
     "luoghi": [
       "Novi Velia",
       "Centro Storico"
-    ]
+    ],
+    "link_rotto": "https://www.comune.novivelia.sa.it/Vivere-il-comune/Scopri-Novi-Velia/Sagre-e-Feste",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "sagra-ciccimmaretati-stio",
@@ -1121,7 +1133,7 @@
     "quartiere": "Paestum",
     "tipo": "festival",
     "source": "web",
-    "link": "https://parchipaestumvelia.cultura.gov.it/musica-parole-2025-dal-26-luglio-al-17-agosto-la-musica-incontra-la-bellezza-senza-tempo-di-paestum-e-velia/",
+    "link": "https://www.openstreetmap.org/?mlat=40.4167&mlon=15.0#map=16/40.4167/15.0",
     "data_inizio": "2026-08-01",
     "data_fine": "2026-08-23",
     "ricorrenza": "annuale",
@@ -1130,7 +1142,9 @@
     "luoghi": [
       "Parco Archeologico di Paestum",
       "Parco Archeologico di Velia"
-    ]
+    ],
+    "link_rotto": "https://parchipaestumvelia.cultura.gov.it/musica-parole-2025-dal-26-luglio-al-17-agosto-la-musica-incontra-la-bellezza-senza-tempo-di-paestum-e-velia/",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "estate-salernitana-2026",

@@ -33,7 +33,7 @@
 > Guida aperta, verificabile e mantenuta ai luoghi e agli eventi di Salerno,
 > Costiera Amalfitana e Cilento.
 
-5547 POI (sentieri, monumenti, spiagge, panorami, parchi, eventi) con coordinate
+5529 POI (sentieri, monumenti, spiagge, panorami, parchi, eventi) con coordinate
 GPS, fonte e data di verifica. Dati in JSON, GeoJSON, KML/KMZ, RSS e dataset RAG,
 licenza CC0.
 
@@ -50,7 +50,7 @@ sotto sono in inglese; dati e documentazione per i contributor sono in italiano.
 
 | Metric | Value |
 |--------|-------|
-| Total POI | 5547 |
+| Total POI | 5529 |
 | Cities mapped | 103 |
 | Salerno zone | 3371 |
 | Costiera zone | 846 |
@@ -60,7 +60,7 @@ sotto sono in inglese; dati e documentazione per i contributor sono in italiano.
 
 ## Sentieri
 
-> 1676 hiking trails with GPS coordinates, difficulty and elevation.
+> 1658 hiking trails with GPS coordinates, difficulty and elevation.
 
 - [Sentiero degli Dei](https://www.caimontilattari.it/sentiero/327/) - The most famous trail on the Amalfi Coast. 7.8 km, medium difficulty.
 - [Path of the Lemons](https://it.wikipedia.org/wiki/Minori_(Italia)) - Panoramic trail between Maiori and Minori through lemon terraces.
@@ -256,13 +256,13 @@ python3 api/server.py
 
 | Endpoint | Description |
 |----------|-------------|
-| `GET /api/sentieri` | All trails (1676) |
+| `GET /api/sentieri` | All trails (1658) |
 | `GET /api/monumenti` | All monuments (3479) |
 | `GET /api/spiagge` | All beaches (78) |
 | `GET /api/panorami` | All viewpoints (253) |
 | `GET /api/parchi` | All parks (12) |
 | `GET /api/eventi` | All events (49) |
-| `GET /api/all` | All data (5547) |
+| `GET /api/all` | All data (5529) |
 | `GET /api/geojson` | GeoJSON format for GIS |
 | `GET /api/cities` | List of all 103 cities |
 | `GET /api/search?q=<query>` | Fuzzy search |
@@ -310,7 +310,7 @@ curl "http://localhost:8080/api/geojson" > awesome-salerno.geojson
 
 **KML/KMZ download:**
 
-- [KML export](https://autcir.github.io/awesome-salerno/data/awesome-salerno.kml) - All 5547 POI for Google Earth.
+- [KML export](https://autcir.github.io/awesome-salerno/data/awesome-salerno.kml) - All 5529 POI for Google Earth.
 - [KMZ export](https://autcir.github.io/awesome-salerno/data/awesome-salerno.kmz) - Compressed KML for mobile apps.
 
 **Voice assistant:**
@@ -341,7 +341,7 @@ Inclusion and exclusion rules: see `docs/criteria.md`.
 
 ## RAG dataset
 
-One chunk per POI, ready to embed - `data/rag/chunks.jsonl`, 5547 lines, CC0.
+One chunk per POI, ready to embed - `data/rag/chunks.jsonl`, 5529 lines, CC0.
 
 ```bash
 python3 scripts/build_rag.py            # rebuild the JSONL
@@ -351,8 +351,12 @@ python3 scripts/build_rag.py --qdrant   # embed + upsert into Qdrant
 Each line carries the searchable `text` plus `id`, `categoria`, `tipo`, `zona`,
 `citta`, `quartiere`, `lat`, `lng`, `link` and `last_verified` as payload, so a
 retriever can filter before it ranks. The Qdrant upload needs
-`pip install "qdrant-client[fastembed]"` and reads `QDRANT_URL`,
-`QDRANT_API_KEY` and `QDRANT_COLLECTION`.
+`pip install "qdrant-client[fastembed]"`, embeds locally with
+`paraphrase-multilingual-MiniLM-L12-v2` (384 dims, cosine - the POI text is
+Italian) and creates keyword indexes on `categoria`, `tipo`, `zona`, `citta` and
+`quartiere`. Reads `QDRANT_URL`, `QDRANT_API_KEY`, `QDRANT_COLLECTION` and
+`QDRANT_MODEL`. Point ids are a stable hash of the POI id, so re-running
+overwrites instead of duplicating.
 
 Hosted copy: `https://autcir.github.io/awesome-salerno/data/rag/chunks.jsonl`
 

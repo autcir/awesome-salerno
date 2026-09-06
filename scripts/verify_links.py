@@ -5,10 +5,14 @@ OSM links are generated from coordinates and always resolve, so they are
 stamped without a network call. Everything else gets a HEAD (GET fallback).
 Broken links land in data/broken_links.json for the weekly workflow to report.
 
-Usage: python3 scripts/verify_links.py [--stale-days N]
+Usage: python3 scripts/verify_links.py [--stale-days N] [--fix]
+
+--fix replaces a dead link with the OpenStreetMap link built from the POI's
+own coordinates, the same fallback most of the dataset already uses.
 """
 import json
 import sys
+import time
 import urllib.parse
 import urllib.request
 import urllib.error
@@ -19,7 +23,10 @@ from pathlib import Path
 DATA = Path(__file__).resolve().parent.parent / "data"
 CATEGORIES = ["sentieri", "monumenti", "spiagge", "eventi", "panorami", "parchi"]
 UA = "awesome-salerno-linkcheck/1.0 (+https://github.com/autcir/awesome-salerno)"
-TIMEOUT = 15
+TIMEOUT = 25
+RETRIES = 1
+# a server that answers with these is alive, it just dislikes bots
+ALIVE_CODES = {401, 403, 405, 429, 501, 999}
 TODAY = date.today().isoformat()
 
 
@@ -32,13 +39,9 @@ def encode(url):
         urllib.parse.quote(u.fragment)))
 
 
-def check(url):
-    """Return None if the URL is reachable, else a short error string."""
+def attempt(url):
+    """One HEAD-then-GET pass. None if reachable, else a short error string."""
     err = "unchecked"
-    try:
-        url = encode(url)
-    except Exception as e:
-        return f"invalid URL ({type(e).__name__})"
     for method in ("HEAD", "GET"):
         req = urllib.request.Request(url, method=method, headers={"User-Agent": UA})
         try:
@@ -47,8 +50,10 @@ def check(url):
                     return None
                 err = f"HTTP {r.status}"
         except urllib.error.HTTPError as e:
-            if e.code in (403, 405, 501) and method == "HEAD":
-                continue  # some servers reject HEAD, retry with GET
+            if method == "HEAD" and e.code in ALIVE_CODES:
+                continue  # many servers reject HEAD, retry with GET
+            if e.code in ALIVE_CODES:
+                return None  # alive, just bot-hostile
             err = f"HTTP {e.code}"
         except Exception as e:  # timeout, DNS, TLS, redirect loop
             err = type(e).__name__
@@ -57,7 +62,33 @@ def check(url):
     return err
 
 
+def check(url):
+    """Return None if the URL is reachable, else a short error string.
+
+    Transient failures (timeout, reset, TLS hiccup) get retried; a 4xx does
+    not, the server already gave a final answer.
+    """
+    try:
+        url = encode(url)
+    except Exception as e:
+        return f"invalid URL ({type(e).__name__})"
+    for i in range(RETRIES + 1):
+        err = attempt(url)
+        if err is None or err.startswith("HTTP"):
+            return err
+        if i < RETRIES:
+            time.sleep(2 ** i)
+    return err
+
+
+def osm_link(it):
+    lat, lng = it["lat"], it["lng"]
+    return (f"https://www.openstreetmap.org/?mlat={lat}&mlon={lng}"
+            f"#map=16/{lat}/{lng}")
+
+
 def main():
+    fix = "--fix" in sys.argv
     stale_days = 30
     if "--stale-days" in sys.argv:
         stale_days = int(sys.argv[sys.argv.index("--stale-days") + 1])
@@ -80,15 +111,23 @@ def main():
     with ThreadPoolExecutor(max_workers=16) as pool:
         results = list(pool.map(check, todo))
 
-    broken = []
+    broken, fixed = [], 0
     for (url, items), err in zip(todo.items(), results):
-        if err:
-            broken.append({"url": url, "error": err,
-                           "pois": [i.get("id") for i in items]})
-            print(f"BROKEN {err}: {url}")
-        else:
+        if not err:
             for it in items:
                 it["last_verified"] = TODAY
+            continue
+        entry = {"url": url, "error": err, "pois": [i.get("id") for i in items]}
+        if fix:
+            for it in items:
+                if it.get("lat") and it.get("lng"):
+                    it["link_rotto"] = url
+                    it["link"] = osm_link(it)
+                    it["last_verified"] = TODAY
+                    fixed += 1
+            entry["fixed_with"] = "openstreetmap"
+        broken.append(entry)
+        print(f"BROKEN {err}: {url}")
 
     for cat, items in data.items():
         (DATA / f"{cat}.json").write_text(
@@ -97,10 +136,11 @@ def main():
         json.dumps(data, ensure_ascii=False, indent=2) + "\n")
     (DATA / "broken_links.json").write_text(json.dumps(
         {"checked_at": datetime.now().isoformat(timespec="seconds"),
-         "checked": len(todo), "broken": broken},
+         "checked": len(todo), "fixed": fixed, "broken": broken},
         ensure_ascii=False, indent=2) + "\n")
 
-    print(f"{len(broken)} broken / {len(todo)} checked")
+    print(f"{len(broken)} broken / {len(todo)} checked"
+          + (f", {fixed} POI switched to the OSM fallback" if fix else ""))
 
 
 def demo():
@@ -110,6 +150,8 @@ def demo():
     assert encode("https://it.wikipedia.org/wiki/Città") == \
         "https://it.wikipedia.org/wiki/Citt%C3%A0"
     assert check("https://it.wikipedia.org/wiki/Città") is None
+    assert osm_link({"lat": 40.5, "lng": 14.9}) == \
+        "https://www.openstreetmap.org/?mlat=40.5&mlon=14.9#map=16/40.5/14.9"
     print("ok")
 
 

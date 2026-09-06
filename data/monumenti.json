@@ -96,7 +96,7 @@
     "lat": 40.6802,
     "lng": 14.7603,
     "source": "hand-written",
-    "link": "https://it.wikipedia.org/wiki/Cripta_di_San_Matteo",
+    "link": "https://www.openstreetmap.org/?mlat=40.6802&mlon=14.7603#map=16/40.6802/14.7603",
     "id": "cripta-san-matteo",
     "difficolta": "",
     "lunghezza_km": null,
@@ -106,7 +106,9 @@
     "tipo": "altro",
     "zona": "salerno",
     "citta": "Salerno",
-    "quartiere": "Centro Storico"
+    "quartiere": "Centro Storico",
+    "link_rotto": "https://it.wikipedia.org/wiki/Cripta_di_San_Matteo",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Chiesa e Monastero di San Giorgio",
@@ -132,7 +134,7 @@
     "lat": 40.679,
     "lng": 14.7585,
     "source": "hand-written",
-    "link": "https://it.wikipedia.org/wiki/San_Pietro_a_Corte",
+    "link": "https://www.openstreetmap.org/?mlat=40.679&mlon=14.7585#map=16/40.679/14.7585",
     "id": "san-pietro-a-corte",
     "difficolta": "",
     "lunghezza_km": null,
@@ -141,7 +143,9 @@
     "frequenza": "",
     "tipo": "chiesa",
     "zona": "costiera",
-    "citta": "Vietri sul Mare"
+    "citta": "Vietri sul Mare",
+    "link_rotto": "https://it.wikipedia.org/wiki/San_Pietro_a_Corte",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Villa Comunale di Salerno",
@@ -149,7 +153,7 @@
     "lat": 40.6785,
     "lng": 14.7532,
     "source": "hand-written",
-    "link": "https://it.wikipedia.org/wiki/Villa_Comunale_(Salerno)",
+    "link": "https://www.openstreetmap.org/?mlat=40.6785&mlon=14.7532#map=16/40.6785/14.7532",
     "id": "villa-comunale",
     "difficolta": "",
     "lunghezza_km": null,
@@ -158,7 +162,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "costiera",
-    "citta": "Vietri sul Mare"
+    "citta": "Vietri sul Mare",
+    "link_rotto": "https://it.wikipedia.org/wiki/Villa_Comunale_(Salerno)",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Acquedotto Medievale",
@@ -185,7 +191,7 @@
     "lat": 40.6807,
     "lng": 14.7604,
     "source": "hand-written",
-    "link": "https://it.wikipedia.org/wiki/Museo_diocesano_di_San_Matteo_(Salerno)",
+    "link": "https://www.openstreetmap.org/?mlat=40.6807&mlon=14.7604#map=16/40.6807/14.7604",
     "id": "museo-diocesano",
     "difficolta": "",
     "lunghezza_km": null,
@@ -195,7 +201,9 @@
     "tipo": "museo",
     "zona": "salerno",
     "citta": "Salerno",
-    "quartiere": "Centro Storico"
+    "quartiere": "Centro Storico",
+    "link_rotto": "https://it.wikipedia.org/wiki/Museo_diocesano_di_San_Matteo_(Salerno)",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Palazzo Fruscione",
@@ -239,7 +247,7 @@
     "lat": 40.634,
     "lng": 14.6026,
     "source": "hand-written",
-    "link": "https://it.wikipedia.org/wiki/Cattedrale_di_Sant%27Andrea_(Amalfi)",
+    "link": "https://www.openstreetmap.org/?mlat=40.634&mlon=14.6026#map=16/40.634/14.6026",
     "id": "duomo-amalfi",
     "difficolta": "",
     "lunghezza_km": null,
@@ -248,7 +256,9 @@
     "frequenza": "",
     "tipo": "chiesa",
     "zona": "costiera",
-    "citta": "Amalfi"
+    "citta": "Amalfi",
+    "link_rotto": "https://it.wikipedia.org/wiki/Cattedrale_di_Sant%27Andrea_(Amalfi)",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Chiostro del Paradiso",
@@ -364,7 +374,7 @@
     "lat": 40.634,
     "lng": 14.6026,
     "source": "hand-written",
-    "link": "https://it.wikipedia.org/wiki/Cattedrale_di_Sant%27Andrea_(Amalfi)",
+    "link": "https://www.openstreetmap.org/?mlat=40.634&mlon=14.6026#map=16/40.634/14.6026",
     "id": "chiesa-santandrea-amalfi",
     "difficolta": "",
     "lunghezza_km": null,
@@ -373,7 +383,9 @@
     "frequenza": "",
     "tipo": "chiesa",
     "zona": "costiera",
-    "citta": "Amalfi"
+    "citta": "Amalfi",
+    "link_rotto": "https://it.wikipedia.org/wiki/Cattedrale_di_Sant%27Andrea_(Amalfi)",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Chiesa di Santa Maria Assunta",
@@ -381,7 +393,7 @@
     "lat": 40.6278,
     "lng": 14.4847,
     "source": "hand-written",
-    "link": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Assunta_(Positano)",
+    "link": "https://www.openstreetmap.org/?mlat=40.6278&mlon=14.4847#map=16/40.6278/14.4847",
     "id": "chiesa-santamaria-positano",
     "difficolta": "",
     "lunghezza_km": null,
@@ -390,7 +402,9 @@
     "frequenza": "",
     "tipo": "chiesa",
     "zona": "costiera",
-    "citta": "Positano"
+    "citta": "Positano",
+    "link_rotto": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Assunta_(Positano)",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Palazzo D'Avossa",
@@ -452,7 +466,7 @@
     "lat": 40.418,
     "lng": 15.007,
     "source": "hand-written",
-    "link": "https://www.museopaestum.beniculturali.it",
+    "link": "https://www.openstreetmap.org/?mlat=40.418&mlon=15.007#map=16/40.418/15.007",
     "id": "tempio-nettuno",
     "difficolta": "",
     "lunghezza_km": null,
@@ -461,7 +475,9 @@
     "frequenza": "",
     "tipo": "chiesa",
     "zona": "cilento",
-    "citta": "Capaccio Paestum"
+    "citta": "Capaccio Paestum",
+    "link_rotto": "https://www.museopaestum.beniculturali.it",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Tempio di Hera (Basilica)",
@@ -469,7 +485,7 @@
     "lat": 40.4175,
     "lng": 15.0075,
     "source": "hand-written",
-    "link": "https://www.museopaestum.beniculturali.it",
+    "link": "https://www.openstreetmap.org/?mlat=40.4175&mlon=15.0075#map=16/40.4175/15.0075",
     "id": "tempio-hera",
     "difficolta": "",
     "lunghezza_km": null,
@@ -478,7 +494,9 @@
     "frequenza": "",
     "tipo": "chiesa",
     "zona": "cilento",
-    "citta": "Capaccio Paestum"
+    "citta": "Capaccio Paestum",
+    "link_rotto": "https://www.museopaestum.beniculturali.it",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Tempio di Atena",
@@ -486,7 +504,7 @@
     "lat": 40.419,
     "lng": 15.009,
     "source": "hand-written",
-    "link": "https://www.museopaestum.beniculturali.it",
+    "link": "https://www.openstreetmap.org/?mlat=40.419&mlon=15.009#map=16/40.419/15.009",
     "id": "tempio-atena",
     "difficolta": "",
     "lunghezza_km": null,
@@ -495,7 +513,9 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "cilento",
-    "citta": "Capaccio Paestum"
+    "citta": "Capaccio Paestum",
+    "link_rotto": "https://www.museopaestum.beniculturali.it",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Tomba del Tuffatore",
@@ -503,7 +523,7 @@
     "lat": 40.4185,
     "lng": 15.008,
     "source": "hand-written",
-    "link": "https://www.museopaestum.beniculturali.it",
+    "link": "https://www.openstreetmap.org/?mlat=40.4185&mlon=15.008#map=16/40.4185/15.008",
     "id": "tomba-tuffatore",
     "difficolta": "",
     "lunghezza_km": null,
@@ -512,7 +532,9 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "cilento",
-    "citta": "Capaccio Paestum"
+    "citta": "Capaccio Paestum",
+    "link_rotto": "https://www.museopaestum.beniculturali.it",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Museo Archeologico di Paestum",
@@ -520,7 +542,7 @@
     "lat": 40.4185,
     "lng": 15.008,
     "source": "hand-written",
-    "link": "https://www.museopaestum.beniculturali.it",
+    "link": "https://www.openstreetmap.org/?mlat=40.4185&mlon=15.008#map=16/40.4185/15.008",
     "id": "museo-paestum",
     "difficolta": "",
     "lunghezza_km": null,
@@ -529,7 +551,9 @@
     "frequenza": "",
     "tipo": "museo",
     "zona": "cilento",
-    "citta": "Capaccio Paestum"
+    "citta": "Capaccio Paestum",
+    "link_rotto": "https://www.museopaestum.beniculturali.it",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Castello Angioino di Agropoli",
@@ -537,7 +561,7 @@
     "lat": 40.35,
     "lng": 14.9833,
     "source": "hand-written",
-    "link": "https://it.wikipedia.org/wiki/Castello_di_Agropoli",
+    "link": "https://www.openstreetmap.org/?mlat=40.35&mlon=14.9833#map=16/40.35/14.9833",
     "id": "castello-agropoli",
     "difficolta": "",
     "lunghezza_km": null,
@@ -546,7 +570,9 @@
     "frequenza": "",
     "tipo": "castello",
     "zona": "cilento",
-    "citta": "Capaccio Paestum"
+    "citta": "Capaccio Paestum",
+    "link_rotto": "https://it.wikipedia.org/wiki/Castello_di_Agropoli",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Grotta di Castelcivita",
@@ -554,7 +580,7 @@
     "lat": 40.4917,
     "lng": 15.125,
     "source": "hand-written",
-    "link": "https://www.grottedicastelcivita.it",
+    "link": "https://www.openstreetmap.org/?mlat=40.4917&mlon=15.125#map=16/40.4917/15.125",
     "id": "grotta-castelcivita",
     "difficolta": "",
     "lunghezza_km": null,
@@ -563,7 +589,9 @@
     "frequenza": "",
     "tipo": "grotta",
     "zona": "salerno",
-    "citta": "Ricigliano"
+    "citta": "Ricigliano",
+    "link_rotto": "https://www.grottedicastelcivita.it",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Grotta dello Smeraldo",
@@ -589,7 +617,7 @@
     "lat": 40.2,
     "lng": 15.05,
     "source": "hand-written",
-    "link": "https://it.wikipedia.org/wiki/Torri_costiere_del_Cilento",
+    "link": "https://www.openstreetmap.org/?mlat=40.2&mlon=15.05#map=16/40.2/15.05",
     "id": "torri-costiere",
     "difficolta": "",
     "lunghezza_km": null,
@@ -598,7 +626,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "cilento",
-    "citta": "Montecorice"
+    "citta": "Montecorice",
+    "link_rotto": "https://it.wikipedia.org/wiki/Torri_costiere_del_Cilento",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Ruderi di Anfiteatro Romano",
@@ -624,7 +654,7 @@
     "lat": 40.6472,
     "lng": 14.6422,
     "source": "hand-written",
-    "link": "https://www.comune.maiori.sa.it",
+    "link": "https://www.openstreetmap.org/?mlat=40.6472&mlon=14.6422#map=16/40.6472/14.6422",
     "id": "spiaggia-maiori",
     "difficolta": "",
     "lunghezza_km": null,
@@ -633,7 +663,9 @@
     "frequenza": "",
     "tipo": "spiaggia",
     "zona": "costiera",
-    "citta": "Minori"
+    "citta": "Minori",
+    "link_rotto": "https://www.comune.maiori.sa.it",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Spiaggia Grande di Positano",
@@ -713,7 +745,7 @@
     "lat": 40.6672,
     "lng": 14.7239,
     "source": "hand-written",
-    "link": "https://www.comune.vietrisulmare.sa.it",
+    "link": "https://www.openstreetmap.org/?mlat=40.6672&mlon=14.7239#map=16/40.6672/14.7239",
     "id": "spiaggia-vietri",
     "difficolta": "",
     "lunghezza_km": null,
@@ -722,7 +754,9 @@
     "frequenza": "",
     "tipo": "spiaggia",
     "zona": "costiera",
-    "citta": "Vietri sul Mare"
+    "citta": "Vietri sul Mare",
+    "link_rotto": "https://www.comune.vietrisulmare.sa.it",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Fiordo di Furore",
@@ -1000,7 +1034,7 @@
     "lat": 40.6338,
     "lng": 14.6027,
     "source": "hand-written",
-    "link": "https://www.regatarepubblichemarinare.it",
+    "link": "https://www.openstreetmap.org/?mlat=40.6338&mlon=14.6027#map=16/40.6338/14.6027",
     "id": "regata-repubbliche-marinare",
     "difficolta": "",
     "lunghezza_km": null,
@@ -1009,7 +1043,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "costiera",
-    "citta": "Amalfi"
+    "citta": "Amalfi",
+    "link_rotto": "https://www.regatarepubblichemarinare.it",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Battentieri",
@@ -1017,7 +1053,7 @@
     "lat": 40.35,
     "lng": 14.9833,
     "source": "hand-written",
-    "link": "https://www.battentieri.it",
+    "link": "https://www.openstreetmap.org/?mlat=40.35&mlon=14.9833#map=16/40.35/14.9833",
     "id": "battentieri",
     "difficolta": "",
     "lunghezza_km": null,
@@ -1026,7 +1062,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "cilento",
-    "citta": "Capaccio Paestum"
+    "citta": "Capaccio Paestum",
+    "link_rotto": "https://www.battentieri.it",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Terrazza dell'Infinito",
@@ -2600,7 +2638,7 @@
     "lat": 40.733031,
     "lng": 15.2339984,
     "source": "osm",
-    "link": "https://www.cita2.it",
+    "link": "https://www.openstreetmap.org/?mlat=40.733031&mlon=15.2339984#map=16/40.733031/15.2339984",
     "id": "monumenti-pilgrim-parking---cristo-è-la-risposta-ii",
     "difficolta": "",
     "lunghezza_km": null,
@@ -2609,7 +2647,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Colliano"
+    "citta": "Colliano",
+    "link_rotto": "https://www.cita2.it",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Chiesa Cristiana Evangelica Pentecostale",
@@ -2798,7 +2838,7 @@
     "lng": 15.3715816,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.0009184&mlon=15.3715816#map=16/40.0009184/15.3715816",
-    "id": "monumenti-chiesa-cristiana-evangelica-adi",
+    "id": "monumenti-chiesa-cristiana-evangelica-adi-2",
     "difficolta": "",
     "lunghezza_km": null,
     "dislivello_m": null,
@@ -6883,7 +6923,7 @@
     "lat": 40.6781271,
     "lng": 14.7718634,
     "source": "osm",
-    "link": "http://parrocchiasandemetrio.blogspot.fr/",
+    "link": "https://www.openstreetmap.org/?mlat=40.6781271&mlon=14.7718634#map=16/40.6781271/14.7718634",
     "id": "monumenti-parrocchia-san-demetrio",
     "difficolta": "",
     "lunghezza_km": null,
@@ -6893,7 +6933,9 @@
     "tipo": "altro",
     "zona": "salerno",
     "citta": "Salerno",
-    "quartiere": "Centro Storico"
+    "quartiere": "Centro Storico",
+    "link_rotto": "http://parrocchiasandemetrio.blogspot.fr/",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Chiesa di Santa Maria della Porta e San Domenico",
@@ -7189,7 +7231,7 @@
     "lat": 40.7368044,
     "lng": 14.6465729,
     "source": "osm",
-    "link": "http://www.associazionesangiuseppeonlus.it/homepage.html",
+    "link": "https://www.openstreetmap.org/?mlat=40.7368044&mlon=14.6465729#map=16/40.7368044/14.6465729",
     "id": "monumenti-parrocchia-san-giuseppe",
     "difficolta": "",
     "lunghezza_km": null,
@@ -7198,7 +7240,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Nocera Inferiore"
+    "citta": "Nocera Inferiore",
+    "link_rotto": "http://www.associazionesangiuseppeonlus.it/homepage.html",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Chiesa di S. Nicola",
@@ -8809,7 +8853,7 @@
     "lat": 40.6795961,
     "lng": 14.7574962,
     "source": "osm",
-    "link": "https://it.wikipedia.org/wiki/San_Pietro_a_Corte",
+    "link": "https://www.openstreetmap.org/?mlat=40.6795961&mlon=14.7574962#map=16/40.6795961/14.7574962",
     "id": "monumenti-san-pietro-a-corte",
     "difficolta": "",
     "lunghezza_km": null,
@@ -8818,7 +8862,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "costiera",
-    "citta": "Vietri sul Mare"
+    "citta": "Vietri sul Mare",
+    "link_rotto": "https://it.wikipedia.org/wiki/San_Pietro_a_Corte",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Chiesa di Sant'Agostino",
@@ -8993,7 +9039,7 @@
     "lat": 40.6351272,
     "lng": 14.4082234,
     "source": "osm",
-    "link": "https://www.comune.pianodisorrento.na.it/it/page/chiesa-e-congrega-della-ss",
+    "link": "https://www.openstreetmap.org/?mlat=40.6351272&mlon=14.4082234#map=16/40.6351272/14.4082234",
     "id": "monumenti-congrega-della-santissima-annunziata",
     "difficolta": "",
     "lunghezza_km": null,
@@ -9002,7 +9048,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Sorrento"
+    "citta": "Sorrento",
+    "link_rotto": "https://www.comune.pianodisorrento.na.it/it/page/chiesa-e-congrega-della-ss",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Chiesa di San Pietro Apostolo",
@@ -10162,7 +10210,7 @@
     "lat": 40.6406777,
     "lng": 14.4071482,
     "source": "osm",
-    "link": "http://www.comune.pianodisorrento.na.it/it/page/chiesa-di-madonna-di-rosella",
+    "link": "https://www.openstreetmap.org/?mlat=40.6406777&mlon=14.4071482#map=16/40.6406777/14.4071482",
     "id": "monumenti-chiesa-di-santa-maria-delle-grazie-detta-di-rosell",
     "difficolta": "",
     "lunghezza_km": null,
@@ -10171,7 +10219,9 @@
     "frequenza": "",
     "tipo": "chiesa",
     "zona": "salerno",
-    "citta": "Sorrento"
+    "citta": "Sorrento",
+    "link_rotto": "http://www.comune.pianodisorrento.na.it/it/page/chiesa-di-madonna-di-rosella",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Cappella di Santa Maria a Cerignano",
@@ -10575,7 +10625,7 @@
     "lat": 40.6876743,
     "lng": 14.4688328,
     "source": "osm",
-    "link": "https://www.liberoricercatore.it/Storia/sanraffaele.htm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6876743&mlon=14.4688328#map=16/40.6876743/14.4688328",
     "id": "monumenti-san-raffaele-arcangelo",
     "difficolta": "",
     "lunghezza_km": null,
@@ -10584,7 +10634,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Castellammare di Stabia"
+    "citta": "Castellammare di Stabia",
+    "link_rotto": "https://www.liberoricercatore.it/Storia/sanraffaele.htm",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Santuario Madonna della Libera",
@@ -11006,7 +11058,7 @@
     "lat": 40.7429496,
     "lng": 14.5780798,
     "source": "osm",
-    "link": "https://it.wikipedia.org/wiki/Chiesa_di_San_Benedetto_da_Norcia_(Angri)",
+    "link": "https://www.openstreetmap.org/?mlat=40.7429496&mlon=14.5780798#map=16/40.7429496/14.5780798",
     "id": "monumenti-chiesa-di-san-benedetto-da-norcia",
     "difficolta": "",
     "lunghezza_km": null,
@@ -11015,7 +11067,9 @@
     "frequenza": "",
     "tipo": "chiesa",
     "zona": "salerno",
-    "citta": "Sant'Egidio del Monte Albino"
+    "citta": "Sant'Egidio del Monte Albino",
+    "link_rotto": "https://it.wikipedia.org/wiki/Chiesa_di_San_Benedetto_da_Norcia_(Angri)",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Cappella dei Santi Cosma e Damiano",
@@ -13910,7 +13964,7 @@
     "lat": 40.7381857,
     "lng": 14.5718939,
     "source": "osm",
-    "link": "http://www.comune.angri.sa.it/castello-doria.htm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7381857&mlon=14.5718939#map=16/40.7381857/14.5718939",
     "id": "monumenti-castello-doria",
     "difficolta": "",
     "lunghezza_km": null,
@@ -13919,7 +13973,9 @@
     "frequenza": "",
     "tipo": "castello",
     "zona": "salerno",
-    "citta": "Sant'Egidio del Monte Albino"
+    "citta": "Sant'Egidio del Monte Albino",
+    "link_rotto": "http://www.comune.angri.sa.it/castello-doria.htm",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Torre Kernot",
@@ -14935,7 +14991,7 @@
     "lat": 40.4239669,
     "lng": 15.0069563,
     "source": "osm",
-    "link": "https://www.spaziopaestum.com/",
+    "link": "https://www.openstreetmap.org/?mlat=40.4239669&mlon=15.0069563#map=16/40.4239669/15.0069563",
     "id": "monumenti-spazio-paestum",
     "difficolta": "",
     "lunghezza_km": null,
@@ -14944,7 +15000,9 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "cilento",
-    "citta": "Capaccio Paestum"
+    "citta": "Capaccio Paestum",
+    "link_rotto": "https://www.spaziopaestum.com/",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Casa della Corte",
@@ -15024,7 +15082,7 @@
     "lat": 40.6505692,
     "lng": 14.6260731,
     "source": "osm",
-    "link": "http://ambientesa.beniculturali.it/BAP/?q=luoghi&luogo=Monumenti&provincia=Salerno&comune=Minori&src=&ID=55",
+    "link": "https://www.openstreetmap.org/?mlat=40.6505692&mlon=14.6260731#map=16/40.6505692/14.6260731",
     "id": "monumenti-villa-marittima-archeologica-romana",
     "difficolta": "",
     "lunghezza_km": null,
@@ -15033,7 +15091,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "costiera",
-    "citta": "Amalfi"
+    "citta": "Amalfi",
+    "link_rotto": "http://ambientesa.beniculturali.it/BAP/?q=luoghi&luogo=Monumenti&provincia=Salerno&comune=Minori&src=&ID=55",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Acceso al Museo Provincial",
@@ -15240,7 +15300,7 @@
     "lat": 40.1604914,
     "lng": 15.1550921,
     "source": "osm",
-    "link": "https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=150685&pagename=150685",
+    "link": "https://www.openstreetmap.org/?mlat=40.1604914&mlon=15.1550921#map=16/40.1604914/15.1550921",
     "id": "monumenti-antiquarium-della-chiesa-di-santa-maria",
     "difficolta": "",
     "lunghezza_km": null,
@@ -15249,7 +15309,9 @@
     "frequenza": "",
     "tipo": "chiesa",
     "zona": "cilento",
-    "citta": "Centola"
+    "citta": "Centola",
+    "link_rotto": "https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=150685&pagename=150685",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Anqituarium della Cappella Palatina",
@@ -15257,7 +15319,7 @@
     "lat": 40.1610777,
     "lng": 15.1550463,
     "source": "osm",
-    "link": "https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=150685&pagename=150685",
+    "link": "https://www.openstreetmap.org/?mlat=40.1610777&mlon=15.1550463#map=16/40.1610777/15.1550463",
     "id": "monumenti-anqituarium-della-cappella-palatina",
     "difficolta": "",
     "lunghezza_km": null,
@@ -15266,7 +15328,9 @@
     "frequenza": "",
     "tipo": "chiesa",
     "zona": "cilento",
-    "citta": "Centola"
+    "citta": "Centola",
+    "link_rotto": "https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=150685&pagename=150685",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "MUVIP Camerota",
@@ -15400,7 +15464,7 @@
     "lat": 40.3506775,
     "lng": 14.9854768,
     "source": "osm",
-    "link": "https://www.comune.agropoli.sa.it/palazzo-civico-della-arti/",
+    "link": "https://www.openstreetmap.org/?mlat=40.3506775&mlon=14.9854768#map=16/40.3506775/14.9854768",
     "id": "monumenti-palazzo-civico-delle-arti",
     "difficolta": "",
     "lunghezza_km": null,
@@ -15409,7 +15473,9 @@
     "frequenza": "",
     "tipo": "castello",
     "zona": "cilento",
-    "citta": "Capaccio Paestum"
+    "citta": "Capaccio Paestum",
+    "link_rotto": "https://www.comune.agropoli.sa.it/palazzo-civico-della-arti/",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Buondormire di terra",
@@ -17507,7 +17573,7 @@
     "lat": 40.7509649,
     "lng": 14.4828052,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+the+baker+(VI%2C3%2C3)&idSezione=601",
+    "link": "https://www.openstreetmap.org/?mlat=40.7509649&mlon=14.4828052#map=16/40.7509649/14.4828052",
     "id": "monumenti-casa-del-forno-vi33",
     "difficolta": "",
     "lunghezza_km": null,
@@ -17516,7 +17582,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+the+baker+(VI%2C3%2C3)&idSezione=601",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Bar di Fortunata (VI.3.20)",
@@ -17542,7 +17610,7 @@
     "lat": 40.7484237,
     "lng": 14.4837195,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?idSezione=134",
+    "link": "https://www.openstreetmap.org/?mlat=40.7484237&mlon=14.4837195#map=16/40.7484237/14.4837195",
     "id": "monumenti-tempio-di-venere-viii13",
     "difficolta": "",
     "lunghezza_km": null,
@@ -17551,7 +17619,9 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?idSezione=134",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Cornelivm",
@@ -17613,7 +17683,7 @@
     "lat": 40.7516167,
     "lng": 14.4818647,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Casa+del+Chirurgo+(VI+1%2C9.10)&idSezione=85",
+    "link": "https://www.openstreetmap.org/?mlat=40.7516167&mlon=14.4818647#map=16/40.7516167/14.4818647",
     "id": "monumenti-casa-del-chirurgo-vi110",
     "difficolta": "",
     "lunghezza_km": null,
@@ -17622,7 +17692,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=Casa+del+Chirurgo+(VI+1%2C9.10)&idSezione=85",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Thermopolium e popina di Phoebus (VI.1.18)",
@@ -17648,7 +17720,7 @@
     "lat": 40.7517671,
     "lng": 14.4836964,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+the+Dioscuri+(VI%2C9%2C6)&idSezione=786",
+    "link": "https://www.openstreetmap.org/?mlat=40.7517671&mlon=14.4836964#map=16/40.7517671/14.4836964",
     "id": "monumenti-casa-dei-dioscuri-vi96",
     "difficolta": "",
     "lunghezza_km": null,
@@ -17657,7 +17729,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+the+Dioscuri+(VI%2C9%2C6)&idSezione=786",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Casa dei cinque scheletri",
@@ -17701,7 +17775,7 @@
     "lat": 40.7523925,
     "lng": 14.4786501,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Villa+di+Diomede&idSezione=175",
+    "link": "https://www.openstreetmap.org/?mlat=40.7523925&mlon=14.4786501#map=16/40.7523925/14.4786501",
     "id": "monumenti-villa-di-diomede",
     "difficolta": "",
     "lunghezza_km": null,
@@ -17710,7 +17784,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Torre Annunziata"
+    "citta": "Torre Annunziata",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=Villa+di+Diomede&idSezione=175",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Casa di Romolo e Remo (VII.7.10)",
@@ -17736,7 +17812,7 @@
     "lat": 40.7511103,
     "lng": 14.4853943,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+the+wild+boar+%28VII%2C4%2C48%29&idSezione=593&lookfor=hunt",
+    "link": "https://www.openstreetmap.org/?mlat=40.7511103&mlon=14.4853943#map=16/40.7511103/14.4853943",
     "id": "monumenti-casa-della-caccia-antica-vii448",
     "difficolta": "",
     "lunghezza_km": null,
@@ -17745,7 +17821,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+the+wild+boar+%28VII%2C4%2C48%29&idSezione=593&lookfor=hunt",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Ruderi Castello Medievale",
@@ -18041,7 +18119,7 @@
     "lat": 40.7486758,
     "lng": 14.4827788,
     "source": "osm",
-    "link": "https://pompeiisites.org/Sezione.jsp?idSezione=151",
+    "link": "https://www.openstreetmap.org/?mlat=40.7486758&mlon=14.4827788#map=16/40.7486758/14.4827788",
     "id": "monumenti-terme-suburbane",
     "difficolta": "",
     "lunghezza_km": null,
@@ -18050,7 +18128,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "https://pompeiisites.org/Sezione.jsp?idSezione=151",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Quadriportico dei Teatri (VIII.7.16)",
@@ -18076,7 +18156,7 @@
     "lat": 40.7493086,
     "lng": 14.4886183,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Tempio+di+Asclepio+(Giove+Meilichio%3A+VIII%2C7%2C25)&idSezione=130",
+    "link": "https://www.openstreetmap.org/?mlat=40.7493086&mlon=14.4886183#map=16/40.7493086/14.4886183",
     "id": "monumenti-tempio-di-asclepio-viii725",
     "difficolta": "",
     "lunghezza_km": null,
@@ -18085,7 +18165,9 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=Tempio+di+Asclepio+(Giove+Meilichio%3A+VIII%2C7%2C25)&idSezione=130",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Necropoli di Porta Ercolano",
@@ -18093,7 +18175,7 @@
     "lat": 40.7523434,
     "lng": 14.4800602,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Necropolis+of+Porta+Ercolano&idSezione=686",
+    "link": "https://www.openstreetmap.org/?mlat=40.7523434&mlon=14.4800602#map=16/40.7523434/14.4800602",
     "id": "monumenti-necropoli-di-porta-ercolano",
     "difficolta": "",
     "lunghezza_km": null,
@@ -18102,7 +18184,9 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=Necropolis+of+Porta+Ercolano&idSezione=686",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Casa del Principe di Napoli (VI.15.8)",
@@ -18110,7 +18194,7 @@
     "lat": 40.7526256,
     "lng": 14.4843524,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Casa+del+Principe+di+Napoli+(VI+15%2C+7-8)&idSezione=6894",
+    "link": "https://www.openstreetmap.org/?mlat=40.7526256&mlon=14.4843524#map=16/40.7526256/14.4843524",
     "id": "monumenti-casa-del-principe-di-napoli-vi158",
     "difficolta": "",
     "lunghezza_km": null,
@@ -18119,7 +18203,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=Casa+del+Principe+di+Napoli+(VI+15%2C+7-8)&idSezione=6894",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Casa di Marco Lucrezio Frontone (V.4.A)",
@@ -18181,7 +18267,7 @@
     "lat": 40.7502861,
     "lng": 14.4891237,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Pompeii%2C+Fullonica+of+Stephanus&idSezione=4996",
+    "link": "https://www.openstreetmap.org/?mlat=40.7502861&mlon=14.4891237#map=16/40.7502861/14.4891237",
     "id": "monumenti-fullonica-di-stephanus-i67",
     "difficolta": "",
     "lunghezza_km": null,
@@ -18190,7 +18276,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=Pompeii%2C+Fullonica+of+Stephanus&idSezione=4996",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Il Castello",
@@ -18558,7 +18646,7 @@
     "lat": 40.7328029,
     "lng": 14.6042778,
     "source": "osm",
-    "link": "https://it.wikipedia.org/wiki/Acquedotto_Romano_di_Sant'Egidio",
+    "link": "https://www.openstreetmap.org/?mlat=40.7328029&mlon=14.6042778#map=16/40.7328029/14.6042778",
     "id": "monumenti-acquedotto-romano",
     "difficolta": "",
     "lunghezza_km": null,
@@ -18567,7 +18655,9 @@
     "frequenza": "",
     "tipo": "fonte",
     "zona": "salerno",
-    "citta": "Sant'Egidio del Monte Albino"
+    "citta": "Sant'Egidio del Monte Albino",
+    "link_rotto": "https://it.wikipedia.org/wiki/Acquedotto_Romano_di_Sant'Egidio",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Casa dei Cubicoli Floreali (I.9.5)",
@@ -19835,7 +19925,7 @@
     "lat": 40.4198857,
     "lng": 15.0059352,
     "source": "osm",
-    "link": "https://www.museopaestum.beniculturali.it",
+    "link": "https://www.openstreetmap.org/?mlat=40.4198857&mlon=15.0059352#map=16/40.4198857/15.0059352",
     "id": "monumenti-altare-del-tempio-di-nettuno",
     "difficolta": "",
     "lunghezza_km": null,
@@ -19844,7 +19934,9 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "cilento",
-    "citta": "Capaccio Paestum"
+    "citta": "Capaccio Paestum",
+    "link_rotto": "https://www.museopaestum.beniculturali.it",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Altare romano del tempio di Nettuno",
@@ -19852,7 +19944,7 @@
     "lat": 40.4198951,
     "lng": 15.0061243,
     "source": "osm",
-    "link": "https://www.museopaestum.beniculturali.it",
+    "link": "https://www.openstreetmap.org/?mlat=40.4198951&mlon=15.0061243#map=16/40.4198951/15.0061243",
     "id": "monumenti-altare-romano-del-tempio-di-nettuno",
     "difficolta": "",
     "lunghezza_km": null,
@@ -19861,7 +19953,9 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "cilento",
-    "citta": "Capaccio Paestum"
+    "citta": "Capaccio Paestum",
+    "link_rotto": "https://www.museopaestum.beniculturali.it",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Altare del tempio di Hera",
@@ -19941,7 +20035,7 @@
     "lat": 40.4244764,
     "lng": 15.0060052,
     "source": "osm",
-    "link": "https://www.museopaestum.beniculturali.it",
+    "link": "https://www.openstreetmap.org/?mlat=40.4244764&mlon=15.0060052#map=16/40.4244764/15.0060052",
     "id": "monumenti-altare-del-tempio-di-atena",
     "difficolta": "",
     "lunghezza_km": null,
@@ -19950,7 +20044,9 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "cilento",
-    "citta": "Capaccio Paestum"
+    "citta": "Capaccio Paestum",
+    "link_rotto": "https://www.museopaestum.beniculturali.it",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Cenotafio di Palinuro",
@@ -21147,7 +21243,7 @@
     "lat": 40.7518125,
     "lng": 14.4927848,
     "source": "osm",
-    "link": "https://pompeiisites.org/Sezione.jsp?titolo=Casa+della+Venere+in+Conchiglia+(II+3%2C3)&idSezione=73",
+    "link": "https://www.openstreetmap.org/?mlat=40.7518125&mlon=14.4927848#map=16/40.7518125/14.4927848",
     "id": "monumenti-casa-della-venere-in-conchiglia-ii33",
     "difficolta": "",
     "lunghezza_km": null,
@@ -21156,7 +21252,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "https://pompeiisites.org/Sezione.jsp?titolo=Casa+della+Venere+in+Conchiglia+(II+3%2C3)&idSezione=73",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Casa di Pinarius Cerialis e Cassia (III.4.B)",
@@ -21308,7 +21406,7 @@
     "lat": 40.4215111,
     "lng": 15.0041345,
     "source": "osm",
-    "link": "https://www.museopaestum.beniculturali.it/",
+    "link": "https://www.openstreetmap.org/?mlat=40.4215111&mlon=15.0041345#map=16/40.4215111/15.0041345",
     "id": "monumenti-sito-archeologico-di-paestum",
     "difficolta": "",
     "lunghezza_km": null,
@@ -21317,7 +21415,9 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "cilento",
-    "citta": "Capaccio Paestum"
+    "citta": "Capaccio Paestum",
+    "link_rotto": "https://www.museopaestum.beniculturali.it/",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Sito archeologico di Elea-Velia",
@@ -21325,7 +21425,7 @@
     "lat": 40.1605024,
     "lng": 15.1568281,
     "source": "osm",
-    "link": "https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=150685&pagename=157031",
+    "link": "https://www.openstreetmap.org/?mlat=40.1605024&mlon=15.1568281#map=16/40.1605024/15.1568281",
     "id": "monumenti-sito-archeologico-di-elea-velia",
     "difficolta": "",
     "lunghezza_km": null,
@@ -21334,7 +21434,9 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "cilento",
-    "citta": "Centola"
+    "citta": "Centola",
+    "link_rotto": "https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=150685&pagename=157031",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Sito archeologico di Pontecagnano",
@@ -21414,7 +21516,7 @@
     "lat": 40.1601726,
     "lng": 15.1567353,
     "source": "osm",
-    "link": "https://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Eventi/visualizza_asset.html_1806741574.html",
+    "link": "https://www.openstreetmap.org/?mlat=40.1601726&mlon=15.1567353#map=16/40.1601726/15.1567353",
     "id": "monumenti-casa-degli-affreschi",
     "difficolta": "",
     "lunghezza_km": null,
@@ -21423,7 +21525,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "cilento",
-    "citta": "Centola"
+    "citta": "Centola",
+    "link_rotto": "https://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Eventi/visualizza_asset.html_1806741574.html",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Santuario di Asclepio",
@@ -21737,7 +21841,7 @@
     "lat": 40.7503359,
     "lng": 14.4841235,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Forum+Baths+%28VII%2C5%2C24%29&idSezione=664&lookfor=forum%20baths",
+    "link": "https://www.openstreetmap.org/?mlat=40.7503359&mlon=14.4841235#map=16/40.7503359/14.4841235",
     "id": "monumenti-terme-del-foro-vii52",
     "difficolta": "",
     "lunghezza_km": null,
@@ -21746,7 +21850,9 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=Forum+Baths+%28VII%2C5%2C24%29&idSezione=664&lookfor=forum%20baths",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Monasterio",
@@ -21772,7 +21878,7 @@
     "lat": 40.7501251,
     "lng": 14.4845569,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Memorial+Arches&idSezione=2306&lookfor=forum",
+    "link": "https://www.openstreetmap.org/?mlat=40.7501251&mlon=14.4845569#map=16/40.7501251/14.4845569",
     "id": "monumenti-arco-onorario",
     "difficolta": "",
     "lunghezza_km": null,
@@ -21781,7 +21887,9 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=Memorial+Arches&idSezione=2306&lookfor=forum",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Arco di Caligola",
@@ -22077,7 +22185,7 @@
     "lat": 40.7487369,
     "lng": 14.4844795,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Basilica+%28VIII%2C1%2C1%29&idSezione=2305&lookfor=basilica",
+    "link": "https://www.openstreetmap.org/?mlat=40.7487369&mlon=14.4844795#map=16/40.7487369/14.4844795",
     "id": "monumenti-basilica-di-pompei-viii11",
     "difficolta": "",
     "lunghezza_km": null,
@@ -22086,7 +22194,9 @@
     "frequenza": "",
     "tipo": "chiesa",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=Basilica+%28VIII%2C1%2C1%29&idSezione=2305&lookfor=basilica",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Lupanare (VII.12.18)",
@@ -22112,7 +22222,7 @@
     "lat": 40.7492133,
     "lng": 14.4844162,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=the%20eruption%20of%20vesuvious&idSezione=135",
+    "link": "https://www.openstreetmap.org/?mlat=40.7492133&mlon=14.4844162#map=16/40.7492133/14.4844162",
     "id": "monumenti-tempio-di-apollo",
     "difficolta": "",
     "lunghezza_km": null,
@@ -22121,7 +22231,9 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=the%20eruption%20of%20vesuvious&idSezione=135",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Granai del Foro (VII.7.29)",
@@ -22129,7 +22241,7 @@
     "lat": 40.749639,
     "lng": 14.4842167,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Forum+granary+%28VII%2C7%2C29%29&idSezione=2317&lookfor=forum",
+    "link": "https://www.openstreetmap.org/?mlat=40.749639&mlon=14.4842167#map=16/40.749639/14.4842167",
     "id": "monumenti-granai-del-foro-vii729",
     "difficolta": "",
     "lunghezza_km": null,
@@ -22138,7 +22250,9 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=Forum+granary+%28VII%2C7%2C29%29&idSezione=2317&lookfor=forum",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Mensa Ponderaria (VII.7.31)",
@@ -22146,7 +22260,7 @@
     "lat": 40.7494612,
     "lng": 14.484267,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Mensa+ponderaria+%28VII%2C7%2C31%29&idSezione=637",
+    "link": "https://www.openstreetmap.org/?mlat=40.7494612&mlon=14.484267#map=16/40.7494612/14.484267",
     "id": "monumenti-mensa-ponderaria-vii731",
     "difficolta": "",
     "lunghezza_km": null,
@@ -22155,7 +22269,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=Mensa+ponderaria+%28VII%2C7%2C31%29&idSezione=637",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Terme Stabiane (VII.1.8)",
@@ -22199,7 +22315,7 @@
     "lat": 40.7494174,
     "lng": 14.4855878,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?idSezione=126",
+    "link": "https://www.openstreetmap.org/?mlat=40.7494174&mlon=14.4855878#map=16/40.7494174/14.4855878",
     "id": "monumenti-edificio-di-eumachia-vii91",
     "difficolta": "",
     "lunghezza_km": null,
@@ -22208,7 +22324,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?idSezione=126",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Casa del Fauno",
@@ -22288,7 +22406,7 @@
     "lat": 40.749947,
     "lng": 14.4845076,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Tempio+di+Giove+(VII%2C8%2C1)&idSezione=133",
+    "link": "https://www.openstreetmap.org/?mlat=40.749947&mlon=14.4845076#map=16/40.749947/14.4845076",
     "id": "monumenti-tempio-di-giove-vii81",
     "difficolta": "",
     "lunghezza_km": null,
@@ -22297,7 +22415,9 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=Tempio+di+Giove+(VII%2C8%2C1)&idSezione=133",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Casa delle Forme di Terracotta (VII.4.62)",
@@ -22449,7 +22569,7 @@
     "lat": 40.7526832,
     "lng": 14.484774,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Casa+dell%27Ara+Massima+(VI+16%2C+15-17)&idSezione=6895",
+    "link": "https://www.openstreetmap.org/?mlat=40.7526832&mlon=14.484774#map=16/40.7526832/14.484774",
     "id": "monumenti-casa-dellara-massima-vi1615",
     "difficolta": "",
     "lunghezza_km": null,
@@ -22458,7 +22578,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=Casa+dell%27Ara+Massima+(VI+16%2C+15-17)&idSezione=6895",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Monumenti funerari di piazza del Corso",
@@ -22826,7 +22948,7 @@
     "lat": 40.7507135,
     "lng": 14.484412,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Temple+of+Fortuna+Augusta+%28VII%2C4%2C1%29&idSezione=652&lookfor=Fortuna%20Augusta",
+    "link": "https://www.openstreetmap.org/?mlat=40.7507135&mlon=14.484412#map=16/40.7507135/14.484412",
     "id": "monumenti-tempio-della-fortuna-augusta",
     "difficolta": "",
     "lunghezza_km": null,
@@ -22835,7 +22957,9 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=Temple+of+Fortuna+Augusta+%28VII%2C4%2C1%29&idSezione=652&lookfor=Fortuna%20Augusta",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Casa dei mosaici geometrici (VIII.2.16)",
@@ -22843,7 +22967,7 @@
     "lat": 40.7483552,
     "lng": 14.4851951,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+the+geometric+mosaics+(VIII%2C2%2C14-16)&idSezione=597",
+    "link": "https://www.openstreetmap.org/?mlat=40.7483552&mlon=14.4851951#map=16/40.7483552/14.4851951",
     "id": "monumenti-casa-dei-mosaici-geometrici-viii216",
     "difficolta": "",
     "lunghezza_km": null,
@@ -22852,7 +22976,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+the+geometric+mosaics+(VIII%2C2%2C14-16)&idSezione=597",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Casa di M. Obellius Firmus (IX.14.4)",
@@ -22932,7 +23058,7 @@
     "lat": 40.7524028,
     "lng": 14.4828527,
     "source": "osm",
-    "link": "https://pompeiisites.org/Sezione.jsp?titolo=Casa+di+Apollo+(VI+7%2C23)&idSezione=288",
+    "link": "https://www.openstreetmap.org/?mlat=40.7524028&mlon=14.4828527#map=16/40.7524028/14.4828527",
     "id": "monumenti-casa-di-apollo-vi723",
     "difficolta": "",
     "lunghezza_km": null,
@@ -22941,7 +23067,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "https://pompeiisites.org/Sezione.jsp?titolo=Casa+di+Apollo+(VI+7%2C23)&idSezione=288",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Terme centrali di Pompei",
@@ -22949,7 +23077,7 @@
     "lat": 40.7515503,
     "lng": 14.4867771,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Terme+centrali+(IX%2C4%2C5-18)&idSezione=150",
+    "link": "https://www.openstreetmap.org/?mlat=40.7515503&mlon=14.4867771#map=16/40.7515503/14.4867771",
     "id": "monumenti-terme-centrali-di-pompei",
     "difficolta": "",
     "lunghezza_km": null,
@@ -22958,7 +23086,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=Terme+centrali+(IX%2C4%2C5-18)&idSezione=150",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Casa del Citarista (I.4.25)",
@@ -23002,7 +23132,7 @@
     "lat": 40.7493293,
     "lng": 14.4848509,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Forum+%28VII%2C8%29&idSezione=2303&lookfor=forum",
+    "link": "https://www.openstreetmap.org/?mlat=40.7493293&mlon=14.4848509#map=16/40.7493293/14.4848509",
     "id": "monumenti-foro-di-pompei-vii8",
     "difficolta": "",
     "lunghezza_km": null,
@@ -23011,7 +23141,9 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=Forum+%28VII%2C8%29&idSezione=2303&lookfor=forum",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Mulino ad acqua",
@@ -23199,7 +23331,7 @@
     "lat": 40.1265273,
     "lng": 15.4466513,
     "source": "osm",
-    "link": "https://www.comune.roccagloriosa.sa.it/index.php?action=index&p=340",
+    "link": "https://www.openstreetmap.org/?mlat=40.1265273&mlon=15.4466513#map=16/40.1265273/15.4466513",
     "id": "monumenti-area-archeologica-roccagloriosa",
     "difficolta": "",
     "lunghezza_km": null,
@@ -23208,7 +23340,9 @@
     "frequenza": "",
     "tipo": "castello",
     "zona": "salerno",
-    "citta": "Laurito"
+    "citta": "Laurito",
+    "link_rotto": "https://www.comune.roccagloriosa.sa.it/index.php?action=index&p=340",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Rovine del Castello di Molpa",
@@ -23252,7 +23386,7 @@
     "lat": 40.7511967,
     "lng": 14.4826103,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Casa+di+Sallustio+(VI+2%2C4)&idSezione=81",
+    "link": "https://www.openstreetmap.org/?mlat=40.7511967&mlon=14.4826103#map=16/40.7511967/14.4826103",
     "id": "monumenti-casa-di-sallustio-vi24",
     "difficolta": "",
     "lunghezza_km": null,
@@ -23261,7 +23395,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=Casa+di+Sallustio+(VI+2%2C4)&idSezione=81",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Casa delle colonne cilindriche (I.16.2)",
@@ -23413,7 +23549,7 @@
     "lat": 40.7507621,
     "lng": 14.4902808,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Thermopolium+of+Vetutius+Placidus+(I%2C8%2C8)&idSezione=2313",
+    "link": "https://www.openstreetmap.org/?mlat=40.7507621&mlon=14.4902808#map=16/40.7507621/14.4902808",
     "id": "monumenti-caupona-di-lucius-betutius-placidus-i88",
     "difficolta": "",
     "lunghezza_km": null,
@@ -23422,7 +23558,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=Thermopolium+of+Vetutius+Placidus+(I%2C8%2C8)&idSezione=2313",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Casa della Statuetta Indiana (I.8.5)",
@@ -23646,7 +23784,7 @@
     "lat": 40.7508288,
     "lng": 14.483308,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+Pansa+(VI%2C6%2C1)&idSezione=595",
+    "link": "https://www.openstreetmap.org/?mlat=40.7508288&mlon=14.483308#map=16/40.7508288/14.483308",
     "id": "monumenti-casa-di-pansa-vi61",
     "difficolta": "",
     "lunghezza_km": null,
@@ -23655,7 +23793,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+Pansa+(VI%2C6%2C1)&idSezione=595",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Casa di Minucius (I.10.8)",
@@ -25697,7 +25837,7 @@
     "lat": 40.7482865,
     "lng": 14.4879886,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Doric+temple+%28VIII%2C7%2C30-34%29&idSezione=2330",
+    "link": "https://www.openstreetmap.org/?mlat=40.7482865&mlon=14.4879886#map=16/40.7482865/14.4879886",
     "id": "monumenti-tempioa-dorico--santuario-di-atena-ed-eracle-viii7",
     "difficolta": "",
     "lunghezza_km": null,
@@ -25706,7 +25846,9 @@
     "frequenza": "",
     "tipo": "chiesa",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=Doric+temple+%28VIII%2C7%2C30-34%29&idSezione=2330",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Bottega (VIII.4.28)",
@@ -27406,7 +27548,7 @@
     "lat": 40.7491818,
     "lng": 14.4882708,
     "source": "osm",
-    "link": "http://cir.campania.beniculturali.it/museoarcheologiconazionale/percorso/nel-museo/P_RA24",
+    "link": "https://www.openstreetmap.org/?mlat=40.7491818&mlon=14.4882708#map=16/40.7491818/14.4882708",
     "id": "monumenti-tempio-diside-viii728",
     "difficolta": "",
     "lunghezza_km": null,
@@ -27415,7 +27557,9 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://cir.campania.beniculturali.it/museoarcheologiconazionale/percorso/nel-museo/P_RA24",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Arco canale e mulino Quiroga",
@@ -28017,7 +28161,7 @@
     "lat": 40.7537173,
     "lng": 14.4775307,
     "source": "osm",
-    "link": "https://www.pompeiisites.org/Sezione.jsp?titolo=I+misteri+e+la+Villa+dei+Misteri&idSezione=6958",
+    "link": "https://www.openstreetmap.org/?mlat=40.7537173&mlon=14.4775307#map=16/40.7537173/14.4775307",
     "id": "monumenti-villa-dei-misteri",
     "difficolta": "",
     "lunghezza_km": null,
@@ -28026,7 +28170,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Torre Annunziata"
+    "citta": "Torre Annunziata",
+    "link_rotto": "https://www.pompeiisites.org/Sezione.jsp?titolo=I+misteri+e+la+Villa+dei+Misteri&idSezione=6958",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Scavi Archeologici di Boscoreale",
@@ -28360,7 +28506,7 @@
     "lat": 40.7485135,
     "lng": 14.4881374,
     "source": "osm",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Foro+triangolare+e+Tempio+dorico+%28VIII%2C7%2C30-34%29&idSezione=136",
+    "link": "https://www.openstreetmap.org/?mlat=40.7485135&mlon=14.4881374#map=16/40.7485135/14.4881374",
     "id": "monumenti-foro-triangolare-viii730",
     "difficolta": "",
     "lunghezza_km": null,
@@ -28369,7 +28515,9 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "salerno",
-    "citta": "Pompei"
+    "citta": "Pompei",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=Foro+triangolare+e+Tempio+dorico+%28VIII%2C7%2C30-34%29&idSezione=136",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Balnea",
@@ -33508,10 +33656,12 @@
     "source": "osm",
     "osm_id": 220170605,
     "osm_type": "way",
-    "link": "https://it.wikipedia.org/wiki/Chiesa_del_Santissimo_Redentore_(Ercolano)",
+    "link": "https://www.openstreetmap.org/?mlat=40.8022285&mlon=14.3622577#map=16/40.8022285/14.3622577",
     "zona": "salerno",
     "tipo": "chiesa",
-    "citta": "Boscotrecase"
+    "citta": "Boscotrecase",
+    "link_rotto": "https://it.wikipedia.org/wiki/Chiesa_del_Santissimo_Redentore_(Ercolano)",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "osm-220906376",
@@ -34783,10 +34933,12 @@
     "source": "osm",
     "osm_id": 744977390,
     "osm_type": "way",
-    "link": "https://sangiuseppeemadonnadilourdes.it/",
+    "link": "https://www.openstreetmap.org/?mlat=40.8404444&mlon=14.3066798#map=16/40.8404444/14.3066798",
     "zona": "salerno",
     "tipo": "chiesa",
-    "citta": "Boscotrecase"
+    "citta": "Boscotrecase",
+    "link_rotto": "https://sangiuseppeemadonnadilourdes.it/",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "osm-744977564",
@@ -36777,10 +36929,12 @@
     "source": "osm",
     "osm_id": 1246664053,
     "osm_type": "node",
-    "link": "http://www.polomusealecampania.beniculturali.it/index.php/il-museo-eboli",
+    "link": "https://www.openstreetmap.org/?mlat=40.6186397&mlon=15.0566203#map=16/40.6186397/15.0566203",
     "zona": "salerno",
     "tipo": "museo",
-    "citta": "Eboli"
+    "citta": "Eboli",
+    "link_rotto": "http://www.polomusealecampania.beniculturali.it/index.php/il-museo-eboli",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "osm-1334392734",
@@ -36806,10 +36960,12 @@
     "source": "osm",
     "osm_id": 1436199334,
     "osm_type": "node",
-    "link": "http://www.polomusealecampania.beniculturali.it/index.php/il-museo-montella",
+    "link": "https://www.openstreetmap.org/?mlat=40.8495348&mlon=15.0481924#map=16/40.8495348/15.0481924",
     "zona": "salerno",
     "tipo": "museo",
-    "citta": "Campagna"
+    "citta": "Campagna",
+    "link_rotto": "http://www.polomusealecampania.beniculturali.it/index.php/il-museo-montella",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "osm-1610893898",
@@ -36865,10 +37021,12 @@
     "source": "osm",
     "osm_id": 2265264378,
     "osm_type": "node",
-    "link": "https://musei.beniculturali.it/musei?mid=74&nome=museo-archeologico-nazionale-di-muro-lucano",
+    "link": "https://www.openstreetmap.org/?mlat=40.7533257&mlon=15.4883444#map=16/40.7533257/15.4883444",
     "zona": "salerno",
     "tipo": "museo",
-    "citta": "Teora"
+    "citta": "Teora",
+    "link_rotto": "https://musei.beniculturali.it/musei?mid=74&nome=museo-archeologico-nazionale-di-muro-lucano",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "osm-2381507161",
@@ -36969,10 +37127,12 @@
     "source": "osm",
     "osm_id": 3581704750,
     "osm_type": "node",
-    "link": "http://www.polomusealecampania.beniculturali.it/index.php/il-museo-gvallet",
+    "link": "https://www.openstreetmap.org/?mlat=40.6380322&mlon=14.4020984#map=16/40.6380322/14.4020984",
     "zona": "salerno",
     "tipo": "museo",
-    "citta": "Sorrento"
+    "citta": "Sorrento",
+    "link_rotto": "http://www.polomusealecampania.beniculturali.it/index.php/il-museo-gvallet",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "osm-3657245231",
@@ -37044,10 +37204,12 @@
     "source": "osm",
     "osm_id": 4340367751,
     "osm_type": "node",
-    "link": "http://polomusealecampania.beniculturali.it/index.php/il-museo-pontecagnano",
+    "link": "https://www.openstreetmap.org/?mlat=40.6401119&mlon=14.8791815#map=16/40.6401119/14.8791815",
     "zona": "salerno",
     "tipo": "museo",
-    "citta": "Pontecagnano Faiano"
+    "citta": "Pontecagnano Faiano",
+    "link_rotto": "http://polomusealecampania.beniculturali.it/index.php/il-museo-pontecagnano",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "osm-4401712099",
@@ -37118,10 +37280,12 @@
     "source": "osm",
     "osm_id": 6718393565,
     "osm_type": "node",
-    "link": "http://www.polomusealecampania.beniculturali.it/index.php/il-museo-sarno",
+    "link": "https://www.openstreetmap.org/?mlat=40.8125952&mlon=14.6222783#map=16/40.8125952/14.6222783",
     "zona": "salerno",
     "tipo": "museo",
-    "citta": "Siano"
+    "citta": "Siano",
+    "link_rotto": "http://www.polomusealecampania.beniculturali.it/index.php/il-museo-sarno",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "osm-7069942609",
@@ -37327,10 +37491,12 @@
     "source": "osm",
     "osm_id": 107830986,
     "osm_type": "way",
-    "link": "https://www.museopaestum.beniculturali.it/",
+    "link": "https://www.openstreetmap.org/?mlat=40.4234463&mlon=15.0074197#map=16/40.4234463/15.0074197",
     "zona": "cilento",
     "tipo": "museo",
-    "citta": "Capaccio Paestum"
+    "citta": "Capaccio Paestum",
+    "link_rotto": "https://www.museopaestum.beniculturali.it/",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "osm-109261164",
@@ -37402,10 +37568,12 @@
     "source": "osm",
     "osm_id": 273425666,
     "osm_type": "way",
-    "link": "http://www.museibiblioteche.provincia.salerno.it/index.php?option=com_content&view=article&id=15&Itemid=115&lang=it",
+    "link": "https://www.openstreetmap.org/?mlat=40.7468742&mlon=14.6459262#map=16/40.7468742/14.6459262",
     "zona": "salerno",
     "tipo": "museo",
-    "citta": "Nocera Inferiore"
+    "citta": "Nocera Inferiore",
+    "link_rotto": "http://www.museibiblioteche.provincia.salerno.it/index.php?option=com_content&view=article&id=15&Itemid=115&lang=it",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "osm-275037403",
@@ -37748,10 +37916,12 @@
     "source": "osm",
     "osm_id": 2662236954,
     "osm_type": "node",
-    "link": "http://www.cir.campania.beniculturali.it/luoghi-della-cultura/ercolano-teatro-romano",
+    "link": "https://www.openstreetmap.org/?mlat=40.8082328&mlon=14.3477597#map=16/40.8082328/14.3477597",
     "zona": "salerno",
     "tipo": "archeologico",
-    "citta": "Boscotrecase"
+    "citta": "Boscotrecase",
+    "link_rotto": "http://www.cir.campania.beniculturali.it/luoghi-della-cultura/ercolano-teatro-romano",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "osm-2681105204",
@@ -37912,10 +38082,12 @@
     "source": "osm",
     "osm_id": 168362546,
     "osm_type": "way",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Sede+degli+Augustali+(VI%2C21+E+24)&idSezione=204",
+    "link": "https://www.openstreetmap.org/?mlat=40.8067321&mlon=14.3478164#map=16/40.8067321/14.3478164",
     "zona": "salerno",
     "tipo": "altro",
-    "citta": "Boscotrecase"
+    "citta": "Boscotrecase",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=Sede+degli+Augustali+(VI%2C21+E+24)&idSezione=204",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "osm-201012570",
@@ -38076,10 +38248,12 @@
     "source": "osm",
     "osm_id": 303765631,
     "osm_type": "way",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?idSezione=149",
+    "link": "https://www.openstreetmap.org/?mlat=40.8063883&mlon=14.3474612#map=16/40.8063883/14.3474612",
     "zona": "salerno",
     "tipo": "archeologico",
-    "citta": "Boscotrecase"
+    "citta": "Boscotrecase",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?idSezione=149",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "osm-304680692",
@@ -38345,10 +38519,12 @@
     "source": "osm",
     "osm_id": 310364908,
     "osm_type": "way",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=La+terrazza+di+M.Nonio+Balbo+(Terrazza+Meridionale%2C+2)&idSezione=222",
+    "link": "https://www.openstreetmap.org/?mlat=40.8053266&mlon=14.3466466#map=16/40.8053266/14.3466466",
     "zona": "salerno",
     "tipo": "archeologico",
-    "citta": "Boscotrecase"
+    "citta": "Boscotrecase",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=La+terrazza+di+M.Nonio+Balbo+(Terrazza+Meridionale%2C+2)&idSezione=222",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "osm-310367639",
@@ -38569,10 +38745,12 @@
     "source": "osm",
     "osm_id": 311209135,
     "osm_type": "way",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=banca%20dati&idSezione=180",
+    "link": "https://www.openstreetmap.org/?mlat=40.8056844&mlon=14.3467338#map=16/40.8056844/14.3467338",
     "zona": "salerno",
     "tipo": "altro",
-    "citta": "Boscotrecase"
+    "citta": "Boscotrecase",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=banca%20dati&idSezione=180",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "osm-314801027",
@@ -38643,10 +38821,12 @@
     "source": "osm",
     "osm_id": 321565894,
     "osm_type": "way",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=newsletter&idSezione=186",
+    "link": "https://www.openstreetmap.org/?mlat=40.8061059&mlon=14.3459862#map=16/40.8061059/14.3459862",
     "zona": "salerno",
     "tipo": "altro",
-    "citta": "Boscotrecase"
+    "citta": "Boscotrecase",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=newsletter&idSezione=186",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "osm-321565896",
@@ -38657,10 +38837,12 @@
     "source": "osm",
     "osm_id": 321565896,
     "osm_type": "way",
-    "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=La+casa+del+Genio&idSezione=184",
+    "link": "https://www.openstreetmap.org/?mlat=40.8063612&mlon=14.3465661#map=16/40.8063612/14.3465661",
     "zona": "salerno",
     "tipo": "altro",
-    "citta": "Boscotrecase"
+    "citta": "Boscotrecase",
+    "link_rotto": "http://www.pompeiisites.org/Sezione.jsp?titolo=La+casa+del+Genio&idSezione=184",
+    "last_verified": "2026-09-07"
   },
   {
     "id": "osm-321566027",

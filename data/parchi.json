@@ -5,7 +5,7 @@
     "lat": 40.2833,
     "lng": 15.1667,
     "source": "hand-written",
-    "link": "https://www.parcocesto.it",
+    "link": "https://www.openstreetmap.org/?mlat=40.2833&mlon=15.1667#map=16/40.2833/15.1667",
     "id": "parco-cilento",
     "difficolta": "",
     "lunghezza_km": null,
@@ -14,7 +14,9 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "salerno",
-    "citta": "Omignano"
+    "citta": "Omignano",
+    "link_rotto": "https://www.parcocesto.it",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Parco Naturale delle Ferriere",
@@ -22,7 +24,7 @@
     "lat": 40.6356,
     "lng": 14.6007,
     "source": "hand-written",
-    "link": "https://www.parcoamalfi.it",
+    "link": "https://www.openstreetmap.org/?mlat=40.6356&mlon=14.6007#map=16/40.6356/14.6007",
     "id": "parco-ferriere",
     "difficolta": "",
     "lunghezza_km": null,
@@ -31,7 +33,9 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "costiera",
-    "citta": "Amalfi"
+    "citta": "Amalfi",
+    "link_rotto": "https://www.parcoamalfi.it",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Riserva Naturale Costiera Amalfitana",
@@ -39,7 +43,7 @@
     "lat": 40.6333,
     "lng": 14.6,
     "source": "hand-written",
-    "link": "https://www.parcoamalfi.it",
+    "link": "https://www.openstreetmap.org/?mlat=40.6333&mlon=14.6#map=16/40.6333/14.6",
     "id": "riserva-costiera",
     "difficolta": "",
     "lunghezza_km": null,
@@ -48,7 +52,9 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "costiera",
-    "citta": "Amalfi"
+    "citta": "Amalfi",
+    "link_rotto": "https://www.parcoamalfi.it",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Area Marina Protetta Costa degli Infreschi e della Masseta",
@@ -56,7 +62,7 @@
     "lat": 40.033,
     "lng": 15.378,
     "source": "hand-written",
-    "link": "https://www.parcocesto.it",
+    "link": "https://www.openstreetmap.org/?mlat=40.033&mlon=15.378#map=16/40.033/15.378",
     "id": "area-marina-infreschi",
     "difficolta": "",
     "lunghezza_km": null,
@@ -65,7 +71,9 @@
     "frequenza": "",
     "tipo": "spiaggia",
     "zona": "salerno",
-    "citta": "San Giovanni a Piro"
+    "citta": "San Giovanni a Piro",
+    "link_rotto": "https://www.parcocesto.it",
+    "last_verified": "2026-09-07"
   },
   {
     "nome": "Tenuta Castelluccio Gole del Cervati",

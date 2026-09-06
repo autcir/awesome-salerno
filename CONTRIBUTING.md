@@ -126,7 +126,10 @@ Ogni PR viene verificato automaticamente:
 3. **GPS bounds check** - Controlla che le coordinate siano nel range corretto
 4. **Link check** - Ogni lunedi `scripts/verify_links.py` controlla i link
    esterni, aggiorna il campo `last_verified` di ogni voce e apre una issue
-   `needs-verification` con quelli rotti (report in `data/broken_links.json`)
+   `needs-verification` con quelli rotti (report in `data/broken_links.json`).
+   Il workflow non riscrive i link da solo: `python3 scripts/verify_links.py --fix`
+   sostituisce quelli morti col link OpenStreetMap generato dalle coordinate,
+   ma va lanciato a mano dopo aver guardato il report
 
 ## Issue
 

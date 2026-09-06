@@ -51,6 +51,10 @@ Ogni voce porta il campo `last_verified` (`YYYY-MM-DD`).
   `scripts/verify_links.py`.
 - I link rotti finiscono in `data/broken_links.json` e in una issue aperta
   automaticamente con label `needs-verification`.
+- Un link morto viene sostituito a mano (`python3 scripts/verify_links.py --fix`)
+  con il link OpenStreetMap generato dalle coordinate della voce; l'URL
+  originale resta nel campo `link_rotto` per poterlo ripristinare se torna
+  online. Il workflow settimanale non lo fa da solo: segnala e basta.
 - Una voce non verificata da oltre **180 giorni** e' candidata alla rimozione.
 
 Sul sito, una voce verificata da oltre 180 giorni mostra il badge

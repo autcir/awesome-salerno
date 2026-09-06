@@ -4492,7 +4492,7 @@
         "quartiere": null,
         "tipo": "sentiero",
         "link": "https://www.alltrails.com/trail/italy/campania/sentiero-dei-limoni",
-        "last_verified": null
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -4597,7 +4597,7 @@
         "quartiere": null,
         "tipo": "sentiero",
         "link": "https://www.alltrails.com/it-it/sentiero/italy/campania/cetara-erchie-via-sentiero-del-limoneti",
-        "last_verified": null
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -4659,8 +4659,8 @@
         "citta": "Sessa Cilento",
         "quartiere": null,
         "tipo": "sentiero",
-        "link": "https://www.cilentolifestyle.it/trekking-sentiero-del-monte-stella/",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.2438&mlon=15.085#map=16/40.2438/15.085",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -5101,27 +5101,6 @@
         "quartiere": null,
         "tipo": "altro",
         "link": "https://www.openstreetmap.org/way/38048822",
-        "last_verified": "2026-09-07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.3600271,
-          40.3862976
-        ]
-      },
-      "properties": {
-        "id": "osm-38238833",
-        "nome": "ATTENZIONE-ACCESSI SBARRATI-PERICOLO",
-        "descrizione": "POI ATTENZIONE-ACCESSI SBARRATI-PERICOLO a Piaggine",
-        "zona": "cilento",
-        "citta": "Piaggine",
-        "quartiere": null,
-        "tipo": "altro",
-        "link": "https://www.openstreetmap.org/way/38238833",
         "last_verified": "2026-09-07"
       }
     },
@@ -5878,27 +5857,6 @@
         "quartiere": null,
         "tipo": "spiaggia",
         "link": "https://www.openstreetmap.org/way/93892329",
-        "last_verified": "2026-09-07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.1060346,
-          40.6660245
-        ]
-      },
-      "properties": {
-        "id": "osm-94314998",
-        "nome": "Ponte dei Preti",
-        "descrizione": "Ponte Ponte dei Preti a Contursi Terme",
-        "zona": "salerno",
-        "citta": "Contursi Terme",
-        "quartiere": null,
-        "tipo": "ponte",
-        "link": "https://www.openstreetmap.org/way/94314998",
         "last_verified": "2026-09-07"
       }
     },
@@ -6747,27 +6705,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.2465935,
-          40.356695
-        ]
-      },
-      "properties": {
-        "id": "osm-129252692",
-        "nome": "Ponte Pietratetta",
-        "descrizione": "Ponte Ponte Pietratetta a Roccadaspide",
-        "zona": "cilento",
-        "citta": "Roccadaspide",
-        "quartiere": null,
-        "tipo": "ponte",
-        "link": "https://www.openstreetmap.org/way/129252692",
-        "last_verified": "2026-09-07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           15.2501257,
           40.3646561
         ]
@@ -6781,27 +6718,6 @@
         "quartiere": null,
         "tipo": "altro",
         "link": "https://www.openstreetmap.org/way/129252696",
-        "last_verified": "2026-09-07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.4569796,
-          40.7568231
-        ]
-      },
-      "properties": {
-        "id": "osm-133305976",
-        "nome": "Via Muzio Tuttavilla",
-        "descrizione": "POI Via Muzio Tuttavilla a Torre Annunziata",
-        "zona": "salerno",
-        "citta": "Torre Annunziata",
-        "quartiere": null,
-        "tipo": "altro",
-        "link": "https://www.openstreetmap.org/way/133305976",
         "last_verified": "2026-09-07"
       }
     },
@@ -8952,27 +8868,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.5549493,
-          40.1865116
-        ]
-      },
-      "properties": {
-        "id": "osm-211233615",
-        "nome": "Ponte dei Francesi",
-        "descrizione": "Ponte Ponte dei Francesi a Santi Cosma e Damiano",
-        "zona": "salerno",
-        "citta": "Santi Cosma e Damiano",
-        "quartiere": null,
-        "tipo": "ponte",
-        "link": "https://www.openstreetmap.org/way/211233615",
-        "last_verified": "2026-09-07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           14.3140583,
           40.8375587
         ]
@@ -9280,27 +9175,6 @@
         "quartiere": null,
         "tipo": "chiesa",
         "link": "https://www.openstreetmap.org/way/215118446",
-        "last_verified": "2026-09-07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.5538889,
-          40.1357559
-        ]
-      },
-      "properties": {
-        "id": "osm-215189825",
-        "nome": "Ponte del Diavolo",
-        "descrizione": "Ponte Ponte del Diavolo a Santi Cosma e Damiano",
-        "zona": "salerno",
-        "citta": "Santi Cosma e Damiano",
-        "quartiere": null,
-        "tipo": "ponte",
-        "link": "https://www.openstreetmap.org/way/215189825",
         "last_verified": "2026-09-07"
       }
     },
@@ -10086,27 +9960,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.3298291,
-          40.3366658
-        ]
-      },
-      "properties": {
-        "id": "osm-235893019",
-        "nome": "Ponte Medioevale",
-        "descrizione": "Ponte Ponte Medioevale a Piaggine",
-        "zona": "cilento",
-        "citta": "Piaggine",
-        "quartiere": null,
-        "tipo": "ponte",
-        "link": "https://www.openstreetmap.org/way/235893019",
-        "last_verified": "2026-09-07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           14.7609474,
           40.6796893
         ]
@@ -10267,27 +10120,6 @@
         "quartiere": null,
         "tipo": "altro",
         "link": "https://www.openstreetmap.org/way/242475601",
-        "last_verified": "2026-09-07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.3209478,
-          40.1378719
-        ]
-      },
-      "properties": {
-        "id": "osm-244551655",
-        "nome": "Ponte di Mastromicco",
-        "descrizione": "Ponte Ponte di Mastromicco a Montano Antilia",
-        "zona": "salerno",
-        "citta": "Montano Antilia",
-        "quartiere": null,
-        "tipo": "ponte",
-        "link": "https://www.openstreetmap.org/way/244551655",
         "last_verified": "2026-09-07"
       }
     },
@@ -13215,27 +13047,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4739594,
-          40.7683817
-        ]
-      },
-      "properties": {
-        "id": "osm-400161116",
-        "nome": "Via Marrella",
-        "descrizione": "POI Via Marrella a Boscotrecase",
-        "zona": "salerno",
-        "citta": "Boscotrecase",
-        "quartiere": null,
-        "tipo": "altro",
-        "link": "https://www.openstreetmap.org/way/400161116",
-        "last_verified": "2026-09-07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           14.4763509,
           40.7749923
         ]
@@ -14908,27 +14719,6 @@
         "quartiere": null,
         "tipo": "sentiero",
         "link": "https://www.openstreetmap.org/way/503946739",
-        "last_verified": "2026-09-07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.3014209,
-          40.8417182
-        ]
-      },
-      "properties": {
-        "id": "osm-508238480",
-        "nome": "Via Ferrante Imparato",
-        "descrizione": "POI Via Ferrante Imparato a Boscotrecase",
-        "zona": "salerno",
-        "citta": "Boscotrecase",
-        "quartiere": null,
-        "tipo": "altro",
-        "link": "https://www.openstreetmap.org/way/508238480",
         "last_verified": "2026-09-07"
       }
     },
@@ -17260,27 +17050,6 @@
         "quartiere": null,
         "tipo": "sentiero",
         "link": "https://www.openstreetmap.org/way/667136791",
-        "last_verified": "2026-09-07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.0304901,
-          40.8367282
-        ]
-      },
-      "properties": {
-        "id": "osm-667466685",
-        "nome": "Ponte della Lavandaia",
-        "descrizione": "Tipo: bridge",
-        "zona": "salerno",
-        "citta": "Campagna",
-        "quartiere": null,
-        "tipo": "ponte",
-        "link": "https://www.openstreetmap.org/way/667466685",
         "last_verified": "2026-09-07"
       }
     },
@@ -20649,27 +20418,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.539492,
-          40.5845055
-        ]
-      },
-      "properties": {
-        "id": "osm-976652287",
-        "nome": "Ponticello in Legno",
-        "descrizione": "Ponte Ponticello in Legno a Buccino",
-        "zona": "salerno",
-        "citta": "Buccino",
-        "quartiere": null,
-        "tipo": "ponte",
-        "link": "https://www.openstreetmap.org/way/976652287",
-        "last_verified": "2026-09-07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           14.5289327,
           40.6884223
         ]
@@ -21027,27 +20775,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.5062895,
-          40.6667495
-        ]
-      },
-      "properties": {
-        "id": "osm-1010734934",
-        "nome": "Ponte delle Tese",
-        "descrizione": "Ponte Ponte delle Tese a Agerola",
-        "zona": "costiera",
-        "citta": "Agerola",
-        "quartiere": null,
-        "tipo": "ponte",
-        "link": "https://www.openstreetmap.org/way/1010734934",
-        "last_verified": "2026-09-07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           14.3701911,
           40.6256166
         ]
@@ -21334,27 +21061,6 @@
         "quartiere": null,
         "tipo": "altro",
         "link": "https://www.openstreetmap.org/way/1041395563",
-        "last_verified": "2026-09-07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.9957218,
-          40.3543953
-        ]
-      },
-      "properties": {
-        "id": "osm-1050045824",
-        "nome": "Ponte Testene",
-        "descrizione": "Ponte Ponte Testene a Capaccio Paestum",
-        "zona": "cilento",
-        "citta": "Capaccio Paestum",
-        "quartiere": null,
-        "tipo": "ponte",
-        "link": "https://www.openstreetmap.org/way/1050045824",
         "last_verified": "2026-09-07"
       }
     },
@@ -23001,48 +22707,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.0103674,
-          40.8140468
-        ]
-      },
-      "properties": {
-        "id": "osm-1098324455",
-        "nome": "Ponte del Fascio",
-        "descrizione": "Ponte Ponte del Fascio a Campagna",
-        "zona": "salerno",
-        "citta": "Campagna",
-        "quartiere": null,
-        "tipo": "ponte",
-        "link": "https://www.openstreetmap.org/way/1098324455",
-        "last_verified": "2026-09-07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.9984067,
-          40.8069523
-        ]
-      },
-      "properties": {
-        "id": "osm-1098324457",
-        "nome": "Ponte della Tufara",
-        "descrizione": "Ponte Ponte della Tufara a Campagna",
-        "zona": "salerno",
-        "citta": "Campagna",
-        "quartiere": null,
-        "tipo": "ponte",
-        "link": "https://www.openstreetmap.org/way/1098324457",
-        "last_verified": "2026-09-07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           15.0071347,
           40.7717273
         ]
@@ -23896,27 +23560,6 @@
         "quartiere": null,
         "tipo": "altro",
         "link": "https://www.openstreetmap.org/way/1175801370",
-        "last_verified": "2026-09-07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.2383751,
-          40.3780164
-        ]
-      },
-      "properties": {
-        "id": "osm-1176529942",
-        "nome": "Ponte medievale",
-        "descrizione": "Ponte Ponte medievale a Roccadaspide",
-        "zona": "cilento",
-        "citta": "Roccadaspide",
-        "quartiere": null,
-        "tipo": "ponte",
-        "link": "https://www.openstreetmap.org/way/1176529942",
         "last_verified": "2026-09-07"
       }
     },
@@ -26920,27 +26563,6 @@
         "quartiere": null,
         "tipo": "altro",
         "link": "https://www.openstreetmap.org/way/1375509102",
-        "last_verified": "2026-09-07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.5446798,
-          40.6345923
-        ]
-      },
-      "properties": {
-        "id": "osm-1375509105",
-        "nome": "Antico Ponte",
-        "descrizione": "Ponte Antico Ponte a Praiano",
-        "zona": "costiera",
-        "citta": "Praiano",
-        "quartiere": null,
-        "tipo": "ponte",
-        "link": "https://www.openstreetmap.org/way/1375509105",
         "last_verified": "2026-09-07"
       }
     },
@@ -35319,8 +34941,8 @@
         "citta": "Salerno",
         "quartiere": "Centro Storico",
         "tipo": "altro",
-        "link": "https://it.wikipedia.org/wiki/Cripta_di_San_Matteo",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.6802&mlon=14.7603#map=16/40.6802/14.7603",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -35361,8 +34983,8 @@
         "citta": "Vietri sul Mare",
         "quartiere": null,
         "tipo": "chiesa",
-        "link": "https://it.wikipedia.org/wiki/San_Pietro_a_Corte",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.679&mlon=14.7585#map=16/40.679/14.7585",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -35382,8 +35004,8 @@
         "citta": "Vietri sul Mare",
         "quartiere": null,
         "tipo": "altro",
-        "link": "https://it.wikipedia.org/wiki/Villa_Comunale_(Salerno)",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.6785&mlon=14.7532#map=16/40.6785/14.7532",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -35424,8 +35046,8 @@
         "citta": "Salerno",
         "quartiere": "Centro Storico",
         "tipo": "museo",
-        "link": "https://it.wikipedia.org/wiki/Museo_diocesano_di_San_Matteo_(Salerno)",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.6807&mlon=14.7604#map=16/40.6807/14.7604",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -35487,8 +35109,8 @@
         "citta": "Amalfi",
         "quartiere": null,
         "tipo": "chiesa",
-        "link": "https://it.wikipedia.org/wiki/Cattedrale_di_Sant%27Andrea_(Amalfi)",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.634&mlon=14.6026#map=16/40.634/14.6026",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -35634,8 +35256,8 @@
         "citta": "Amalfi",
         "quartiere": null,
         "tipo": "chiesa",
-        "link": "https://it.wikipedia.org/wiki/Cattedrale_di_Sant%27Andrea_(Amalfi)",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.634&mlon=14.6026#map=16/40.634/14.6026",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -35655,8 +35277,8 @@
         "citta": "Positano",
         "quartiere": null,
         "tipo": "chiesa",
-        "link": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Assunta_(Positano)",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.6278&mlon=14.4847#map=16/40.6278/14.4847",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -35739,8 +35361,8 @@
         "citta": "Capaccio Paestum",
         "quartiere": null,
         "tipo": "chiesa",
-        "link": "https://www.museopaestum.beniculturali.it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.418&mlon=15.007#map=16/40.418/15.007",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -35760,8 +35382,8 @@
         "citta": "Capaccio Paestum",
         "quartiere": null,
         "tipo": "chiesa",
-        "link": "https://www.museopaestum.beniculturali.it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.4175&mlon=15.0075#map=16/40.4175/15.0075",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -35781,8 +35403,8 @@
         "citta": "Capaccio Paestum",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "https://www.museopaestum.beniculturali.it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.419&mlon=15.009#map=16/40.419/15.009",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -35802,8 +35424,8 @@
         "citta": "Capaccio Paestum",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "https://www.museopaestum.beniculturali.it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.4185&mlon=15.008#map=16/40.4185/15.008",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -35823,8 +35445,8 @@
         "citta": "Capaccio Paestum",
         "quartiere": null,
         "tipo": "museo",
-        "link": "https://www.museopaestum.beniculturali.it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.4185&mlon=15.008#map=16/40.4185/15.008",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -35844,8 +35466,8 @@
         "citta": "Capaccio Paestum",
         "quartiere": null,
         "tipo": "castello",
-        "link": "https://it.wikipedia.org/wiki/Castello_di_Agropoli",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.35&mlon=14.9833#map=16/40.35/14.9833",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -35865,8 +35487,8 @@
         "citta": "Ricigliano",
         "quartiere": null,
         "tipo": "grotta",
-        "link": "https://www.grottedicastelcivita.it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.4917&mlon=15.125#map=16/40.4917/15.125",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -35907,8 +35529,8 @@
         "citta": "Montecorice",
         "quartiere": null,
         "tipo": "altro",
-        "link": "https://it.wikipedia.org/wiki/Torri_costiere_del_Cilento",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.2&mlon=15.05#map=16/40.2/15.05",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -35949,8 +35571,8 @@
         "citta": "Minori",
         "quartiere": null,
         "tipo": "spiaggia",
-        "link": "https://www.comune.maiori.sa.it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.6472&mlon=14.6422#map=16/40.6472/14.6422",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -36054,8 +35676,8 @@
         "citta": "Vietri sul Mare",
         "quartiere": null,
         "tipo": "spiaggia",
-        "link": "https://www.comune.vietrisulmare.sa.it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.6672&mlon=14.7239#map=16/40.6672/14.7239",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -36390,8 +36012,8 @@
         "citta": "Amalfi",
         "quartiere": null,
         "tipo": "altro",
-        "link": "https://www.regatarepubblichemarinare.it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.6338&mlon=14.6027#map=16/40.6338/14.6027",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -36411,8 +36033,8 @@
         "citta": "Capaccio Paestum",
         "quartiere": null,
         "tipo": "altro",
-        "link": "https://www.battentieri.it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.35&mlon=14.9833#map=16/40.35/14.9833",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -38259,8 +37881,8 @@
         "citta": "Colliano",
         "quartiere": null,
         "tipo": "altro",
-        "link": "https://www.cita2.it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.733031&mlon=15.2339984#map=16/40.733031/15.2339984",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -38483,7 +38105,7 @@
         ]
       },
       "properties": {
-        "id": "monumenti-chiesa-cristiana-evangelica-adi",
+        "id": "monumenti-chiesa-cristiana-evangelica-adi-2",
         "nome": "Chiesa Cristiana Evangelica A,D,I,",
         "descrizione": "Religione: christian. Denominazione: evangelical",
         "zona": "salerno",
@@ -43236,8 +42858,8 @@
         "citta": "Salerno",
         "quartiere": "Centro Storico",
         "tipo": "altro",
-        "link": "http://parrocchiasandemetrio.blogspot.fr/",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.6781271&mlon=14.7718634#map=16/40.6781271/14.7718634",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -43593,8 +43215,8 @@
         "citta": "Nocera Inferiore",
         "quartiere": null,
         "tipo": "altro",
-        "link": "http://www.associazionesangiuseppeonlus.it/homepage.html",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7368044&mlon=14.6465729#map=16/40.7368044/14.6465729",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -45483,8 +45105,8 @@
         "citta": "Vietri sul Mare",
         "quartiere": null,
         "tipo": "altro",
-        "link": "https://it.wikipedia.org/wiki/San_Pietro_a_Corte",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.6795961&mlon=14.7574962#map=16/40.6795961/14.7574962",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -45693,8 +45315,8 @@
         "citta": "Sorrento",
         "quartiere": null,
         "tipo": "altro",
-        "link": "https://www.comune.pianodisorrento.na.it/it/page/chiesa-e-congrega-della-ss",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.6351272&mlon=14.4082234#map=16/40.6351272/14.4082234",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -47058,8 +46680,8 @@
         "citta": "Sorrento",
         "quartiere": null,
         "tipo": "chiesa",
-        "link": "http://www.comune.pianodisorrento.na.it/it/page/chiesa-di-madonna-di-rosella",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.6406777&mlon=14.4071482#map=16/40.6406777/14.4071482",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -47541,8 +47163,8 @@
         "citta": "Castellammare di Stabia",
         "quartiere": null,
         "tipo": "altro",
-        "link": "https://www.liberoricercatore.it/Storia/sanraffaele.htm",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.6876743&mlon=14.4688328#map=16/40.6876743/14.4688328",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -48045,8 +47667,8 @@
         "citta": "Sant'Egidio del Monte Albino",
         "quartiere": null,
         "tipo": "chiesa",
-        "link": "https://it.wikipedia.org/wiki/Chiesa_di_San_Benedetto_da_Norcia_(Angri)",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7429496&mlon=14.5780798#map=16/40.7429496/14.5780798",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -51426,8 +51048,8 @@
         "citta": "Sant'Egidio del Monte Albino",
         "quartiere": null,
         "tipo": "castello",
-        "link": "http://www.comune.angri.sa.it/castello-doria.htm",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7381857&mlon=14.5718939#map=16/40.7381857/14.5718939",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -52623,8 +52245,8 @@
         "citta": "Capaccio Paestum",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "https://www.spaziopaestum.com/",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.4239669&mlon=15.0069563#map=16/40.4239669/15.0069563",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -52728,8 +52350,8 @@
         "citta": "Amalfi",
         "quartiere": null,
         "tipo": "altro",
-        "link": "http://ambientesa.beniculturali.it/BAP/?q=luoghi&luogo=Monumenti&provincia=Salerno&comune=Minori&src=&ID=55",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.6505692&mlon=14.6260731#map=16/40.6505692/14.6260731",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -52980,8 +52602,8 @@
         "citta": "Centola",
         "quartiere": null,
         "tipo": "chiesa",
-        "link": "https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=150685&pagename=150685",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.1604914&mlon=15.1550921#map=16/40.1604914/15.1550921",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -53001,8 +52623,8 @@
         "citta": "Centola",
         "quartiere": null,
         "tipo": "chiesa",
-        "link": "https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=150685&pagename=150685",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.1610777&mlon=15.1550463#map=16/40.1610777/15.1550463",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -53169,8 +52791,8 @@
         "citta": "Capaccio Paestum",
         "quartiere": null,
         "tipo": "castello",
-        "link": "https://www.comune.agropoli.sa.it/palazzo-civico-della-arti/",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.3506775&mlon=14.9854768#map=16/40.3506775/14.9854768",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -55626,8 +55248,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "altro",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+the+baker+(VI%2C3%2C3)&idSezione=601",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7509649&mlon=14.4828052#map=16/40.7509649/14.4828052",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -55668,8 +55290,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?idSezione=134",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7484237&mlon=14.4837195#map=16/40.7484237/14.4837195",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -55752,8 +55374,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "altro",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Casa+del+Chirurgo+(VI+1%2C9.10)&idSezione=85",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7516167&mlon=14.4818647#map=16/40.7516167/14.4818647",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -55794,8 +55416,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "altro",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+the+Dioscuri+(VI%2C9%2C6)&idSezione=786",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7517671&mlon=14.4836964#map=16/40.7517671/14.4836964",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -55857,8 +55479,8 @@
         "citta": "Torre Annunziata",
         "quartiere": null,
         "tipo": "altro",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Villa+di+Diomede&idSezione=175",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7523925&mlon=14.4786501#map=16/40.7523925/14.4786501",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -55899,8 +55521,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "altro",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+the+wild+boar+%28VII%2C4%2C48%29&idSezione=593&lookfor=hunt",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7511103&mlon=14.4853943#map=16/40.7511103/14.4853943",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -56256,8 +55878,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "altro",
-        "link": "https://pompeiisites.org/Sezione.jsp?idSezione=151",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7486758&mlon=14.4827788#map=16/40.7486758/14.4827788",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -56298,8 +55920,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Tempio+di+Asclepio+(Giove+Meilichio%3A+VIII%2C7%2C25)&idSezione=130",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7493086&mlon=14.4886183#map=16/40.7493086/14.4886183",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -56319,8 +55941,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Necropolis+of+Porta+Ercolano&idSezione=686",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7523434&mlon=14.4800602#map=16/40.7523434/14.4800602",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -56340,8 +55962,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "altro",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Casa+del+Principe+di+Napoli+(VI+15%2C+7-8)&idSezione=6894",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7526256&mlon=14.4843524#map=16/40.7526256/14.4843524",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -56424,8 +56046,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "altro",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Pompeii%2C+Fullonica+of+Stephanus&idSezione=4996",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7502861&mlon=14.4891237#map=16/40.7502861/14.4891237",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -56865,8 +56487,8 @@
         "citta": "Sant'Egidio del Monte Albino",
         "quartiere": null,
         "tipo": "fonte",
-        "link": "https://it.wikipedia.org/wiki/Acquedotto_Romano_di_Sant'Egidio",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7328029&mlon=14.6042778#map=16/40.7328029/14.6042778",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -58356,8 +57978,8 @@
         "citta": "Capaccio Paestum",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "https://www.museopaestum.beniculturali.it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.4198857&mlon=15.0059352#map=16/40.4198857/15.0059352",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -58377,8 +57999,8 @@
         "citta": "Capaccio Paestum",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "https://www.museopaestum.beniculturali.it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.4198951&mlon=15.0061243#map=16/40.4198951/15.0061243",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -58482,8 +58104,8 @@
         "citta": "Capaccio Paestum",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "https://www.museopaestum.beniculturali.it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.4244764&mlon=15.0060052#map=16/40.4244764/15.0060052",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -59889,8 +59511,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "altro",
-        "link": "https://pompeiisites.org/Sezione.jsp?titolo=Casa+della+Venere+in+Conchiglia+(II+3%2C3)&idSezione=73",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7518125&mlon=14.4927848#map=16/40.7518125/14.4927848",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -60078,8 +59700,8 @@
         "citta": "Capaccio Paestum",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "https://www.museopaestum.beniculturali.it/",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.4215111&mlon=15.0041345#map=16/40.4215111/15.0041345",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -60099,8 +59721,8 @@
         "citta": "Centola",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=150685&pagename=157031",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.1605024&mlon=15.1568281#map=16/40.1605024/15.1568281",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -60204,8 +59826,8 @@
         "citta": "Centola",
         "quartiere": null,
         "tipo": "altro",
-        "link": "https://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Eventi/visualizza_asset.html_1806741574.html",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.1601726&mlon=15.1567353#map=16/40.1601726/15.1567353",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -60582,8 +60204,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Forum+Baths+%28VII%2C5%2C24%29&idSezione=664&lookfor=forum%20baths",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7503359&mlon=14.4841235#map=16/40.7503359/14.4841235",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -60624,8 +60246,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Memorial+Arches&idSezione=2306&lookfor=forum",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7501251&mlon=14.4845569#map=16/40.7501251/14.4845569",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -60981,8 +60603,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "chiesa",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Basilica+%28VIII%2C1%2C1%29&idSezione=2305&lookfor=basilica",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7487369&mlon=14.4844795#map=16/40.7487369/14.4844795",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -61023,8 +60645,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=the%20eruption%20of%20vesuvious&idSezione=135",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7492133&mlon=14.4844162#map=16/40.7492133/14.4844162",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -61044,8 +60666,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Forum+granary+%28VII%2C7%2C29%29&idSezione=2317&lookfor=forum",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.749639&mlon=14.4842167#map=16/40.749639/14.4842167",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -61065,8 +60687,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "altro",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Mensa+ponderaria+%28VII%2C7%2C31%29&idSezione=637",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7494612&mlon=14.484267#map=16/40.7494612/14.484267",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -61128,8 +60750,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "altro",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?idSezione=126",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7494174&mlon=14.4855878#map=16/40.7494174/14.4855878",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -61233,8 +60855,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Tempio+di+Giove+(VII%2C8%2C1)&idSezione=133",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.749947&mlon=14.4845076#map=16/40.749947/14.4845076",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -61422,8 +61044,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "altro",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Casa+dell%27Ara+Massima+(VI+16%2C+15-17)&idSezione=6895",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7526832&mlon=14.484774#map=16/40.7526832/14.484774",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -61863,8 +61485,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Temple+of+Fortuna+Augusta+%28VII%2C4%2C1%29&idSezione=652&lookfor=Fortuna%20Augusta",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7507135&mlon=14.484412#map=16/40.7507135/14.484412",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -61884,8 +61506,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "altro",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+the+geometric+mosaics+(VIII%2C2%2C14-16)&idSezione=597",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7483552&mlon=14.4851951#map=16/40.7483552/14.4851951",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -61989,8 +61611,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "altro",
-        "link": "https://pompeiisites.org/Sezione.jsp?titolo=Casa+di+Apollo+(VI+7%2C23)&idSezione=288",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7524028&mlon=14.4828527#map=16/40.7524028/14.4828527",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -62010,8 +61632,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "altro",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Terme+centrali+(IX%2C4%2C5-18)&idSezione=150",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7515503&mlon=14.4867771#map=16/40.7515503/14.4867771",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -62073,8 +61695,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Forum+%28VII%2C8%29&idSezione=2303&lookfor=forum",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7493293&mlon=14.4848509#map=16/40.7493293/14.4848509",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -62304,8 +61926,8 @@
         "citta": "Laurito",
         "quartiere": null,
         "tipo": "castello",
-        "link": "https://www.comune.roccagloriosa.sa.it/index.php?action=index&p=340",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.1265273&mlon=15.4466513#map=16/40.1265273/15.4466513",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -62367,8 +61989,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "altro",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Casa+di+Sallustio+(VI+2%2C4)&idSezione=81",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7511967&mlon=14.4826103#map=16/40.7511967/14.4826103",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -62556,8 +62178,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "altro",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Thermopolium+of+Vetutius+Placidus+(I%2C8%2C8)&idSezione=2313",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7507621&mlon=14.4902808#map=16/40.7507621/14.4902808",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -62829,8 +62451,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "altro",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+Pansa+(VI%2C6%2C1)&idSezione=595",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7508288&mlon=14.483308#map=16/40.7508288/14.483308",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -65223,8 +64845,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "chiesa",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Doric+temple+%28VIII%2C7%2C30-34%29&idSezione=2330",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7482865&mlon=14.4879886#map=16/40.7482865/14.4879886",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -67218,8 +66840,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "http://cir.campania.beniculturali.it/museoarcheologiconazionale/percorso/nel-museo/P_RA24",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7491818&mlon=14.4882708#map=16/40.7491818/14.4882708",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -67932,8 +67554,8 @@
         "citta": "Torre Annunziata",
         "quartiere": null,
         "tipo": "altro",
-        "link": "https://www.pompeiisites.org/Sezione.jsp?titolo=I+misteri+e+la+Villa+dei+Misteri&idSezione=6958",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7537173&mlon=14.4775307#map=16/40.7537173/14.4775307",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -68331,8 +67953,8 @@
         "citta": "Pompei",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Foro+triangolare+e+Tempio+dorico+%28VIII%2C7%2C30-34%29&idSezione=136",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7485135&mlon=14.4881374#map=16/40.7485135/14.4881374",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -74652,8 +74274,8 @@
         "citta": "Boscotrecase",
         "quartiere": null,
         "tipo": "chiesa",
-        "link": "https://it.wikipedia.org/wiki/Chiesa_del_Santissimo_Redentore_(Ercolano)",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.8022285&mlon=14.3622577#map=16/40.8022285/14.3622577",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -76437,8 +76059,8 @@
         "citta": "Boscotrecase",
         "quartiere": null,
         "tipo": "chiesa",
-        "link": "https://sangiuseppeemadonnadilourdes.it/",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.8404444&mlon=14.3066798#map=16/40.8404444/14.3066798",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -79230,8 +78852,8 @@
         "citta": "Eboli",
         "quartiere": null,
         "tipo": "museo",
-        "link": "http://www.polomusealecampania.beniculturali.it/index.php/il-museo-eboli",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.6186397&mlon=15.0566203#map=16/40.6186397/15.0566203",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -79272,8 +78894,8 @@
         "citta": "Campagna",
         "quartiere": null,
         "tipo": "museo",
-        "link": "http://www.polomusealecampania.beniculturali.it/index.php/il-museo-montella",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.8495348&mlon=15.0481924#map=16/40.8495348/15.0481924",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -79356,8 +78978,8 @@
         "citta": "Teora",
         "quartiere": null,
         "tipo": "museo",
-        "link": "https://musei.beniculturali.it/musei?mid=74&nome=museo-archeologico-nazionale-di-muro-lucano",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7533257&mlon=15.4883444#map=16/40.7533257/15.4883444",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -79503,8 +79125,8 @@
         "citta": "Sorrento",
         "quartiere": null,
         "tipo": "museo",
-        "link": "http://www.polomusealecampania.beniculturali.it/index.php/il-museo-gvallet",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.6380322&mlon=14.4020984#map=16/40.6380322/14.4020984",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -79608,8 +79230,8 @@
         "citta": "Pontecagnano Faiano",
         "quartiere": null,
         "tipo": "museo",
-        "link": "http://polomusealecampania.beniculturali.it/index.php/il-museo-pontecagnano",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.6401119&mlon=14.8791815#map=16/40.6401119/14.8791815",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -79713,8 +79335,8 @@
         "citta": "Siano",
         "quartiere": null,
         "tipo": "museo",
-        "link": "http://www.polomusealecampania.beniculturali.it/index.php/il-museo-sarno",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.8125952&mlon=14.6222783#map=16/40.8125952/14.6222783",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -80007,8 +79629,8 @@
         "citta": "Capaccio Paestum",
         "quartiere": null,
         "tipo": "museo",
-        "link": "https://www.museopaestum.beniculturali.it/",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.4234463&mlon=15.0074197#map=16/40.4234463/15.0074197",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -80112,8 +79734,8 @@
         "citta": "Nocera Inferiore",
         "quartiere": null,
         "tipo": "museo",
-        "link": "http://www.museibiblioteche.provincia.salerno.it/index.php?option=com_content&view=article&id=15&Itemid=115&lang=it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.7468742&mlon=14.6459262#map=16/40.7468742/14.6459262",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -80595,8 +80217,8 @@
         "citta": "Boscotrecase",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "http://www.cir.campania.beniculturali.it/luoghi-della-cultura/ercolano-teatro-romano",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.8082328&mlon=14.3477597#map=16/40.8082328/14.3477597",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -80826,8 +80448,8 @@
         "citta": "Boscotrecase",
         "quartiere": null,
         "tipo": "altro",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=Sede+degli+Augustali+(VI%2C21+E+24)&idSezione=204",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.8067321&mlon=14.3478164#map=16/40.8067321/14.3478164",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -81057,8 +80679,8 @@
         "citta": "Boscotrecase",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?idSezione=149",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.8063883&mlon=14.3474612#map=16/40.8063883/14.3474612",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -81435,8 +81057,8 @@
         "citta": "Boscotrecase",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=La+terrazza+di+M.Nonio+Balbo+(Terrazza+Meridionale%2C+2)&idSezione=222",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.8053266&mlon=14.3466466#map=16/40.8053266/14.3466466",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -81750,8 +81372,8 @@
         "citta": "Boscotrecase",
         "quartiere": null,
         "tipo": "altro",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=banca%20dati&idSezione=180",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.8056844&mlon=14.3467338#map=16/40.8056844/14.3467338",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -81855,8 +81477,8 @@
         "citta": "Boscotrecase",
         "quartiere": null,
         "tipo": "altro",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=newsletter&idSezione=186",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.8061059&mlon=14.3459862#map=16/40.8061059/14.3459862",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -81876,8 +81498,8 @@
         "citta": "Boscotrecase",
         "quartiere": null,
         "tipo": "altro",
-        "link": "http://www.pompeiisites.org/Sezione.jsp?titolo=La+casa+del+Genio&idSezione=184",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.8063612&mlon=14.3465661#map=16/40.8063612/14.3465661",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -110058,8 +109680,8 @@
         "citta": "Amalfi",
         "quartiere": "Centro Storico",
         "tipo": "festa-patronale",
-        "link": "https://www.comune.amalfi.it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.6338&mlon=14.6027#map=16/40.6338/14.6027",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -110226,8 +109848,8 @@
         "citta": "Cetara",
         "quartiere": "Centro Storico",
         "tipo": "sagra",
-        "link": "https://www.sagradelpescecetara.it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.6466&mlon=14.7025#map=16/40.6466/14.7025",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -110268,8 +109890,8 @@
         "citta": "Amalfi",
         "quartiere": "Centro Storico",
         "tipo": "sagra",
-        "link": "https://www.sagradellimone.it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.6333&mlon=14.6#map=16/40.6333/14.6",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -110289,8 +109911,8 @@
         "citta": "Capaccio Paestum",
         "quartiere": "Paestum",
         "tipo": "festival",
-        "link": "https://www.paestumfestival.it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.4167&mlon=15.0#map=16/40.4167/15.0",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -110310,8 +109932,8 @@
         "citta": "San Giovanni a Piro",
         "quartiere": "Palinuro",
         "tipo": "festival",
-        "link": "https://www.cilentogolfofilmfestival.it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.0036&mlon=15.3672#map=16/40.0036/15.3672",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -110835,8 +110457,8 @@
         "citta": "Novi Velia",
         "quartiere": "",
         "tipo": "sagra",
-        "link": "https://www.comune.novivelia.sa.it/Vivere-il-comune/Scopri-Novi-Velia/Sagre-e-Feste",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.2167&mlon=15.2833#map=16/40.2167/15.2833",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -110898,8 +110520,8 @@
         "citta": "Capaccio Paestum",
         "quartiere": "Paestum",
         "tipo": "festival",
-        "link": "https://parchipaestumvelia.cultura.gov.it/musica-parole-2025-dal-26-luglio-al-17-agosto-la-musica-incontra-la-bellezza-senza-tempo-di-paestum-e-velia/",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.4167&mlon=15.0#map=16/40.4167/15.0",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -116253,8 +115875,8 @@
         "citta": "Omignano",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "https://www.parcocesto.it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.2833&mlon=15.1667#map=16/40.2833/15.1667",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -116274,8 +115896,8 @@
         "citta": "Amalfi",
         "quartiere": null,
         "tipo": "archeologico",
-        "link": "https://www.parcoamalfi.it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.6356&mlon=14.6007#map=16/40.6356/14.6007",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -116295,8 +115917,8 @@
         "citta": "Amalfi",
         "quartiere": null,
         "tipo": "altro",
-        "link": "https://www.parcoamalfi.it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.6333&mlon=14.6#map=16/40.6333/14.6",
+        "last_verified": "2026-09-07"
       }
     },
     {
@@ -116316,8 +115938,8 @@
         "citta": "San Giovanni a Piro",
         "quartiere": null,
         "tipo": "spiaggia",
-        "link": "https://www.parcocesto.it",
-        "last_verified": null
+        "link": "https://www.openstreetmap.org/?mlat=40.033&mlon=15.378#map=16/40.033/15.378",
+        "last_verified": "2026-09-07"
       }
     },
     {
