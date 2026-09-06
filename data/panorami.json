@@ -2,7 +2,7 @@
   {
     "id": "terrazza-infinito",
     "nome": "Terrazza dell'Infinito",
-    "descrizione": "Terrazza panoramica di Villa Cimbrone. Vista sulla Costiera.",
+    "descrizione": "Terrazza panoramica di Villa Cimbrone. Vista sulla Costiera Amalfitana. Una delle più belle d'Italia.",
     "comune": "Ravello",
     "zona": "costiera",
     "lat": 40.6489,
@@ -13,33 +13,44 @@
   {
     "id": "belvedere-maddalena",
     "nome": "Belvedere Maddalena",
-    "descrizione": "Punto panoramico su Salerno e il golfo.",
+    "descrizione": "Punto panoramico con vista sul centro storico di Salerno e il golfo.",
     "comune": "Salerno",
     "zona": "salerno",
-    "lat": 40.68,
-    "lng": 14.755,
+    "lat": 40.6800,
+    "lng": 14.7550,
     "link": "",
     "fonte": "osm"
   },
   {
     "id": "punto-panoramico-golfo",
     "nome": "Punto Panoramico Golfo di Salerno",
-    "descrizione": "Vista panoramica sul golfo di Salerno.",
+    "descrizione": "Vista panoramica a 180° sul Golfo di Salerno.",
     "comune": "Salerno",
     "zona": "salerno",
-    "lat": 40.675,
-    "lng": 14.76,
+    "lat": 40.6750,
+    "lng": 14.7600,
     "link": "",
     "fonte": "osm"
   },
   {
     "id": "belvedere-praiano",
     "nome": "Belvedere di Praiano",
-    "descrizione": "Punto panoramico su Positano e la Costiera.",
+    "descrizione": "Punto panoramico su Positano e la Costiera Amalfitana.",
     "comune": "Praiano",
     "zona": "costiera",
-    "lat": 40.61,
-    "lng": 14.53,
+    "lat": 40.6100,
+    "lng": 14.5300,
+    "link": "",
+    "fonte": "osm"
+  },
+  {
+    "id": "belvedere-maiori",
+    "nome": "Belvedere di Maiori",
+    "descrizione": "Vista panoramica su Maiori e il mare.",
+    "comune": "Maiori",
+    "zona": "costiera",
+    "lat": 40.6473,
+    "lng": 14.6424,
     "link": "",
     "fonte": "osm"
   }

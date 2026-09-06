@@ -2,10 +2,10 @@
   {
     "id": "luci-dartista",
     "nome": "Luci d'Artista",
-    "descrizione": "Manifestazione luminosa natalizia. Installazioni artistiche in tutta la città.",
+    "descrizione": "Manifestazione luminosa natalizia. Installazioni artistiche di artisti internazionali in tutta la città. Una delle più grandi d'Europa.",
     "comune": "Salerno",
     "zona": "salerno",
-    "periodo": "novembre - gennaio",
+    "periodo": "Novembre - Gennaio",
     "frequenza": "annuale",
     "link": "https://www.comune.salerno.it",
     "fonte": "sito-ufficiale"
@@ -13,10 +13,21 @@
   {
     "id": "festa-san-matteo",
     "nome": "Festa di San Matteo",
-    "descrizione": "Festa patronale. Processione con le reliquie del santo.",
+    "descrizione": "Festa patronale di Salerno. Processione con le reliquie del santo dal Duomo alla Cripta.",
     "comune": "Salerno",
     "zona": "salerno",
-    "periodo": "21 settembre",
+    "periodo": "19-21 Settembre",
+    "frequenza": "annuale",
+    "link": "https://www.comune.salerno.it",
+    "fonte": "sito-ufficiale"
+  },
+  {
+    "id": "presepe-vivente",
+    "nome": "Presepe Vivente",
+    "descrizione": "Rappresentazione del presepe nel centro storico. Attori, artigiani, animali dal vivo.",
+    "comune": "Salerno",
+    "zona": "salerno",
+    "periodo": "Dicembre",
     "frequenza": "annuale",
     "link": "https://www.comune.salerno.it",
     "fonte": "sito-ufficiale"
@@ -24,10 +35,10 @@
   {
     "id": "ravello-festival",
     "nome": "Ravello Festival",
-    "descrizione": "Festival musicale estivo nei giardini di Villa Rufolo e Villa Cimbrone.",
+    "descrizione": "Festival musicale estivo nei giardini di Villa Rufolo e Villa Cimbrone. Concerti di musica classica, jazz e pop.",
     "comune": "Ravello",
     "zona": "costiera",
-    "periodo": "giugno - settembre",
+    "periodo": "Giugno - Settembre",
     "frequenza": "annuale",
     "link": "https://www.ravellofestival.it",
     "fonte": "sito-ufficiale"
@@ -35,32 +46,32 @@
   {
     "id": "regata-repubbliche-marinare",
     "nome": "Regata delle Repubbliche Marinare",
-    "descrizione": "Regata storica tra le antiche repubbliche marinare. Tappa ad Amalfi.",
+    "descrizione": "Regata storica tra le antiche repubbliche marinare (Amalfi, Genova, Pisa, Venezia). Tappa ad Amalfi.",
     "comune": "Amalfi",
     "zona": "costiera",
-    "periodo": "giugno",
+    "periodo": "Giugno",
     "frequenza": "annuale",
     "link": "https://www.regatarepubblichemarinare.it",
     "fonte": "sito-ufficiale"
   },
   {
-    "id": "presepe-vivente",
-    "nome": "Presepe Vivente",
-    "descrizione": "Presepe vivente nel centro storico. Rappresentazioni dal vivo.",
-    "comune": "Salerno",
-    "zona": "salerno",
-    "periodo": "dicembre",
+    "id": "festa-santandrea",
+    "nome": "Festa di Sant'Andrea",
+    "descrizione": "Festa del patrono di Amalfi. Processione e spettacoli pirotecnici sul mare.",
+    "comune": "Amalfi",
+    "zona": "costiera",
+    "periodo": "27 Novembre - 30 Novembre",
     "frequenza": "annuale",
-    "link": "https://www.comune.salerno.it",
+    "link": "https://www.comune.amalfi.it",
     "fonte": "sito-ufficiale"
   },
   {
     "id": "battentieri",
     "nome": "Battentieri",
-    "descrizione": "Festival di danza contemporanea ad Agropoli.",
+    "descrizione": "Festival internazionale di danza contemporanea ad Agropoli.",
     "comune": "Agropoli",
     "zona": "cilento",
-    "periodo": "agosto",
+    "periodo": "Agosto",
     "frequenza": "annuale",
     "link": "https://www.battentieri.it",
     "fonte": "sito-ufficiale"
@@ -68,12 +79,56 @@
   {
     "id": "paestum-festival",
     "nome": "Paestum Festival",
-    "descrizione": "Festival musicale nei templi della Magna Grecia.",
-    "comune": "Capaccio",
+    "descrizione": "Festival musicale nei templi della Magna Grecia. Concerti all'aperto tra le rovine.",
+    "comune": "Capaccio Paestum",
     "zona": "cilento",
-    "periodo": "estate",
+    "periodo": "Luglio - Agosto",
+    "frequenza": "annuale",
+    "link": "https://www.paestumfestival.it",
+    "fonte": "sito-ufficiale"
+  },
+  {
+    "id": "sagra-pesce-cetara",
+    "nome": "Sagra del Pesce di Cetara",
+    "descrizione": "Degustazione di pesce e prodotti del mare. Cuochi stellati e ristoranti locali.",
+    "comune": "Cetara",
+    "zona": "costiera",
+    "periodo": "Agosto",
+    "frequenza": "annuale",
+    "link": "https://www.sagradelpescecetara.it",
+    "fonte": "sito-ufficiale"
+  },
+  {
+    "id": "festa-ceramica-vietri",
+    "nome": "Festa della Ceramica",
+    "descrizione": "Manifestazione dedicata alla tradizione ceramica vietrese. Laboratori, mostre, mercatini.",
+    "comune": "Vietri sul Mare",
+    "zona": "costiera",
+    "periodo": "Settembre",
+    "frequenza": "annuale",
+    "link": "https://www.festadellaceramica.it",
+    "fonte": "sito-ufficiale"
+  },
+  {
+    "id": "cilento-golfo-film-festival",
+    "nome": "Cilento Golfo Film Festival",
+    "descrizione": "Festival del cinema a Palinuro. Proiezioni, workshop, incontri con registi.",
+    "comune": "Camerota",
+    "zona": "cilento",
+    "periodo": "Agosto",
+    "frequenza": "annuale",
+    "link": "https://www.cilentogolfofilmfestival.it",
+    "fonte": "sito-ufficiale"
+  },
+  {
+    "id": "sagra-limone-costiera",
+    "nome": "Sagra del Limone della Costa d'Amalfi",
+    "descrizione": "Degustazione di limoni sfusati amalfitani e prodotti locali.",
+    "comune": "Costiera Amalfitana",
+    "zona": "costiera",
+    "periodo": "Maggio",
     "frequenza": "annuale",
     "link": "",
-    "fonte": "osm"
+    "fonte": "web-research"
   }
 ]

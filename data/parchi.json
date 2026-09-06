@@ -2,7 +2,7 @@
   {
     "id": "parco-cilento",
     "nome": "Parco Nazionale del Cilento e Vallo di Diano",
-    "descrizione": "Parco Nazionale UNESCO. 180.000 ettari di natura e archeologia.",
+    "descrizione": "Parco Nazionale UNESCO. 180.000 ettari di natura e archeologia. Paestum, Velia, grotte, borghi medievali.",
     "comune": "Cilento",
     "zona": "cilento",
     "lat": 40.2833,
@@ -13,23 +13,34 @@
   {
     "id": "parco-ferriere",
     "nome": "Parco Naturale delle Ferriere",
-    "descrizione": "Parco naturale con cascate e sentieri. Valle dei Mulini.",
+    "descrizione": "Parco naturale con cascate fino a 60m e sentieri. Valle dei Mulini e antiche cartiere.",
     "comune": "Amalfi",
     "zona": "costiera",
-    "lat": 40.65,
-    "lng": 14.5833,
-    "link": "",
-    "fonte": "osm"
+    "lat": 40.6356,
+    "lng": 14.6007,
+    "link": "https://www.parcoamalfi.it",
+    "fonte": "sito-ufficiale"
   },
   {
     "id": "riserva-costiera",
     "nome": "Riserva Naturale Costiera Amalfitana",
-    "descrizione": "Riserva marina e terrestre. Flora e fauna mediterranea.",
+    "descrizione": "Riserva marina e terrestre. Flora e fauna mediterranea. Area marina protetta.",
     "comune": "Costiera Amalfitana",
     "zona": "costiera",
     "lat": 40.6333,
-    "lng": 14.6,
+    "lng": 14.6000,
     "link": "https://www.parcoamalfi.it",
+    "fonte": "sito-ufficiale"
+  },
+  {
+    "id": "area-marina-infreschi",
+    "nome": "Area Marina Protetta Costa degli Infreschi e della Masseta",
+    "descrizione": "Area marina protetta nel Cilento. Acque cristalline, grotte sommerse, praterie di posidonia.",
+    "comune": "Camerota - San Giovanni a Piro",
+    "zona": "cilento",
+    "lat": 40.0330,
+    "lng": 15.3780,
+    "link": "https://www.parcocesto.it",
     "fonte": "sito-ufficiale"
   }
 ]
