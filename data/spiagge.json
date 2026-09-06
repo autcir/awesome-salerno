@@ -1,249 +1,1136 @@
 [
   {
-    "id": "spiaggia-maiori",
-    "nome": "Spiaggia di Maiori",
-    "descrizione": "La spiaggia più lunga della Costiera Amalfitana, quasi un chilometro di piano dovuto all'alluvione del 1954, caratterizzata da sabbia scura di origine vulcanica. Fino al 2026 munita di unica spiaggia sabbiosa continua della costiera.",
-    "comune": "Maiori",
-    "zona": "costiera",
-    "lat": 40.6472,
-    "lng": 14.6422,
-    "tipologia": "sabbiosa",
-    "lunghezza_m": 1000,
-    "link": "https://www.comune.maiori.sa.it",
-    "fonte": "web-research"
+    "nome": "Buondormire di terra",
+    "descrizione": "",
+    "lat": 40.0272943,
+    "lng": 15.2921368,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0272943&mlon=15.2921368#map=16/40.0272943/15.2921368",
+    "id": "spiagge-buondormire-di-terra-0"
   },
   {
-    "id": "spiaggia-grande-positano",
-    "nome": "Spiaggia Grande di Positano",
-    "descrizione": "Cuore centrale di Positano, offre una vista panoramica a 360 gradi del paese con la piramide di casette colorate e la Chiesa di S. M. Assunta. Spiaggia sabbiosa con intensa urbanizzazione e vista sull'Isola de Li Galli.",
-    "comune": "Positano",
-    "zona": "costiera",
-    "lat": 40.6278,
-    "lng": 14.4872,
-    "tipologia": "sabbiosa",
-    "lunghezza_m": 300,
-    "link": "https://comune.positano.sa.it",
-    "fonte": "web-research"
+    "nome": "spiaggia di Ascea",
+    "descrizione": "",
+    "lat": 40.1291202,
+    "lng": 15.178039,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.1291202&mlon=15.178039#map=16/40.1291202/15.178039",
+    "id": "spiagge-spiaggia-di-ascea-1"
   },
   {
-    "id": "spiaggia-amalfi",
-    "nome": "Spiaggia di Amalfi",
-    "descrizione": "Litorale roccioso frastagliato con terrazzamenti fino a livello del mare. Porto a ovest, insenatura con spiaggia sabbiosa, strutture turistiche e scogliere. La spiaggia principale della città di Amalfi.",
-    "comune": "Amalfi",
-    "zona": "costiera",
-    "lat": 40.6338,
-    "lng": 14.6027,
-    "tipologia": "sabbiosa",
-    "lunghezza_m": 200,
-    "link": "https://www.comune.amalfi.sa.it",
-    "fonte": "web-research"
+    "nome": "Spiaggia libera Fornillo",
+    "descrizione": "",
+    "lat": 40.6259053,
+    "lng": 14.4803942,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6259053&mlon=14.4803942#map=16/40.6259053/14.4803942",
+    "id": "spiagge-spiaggia-libera-fornillo-2"
   },
   {
-    "id": "spiaggia-atrani",
-    "nome": "Spiaggia di Atrani",
-    "descrizione": "Probabilmente l'unico posto sulla Costiera Amalfitana con sabbia invece di ciottoli. Litorale roccioso frastagliato con pareti alte subverticali incise dal Vallone del Dragone. Piccolo borgo antico.",
-    "comune": "Atrani",
-    "zona": "costiera",
-    "lat": 40.6356,
-    "lng": 14.6093,
-    "tipologia": "sabbiosa",
-    "lunghezza_m": 100,
-    "link": "https://www.comune.atrani.sa.it",
-    "fonte": "web-research"
+    "nome": "Spiaggia libera",
+    "descrizione": "",
+    "lat": 40.1746378,
+    "lng": 15.1259316,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.1746378&mlon=15.1259316#map=16/40.1746378/15.1259316",
+    "id": "spiagge-spiaggia-libera-3"
   },
   {
-    "id": "spiaggia-cetara",
-    "nome": "Spiaggia di Cetara",
-    "descrizione": "Costa alta e rocciosa con spiaggia di sabbia vicino al porto. Cetara è un borgo di pescatori famoso per la colatura di alici e la tradizione marinara.",
-    "comune": "Cetara",
-    "zona": "costiera",
-    "lat": 40.6466,
-    "lng": 14.7025,
-    "tipologia": "sabbiosa",
-    "lunghezza_m": 200,
-    "link": "https://www.comune.cetara.sa.it",
-    "fonte": "web-research"
+    "nome": "Spiaggia libera",
+    "descrizione": "",
+    "lat": 40.1756198,
+    "lng": 15.1235227,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.1756198&mlon=15.1235227#map=16/40.1756198/15.1235227",
+    "id": "spiagge-spiaggia-libera-4"
   },
   {
-    "id": "spiaggia-vietri",
-    "nome": "Spiaggia di Vietri sul Mare",
-    "descrizione": "Spiaggia sabbiosa con strutture turistiche ed intensa urbanizzazione. Versanti terrazzati con forte pendenza. Foce del Torrente Bonea. Primo paese della Costiera Amalfitana provenendo da Salerno.",
-    "comune": "Vietri sul Mare",
-    "zona": "costiera",
-    "lat": 40.6672,
-    "lng": 14.7239,
-    "tipologia": "sabbiosa",
-    "lunghezza_m": 400,
-    "link": "https://www.comune.vietrisulmare.sa.it",
-    "fonte": "web-research"
+    "nome": "Spiaggia libera",
+    "descrizione": "",
+    "lat": 40.1733443,
+    "lng": 15.1284158,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.1733443&mlon=15.1284158#map=16/40.1733443/15.1284158",
+    "id": "spiagge-spiaggia-libera-5"
   },
   {
-    "id": "fiordo-di-furore",
-    "nome": "Fiordo di Furore",
-    "descrizione": "Non è tecnicamente un fiordo ma una ría, una vallata fluviale sommersa dal mare creata dal torrente Schiato. Piccola spiaggia di ciottoli grigi di circa 25-73 metri incastonata tra pareti rocciose alte fino a 30 metri. Ponte sopraelevato per tuffi di alta quota.",
-    "comune": "Furore",
-    "zona": "costiera",
-    "lat": 40.6143,
-    "lng": 14.5546,
-    "tipologia": "rocciosa",
-    "lunghezza_m": 73,
-    "link": "",
-    "fonte": "web-research"
+    "nome": "Spiaggia libera",
+    "descrizione": "",
+    "lat": 40.1750767,
+    "lng": 15.1248976,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.1750767&mlon=15.1248976#map=16/40.1750767/15.1248976",
+    "id": "spiagge-spiaggia-libera-6"
   },
   {
-    "id": "spiaggia-praiano",
-    "nome": "Spiaggia di Praiano (Marina di Praia)",
-    "descrizione": "Piccola spiaggia di ciottoli nascosta in una stretta gola tra alte scogliere sotto Praiano. Torre di avvistamento saracena del XVI secolo. Sede del leggendario club Africana in una grotta marina.",
-    "comune": "Praiano",
-    "zona": "costiera",
-    "lat": 40.6135,
-    "lng": 14.5394,
-    "tipologia": "rocciosa",
-    "lunghezza_m": 150,
-    "link": "https://www.comune.praiano.sa.it",
-    "fonte": "web-research"
+    "nome": "Spiaggia libera S8 Eboli",
+    "descrizione": "",
+    "lat": 40.5155625,
+    "lng": 14.9239895,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.5155625&mlon=14.9239895#map=16/40.5155625/14.9239895",
+    "id": "spiagge-spiaggia-libera-s8-eboli-7"
   },
   {
-    "id": "spiaggia-conca-dei-marini",
-    "nome": "Spiaggia di Conca dei Marini",
-    "descrizione": "Ai piedi di una scogliera spettacolare, raggiungibile solo in barca o tramite un ripido sentiero. Spiaggia di ciottoli grigi con acqua turchese cristallina. Nessuna infrastruttura turistica sulla spiaggia.",
-    "comune": "Conca dei Marini",
-    "zona": "costiera",
-    "lat": 40.6163,
-    "lng": 14.5754,
-    "tipologia": "rocciosa",
-    "lunghezza_m": 100,
-    "link": "https://www.comune.concadeimarini.sa.it",
-    "fonte": "web-research"
+    "nome": "Spiaggia Pozzillo San Marco",
+    "descrizione": "",
+    "lat": 40.2788143,
+    "lng": 14.9439296,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2788143&mlon=14.9439296#map=16/40.2788143/14.9439296",
+    "id": "spiagge-spiaggia-pozzillo-san-marco-8"
   },
   {
-    "id": "spiaggia-minori",
-    "nome": "Spiaggia di Minori",
-    "descrizione": "Spiaggia sabbiosa di circa 250 metri con sabbia grigia e acqua cristallina. Bandiera Blu. Vicina alla Villa Romana del I secolo e al Sentiero dei Limoni. Una delle poche spiagge ampie e sabbiose della costiera.",
-    "comune": "Minori",
-    "zona": "costiera",
-    "lat": 40.6499,
-    "lng": 14.6278,
-    "tipologia": "sabbiosa",
-    "lunghezza_m": 250,
-    "link": "https://www.comune.minori.sa.it",
-    "fonte": "web-research"
+    "nome": "Pietracciaio",
+    "descrizione": "",
+    "lat": 40.123104,
+    "lng": 15.2056376,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.123104&mlon=15.2056376#map=16/40.123104/15.2056376",
+    "id": "spiagge-pietracciaio-9"
   },
   {
-    "id": "spiaggia-capo-dorso",
-    "nome": "Spiaggia di Capo d'Orso",
-    "descrizione": "Torre Normanna di Capo d'Orso: costa alta frastagliata con versanti vegetati. Promontorio calcareo a forma di orso che domina la costa tra Maiori ed Erchie. Balcone naturale sul Golfo di Salerno con faro storico del 1862.",
-    "comune": "Maiori",
-    "zona": "costiera",
-    "lat": 40.6332,
-    "lng": 14.6808,
-    "tipologia": "rocciosa",
-    "lunghezza_m": 150,
-    "link": "",
-    "fonte": "web-research"
+    "nome": "spiaggia Cala Bianca",
+    "descrizione": "",
+    "lat": 39.9972426,
+    "lng": 15.4134334,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=39.9972426&mlon=15.4134334#map=16/39.9972426/15.4134334",
+    "id": "spiagge-spiaggia-cala-bianca-10"
   },
   {
-    "id": "spiaggia-paestum",
-    "nome": "Spiaggia di Paestum",
-    "descrizione": "Ampia spiaggia sabbiosa nel comune di Capaccio, vicina ai celebri templi greci di Paestum patrimonio UNESCO. Sabbia dorata con fondali bassi e acque tranquille. Area archeologica a pochi metri dalla riva.",
-    "comune": "Capaccio Paestum",
-    "zona": "salerno",
-    "lat": 40.418,
-    "lng": 15.007,
-    "tipologia": "sabbiosa",
-    "lunghezza_m": 3000,
-    "link": "https://www.comune.capaccio.sa.it",
-    "fonte": "web-research"
+    "nome": "Spiaggia Pozzallo",
+    "descrizione": "",
+    "lat": 39.9971644,
+    "lng": 15.4075734,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=39.9971644&mlon=15.4075734#map=16/39.9971644/15.4075734",
+    "id": "spiagge-spiaggia-pozzallo-11"
   },
   {
-    "id": "spiaggia-trentova",
+    "nome": "Spiaggia Lentiscelle",
+    "descrizione": "",
+    "lat": 39.9999227,
+    "lng": 15.384085,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=39.9999227&mlon=15.384085#map=16/39.9999227/15.384085",
+    "id": "spiagge-spiaggia-lentiscelle-12"
+  },
+  {
+    "nome": "Spiaggia Marine delle Barche",
+    "descrizione": "",
+    "lat": 40.0004718,
+    "lng": 15.3790704,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0004718&mlon=15.3790704#map=16/40.0004718/15.3790704",
+    "id": "spiagge-spiaggia-marine-delle-barche-13"
+  },
+  {
+    "nome": "Spiaggia di Marcellino o dei Francesi",
+    "descrizione": "",
+    "lat": 40.019456,
+    "lng": 15.4455166,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.019456&mlon=15.4455166#map=16/40.019456/15.4455166",
+    "id": "spiagge-spiaggia-di-marcellino-o-dei-francesi-14"
+  },
+  {
+    "nome": "Spiaggia dell'Arco Naturale",
+    "descrizione": "",
+    "lat": 40.0308191,
+    "lng": 15.3078178,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0308191&mlon=15.3078178#map=16/40.0308191/15.3078178",
+    "id": "spiagge-spiaggia-dellarco-naturale-15"
+  },
+  {
+    "nome": "Spiaggia Foce Acqua dei Ranci",
+    "descrizione": "",
+    "lat": 40.3865926,
+    "lng": 14.9997257,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3865926&mlon=14.9997257#map=16/40.3865926/14.9997257",
+    "id": "spiagge-spiaggia-foce-acqua-dei-ranci-16"
+  },
+  {
+    "nome": "Spiagga Licinella",
+    "descrizione": "",
+    "lat": 40.4087605,
+    "lng": 14.9915039,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.4087605&mlon=14.9915039#map=16/40.4087605/14.9915039",
+    "id": "spiagge-spiagga-licinella-17"
+  },
+  {
+    "nome": "Spiaggia Varolato",
+    "descrizione": "",
+    "lat": 40.4680939,
+    "lng": 14.952597,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.4680939&mlon=14.952597#map=16/40.4680939/14.952597",
+    "id": "spiagge-spiaggia-varolato-18"
+  },
+  {
+    "nome": "Spiaggia di Agropoli",
+    "descrizione": "",
+    "lat": 40.3625563,
+    "lng": 14.9987224,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3625563&mlon=14.9987224#map=16/40.3625563/14.9987224",
+    "id": "spiagge-spiaggia-di-agropoli-19"
+  },
+  {
     "nome": "Spiaggia di Trentova",
-    "descrizione": "Baia selvaggia a sud di Agropoli nel Parco Nazionale del Cilento. Acqua shallow e trasparente con ottimo snorkeling nelle calette laterali. Sabbia chiara e pietre, fondali dolci adatti alle famiglie.",
-    "comune": "Agropoli",
-    "zona": "cilento",
-    "lat": 40.3436,
-    "lng": 14.9723,
-    "tipologia": "sabbiosa",
-    "lunghezza_m": 200,
-    "link": "https://www.comune.agropoli.sa.it",
-    "fonte": "web-research"
+    "descrizione": "",
+    "lat": 40.3438048,
+    "lng": 14.9717346,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3438048&mlon=14.9717346#map=16/40.3438048/14.9717346",
+    "id": "spiagge-spiaggia-di-trentova-20"
   },
   {
-    "id": "spiaggia-palinuro",
-    "nome": "Spiaggia di Palinuro",
-    "descrizione": "Località turistica sul Capo Palinuro, promontorio della Costiera Cilentana. Spiagge di sabbia fine e dorata con acque cristalline e fondali bassi. Bandiera Blu. Famosa per le grotte marine tra cui la Grotta Azzurra.",
-    "comune": "Centola",
-    "zona": "cilento",
-    "lat": 40.036,
-    "lng": 15.2881,
-    "tipologia": "sabbiosa",
-    "lunghezza_m": 500,
-    "link": "https://www.comune.centola.sa.it",
-    "fonte": "web-research"
+    "nome": "Spiaggia Testene",
+    "descrizione": "",
+    "lat": 40.3543288,
+    "lng": 14.9938353,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3543288&mlon=14.9938353#map=16/40.3543288/14.9938353",
+    "id": "spiagge-spiaggia-testene-21"
   },
   {
-    "id": "spiaggia-marina-camerota",
-    "nome": "Spiaggia di Marina di Camerota",
-    "descrizione": "La frazione più grande di Camerota, porto sul Tirreno. Spiaggia sabbiosa con paesaggi incontaminati del Parco Nazionale del Cilento. Località più meridionale della Campania abitata.",
-    "comune": "Camerota",
-    "zona": "cilento",
-    "lat": 40.0036,
-    "lng": 15.3672,
-    "tipologia": "sabbiosa",
-    "lunghezza_m": 800,
-    "link": "https://www.comune.camerota.sa.it",
-    "fonte": "web-research"
+    "nome": "Spiaggia di Sovarano (Sgarrupo)",
+    "descrizione": "",
+    "lat": 40.6399421,
+    "lng": 14.696636,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6399421&mlon=14.696636#map=16/40.6399421/14.696636",
+    "id": "spiagge-spiaggia-di-sovarano-sgarrupo-22"
   },
   {
-    "id": "spiaggia-acciaroli",
-    "nome": "Spiaggia di Acciaroli",
-    "descrizione": "Una delle spiagge più premiate da Legambiente per la pulizia. Spiaggia stretta e lunga di sabbia media chiara con fondali bassi e dolci. Green Flag dei pediatri italiani per l'acqua più pulita d'Italia.",
-    "comune": "Pollica",
-    "zona": "cilento",
-    "lat": 40.181,
-    "lng": 15.028,
-    "tipologia": "sabbiosa",
-    "lunghezza_m": 1500,
-    "link": "https://www.comune.pollica.sa.it",
-    "fonte": "web-research"
+    "nome": "Spiaggia di Cauco",
+    "descrizione": "",
+    "lat": 40.6381263,
+    "lng": 14.6956648,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6381263&mlon=14.6956648#map=16/40.6381263/14.6956648",
+    "id": "spiagge-spiaggia-di-cauco-23"
   },
   {
-    "id": "spiaggia-pioppi",
-    "nome": "Spiaggia di Pioppi",
-    "descrizione": "Frazione di Pollica tra Acciaroli e Marina di Casalvelino. Costa con acqua cristallina, Bandiera Blu. Tra i borghi più belli d'Italia. 10 km dalla città greca di Velia.",
-    "comune": "Pollica",
-    "zona": "cilento",
-    "lat": 40.1746,
-    "lng": 15.0894,
-    "tipologia": "sabbiosa",
-    "lunghezza_m": 600,
-    "link": "https://www.comune.pollica.sa.it",
-    "fonte": "web-research"
+    "nome": "Spiaggia della Crestarella",
+    "descrizione": "",
+    "lat": 40.6692647,
+    "lng": 14.7315339,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6692647&mlon=14.7315339#map=16/40.6692647/14.7315339",
+    "id": "spiagge-spiaggia-della-crestarella-24"
   },
   {
-    "id": "spiaggia-san-marco-castellabate",
-    "nome": "Spiaggia di San Marco di Castellabate",
-    "descrizione": "Piccola caletta selvaggia di San Marco di Castellabate con acqua cristallina e atmosfera tranquilla. Perfetta per chi cerca mare pulito lontano dagli stabilimenti. Area della Grotta di San Marco.",
-    "comune": "Castellabate",
-    "zona": "cilento",
-    "lat": 40.269,
-    "lng": 14.945,
-    "tipologia": "rocciosa",
-    "lunghezza_m": 100,
-    "link": "https://www.comune.castellabate.sa.it",
-    "fonte": "web-research"
+    "nome": "Spiaggia del Tuoro Vecchio",
+    "descrizione": "",
+    "lat": 40.6502981,
+    "lng": 14.7047899,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6502981&mlon=14.7047899#map=16/40.6502981/14.7047899",
+    "id": "spiagge-spiaggia-del-tuoro-vecchio-25"
   },
   {
-    "id": "cala-degli-infreschi",
-    "nome": "Cala degli Infreschi",
-    "descrizione": "Insenatura protetta del Parco Nazionale del Cilento con grotte marine, sorgenti sottomarine e acque cristalline. Raggiungibile solo via mare o a piedi dai sentieri di Marina di Camerota. Tra le baie più belle d'Italia.",
-    "comune": "Camerota",
-    "zona": "cilento",
-    "lat": 40.033,
-    "lng": 15.378,
-    "tipologia": "rocciosa",
-    "lunghezza_m": 200,
-    "link": "",
-    "fonte": "web-research"
+    "nome": "Spiaggia del Lannio",
+    "descrizione": "",
+    "lat": 40.6485011,
+    "lng": 14.7038947,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6485011&mlon=14.7038947#map=16/40.6485011/14.7038947",
+    "id": "spiagge-spiaggia-del-lannio-26"
+  },
+  {
+    "nome": "Spiaggia Acquachiara",
+    "descrizione": "",
+    "lat": 40.6444932,
+    "lng": 14.6499251,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6444932&mlon=14.6499251#map=16/40.6444932/14.6499251",
+    "id": "spiagge-spiaggia-acquachiara-27"
+  },
+  {
+    "nome": "Spiaggia Duoglio",
+    "descrizione": "",
+    "lat": 40.6260001,
+    "lng": 14.5883297,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6260001&mlon=14.5883297#map=16/40.6260001/14.5883297",
+    "id": "spiagge-spiaggia-duoglio-28"
+  },
+  {
+    "nome": "Castiglione",
+    "descrizione": "",
+    "lat": 40.6368363,
+    "lng": 14.6108958,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6368363&mlon=14.6108958#map=16/40.6368363/14.6108958",
+    "id": "spiagge-castiglione-29"
+  },
+  {
+    "nome": "Spiaggia del Cavallo Morto",
+    "descrizione": "",
+    "lat": 40.6417218,
+    "lng": 14.6623744,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6417218&mlon=14.6623744#map=16/40.6417218/14.6623744",
+    "id": "spiagge-spiaggia-del-cavallo-morto-30"
+  },
+  {
+    "nome": "Spiaggia della Vite",
+    "descrizione": "",
+    "lat": 40.6186623,
+    "lng": 14.5775324,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6186623&mlon=14.5775324#map=16/40.6186623/14.5775324",
+    "id": "spiagge-spiaggia-della-vite-31"
+  },
+  {
+    "nome": "La Porta",
+    "descrizione": "",
+    "lat": 40.6274059,
+    "lng": 14.4922028,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6274059&mlon=14.4922028#map=16/40.6274059/14.4922028",
+    "id": "spiagge-la-porta-32"
+  },
+  {
+    "nome": "Spiaggia grande di Tordigliano",
+    "descrizione": "",
+    "lat": 40.6191449,
+    "lng": 14.4522473,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6191449&mlon=14.4522473#map=16/40.6191449/14.4522473",
+    "id": "spiagge-spiaggia-grande-di-tordigliano-33"
+  },
+  {
+    "nome": "Spiaggia Grande",
+    "descrizione": "",
+    "lat": 40.6276266,
+    "lng": 14.4879252,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6276266&mlon=14.4879252#map=16/40.6276266/14.4879252",
+    "id": "spiagge-spiaggia-grande-34"
+  },
+  {
+    "nome": "spiaggia di Case del Conte",
+    "descrizione": "",
+    "lat": 40.2304737,
+    "lng": 14.9580625,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2304737&mlon=14.9580625#map=16/40.2304737/14.9580625",
+    "id": "spiagge-spiaggia-di-case-del-conte-35"
+  },
+  {
+    "nome": "Fiordo di Furore",
+    "descrizione": "",
+    "lat": 40.6146322,
+    "lng": 14.5549546,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6146322&mlon=14.5549546#map=16/40.6146322/14.5549546",
+    "id": "spiagge-fiordo-di-furore-36"
+  },
+  {
+    "nome": "Marina di Vico",
+    "descrizione": "",
+    "lat": 40.6656098,
+    "lng": 14.4278088,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6656098&mlon=14.4278088#map=16/40.6656098/14.4278088",
+    "id": "spiagge-marina-di-vico-37"
+  },
+  {
+    "nome": "Agnone( Campania)",
+    "descrizione": "",
+    "lat": 40.2170542,
+    "lng": 14.9931224,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2170542&mlon=14.9931224#map=16/40.2170542/14.9931224",
+    "id": "spiagge-agnone-campania-38"
+  },
+  {
+    "nome": "Spiaggia sotto la torre",
+    "descrizione": "",
+    "lat": 40.1767337,
+    "lng": 15.1176616,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.1767337&mlon=15.1176616#map=16/40.1767337/15.1176616",
+    "id": "spiagge-spiaggia-sotto-la-torre-39"
+  },
+  {
+    "nome": "Spiaggia del Porto",
+    "descrizione": "",
+    "lat": 40.0297752,
+    "lng": 15.2786459,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0297752&mlon=15.2786459#map=16/40.0297752/15.2786459",
+    "id": "spiagge-spiaggia-del-porto-40"
+  },
+  {
+    "nome": "Spiaggia Ficocella degli uomini",
+    "descrizione": "",
+    "lat": 40.0347693,
+    "lng": 15.2855168,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0347693&mlon=15.2855168#map=16/40.0347693/15.2855168",
+    "id": "spiagge-spiaggia-ficocella-degli-uomini-41"
+  },
+  {
+    "nome": "Sunset Beach Club Palinuro",
+    "descrizione": "",
+    "lat": 40.0541267,
+    "lng": 15.28257,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0541267&mlon=15.28257#map=16/40.0541267/15.28257",
+    "id": "spiagge-sunset-beach-club-palinuro-42"
+  },
+  {
+    "nome": "Spiaggia di Marina d'Albori",
+    "descrizione": "",
+    "lat": 40.6638108,
+    "lng": 14.7158611,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6638108&mlon=14.7158611#map=16/40.6638108/14.7158611",
+    "id": "spiagge-spiaggia-di-marina-dalbori-43"
+  },
+  {
+    "nome": "Spiaggia della Cartiera",
+    "descrizione": "",
+    "lat": 40.6635914,
+    "lng": 14.7153254,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6635914&mlon=14.7153254#map=16/40.6635914/14.7153254",
+    "id": "spiagge-spiaggia-della-cartiera-44"
+  },
+  {
+    "nome": "Spiaggia dello Scoglione",
+    "descrizione": "",
+    "lat": 40.6652832,
+    "lng": 14.717734,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6652832&mlon=14.717734#map=16/40.6652832/14.717734",
+    "id": "spiagge-spiaggia-dello-scoglione-45"
+  },
+  {
+    "nome": "Spiaggia della Torre di Albori",
+    "descrizione": "",
+    "lat": 40.6642035,
+    "lng": 14.716568,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6642035&mlon=14.716568#map=16/40.6642035/14.716568",
+    "id": "spiagge-spiaggia-della-torre-di-albori-46"
+  },
+  {
+    "nome": "Spiaggia Fiumicello",
+    "descrizione": "",
+    "lat": 40.1249823,
+    "lng": 15.1935946,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.1249823&mlon=15.1935946#map=16/40.1249823/15.1935946",
+    "id": "spiagge-spiaggia-fiumicello-47"
+  },
+  {
+    "nome": "Spiaggia Cala d'Arconte",
+    "descrizione": "",
+    "lat": 40.0032446,
+    "lng": 15.3505987,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0032446&mlon=15.3505987#map=16/40.0032446/15.3505987",
+    "id": "spiagge-spiaggia-cala-darconte-48"
+  },
+  {
+    "nome": "Spiaggia Cala d'Arconte",
+    "descrizione": "",
+    "lat": 40.0052446,
+    "lng": 15.3484407,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0052446&mlon=15.3484407#map=16/40.0052446/15.3484407",
+    "id": "spiagge-spiaggia-cala-darconte-49"
+  },
+  {
+    "nome": "Spiaggia Capo Grosso",
+    "descrizione": "",
+    "lat": 40.0014102,
+    "lng": 15.3537873,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0014102&mlon=15.3537873#map=16/40.0014102/15.3537873",
+    "id": "spiagge-spiaggia-capo-grosso-50"
+  },
+  {
+    "nome": "Spiaggia della Calanca",
+    "descrizione": "",
+    "lat": 40.000492,
+    "lng": 15.3660568,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.000492&mlon=15.3660568#map=16/40.000492/15.3660568",
+    "id": "spiagge-spiaggia-della-calanca-51"
+  },
+  {
+    "nome": "Spiaggia della Collata",
+    "descrizione": "",
+    "lat": 40.6434937,
+    "lng": 14.6982841,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6434937&mlon=14.6982841#map=16/40.6434937/14.6982841",
+    "id": "spiagge-spiaggia-della-collata-52"
+  },
+  {
+    "nome": "Spiaggia dei Ninnilli",
+    "descrizione": "",
+    "lat": 40.6669481,
+    "lng": 14.7192365,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6669481&mlon=14.7192365#map=16/40.6669481/14.7192365",
+    "id": "spiagge-spiaggia-dei-ninnilli-53"
+  },
+  {
+    "nome": "Spiaggia del Cancelluzzo",
+    "descrizione": "",
+    "lat": 40.6660368,
+    "lng": 14.7184797,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6660368&mlon=14.7184797#map=16/40.6660368/14.7184797",
+    "id": "spiagge-spiaggia-del-cancelluzzo-54"
+  },
+  {
+    "nome": "Spiaggia della Carrubina",
+    "descrizione": "",
+    "lat": 40.6665617,
+    "lng": 14.718756,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6665617&mlon=14.718756#map=16/40.6665617/14.718756",
+    "id": "spiagge-spiaggia-della-carrubina-55"
+  },
+  {
+    "nome": "Spiaggia Scavatella",
+    "descrizione": "",
+    "lat": 40.6527829,
+    "lng": 14.7072439,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6527829&mlon=14.7072439#map=16/40.6527829/14.7072439",
+    "id": "spiagge-spiaggia-scavatella-56"
+  },
+  {
+    "nome": "Spiaggia della Vergola di Ferro",
+    "descrizione": "",
+    "lat": 40.6536762,
+    "lng": 14.7079785,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6536762&mlon=14.7079785#map=16/40.6536762/14.7079785",
+    "id": "spiagge-spiaggia-della-vergola-di-ferro-57"
+  },
+  {
+    "nome": "Spiaggia dell'Acqua della Fica",
+    "descrizione": "",
+    "lat": 40.6610365,
+    "lng": 14.7131047,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6610365&mlon=14.7131047#map=16/40.6610365/14.7131047",
+    "id": "spiagge-spiaggia-dellacqua-della-fica-58"
+  },
+  {
+    "nome": "Spiaggia della Campana",
+    "descrizione": "",
+    "lat": 40.6511361,
+    "lng": 14.7054715,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6511361&mlon=14.7054715#map=16/40.6511361/14.7054715",
+    "id": "spiagge-spiaggia-della-campana-59"
+  },
+  {
+    "nome": "Spiaggia Fuenti",
+    "descrizione": "",
+    "lat": 40.657756,
+    "lng": 14.7119509,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.657756&mlon=14.7119509#map=16/40.657756/14.7119509",
+    "id": "spiagge-spiaggia-fuenti-60"
+  },
+  {
+    "nome": "Spiaggia dei Travertini",
+    "descrizione": "",
+    "lat": 40.6567568,
+    "lng": 14.7100374,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6567568&mlon=14.7100374#map=16/40.6567568/14.7100374",
+    "id": "spiagge-spiaggia-dei-travertini-61"
+  },
+  {
+    "nome": "Spiaggia Addò Francesca",
+    "descrizione": "",
+    "lat": 40.6543659,
+    "lng": 14.7084265,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6543659&mlon=14.7084265#map=16/40.6543659/14.7084265",
+    "id": "spiagge-spiaggia-addò-francesca-62"
+  },
+  {
+    "nome": "Spiaggia di Ciglio (I Limoni)",
+    "descrizione": "",
+    "lat": 40.6414016,
+    "lng": 14.6977772,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6414016&mlon=14.6977772#map=16/40.6414016/14.6977772",
+    "id": "spiagge-spiaggia-di-ciglio-i-limoni-63"
+  },
+  {
+    "nome": "Spiaggia Del Troncone",
+    "descrizione": "",
+    "lat": 40.0060806,
+    "lng": 15.3416078,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0060806&mlon=15.3416078#map=16/40.0060806/15.3416078",
+    "id": "spiagge-spiaggia-del-troncone-64"
+  },
+  {
+    "nome": "Spiaggia Cala del Céfalo",
+    "descrizione": "",
+    "lat": 40.0221825,
+    "lng": 15.3241423,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0221825&mlon=15.3241423#map=16/40.0221825/15.3241423",
+    "id": "spiagge-spiaggia-cala-del-céfalo-65"
+  },
+  {
+    "nome": "Gavitella beach",
+    "descrizione": "",
+    "lat": 40.6139802,
+    "lng": 14.5205209,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6139802&mlon=14.5205209#map=16/40.6139802/14.5205209",
+    "id": "spiagge-gavitella-beach-66"
+  },
+  {
+    "nome": "Spiaggia della Sciabica",
+    "descrizione": "",
+    "lat": 40.0227275,
+    "lng": 15.448487,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0227275&mlon=15.448487#map=16/40.0227275/15.448487",
+    "id": "spiagge-spiaggia-della-sciabica-67"
+  },
+  {
+    "nome": "Spiaggia della Risima",
+    "descrizione": "",
+    "lat": 40.0211484,
+    "lng": 15.446875,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0211484&mlon=15.446875#map=16/40.0211484/15.446875",
+    "id": "spiagge-spiaggia-della-risima-68"
+  },
+  {
+    "nome": "Spiaggia dei Gabbiani",
+    "descrizione": "",
+    "lat": 40.0256393,
+    "lng": 15.4532516,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0256393&mlon=15.4532516#map=16/40.0256393/15.4532516",
+    "id": "spiagge-spiaggia-dei-gabbiani-69"
+  },
+  {
+    "nome": "Spiaggia della Carcarella",
+    "descrizione": "",
+    "lat": 40.0338189,
+    "lng": 15.4604175,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0338189&mlon=15.4604175#map=16/40.0338189/15.4604175",
+    "id": "spiagge-spiaggia-della-carcarella-70"
+  },
+  {
+    "nome": "La Molpa",
+    "descrizione": "parete di falesia per l'arrampicata",
+    "lat": 40.0298263,
+    "lng": 15.3002296,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0298263&mlon=15.3002296#map=16/40.0298263/15.3002296",
+    "id": "spiagge-la-molpa-71"
+  },
+  {
+    "nome": "spiaggia Marinella",
+    "descrizione": "",
+    "lat": 40.0296,
+    "lng": 15.2967742,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0296&mlon=15.2967742#map=16/40.0296/15.2967742",
+    "id": "spiagge-spiaggia-marinella-72"
+  },
+  {
+    "nome": "Garden Beach",
+    "descrizione": "",
+    "lat": 40.6891194,
+    "lng": 14.456306,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6891194&mlon=14.456306#map=16/40.6891194/14.456306",
+    "id": "spiagge-garden-beach-73"
+  },
+  {
+    "nome": "Bagno Elena",
+    "descrizione": "",
+    "lat": 40.6889448,
+    "lng": 14.4557921,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6889448&mlon=14.4557921#map=16/40.6889448/14.4557921",
+    "id": "spiagge-bagno-elena-74"
+  },
+  {
+    "nome": "Bagno Conte",
+    "descrizione": "",
+    "lat": 40.6886908,
+    "lng": 14.4550838,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6886908&mlon=14.4550838#map=16/40.6886908/14.4550838",
+    "id": "spiagge-bagno-conte-75"
+  },
+  {
+    "nome": "Lido Moderno",
+    "descrizione": "",
+    "lat": 40.6884041,
+    "lng": 14.4542905,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6884041&mlon=14.4542905#map=16/40.6884041/14.4542905",
+    "id": "spiagge-lido-moderno-76"
+  },
+  {
+    "nome": "La Palombara",
+    "descrizione": "",
+    "lat": 40.6882136,
+    "lng": 14.4532768,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6882136&mlon=14.4532768#map=16/40.6882136/14.4532768",
+    "id": "spiagge-la-palombara-77"
+  },
+  {
+    "nome": "Spiagia della Sciabichedda",
+    "descrizione": "",
+    "lat": 40.0234331,
+    "lng": 15.4496788,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0234331&mlon=15.4496788#map=16/40.0234331/15.4496788",
+    "id": "spiagge-spiagia-della-sciabichedda-78"
+  },
+  {
+    "nome": "Spiaggia Santa Teresa",
+    "descrizione": "",
+    "lat": 40.6773263,
+    "lng": 14.7561703,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6773263&mlon=14.7561703#map=16/40.6773263/14.7561703",
+    "id": "spiagge-spiaggia-santa-teresa-79"
+  },
+  {
+    "nome": "Le 7 Scogliere di Rovigliano",
+    "descrizione": "",
+    "lat": 40.7399606,
+    "lng": 14.4626617,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7399606&mlon=14.4626617#map=16/40.7399606/14.4626617",
+    "id": "spiagge-le-7-scogliere-di-rovigliano-80"
+  },
+  {
+    "nome": "Lido Nettuno",
+    "descrizione": "",
+    "lat": 40.7544858,
+    "lng": 14.4400602,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7544858&mlon=14.4400602#map=16/40.7544858/14.4400602",
+    "id": "spiagge-lido-nettuno-81"
+  },
+  {
+    "nome": "Lido Rinascenza",
+    "descrizione": "",
+    "lat": 40.7542626,
+    "lng": 14.4408422,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7542626&mlon=14.4408422#map=16/40.7542626/14.4408422",
+    "id": "spiagge-lido-rinascenza-82"
+  },
+  {
+    "nome": "Lido Eldorado",
+    "descrizione": "",
+    "lat": 40.7543615,
+    "lng": 14.4404689,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7543615&mlon=14.4404689#map=16/40.7543615/14.4404689",
+    "id": "spiagge-lido-eldorado-83"
+  },
+  {
+    "nome": "Lido Risorgimento",
+    "descrizione": "",
+    "lat": 40.7539007,
+    "lng": 14.4411724,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7539007&mlon=14.4411724#map=16/40.7539007/14.4411724",
+    "id": "spiagge-lido-risorgimento-84"
+  },
+  {
+    "nome": "Marina del Sole",
+    "descrizione": "",
+    "lat": 40.7531951,
+    "lng": 14.4424282,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7531951&mlon=14.4424282#map=16/40.7531951/14.4424282",
+    "id": "spiagge-marina-del-sole-85"
+  },
+  {
+    "nome": "Remmese",
+    "descrizione": "",
+    "lat": 40.6242598,
+    "lng": 14.4764264,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6242598&mlon=14.4764264#map=16/40.6242598/14.4764264",
+    "id": "spiagge-remmese-86"
+  },
+  {
+    "nome": "San Pietro",
+    "descrizione": "Restricted to Hotel San Pietro guests/customers only",
+    "lat": 40.6232573,
+    "lng": 14.5028934,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6232573&mlon=14.5028934#map=16/40.6232573/14.5028934",
+    "id": "spiagge-san-pietro-87"
+  },
+  {
+    "nome": "Lido Samoa",
+    "descrizione": "",
+    "lat": 40.555631,
+    "lng": 14.9014683,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.555631&mlon=14.9014683#map=16/40.555631/14.9014683",
+    "id": "spiagge-lido-samoa-88"
+  },
+  {
+    "nome": "Spiaggia d'Arienzo",
+    "descrizione": "",
+    "lat": 40.6268396,
+    "lng": 14.4957997,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6268396&mlon=14.4957997#map=16/40.6268396/14.4957997",
+    "id": "spiagge-spiaggia-darienzo-89"
+  },
+  {
+    "nome": "Fiumicello",
+    "descrizione": "",
+    "lat": 40.6273026,
+    "lng": 14.4944068,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6273026&mlon=14.4944068#map=16/40.6273026/14.4944068",
+    "id": "spiagge-fiumicello-90"
+  },
+  {
+    "nome": "Spiaggia della Molara",
+    "descrizione": "",
+    "lat": 40.0402337,
+    "lng": 15.479399,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0402337&mlon=15.479399#map=16/40.0402337/15.479399",
+    "id": "spiagge-spiaggia-della-molara-91"
+  },
+  {
+    "nome": "Spiaggia della grotta dell'acqua",
+    "descrizione": "",
+    "lat": 40.0369735,
+    "lng": 15.4708012,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0369735&mlon=15.4708012#map=16/40.0369735/15.4708012",
+    "id": "spiagge-spiaggia-della-grotta-dellacqua-92"
+  },
+  {
+    "nome": "Porticello",
+    "descrizione": "",
+    "lat": 40.0428833,
+    "lng": 15.4864613,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0428833&mlon=15.4864613#map=16/40.0428833/15.4864613",
+    "id": "spiagge-porticello-93"
+  },
+  {
+    "nome": "Lido Azzurro",
+    "descrizione": "",
+    "lat": 40.7547232,
+    "lng": 14.4393525,
+    "source": "osm",
+    "link": "http://www.illidoazzurro.it",
+    "id": "spiagge-lido-azzurro-94"
+  },
+  {
+    "nome": "Spiaggie Gemelle",
+    "descrizione": "",
+    "lat": 40.0291653,
+    "lng": 15.4566839,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0291653&mlon=15.4566839#map=16/40.0291653/15.4566839",
+    "id": "spiagge-spiaggie-gemelle-95"
+  },
+  {
+    "nome": "Spiagge Gemelle",
+    "descrizione": "",
+    "lat": 40.0285595,
+    "lng": 15.4563626,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0285595&mlon=15.4563626#map=16/40.0285595/15.4563626",
+    "id": "spiagge-spiagge-gemelle-96"
+  },
+  {
+    "nome": "Spiaggia di Garagliano",
+    "descrizione": "",
+    "lat": 40.0452836,
+    "lng": 15.4878827,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0452836&mlon=15.4878827#map=16/40.0452836/15.4878827",
+    "id": "spiagge-spiaggia-di-garagliano-97"
+  },
+  {
+    "nome": "Spiaggia della Tragara",
+    "descrizione": "",
+    "lat": 40.0474715,
+    "lng": 15.4887244,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0474715&mlon=15.4887244#map=16/40.0474715/15.4887244",
+    "id": "spiagge-spiaggia-della-tragara-98"
+  },
+  {
+    "nome": "Tordigliano",
+    "descrizione": "",
+    "lat": 40.6195477,
+    "lng": 14.455293,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6195477&mlon=14.455293#map=16/40.6195477/14.455293",
+    "id": "spiagge-tordigliano-99"
+  },
+  {
+    "nome": "Lo Scaricatore",
+    "descrizione": "Lo scaricatore",
+    "lat": 40.6161233,
+    "lng": 14.4418297,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6161233&mlon=14.4418297#map=16/40.6161233/14.4418297",
+    "id": "spiagge-lo-scaricatore-100"
+  },
+  {
+    "nome": "Antico Bagno Nettuno",
+    "descrizione": "",
+    "lat": 40.6395593,
+    "lng": 14.4018041,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6395593&mlon=14.4018041#map=16/40.6395593/14.4018041",
+    "id": "spiagge-antico-bagno-nettuno-101"
+  },
+  {
+    "nome": "Katarì",
+    "descrizione": "",
+    "lat": 40.6386313,
+    "lng": 14.3998055,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6386313&mlon=14.3998055#map=16/40.6386313/14.3998055",
+    "id": "spiagge-katarì-102"
+  },
+  {
+    "nome": "La spiaggetta",
+    "descrizione": "",
+    "lat": 40.1755226,
+    "lng": 15.1217621,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.1755226&mlon=15.1217621#map=16/40.1755226/15.1217621",
+    "id": "spiagge-la-spiaggetta-103"
+  },
+  {
+    "nome": "Cala Blu",
+    "descrizione": "",
+    "lat": 40.3377329,
+    "lng": 14.9535234,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3377329&mlon=14.9535234#map=16/40.3377329/14.9535234",
+    "id": "spiagge-cala-blu-104"
+  },
+  {
+    "nome": "Spiaggia degli Iscolelli",
+    "descrizione": "Spiaggia non accessibile se non scalando la montagna rocciosa oppure difficilmente a nuoto da mare.",
+    "lat": 39.9928265,
+    "lng": 15.4158515,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=39.9928265&mlon=15.4158515#map=16/39.9928265/15.4158515",
+    "id": "spiagge-spiaggia-degli-iscolelli-105"
+  },
+  {
+    "nome": "Lido Scaramella beach",
+    "descrizione": "",
+    "lat": 40.6651385,
+    "lng": 14.7893159,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6651385&mlon=14.7893159#map=16/40.6651385/14.7893159",
+    "id": "spiagge-lido-scaramella-beach-106"
+  },
+  {
+    "nome": "Spiaggia Ficocella delle donne",
+    "descrizione": "",
+    "lat": 40.0356842,
+    "lng": 15.2853626,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0356842&mlon=15.2853626#map=16/40.0356842/15.2853626",
+    "id": "spiagge-spiaggia-ficocella-delle-donne-107"
+  },
+  {
+    "nome": "Spiagga Licina",
+    "descrizione": "",
+    "lat": 40.3539885,
+    "lng": 14.9914906,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3539885&mlon=14.9914906#map=16/40.3539885/14.9914906",
+    "id": "spiagge-spiagga-licina-108"
+  },
+  {
+    "nome": "Torretta 23",
+    "descrizione": "",
+    "lat": 40.3097744,
+    "lng": 14.9457829,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3097744&mlon=14.9457829#map=16/40.3097744/14.9457829",
+    "id": "spiagge-torretta-23-109"
+  },
+  {
+    "nome": "Lido Tirreno",
+    "descrizione": "",
+    "lat": 40.3100561,
+    "lng": 14.9457336,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3100561&mlon=14.9457336#map=16/40.3100561/14.9457336",
+    "id": "spiagge-lido-tirreno-110"
+  },
+  {
+    "nome": "Club Michele",
+    "descrizione": "",
+    "lat": 40.0154139,
+    "lng": 15.3325816,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0154139&mlon=15.3325816#map=16/40.0154139/15.3325816",
+    "id": "spiagge-club-michele-111"
+  },
+  {
+    "nome": "Lido Nettuno",
+    "descrizione": "",
+    "lat": 40.0135882,
+    "lng": 15.3340092,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0135882&mlon=15.3340092#map=16/40.0135882/15.3340092",
+    "id": "spiagge-lido-nettuno-112"
+  },
+  {
+    "nome": "Bikini beach",
+    "descrizione": "",
+    "lat": 40.0141644,
+    "lng": 15.333556,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0141644&mlon=15.333556#map=16/40.0141644/15.333556",
+    "id": "spiagge-bikini-beach-113"
+  },
+  {
+    "nome": "Playa porlamar",
+    "descrizione": "",
+    "lat": 40.0148603,
+    "lng": 15.3330115,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0148603&mlon=15.3330115#map=16/40.0148603/15.3330115",
+    "id": "spiagge-playa-porlamar-114"
+  },
+  {
+    "nome": "La Pagliarella",
+    "descrizione": "",
+    "lat": 40.3118145,
+    "lng": 14.9453859,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3118145&mlon=14.9453859#map=16/40.3118145/14.9453859",
+    "id": "spiagge-la-pagliarella-115"
+  },
+  {
+    "nome": "Cala di Torre Mozza",
+    "descrizione": "",
+    "lat": 40.016224,
+    "lng": 15.4423687,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.016224&mlon=15.4423687#map=16/40.016224/15.4423687",
+    "id": "spiagge-cala-di-torre-mozza-116"
+  },
+  {
+    "nome": "Lido La Conchiglia",
+    "descrizione": "",
+    "lat": 40.6716667,
+    "lng": 14.7761751,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6716667&mlon=14.7761751#map=16/40.6716667/14.7761751",
+    "id": "spiagge-lido-la-conchiglia-117"
+  },
+  {
+    "nome": "Spiaggia La Laura",
+    "descrizione": "",
+    "lat": 40.4480402,
+    "lng": 14.9672095,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.4480402&mlon=14.9672095#map=16/40.4480402/14.9672095",
+    "id": "spiagge-spiaggia-la-laura-118"
+  },
+  {
+    "nome": "Spiaggia Casina d'Amato",
+    "descrizione": "",
+    "lat": 40.432523,
+    "lng": 14.9780032,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.432523&mlon=14.9780032#map=16/40.432523/14.9780032",
+    "id": "spiagge-spiaggia-casina-damato-119"
+  },
+  {
+    "nome": "Spiaggia Ponte di ferro",
+    "descrizione": "",
+    "lat": 40.4201712,
+    "lng": 14.9855256,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.4201712&mlon=14.9855256#map=16/40.4201712/14.9855256",
+    "id": "spiagge-spiaggia-ponte-di-ferro-120"
+  },
+  {
+    "nome": "Spiaggia Torre di Paestum",
+    "descrizione": "",
+    "lat": 40.3972587,
+    "lng": 14.9968925,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3972587&mlon=14.9968925#map=16/40.3972587/14.9968925",
+    "id": "spiagge-spiaggia-torre-di-paestum-121"
+  },
+  {
+    "nome": "Laurito",
+    "descrizione": "",
+    "lat": 40.6223104,
+    "lng": 14.5069566,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6223104&mlon=14.5069566#map=16/40.6223104/14.5069566",
+    "id": "spiagge-laurito-122"
+  },
+  {
+    "nome": "crab",
+    "descrizione": "",
+    "lat": 40.0188427,
+    "lng": 15.3299367,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0188427&mlon=15.3299367#map=16/40.0188427/15.3299367",
+    "id": "spiagge-crab-123"
+  },
+  {
+    "nome": "Lido Night & Day",
+    "descrizione": "",
+    "lat": 40.5636456,
+    "lng": 14.8962524,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.5636456&mlon=14.8962524#map=16/40.5636456/14.8962524",
+    "id": "spiagge-lido-night-day-124"
+  },
+  {
+    "nome": "Lido Mojito Beach",
+    "descrizione": "",
+    "lat": 40.5639385,
+    "lng": 14.8960283,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.5639385&mlon=14.8960283#map=16/40.5639385/14.8960283",
+    "id": "spiagge-lido-mojito-beach-125"
   }
 ]

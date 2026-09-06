@@ -13,3 +13,7 @@ Thumbs.db
 # Temporary
 *.tmp
 *.bak
+
+# Raw scrape data (not part of the dataset)
+overpass_*.json
+wikidata_*.json

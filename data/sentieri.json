@@ -1,282 +1,2942 @@
 [
   {
-    "id": "sentiero-degli-dei",
-    "nome": "Sentiero degli Dei",
-    "descrizione": "Il sentiero più famoso della Costiera Amalfitana. Antico tratturo mulattiero a 500-630m sul mare con viste su Positano, Praiano, Capri e le isole Li Galli. Segnaletica CAI 327.",
-    "comune": "Agerola - Positano",
-    "zona": "costiera",
-    "lunghezza_km": 7.8,
-    "dislivello_m": 500,
-    "difficolta": "media",
-    "lat": 40.6384,
-    "lng": 14.5475,
-    "link": "https://www.caimontilattari.it/sentiero/327/",
-    "fonte": "sito-ufficiale"
+    "nome": "Verso le Sorgenti del Sammaro",
+    "descrizione": "",
+    "lat": 40.3853664,
+    "lng": 15.3630063,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3853664&mlon=15.3630063#map=16/40.3853664/15.3630063",
+    "id": "sentieri-verso-le-sorgenti-del-sammaro-0"
   },
   {
-    "id": "sentiero-dei-limoni",
+    "nome": "Sentiero sorgenti \"Sammaro\"",
+    "descrizione": "",
+    "lat": 40.3870857,
+    "lng": 15.3611821,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3870857&mlon=15.3611821#map=16/40.3870857/15.3611821",
+    "id": "sentieri-sentiero-sorgenti-sammaro-1"
+  },
+  {
+    "nome": "Sentiero Passo della Beta",
+    "descrizione": "",
+    "lat": 40.2120576,
+    "lng": 15.3414035,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2120576&mlon=15.3414035#map=16/40.2120576/15.3414035",
+    "id": "sentieri-sentiero-passo-della-beta-2"
+  },
+  {
+    "nome": "sentiero Cala Degli Infreschi",
+    "descrizione": "",
+    "lat": 39.9974062,
+    "lng": 15.4246866,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=39.9974062&mlon=15.4246866#map=16/39.9974062/15.4246866",
+    "id": "sentieri-sentiero-cala-degli-infreschi-3"
+  },
+  {
+    "nome": "Sentiero Valle cupa",
+    "descrizione": "",
+    "lat": 40.0865789,
+    "lng": 15.3801149,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0865789&mlon=15.3801149#map=16/40.0865789/15.3801149",
+    "id": "sentieri-sentiero-valle-cupa-4"
+  },
+  {
+    "nome": "Sentiero Storico Madonna della Neve",
+    "descrizione": "",
+    "lat": 40.2806134,
+    "lng": 15.5069529,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2806134&mlon=15.5069529#map=16/40.2806134/15.5069529",
+    "id": "sentieri-sentiero-storico-madonna-della-neve-5"
+  },
+  {
+    "nome": "sentiero Degli Infreschi",
+    "descrizione": "",
+    "lat": 39.9981268,
+    "lng": 15.4068653,
+    "source": "osm",
+    "link": "https://www.komoot.com/it-it/smarttour/e1084969073/",
+    "id": "sentieri-sentiero-degli-infreschi-6"
+  },
+  {
+    "nome": "Sentiero Storico Madonna della Neve",
+    "descrizione": "",
+    "lat": 40.2859965,
+    "lng": 15.4862429,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2859965&mlon=15.4862429#map=16/40.2859965/15.4862429",
+    "id": "sentieri-sentiero-storico-madonna-della-neve-7"
+  },
+  {
+    "nome": "Valle delle Ferriere",
+    "descrizione": "",
+    "lat": 40.6465293,
+    "lng": 14.5887705,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/325/",
+    "id": "sentieri-valle-delle-ferriere-8"
+  },
+  {
+    "nome": "Sentiero del Pellegrino",
+    "descrizione": "",
+    "lat": 40.0276863,
+    "lng": 15.2688638,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0276863&mlon=15.2688638#map=16/40.0276863/15.2688638",
+    "id": "sentieri-sentiero-del-pellegrino-9"
+  },
+  {
+    "nome": "Fortini e Torri",
+    "descrizione": "",
+    "lat": 40.0306366,
+    "lng": 15.2685518,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0306366&mlon=15.2685518#map=16/40.0306366/15.2685518",
+    "id": "sentieri-fortini-e-torri-10"
+  },
+  {
+    "nome": "Fortini e Torri",
+    "descrizione": "",
+    "lat": 40.0272987,
+    "lng": 15.2738875,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0272987&mlon=15.2738875#map=16/40.0272987/15.2738875",
+    "id": "sentieri-fortini-e-torri-11"
+  },
+  {
+    "nome": "Fortini e Torri - Sentiero del Pellegrino",
+    "descrizione": "",
+    "lat": 40.0258747,
+    "lng": 15.2796351,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0258747&mlon=15.2796351#map=16/40.0258747/15.2796351",
+    "id": "sentieri-fortini-e-torri-sentiero-del-pellegrino-12"
+  },
+  {
+    "nome": "Fortini e Torri - Sentiero del Pellegrino",
+    "descrizione": "",
+    "lat": 40.0278875,
+    "lng": 15.2790457,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0278875&mlon=15.2790457#map=16/40.0278875/15.2790457",
+    "id": "sentieri-fortini-e-torri-sentiero-del-pellegrino-13"
+  },
+  {
+    "nome": "Fortini e Torri - Sentiero del Pellegrino",
+    "descrizione": "",
+    "lat": 40.028873,
+    "lng": 15.2793997,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.028873&mlon=15.2793997#map=16/40.028873/15.2793997",
+    "id": "sentieri-fortini-e-torri-sentiero-del-pellegrino-14"
+  },
+  {
+    "nome": "Fortini e Torri",
+    "descrizione": "",
+    "lat": 40.0284536,
+    "lng": 15.2720864,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0284536&mlon=15.2720864#map=16/40.0284536/15.2720864",
+    "id": "sentieri-fortini-e-torri-15"
+  },
+  {
+    "nome": "Sentiero del Sambuco (Fosso della Rena)",
+    "descrizione": "",
+    "lat": 40.6792411,
+    "lng": 14.6869997,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6792411&mlon=14.6869997#map=16/40.6792411/14.6869997",
+    "id": "sentieri-sentiero-del-sambuco-fosso-della-rena-16"
+  },
+  {
+    "nome": "Sentiero le Scalette",
+    "descrizione": "",
+    "lat": 40.0736552,
+    "lng": 15.4275801,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0736552&mlon=15.4275801#map=16/40.0736552/15.4275801",
+    "id": "sentieri-sentiero-le-scalette-17"
+  },
+  {
+    "nome": "517",
+    "descrizione": "",
+    "lat": 40.2152869,
+    "lng": 15.3674503,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2152869&mlon=15.3674503#map=16/40.2152869/15.3674503",
+    "id": "sentieri-517-18"
+  },
+  {
+    "nome": "\"ò' mancino\"",
+    "descrizione": "",
+    "lat": 40.6438738,
+    "lng": 14.486765,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6438738&mlon=14.486765#map=16/40.6438738/14.486765",
+    "id": "sentieri-ò-mancino-19"
+  },
+  {
+    "nome": "SBII/CAM - 3 Paterno - Santa Maria a Castello",
+    "descrizione": "PATERNO - SANTA MARIA A CASTELLO",
+    "lat": 40.7824368,
+    "lng": 14.6569473,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7824368&mlon=14.6569473#map=16/40.7824368/14.6569473",
+    "id": "sentieri-sbiicam-3-paterno-santa-maria-a-castello-20"
+  },
+  {
+    "nome": "Tre Calli",
+    "descrizione": "",
+    "lat": 40.6323098,
+    "lng": 14.5240669,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6323098&mlon=14.5240669#map=16/40.6323098/14.5240669",
+    "id": "sentieri-tre-calli-21"
+  },
+  {
+    "nome": "517",
+    "descrizione": "",
+    "lat": 40.2106345,
+    "lng": 15.3546553,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2106345&mlon=15.3546553#map=16/40.2106345/15.3546553",
+    "id": "sentieri-517-22"
+  },
+  {
+    "nome": "517",
+    "descrizione": "",
+    "lat": 40.2134876,
+    "lng": 15.3608538,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2134876&mlon=15.3608538#map=16/40.2134876/15.3608538",
+    "id": "sentieri-517-23"
+  },
+  {
+    "nome": "517",
+    "descrizione": "",
+    "lat": 40.213914,
+    "lng": 15.362043,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.213914&mlon=15.362043#map=16/40.213914/15.362043",
+    "id": "sentieri-517-24"
+  },
+  {
+    "nome": "517",
+    "descrizione": "",
+    "lat": 40.2154143,
+    "lng": 15.3774246,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2154143&mlon=15.3774246#map=16/40.2154143/15.3774246",
+    "id": "sentieri-517-25"
+  },
+  {
+    "nome": "Sentiero Novi Veila - Sacro Monte",
+    "descrizione": "",
+    "lat": 40.2134487,
+    "lng": 15.318494,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2134487&mlon=15.318494#map=16/40.2134487/15.318494",
+    "id": "sentieri-sentiero-novi-veila-sacro-monte-26"
+  },
+  {
+    "nome": "Sentiero delle Formichelle",
+    "descrizione": "",
+    "lat": 40.6751714,
+    "lng": 14.6395386,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/310c/",
+    "id": "sentieri-sentiero-delle-formichelle-27"
+  },
+  {
+    "nome": "Via Vallone",
+    "descrizione": "",
+    "lat": 40.6475469,
+    "lng": 14.6166394,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6475469&mlon=14.6166394#map=16/40.6475469/14.6166394",
+    "id": "sentieri-via-vallone-28"
+  },
+  {
+    "nome": "sentiero Pietre della Torina",
+    "descrizione": "",
+    "lat": 40.6826233,
+    "lng": 14.5504463,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6826233&mlon=14.5504463#map=16/40.6826233/14.5504463",
+    "id": "sentieri-sentiero-pietre-della-torina-29"
+  },
+  {
+    "nome": "Sentiero Chiancolelle",
+    "descrizione": "",
+    "lat": 40.7212,
+    "lng": 14.6416654,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7212&mlon=14.6416654#map=16/40.7212/14.6416654",
+    "id": "sentieri-sentiero-chiancolelle-30"
+  },
+  {
+    "nome": "Vallone Pozzo",
+    "descrizione": "",
+    "lat": 40.6399511,
+    "lng": 14.4821523,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6399511&mlon=14.4821523#map=16/40.6399511/14.4821523",
+    "id": "sentieri-vallone-pozzo-31"
+  },
+  {
+    "nome": "via Grotta Petina",
+    "descrizione": "",
+    "lat": 40.6416038,
+    "lng": 14.6136466,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6416038&mlon=14.6136466#map=16/40.6416038/14.6136466",
+    "id": "sentieri-via-grotta-petina-32"
+  },
+  {
+    "nome": "Vallone Scurorillo",
+    "descrizione": "",
+    "lat": 40.6827394,
+    "lng": 14.4617048,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6827394&mlon=14.4617048#map=16/40.6827394/14.4617048",
+    "id": "sentieri-vallone-scurorillo-33"
+  },
+  {
+    "nome": "Sentiero delle Tramontane",
+    "descrizione": "",
+    "lat": 40.6852757,
+    "lng": 14.6598821,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6852757&mlon=14.6598821#map=16/40.6852757/14.6598821",
+    "id": "sentieri-sentiero-delle-tramontane-34"
+  },
+  {
+    "nome": "Gradillo",
+    "descrizione": "",
+    "lat": 40.6343001,
+    "lng": 14.475359,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6343001&mlon=14.475359#map=16/40.6343001/14.475359",
+    "id": "sentieri-gradillo-35"
+  },
+  {
+    "nome": "524",
+    "descrizione": "",
+    "lat": 40.2317958,
+    "lng": 15.343389,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2317958&mlon=15.343389#map=16/40.2317958/15.343389",
+    "id": "sentieri-524-36"
+  },
+  {
+    "nome": "via Pastino",
+    "descrizione": "",
+    "lat": 40.6365836,
+    "lng": 14.610071,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6365836&mlon=14.610071#map=16/40.6365836/14.610071",
+    "id": "sentieri-via-pastino-37"
+  },
+  {
+    "nome": "Sentiero 311",
+    "descrizione": "",
+    "lat": 40.5469576,
+    "lng": 15.2541931,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.5469576&mlon=15.2541931#map=16/40.5469576/15.2541931",
+    "id": "sentieri-sentiero-311-38"
+  },
+  {
+    "nome": "sentiero cai",
+    "descrizione": "",
+    "lat": 40.257841,
+    "lng": 14.9169534,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.257841&mlon=14.9169534#map=16/40.257841/14.9169534",
+    "id": "sentieri-sentiero-cai-39"
+  },
+  {
+    "nome": "Sentiero Passo della Beta - Cresta - Uomo Morto",
+    "descrizione": "",
+    "lat": 40.2202075,
+    "lng": 15.3450061,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2202075&mlon=15.3450061#map=16/40.2202075/15.3450061",
+    "id": "sentieri-sentiero-passo-della-beta-cresta-uomo-morto-40"
+  },
+  {
+    "nome": "Sentiero Tempa del Lupo - Vaddilonga - Cresta",
+    "descrizione": "",
+    "lat": 40.2271569,
+    "lng": 15.317799,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2271569&mlon=15.317799#map=16/40.2271569/15.317799",
+    "id": "sentieri-sentiero-tempa-del-lupo-vaddilonga-cresta-41"
+  },
+  {
+    "nome": "524",
+    "descrizione": "",
+    "lat": 40.2318992,
+    "lng": 15.3462422,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2318992&mlon=15.3462422#map=16/40.2318992/15.3462422",
+    "id": "sentieri-524-42"
+  },
+  {
+    "nome": "Sentiero del Maestro",
+    "descrizione": "",
+    "lat": 40.2365473,
+    "lng": 15.3318068,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2365473&mlon=15.3318068#map=16/40.2365473/15.3318068",
+    "id": "sentieri-sentiero-del-maestro-43"
+  },
+  {
+    "nome": "524",
+    "descrizione": "",
+    "lat": 40.2294946,
+    "lng": 15.3522939,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2294946&mlon=15.3522939#map=16/40.2294946/15.3522939",
+    "id": "sentieri-524-44"
+  },
+  {
+    "nome": "Sentiero Tempa del Lupo - Vaddilonga - Cresta",
+    "descrizione": "",
+    "lat": 40.2287699,
+    "lng": 15.3359936,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2287699&mlon=15.3359936#map=16/40.2287699/15.3359936",
+    "id": "sentieri-sentiero-tempa-del-lupo-vaddilonga-cresta-45"
+  },
+  {
+    "nome": "\"alternative to 325a\"",
+    "descrizione": "",
+    "lat": 40.6500098,
+    "lng": 14.5839882,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6500098&mlon=14.5839882#map=16/40.6500098/14.5839882",
+    "id": "sentieri-alternative-to-325a-46"
+  },
+  {
+    "nome": "selva della tomba",
+    "descrizione": "",
+    "lat": 40.6259958,
+    "lng": 14.4387481,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6259958&mlon=14.4387481#map=16/40.6259958/14.4387481",
+    "id": "sentieri-selva-della-tomba-47"
+  },
+  {
+    "nome": "Selva della Tomba",
+    "descrizione": "",
+    "lat": 40.6241518,
+    "lng": 14.4410277,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6241518&mlon=14.4410277#map=16/40.6241518/14.4410277",
+    "id": "sentieri-selva-della-tomba-48"
+  },
+  {
+    "nome": "Sentiero Storico Madonna della Neve",
+    "descrizione": "",
+    "lat": 40.2818908,
+    "lng": 15.4977796,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2818908&mlon=15.4977796#map=16/40.2818908/15.4977796",
+    "id": "sentieri-sentiero-storico-madonna-della-neve-49"
+  },
+  {
+    "nome": "Caserma del Gaudo-Monte Polveracchio",
+    "descrizione": "",
+    "lat": 40.733083,
+    "lng": 15.1594419,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.733083&mlon=15.1594419#map=16/40.733083/15.1594419",
+    "id": "sentieri-caserma-del-gaudo-monte-polveracchio-50"
+  },
+  {
+    "nome": "Caserma del Gaudo-Monte Polveracchio",
+    "descrizione": "",
+    "lat": 40.7317245,
+    "lng": 15.1532346,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7317245&mlon=15.1532346#map=16/40.7317245/15.1532346",
+    "id": "sentieri-caserma-del-gaudo-monte-polveracchio-51"
+  },
+  {
+    "nome": "Caserma del Gaudo-Monte Polveracchio",
+    "descrizione": "",
+    "lat": 40.731319,
+    "lng": 15.1464738,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.731319&mlon=15.1464738#map=16/40.731319/15.1464738",
+    "id": "sentieri-caserma-del-gaudo-monte-polveracchio-52"
+  },
+  {
+    "nome": "108 Caserma del Gaudo-Monte Polveracchio",
+    "descrizione": "",
+    "lat": 40.7429848,
+    "lng": 15.1387683,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7429848&mlon=15.1387683#map=16/40.7429848/15.1387683",
+    "id": "sentieri-108-caserma-del-gaudo-monte-polveracchio-53"
+  },
+  {
+    "nome": "Grotte del Bonea - Fontana della Frestola",
+    "descrizione": "",
+    "lat": 40.6819727,
+    "lng": 14.6951136,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6819727&mlon=14.6951136#map=16/40.6819727/14.6951136",
+    "id": "sentieri-grotte-del-bonea-fontana-della-frestola-54"
+  },
+  {
+    "nome": "190 Traversata Accellica Nord-Sud per il Varco del Paradiso",
+    "descrizione": "Via Ferrata dismessa",
+    "lat": 40.7752714,
+    "lng": 15.0082252,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7752714&mlon=15.0082252#map=16/40.7752714/15.0082252",
+    "id": "sentieri-190-traversata-accellica-nord-sud-per-il-varco-del-paradiso-55"
+  },
+  {
+    "nome": "Ferrata Ninno",
+    "descrizione": "",
+    "lat": 40.7751582,
+    "lng": 15.0082614,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7751582&mlon=15.0082614#map=16/40.7751582/15.0082614",
+    "id": "sentieri-ferrata-ninno-56"
+  },
+  {
+    "nome": "524",
+    "descrizione": "",
+    "lat": 40.2341132,
+    "lng": 15.3420423,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2341132&mlon=15.3420423#map=16/40.2341132/15.3420423",
+    "id": "sentieri-524-57"
+  },
+  {
+    "nome": "113",
+    "descrizione": "",
+    "lat": 40.7802255,
+    "lng": 15.1299528,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7802255&mlon=15.1299528#map=16/40.7802255/15.1299528",
+    "id": "sentieri-113-58"
+  },
+  {
+    "nome": "Sentiero degli Innamorati",
+    "descrizione": "",
+    "lat": 40.1284392,
+    "lng": 15.1822971,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.1284392&mlon=15.1822971#map=16/40.1284392/15.1822971",
+    "id": "sentieri-sentiero-degli-innamorati-59"
+  },
+  {
+    "nome": "Sentiero degli Innamorati",
+    "descrizione": "",
+    "lat": 40.1261052,
+    "lng": 15.1825121,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.1261052&mlon=15.1825121#map=16/40.1261052/15.1825121",
+    "id": "sentieri-sentiero-degli-innamorati-60"
+  },
+  {
+    "nome": "Sentiero degli Innamorati",
+    "descrizione": "",
+    "lat": 40.1275583,
+    "lng": 15.1841375,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.1275583&mlon=15.1841375#map=16/40.1275583/15.1841375",
+    "id": "sentieri-sentiero-degli-innamorati-61"
+  },
+  {
+    "nome": "Ponte Cibberno acquedotto Borbonico",
+    "descrizione": "",
+    "lat": 40.6788943,
+    "lng": 14.4888021,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6788943&mlon=14.4888021#map=16/40.6788943/14.4888021",
+    "id": "sentieri-ponte-cibberno-acquedotto-borbonico-62"
+  },
+  {
+    "nome": "Sentiero sorgenti \"Sammaro\"",
+    "descrizione": "",
+    "lat": 40.3876926,
+    "lng": 15.3621241,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3876926&mlon=15.3621241#map=16/40.3876926/15.3621241",
+    "id": "sentieri-sentiero-sorgenti-sammaro-63"
+  },
+  {
+    "nome": "Sentiero 312",
+    "descrizione": "",
+    "lat": 40.549402,
+    "lng": 15.2610624,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.549402&mlon=15.2610624#map=16/40.549402/15.2610624",
+    "id": "sentieri-sentiero-312-64"
+  },
+  {
+    "nome": "Via Ponte di Mortora",
+    "descrizione": "",
+    "lat": 40.6300373,
+    "lng": 14.4121371,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6300373&mlon=14.4121371#map=16/40.6300373/14.4121371",
+    "id": "sentieri-via-ponte-di-mortora-65"
+  },
+  {
+    "nome": "Sentiero del Pellegrino",
+    "descrizione": "",
+    "lat": 40.0253896,
+    "lng": 15.2729841,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0253896&mlon=15.2729841#map=16/40.0253896/15.2729841",
+    "id": "sentieri-sentiero-del-pellegrino-66"
+  },
+  {
+    "nome": "Sentiero del Pellegrino",
+    "descrizione": "",
+    "lat": 40.0253144,
+    "lng": 15.2703172,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0253144&mlon=15.2703172#map=16/40.0253144/15.2703172",
+    "id": "sentieri-sentiero-del-pellegrino-67"
+  },
+  {
+    "nome": "Sentiero del Pellegrino",
+    "descrizione": "",
+    "lat": 40.025236,
+    "lng": 15.2690368,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.025236&mlon=15.2690368#map=16/40.025236/15.2690368",
+    "id": "sentieri-sentiero-del-pellegrino-68"
+  },
+  {
+    "nome": "Sentiero del Pellegrino",
+    "descrizione": "",
+    "lat": 40.0305801,
+    "lng": 15.272193,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0305801&mlon=15.272193#map=16/40.0305801/15.272193",
+    "id": "sentieri-sentiero-del-pellegrino-69"
+  },
+  {
+    "nome": "Sentiero 312",
+    "descrizione": "",
+    "lat": 40.553028,
+    "lng": 15.2586062,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.553028&mlon=15.2586062#map=16/40.553028/15.2586062",
+    "id": "sentieri-sentiero-312-70"
+  },
+  {
+    "nome": "traversa 114a con 114b",
+    "descrizione": "",
+    "lat": 40.7600444,
+    "lng": 15.0964034,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7600444&mlon=15.0964034#map=16/40.7600444/15.0964034",
+    "id": "sentieri-traversa-114a-con-114b-71"
+  },
+  {
+    "nome": "326",
+    "descrizione": "",
+    "lat": 40.5327787,
+    "lng": 15.3374079,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.5327787&mlon=15.3374079#map=16/40.5327787/15.3374079",
+    "id": "sentieri-326-72"
+  },
+  {
+    "nome": "Sentiero dei Limoneti di Cetara",
+    "descrizione": "",
+    "lat": 40.6436049,
+    "lng": 14.6951499,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6436049&mlon=14.6951499#map=16/40.6436049/14.6951499",
+    "id": "sentieri-sentiero-dei-limoneti-di-cetara-73"
+  },
+  {
+    "nome": "Sentiero degli Sposi",
+    "descrizione": "",
+    "lat": 40.3988794,
+    "lng": 15.1029731,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3988794&mlon=15.1029731#map=16/40.3988794/15.1029731",
+    "id": "sentieri-sentiero-degli-sposi-74"
+  },
+  {
+    "nome": "Scalandrone",
+    "descrizione": "",
+    "lat": 40.6476649,
+    "lng": 14.50659,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6476649&mlon=14.50659#map=16/40.6476649/14.50659",
+    "id": "sentieri-scalandrone-75"
+  },
+  {
+    "nome": "cai 311",
+    "descrizione": "",
+    "lat": 40.5495653,
+    "lng": 15.267414,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.5495653&mlon=15.267414#map=16/40.5495653/15.267414",
+    "id": "sentieri-cai-311-76"
+  },
+  {
+    "nome": "Sentiero 311",
+    "descrizione": "",
+    "lat": 40.5505874,
+    "lng": 15.2612826,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.5505874&mlon=15.2612826#map=16/40.5505874/15.2612826",
+    "id": "sentieri-sentiero-311-77"
+  },
+  {
+    "nome": "cai 311",
+    "descrizione": "",
+    "lat": 40.5443631,
+    "lng": 15.2907784,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.5443631&mlon=15.2907784#map=16/40.5443631/15.2907784",
+    "id": "sentieri-cai-311-78"
+  },
+  {
+    "nome": "Via Paradiso",
+    "descrizione": "",
+    "lat": 40.6407047,
+    "lng": 14.5993355,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6407047&mlon=14.5993355#map=16/40.6407047/14.5993355",
+    "id": "sentieri-via-paradiso-79"
+  },
+  {
+    "nome": "il Vallone Del Marcellino",
+    "descrizione": "il sentiero è stato recentemente segnato con le bandierine biancorosse del cai, dalla associazione sentieri del Cilento",
+    "lat": 40.0234085,
+    "lng": 15.4355925,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0234085&mlon=15.4355925#map=16/40.0234085/15.4355925",
+    "id": "sentieri-il-vallone-del-marcellino-80"
+  },
+  {
+    "nome": "Sentiero Valle cupa",
+    "descrizione": "",
+    "lat": 40.0825344,
+    "lng": 15.3804395,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0825344&mlon=15.3804395#map=16/40.0825344/15.3804395",
+    "id": "sentieri-sentiero-valle-cupa-81"
+  },
+  {
+    "nome": "via Scorosa",
+    "descrizione": "",
+    "lat": 40.6613292,
+    "lng": 14.604928,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6613292&mlon=14.604928#map=16/40.6613292/14.604928",
+    "id": "sentieri-via-scorosa-82"
+  },
+  {
+    "nome": "Variante M. Ceglie alle Gole del Calore",
+    "descrizione": "Sentiero alternativo per raggiungere Remolino dal Ponte medievale, visto che il sentiero originale è stato chiuso da proprieta private. Aperto e pulito da Pietro di Stasi.",
+    "lat": 40.3585635,
+    "lng": 15.2558245,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3585635&mlon=15.2558245#map=16/40.3585635/15.2558245",
+    "id": "sentieri-variante-m-ceglie-alle-gole-del-calore-83"
+  },
+  {
+    "nome": "Sentiero Ponte medievale di Magliano verso Campora",
+    "descrizione": "Questo sentiero fa parte di un itinerario più ampio per collegare i paesi Felitto a Campora, inaugurato da Ida di Campora e Pietro di Sasi in Ottobre 2019",
+    "lat": 40.3312222,
+    "lng": 15.288228,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3312222&mlon=15.288228#map=16/40.3312222/15.288228",
+    "id": "sentieri-sentiero-ponte-medievale-di-magliano-verso-campora-84"
+  },
+  {
+    "nome": "Monte di Chiunzi",
+    "descrizione": "",
+    "lat": 40.7214824,
+    "lng": 14.6315108,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7214824&mlon=14.6315108#map=16/40.7214824/14.6315108",
+    "id": "sentieri-monte-di-chiunzi-85"
+  },
+  {
+    "nome": "Sentiero del Mulino",
+    "descrizione": "",
+    "lat": 40.3714922,
+    "lng": 15.2429094,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3714922&mlon=15.2429094#map=16/40.3714922/15.2429094",
+    "id": "sentieri-sentiero-del-mulino-86"
+  },
+  {
+    "nome": "Sentiero Gole del Calore",
+    "descrizione": "",
+    "lat": 40.3687137,
+    "lng": 15.2467734,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3687137&mlon=15.2467734#map=16/40.3687137/15.2467734",
+    "id": "sentieri-sentiero-gole-del-calore-87"
+  },
+  {
+    "nome": "via Vecchia Arola",
+    "descrizione": "",
+    "lat": 40.63613,
+    "lng": 14.4369732,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.63613&mlon=14.4369732#map=16/40.63613/14.4369732",
+    "id": "sentieri-via-vecchia-arola-88"
+  },
+  {
+    "nome": "Inizio variante",
+    "descrizione": "",
+    "lat": 40.6591514,
+    "lng": 14.6978143,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6591514&mlon=14.6978143#map=16/40.6591514/14.6978143",
+    "id": "sentieri-inizio-variante-89"
+  },
+  {
+    "nome": "510",
+    "descrizione": "",
+    "lat": 40.2702057,
+    "lng": 15.4749672,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2702057&mlon=15.4749672#map=16/40.2702057/15.4749672",
+    "id": "sentieri-510-90"
+  },
+  {
+    "nome": "510",
+    "descrizione": "",
+    "lat": 40.2640757,
+    "lng": 15.4701133,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2640757&mlon=15.4701133#map=16/40.2640757/15.4701133",
+    "id": "sentieri-510-91"
+  },
+  {
+    "nome": "mniello",
+    "descrizione": "",
+    "lat": 40.7060096,
+    "lng": 14.7359581,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7060096&mlon=14.7359581#map=16/40.7060096/14.7359581",
+    "id": "sentieri-mniello-92"
+  },
+  {
+    "nome": "\"Sentiero\"",
+    "descrizione": "",
+    "lat": 40.0618878,
+    "lng": 15.3154122,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0618878&mlon=15.3154122#map=16/40.0618878/15.3154122",
+    "id": "sentieri-sentiero-93"
+  },
+  {
+    "nome": "CM8",
+    "descrizione": "",
+    "lat": 40.034777,
+    "lng": 15.3774322,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.034777&mlon=15.3774322#map=16/40.034777/15.3774322",
+    "id": "sentieri-cm8-94"
+  },
+  {
+    "nome": "La Panoramica",
+    "descrizione": "Sentiero LA PANORAMICA, visibilità e percorribilità molto ridotte a causa di vigorosa crescita vegetativa",
+    "lat": 40.3343914,
+    "lng": 14.9477448,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3343914&mlon=14.9477448#map=16/40.3343914/14.9477448",
+    "id": "sentieri-la-panoramica-95"
+  },
+  {
+    "nome": "190 Traversata Accellica Nord-Sud per il Varco del Paradiso",
+    "descrizione": "",
+    "lat": 40.7769992,
+    "lng": 15.0069159,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7769992&mlon=15.0069159#map=16/40.7769992/15.0069159",
+    "id": "sentieri-190-traversata-accellica-nord-sud-per-il-varco-del-paradiso-96"
+  },
+  {
+    "nome": "Deviazione per Santa Maria dell'Olearia",
+    "descrizione": "",
+    "lat": 40.641182,
+    "lng": 14.669842,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.641182&mlon=14.669842#map=16/40.641182/14.669842",
+    "id": "sentieri-deviazione-per-santa-maria-dellolearia-97"
+  },
+  {
+    "nome": "Sentiero dell'Agave In Fiore",
+    "descrizione": "",
+    "lat": 40.6149298,
+    "lng": 14.5381683,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6149298&mlon=14.5381683#map=16/40.6149298/14.5381683",
+    "id": "sentieri-sentiero-dellagave-in-fiore-98"
+  },
+  {
+    "nome": "sentiero Penise variante alta",
+    "descrizione": "",
+    "lat": 40.6489623,
+    "lng": 14.5498232,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6489623&mlon=14.5498232#map=16/40.6489623/14.5498232",
+    "id": "sentieri-sentiero-penise-variante-alta-99"
+  },
+  {
+    "nome": "sentiero Polveriera Borbonica",
+    "descrizione": "",
+    "lat": 40.6517525,
+    "lng": 14.5522652,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6517525&mlon=14.5522652#map=16/40.6517525/14.5522652",
+    "id": "sentieri-sentiero-polveriera-borbonica-100"
+  },
+  {
+    "nome": "sentiero Sorgente Rio Santa Marina",
+    "descrizione": "",
+    "lat": 40.7833803,
+    "lng": 14.6422395,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7833803&mlon=14.6422395#map=16/40.7833803/14.6422395",
+    "id": "sentieri-sentiero-sorgente-rio-santa-marina-101"
+  },
+  {
+    "nome": "sentiero Sorgente Rio Santa Marina",
+    "descrizione": "",
+    "lat": 40.7821246,
+    "lng": 14.6369099,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7821246&mlon=14.6369099#map=16/40.7821246/14.6369099",
+    "id": "sentieri-sentiero-sorgente-rio-santa-marina-102"
+  },
+  {
+    "nome": "sentiero cai \"Vallone Alto\"",
+    "descrizione": "",
+    "lat": 40.2560014,
+    "lng": 14.9162761,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2560014&mlon=14.9162761#map=16/40.2560014/14.9162761",
+    "id": "sentieri-sentiero-cai-vallone-alto-103"
+  },
+  {
+    "nome": "Piano di Pecore-M. Marzano",
+    "descrizione": "",
+    "lat": 40.7366721,
+    "lng": 15.3116313,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7366721&mlon=15.3116313#map=16/40.7366721/15.3116313",
+    "id": "sentieri-piano-di-pecore-m-marzano-104"
+  },
+  {
+    "nome": "Rovigliano seafront pathway",
+    "descrizione": "",
+    "lat": 40.7343817,
+    "lng": 14.467372,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7343817&mlon=14.467372#map=16/40.7343817/14.467372",
+    "id": "sentieri-rovigliano-seafront-pathway-105"
+  },
+  {
+    "nome": "sentiero S.Francesco",
+    "descrizione": "",
+    "lat": 40.667294,
+    "lng": 14.4362823,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.667294&mlon=14.4362823#map=16/40.667294/14.4362823",
+    "id": "sentieri-sentiero-sfrancesco-106"
+  },
+  {
+    "nome": "via Faito",
+    "descrizione": "",
+    "lat": 40.6680319,
+    "lng": 14.4527838,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6680319&mlon=14.4527838#map=16/40.6680319/14.4527838",
+    "id": "sentieri-via-faito-107"
+  },
+  {
+    "nome": "F.S. Monte Raiamagra",
+    "descrizione": "",
+    "lat": 40.7904735,
+    "lng": 15.0727446,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7904735&mlon=15.0727446#map=16/40.7904735/15.0727446",
+    "id": "sentieri-fs-monte-raiamagra-108"
+  },
+  {
+    "nome": "Grotte del Bonea - Fontana della Frestola",
+    "descrizione": "",
+    "lat": 40.6815558,
+    "lng": 14.7035596,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6815558&mlon=14.7035596#map=16/40.6815558/14.7035596",
+    "id": "sentieri-grotte-del-bonea-fontana-della-frestola-109"
+  },
+  {
+    "nome": "via Famiglia Acconciajoco",
+    "descrizione": "",
+    "lat": 40.6387514,
+    "lng": 14.611725,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6387514&mlon=14.611725#map=16/40.6387514/14.611725",
+    "id": "sentieri-via-famiglia-acconciajoco-110"
+  },
+  {
+    "nome": "sentiero Degli Infreschi",
+    "descrizione": "",
+    "lat": 39.9980039,
+    "lng": 15.3879057,
+    "source": "osm",
+    "link": "https://www.komoot.com/it-it/smarttour/e1084969073/",
+    "id": "sentieri-sentiero-degli-infreschi-111"
+  },
+  {
+    "nome": "sentiero Degli Infreschi",
+    "descrizione": "",
+    "lat": 39.9986279,
+    "lng": 15.3919567,
+    "source": "osm",
+    "link": "https://www.komoot.com/it-it/smarttour/e1084969073/",
+    "id": "sentieri-sentiero-degli-infreschi-112"
+  },
+  {
+    "nome": "sentiero Degli Infreschi",
+    "descrizione": "",
+    "lat": 39.9986517,
+    "lng": 15.4149048,
+    "source": "osm",
+    "link": "https://www.komoot.com/it-it/smarttour/e1084969073/",
+    "id": "sentieri-sentiero-degli-infreschi-113"
+  },
+  {
+    "nome": "sentiero Degli Infreschi",
+    "descrizione": "",
+    "lat": 39.9984671,
+    "lng": 15.4098341,
+    "source": "osm",
+    "link": "https://www.komoot.com/it-it/smarttour/e1084969073/",
+    "id": "sentieri-sentiero-degli-infreschi-114"
+  },
+  {
+    "nome": "Sentiero degli Ulivi",
+    "descrizione": "",
+    "lat": 40.0188462,
+    "lng": 15.4166378,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0188462&mlon=15.4166378#map=16/40.0188462/15.4166378",
+    "id": "sentieri-sentiero-degli-ulivi-115"
+  },
+  {
+    "nome": "Sentiero degli Ulivi",
+    "descrizione": "",
+    "lat": 40.0236448,
+    "lng": 15.4165345,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0236448&mlon=15.4165345#map=16/40.0236448/15.4165345",
+    "id": "sentieri-sentiero-degli-ulivi-116"
+  },
+  {
+    "nome": "Sentiero degli Ulivi",
+    "descrizione": "",
+    "lat": 40.025492,
+    "lng": 15.4148936,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.025492&mlon=15.4148936#map=16/40.025492/15.4148936",
+    "id": "sentieri-sentiero-degli-ulivi-117"
+  },
+  {
+    "nome": "Spaccatesta",
+    "descrizione": "",
+    "lat": 40.7134342,
+    "lng": 14.5663659,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7134342&mlon=14.5663659#map=16/40.7134342/14.5663659",
+    "id": "sentieri-spaccatesta-118"
+  },
+  {
+    "nome": "sentiero \"n'gap é ven\"",
+    "descrizione": "",
+    "lat": 40.6677531,
+    "lng": 14.4864365,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6677531&mlon=14.4864365#map=16/40.6677531/14.4864365",
+    "id": "sentieri-sentiero-ngap-é-ven-119"
+  },
+  {
+    "nome": "Vallone Del Centenaro",
+    "descrizione": "",
+    "lat": 40.6466239,
+    "lng": 14.4662154,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6466239&mlon=14.4662154#map=16/40.6466239/14.4662154",
+    "id": "sentieri-vallone-del-centenaro-120"
+  },
+  {
+    "nome": "Vallone Del Centenaro",
+    "descrizione": "",
+    "lat": 40.6457559,
+    "lng": 14.4648272,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6457559&mlon=14.4648272#map=16/40.6457559/14.4648272",
+    "id": "sentieri-vallone-del-centenaro-121"
+  },
+  {
+    "nome": "Vallone Del Centenaro",
+    "descrizione": "",
+    "lat": 40.6455375,
+    "lng": 14.4599605,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6455375&mlon=14.4599605#map=16/40.6455375/14.4599605",
+    "id": "sentieri-vallone-del-centenaro-122"
+  },
+  {
+    "nome": "103B",
+    "descrizione": "",
+    "lat": 40.7717273,
+    "lng": 15.0071347,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7717273&mlon=15.0071347#map=16/40.7717273/15.0071347",
+    "id": "sentieri-103b-123"
+  },
+  {
+    "nome": "Variante Punta Paipo",
+    "descrizione": "",
+    "lat": 40.6247731,
+    "lng": 14.5225639,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6247731&mlon=14.5225639#map=16/40.6247731/14.5225639",
+    "id": "sentieri-variante-punta-paipo-124"
+  },
+  {
+    "nome": "Lo Sferracavallo",
+    "descrizione": "",
+    "lat": 40.6580214,
+    "lng": 14.5193572,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6580214&mlon=14.5193572#map=16/40.6580214/14.5193572",
+    "id": "sentieri-lo-sferracavallo-125"
+  },
+  {
+    "nome": "Lo Sferracavallo",
+    "descrizione": "",
+    "lat": 40.6538515,
+    "lng": 14.5219464,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6538515&mlon=14.5219464#map=16/40.6538515/14.5219464",
+    "id": "sentieri-lo-sferracavallo-126"
+  },
+  {
+    "nome": "\"o' pass é Catiello\"",
+    "descrizione": "",
+    "lat": 40.6533488,
+    "lng": 14.5062339,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6533488&mlon=14.5062339#map=16/40.6533488/14.5062339",
+    "id": "sentieri-o-pass-é-catiello-127"
+  },
+  {
+    "nome": "\"o' pass é Catiello\"",
+    "descrizione": "",
+    "lat": 40.6575811,
+    "lng": 14.5096915,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6575811&mlon=14.5096915#map=16/40.6575811/14.5096915",
+    "id": "sentieri-o-pass-é-catiello-128"
+  },
+  {
+    "nome": "Vallone Revone",
+    "descrizione": "",
+    "lat": 40.6481751,
+    "lng": 14.4776863,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6481751&mlon=14.4776863#map=16/40.6481751/14.4776863",
+    "id": "sentieri-vallone-revone-129"
+  },
+  {
+    "nome": "Vallone Del Milo",
+    "descrizione": "",
+    "lat": 40.6476169,
+    "lng": 14.4791448,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6476169&mlon=14.4791448#map=16/40.6476169/14.4791448",
+    "id": "sentieri-vallone-del-milo-130"
+  },
+  {
+    "nome": "Vallone Del Milo",
+    "descrizione": "",
+    "lat": 40.6495944,
+    "lng": 14.4831455,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6495944&mlon=14.4831455#map=16/40.6495944/14.4831455",
+    "id": "sentieri-vallone-del-milo-131"
+  },
+  {
+    "nome": "sentiero Vallone Olivara",
+    "descrizione": "",
+    "lat": 40.6805623,
+    "lng": 14.4970779,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6805623&mlon=14.4970779#map=16/40.6805623/14.4970779",
+    "id": "sentieri-sentiero-vallone-olivara-132"
+  },
+  {
+    "nome": "sentiero E.M. Forster - Fontana Carosa",
+    "descrizione": "",
+    "lat": 40.6672488,
+    "lng": 14.6043562,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6672488&mlon=14.6043562#map=16/40.6672488/14.6043562",
+    "id": "sentieri-sentiero-em-forster-fontana-carosa-133"
+  },
+  {
+    "nome": "sentiero E.M. Forster - Fontana Carosa",
+    "descrizione": "",
+    "lat": 40.6732818,
+    "lng": 14.6051547,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6732818&mlon=14.6051547#map=16/40.6732818/14.6051547",
+    "id": "sentieri-sentiero-em-forster-fontana-carosa-134"
+  },
+  {
+    "nome": "Sentiero vicinale Bosco del Fruscio",
+    "descrizione": "",
+    "lat": 40.7939457,
+    "lng": 14.4518306,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7939457&mlon=14.4518306#map=16/40.7939457/14.4518306",
+    "id": "sentieri-sentiero-vicinale-bosco-del-fruscio-135"
+  },
+  {
+    "nome": "Via Enrico de Martino",
+    "descrizione": "",
+    "lat": 40.6315424,
+    "lng": 14.4109057,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6315424&mlon=14.4109057#map=16/40.6315424/14.4109057",
+    "id": "sentieri-via-enrico-de-martino-136"
+  },
+  {
+    "nome": "Sentiero Pedecava",
+    "descrizione": "",
+    "lat": 40.6231254,
+    "lng": 14.5463253,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6231254&mlon=14.5463253#map=16/40.6231254/14.5463253",
+    "id": "sentieri-sentiero-pedecava-137"
+  },
+  {
+    "nome": "Sentiero Grotta dell'Angelo",
+    "descrizione": "",
+    "lat": 40.3341927,
+    "lng": 15.3678866,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3341927&mlon=15.3678866#map=16/40.3341927/15.3678866",
+    "id": "sentieri-sentiero-grotta-dellangelo-138"
+  },
+  {
+    "nome": "sentiero E.M. Forster - Fontana Carosa",
+    "descrizione": "",
+    "lat": 40.6722394,
+    "lng": 14.6018198,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6722394&mlon=14.6018198#map=16/40.6722394/14.6018198",
+    "id": "sentieri-sentiero-em-forster-fontana-carosa-139"
+  },
+  {
+    "nome": "sentiero Penise",
+    "descrizione": "",
+    "lat": 40.6500078,
+    "lng": 14.5503111,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6500078&mlon=14.5503111#map=16/40.6500078/14.5503111",
+    "id": "sentieri-sentiero-penise-140"
+  },
+  {
+    "nome": "sentiero Penise",
+    "descrizione": "",
+    "lat": 40.6516765,
+    "lng": 14.5504439,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6516765&mlon=14.5504439#map=16/40.6516765/14.5504439",
+    "id": "sentieri-sentiero-penise-141"
+  },
+  {
+    "nome": "Sciuliamazzo",
+    "descrizione": "Sentiero Sciuliamazzo: il percorso congiunge in maniera diretta la piccola frazione di Cirignano col antico ponte del Vallone Centenaro, vi sono 2 brevi passaggi da difficoltà T3 (EE), la visibilità del percorso è mediocre/scarsa in alcuni tratti.",
+    "lat": 40.6467957,
+    "lng": 14.4645271,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6467957&mlon=14.4645271#map=16/40.6467957/14.4645271",
+    "id": "sentieri-sciuliamazzo-142"
+  },
+  {
+    "nome": "via Pistiello Terza",
+    "descrizione": "",
+    "lat": 40.6130512,
+    "lng": 14.5333311,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6130512&mlon=14.5333311#map=16/40.6130512/14.5333311",
+    "id": "sentieri-via-pistiello-terza-143"
+  },
+  {
+    "nome": "Sentiero dell'Agave In Fiore",
+    "descrizione": "",
+    "lat": 40.6148913,
+    "lng": 14.5361648,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6148913&mlon=14.5361648#map=16/40.6148913/14.5361648",
+    "id": "sentieri-sentiero-dellagave-in-fiore-144"
+  },
+  {
+    "nome": "Antica Via Sambuco",
+    "descrizione": "",
+    "lat": 40.6787685,
+    "lng": 14.6140251,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6787685&mlon=14.6140251#map=16/40.6787685/14.6140251",
+    "id": "sentieri-antica-via-sambuco-145"
+  },
+  {
+    "nome": "il Vrecciatone",
+    "descrizione": "",
+    "lat": 40.6779102,
+    "lng": 14.6128686,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6779102&mlon=14.6128686#map=16/40.6779102/14.6128686",
+    "id": "sentieri-il-vrecciatone-146"
+  },
+  {
+    "nome": "Fortini e Torri",
+    "descrizione": "",
+    "lat": 40.0296606,
+    "lng": 15.2701716,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0296606&mlon=15.2701716#map=16/40.0296606/15.2701716",
+    "id": "sentieri-fortini-e-torri-147"
+  },
+  {
+    "nome": "Civitella",
+    "descrizione": "",
+    "lat": 40.6230698,
+    "lng": 14.5231687,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6230698&mlon=14.5231687#map=16/40.6230698/14.5231687",
+    "id": "sentieri-civitella-148"
+  },
+  {
+    "nome": "ferrata rudimentale",
+    "descrizione": "",
+    "lat": 40.6309938,
+    "lng": 14.575407,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6309938&mlon=14.575407#map=16/40.6309938/14.575407",
+    "id": "sentieri-ferrata-rudimentale-149"
+  },
+  {
+    "nome": "Madonnina Di Monte Chiunzi",
+    "descrizione": "",
+    "lat": 40.7201566,
+    "lng": 14.6250278,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7201566&mlon=14.6250278#map=16/40.7201566/14.6250278",
+    "id": "sentieri-madonnina-di-monte-chiunzi-150"
+  },
+  {
+    "nome": "Via Casanova",
+    "descrizione": "",
+    "lat": 40.644632,
+    "lng": 14.6157148,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.644632&mlon=14.6157148#map=16/40.644632/14.6157148",
+    "id": "sentieri-via-casanova-151"
+  },
+  {
+    "nome": "Via Ponte di Mortora",
+    "descrizione": "",
+    "lat": 40.6290609,
+    "lng": 14.412771,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6290609&mlon=14.412771#map=16/40.6290609/14.412771",
+    "id": "sentieri-via-ponte-di-mortora-152"
+  },
+  {
+    "nome": "belvedere Punta Paipo",
+    "descrizione": "",
+    "lat": 40.6244387,
+    "lng": 14.5214898,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6244387&mlon=14.5214898#map=16/40.6244387/14.5214898",
+    "id": "sentieri-belvedere-punta-paipo-153"
+  },
+  {
+    "nome": "sentiero F.N. Reid - Acqua dell'Inglese",
+    "descrizione": "",
+    "lat": 40.6746481,
+    "lng": 14.6092375,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6746481&mlon=14.6092375#map=16/40.6746481/14.6092375",
+    "id": "sentieri-sentiero-fn-reid-acqua-dellinglese-154"
+  },
+  {
+    "nome": "Carramone",
+    "descrizione": "",
+    "lat": 40.6668001,
+    "lng": 14.6111844,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6668001&mlon=14.6111844#map=16/40.6668001/14.6111844",
+    "id": "sentieri-carramone-155"
+  },
+  {
+    "nome": "sentiero Penise variante alta",
+    "descrizione": "",
+    "lat": 40.6507119,
+    "lng": 14.5516676,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6507119&mlon=14.5516676#map=16/40.6507119/14.5516676",
+    "id": "sentieri-sentiero-penise-variante-alta-156"
+  },
+  {
+    "nome": "monte Vivo-monte Motola",
+    "descrizione": "",
+    "lat": 40.3692974,
+    "lng": 15.4305203,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3692974&mlon=15.4305203#map=16/40.3692974/15.4305203",
+    "id": "sentieri-monte-vivo-monte-motola-157"
+  },
+  {
+    "nome": "sotto tiro a volo",
+    "descrizione": "",
+    "lat": 40.6592362,
+    "lng": 14.5346135,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6592362&mlon=14.5346135#map=16/40.6592362/14.5346135",
+    "id": "sentieri-sotto-tiro-a-volo-158"
+  },
+  {
+    "nome": "F.S. Monte Raiamagra",
+    "descrizione": "",
+    "lat": 40.7874023,
+    "lng": 15.0826731,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7874023&mlon=15.0826731#map=16/40.7874023/15.0826731",
+    "id": "sentieri-fs-monte-raiamagra-159"
+  },
+  {
+    "nome": "Tordigliano",
+    "descrizione": "",
+    "lat": 40.620977,
+    "lng": 14.4553896,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.620977&mlon=14.4553896#map=16/40.620977/14.4553896",
+    "id": "sentieri-tordigliano-160"
+  },
+  {
+    "nome": "Via Paradiso",
+    "descrizione": "",
+    "lat": 40.6434999,
+    "lng": 14.5916781,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6434999&mlon=14.5916781#map=16/40.6434999/14.5916781",
+    "id": "sentieri-via-paradiso-161"
+  },
+  {
+    "nome": "Sentiero della Vetta dei Picentini",
+    "descrizione": "",
+    "lat": 40.7751267,
+    "lng": 15.117539,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7751267&mlon=15.117539#map=16/40.7751267/15.117539",
+    "id": "sentieri-sentiero-della-vetta-dei-picentini-162"
+  },
+  {
+    "nome": "Sentiero 6: La Strada Matrone",
+    "descrizione": "",
+    "lat": 40.8099964,
+    "lng": 14.4385566,
+    "source": "osm",
+    "link": "https://www.parconazionaledelvesuvio.it/visita-il-parco/i-sentieri-del-vesuvio/la-strada-matrone/",
+    "id": "sentieri-sentiero-6-la-strada-matrone-163"
+  },
+  {
+    "nome": "'A casarella 'o monte",
+    "descrizione": "dall'acqua della Madonna al belvedere del Faito passando per via Visanola e i castagneti",
+    "lat": 40.6808131,
+    "lng": 14.4711733,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/349/",
+    "id": "sentieri-a-casarella-o-monte-164"
+  },
+  {
+    "nome": "Lo scivolo della pastorella",
+    "descrizione": "",
+    "lat": 40.683141,
+    "lng": 14.4759498,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/349a/",
+    "id": "sentieri-lo-scivolo-della-pastorella-165"
+  },
+  {
+    "nome": "Sentiero della cisterna Menatora",
+    "descrizione": "",
+    "lat": 40.6758284,
+    "lng": 14.4652665,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/349c/",
+    "id": "sentieri-sentiero-della-cisterna-menatora-166"
+  },
+  {
+    "nome": "Sentiero dell'Angelo",
+    "descrizione": "da Quisisana al Molare per la cresta del Faito",
+    "lat": 40.6669573,
+    "lng": 14.4928261,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/350/",
+    "id": "sentieri-sentiero-dellangelo-167"
+  },
+  {
+    "nome": "Le tese di Pimonte",
+    "descrizione": "",
+    "lat": 40.671447,
+    "lng": 14.4977939,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/334/",
+    "id": "sentieri-le-tese-di-pimonte-168"
+  },
+  {
+    "nome": "Alta Via dei Monti Lattari - 05",
+    "descrizione": "",
+    "lat": 40.6747508,
+    "lng": 14.5691242,
+    "source": "osm",
+    "link": "https://www.altaviadeimontilattari.it/il-sentiero-300-cai/",
+    "id": "sentieri-alta-via-dei-monti-lattari-05-169"
+  },
+  {
+    "nome": "Alta Via dei Monti Lattari - 06",
+    "descrizione": "",
+    "lat": 40.6528168,
+    "lng": 14.5238374,
+    "source": "osm",
+    "link": "https://www.altaviadeimontilattari.it/il-sentiero-300-cai/",
+    "id": "sentieri-alta-via-dei-monti-lattari-06-170"
+  },
+  {
+    "nome": "Alta Via dei Monti Lattari - 07",
+    "descrizione": "",
+    "lat": 40.6271837,
+    "lng": 14.4444617,
+    "source": "osm",
+    "link": "https://www.altaviadeimontilattari.it/il-sentiero-300-cai/",
+    "id": "sentieri-alta-via-dei-monti-lattari-07-171"
+  },
+  {
+    "nome": "Alta Via dei Monti Lattari - 01",
+    "descrizione": "",
+    "lat": 40.6680351,
+    "lng": 14.6825282,
+    "source": "osm",
+    "link": "https://www.altaviadeimontilattari.it/il-sentiero-300-cai/",
+    "id": "sentieri-alta-via-dei-monti-lattari-01-172"
+  },
+  {
+    "nome": "Alta Via dei Monti Lattari - 02",
+    "descrizione": "",
+    "lat": 40.6757576,
+    "lng": 14.6741193,
+    "source": "osm",
+    "link": "https://www.altaviadeimontilattari.it/il-sentiero-300-cai/",
+    "id": "sentieri-alta-via-dei-monti-lattari-02-173"
+  },
+  {
+    "nome": "Alta Via dei Monti Lattari - 03",
+    "descrizione": "",
+    "lat": 40.7062969,
+    "lng": 14.6382559,
+    "source": "osm",
+    "link": "https://www.altaviadeimontilattari.it/il-sentiero-300-cai/",
+    "id": "sentieri-alta-via-dei-monti-lattari-03-174"
+  },
+  {
+    "nome": "Alta Via dei Monti Lattari - 04",
+    "descrizione": "",
+    "lat": 40.7011846,
+    "lng": 14.5987423,
+    "source": "osm",
+    "link": "https://www.altaviadeimontilattari.it/il-sentiero-300-cai/",
+    "id": "sentieri-alta-via-dei-monti-lattari-04-175"
+  },
+  {
+    "nome": "Sentiero degli Dei",
+    "descrizione": "",
+    "lat": 40.6258603,
+    "lng": 14.5215527,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/327/",
+    "id": "sentieri-sentiero-degli-dei-176"
+  },
+  {
+    "nome": "Sentiero alto degli dei",
+    "descrizione": "",
+    "lat": 40.6345913,
+    "lng": 14.5170495,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/329/",
+    "id": "sentieri-sentiero-alto-degli-dei-177"
+  },
+  {
+    "nome": "Sentiero delle sorgenti",
+    "descrizione": "",
+    "lat": 40.6640972,
+    "lng": 14.557244,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/332a/",
+    "id": "sentieri-sentiero-delle-sorgenti-178"
+  },
+  {
+    "nome": "Sentiero dei faggi secolari",
+    "descrizione": "",
+    "lat": 40.6573457,
+    "lng": 14.4861463,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/338b/",
+    "id": "sentieri-sentiero-dei-faggi-secolari-179"
+  },
+  {
+    "nome": "Sentiero della grotta di S.Catello",
+    "descrizione": "",
+    "lat": 40.6546304,
+    "lng": 14.497564,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/350b/",
+    "id": "sentieri-sentiero-della-grotta-di-scatello-180"
+  },
+  {
+    "nome": "Sentiero alto della Valle delle Ferriere",
+    "descrizione": "",
+    "lat": 40.6531565,
+    "lng": 14.5797003,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/325/",
+    "id": "sentieri-sentiero-alto-della-valle-delle-ferriere-181"
+  },
+  {
+    "nome": "Sentiero della Casa rossa",
+    "descrizione": "",
+    "lat": 40.7130712,
+    "lng": 14.5841128,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/324a/",
+    "id": "sentieri-sentiero-della-casa-rossa-182"
+  },
+  {
+    "nome": "Mulattiera Orsano-Megano",
+    "descrizione": "",
+    "lat": 40.6952337,
+    "lng": 14.5676966,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/330/",
+    "id": "sentieri-mulattiera-orsano-megano-183"
+  },
+  {
+    "nome": "Sentiero dei cavalieri di Amalfi",
+    "descrizione": "",
+    "lat": 40.6783887,
+    "lng": 14.5469162,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/332/",
+    "id": "sentieri-sentiero-dei-cavalieri-di-amalfi-184"
+  },
+  {
+    "nome": "Sentiero della Valle Lavatoio",
+    "descrizione": "",
+    "lat": 40.6716071,
+    "lng": 14.5240684,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/332b/",
+    "id": "sentieri-sentiero-della-valle-lavatoio-185"
+  },
+  {
+    "nome": "Sentiero Zappino",
+    "descrizione": "",
+    "lat": 40.6642539,
+    "lng": 14.5285425,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/332c/",
+    "id": "sentieri-sentiero-zappino-186"
+  },
+  {
+    "nome": "Sentiero della Sperlonga",
+    "descrizione": "",
+    "lat": 40.6786839,
+    "lng": 14.4477658,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/336a/",
+    "id": "sentieri-sentiero-della-sperlonga-187"
+  },
+  {
+    "nome": "Sentiero di Orsano",
+    "descrizione": "",
+    "lat": 40.7116231,
+    "lng": 14.562239,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/340a/",
+    "id": "sentieri-sentiero-di-orsano-188"
+  },
+  {
+    "nome": "Sentiero della Grotta di S.Maria della Speranza",
+    "descrizione": "",
+    "lat": 40.711315,
+    "lng": 14.578376,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/340b/",
+    "id": "sentieri-sentiero-della-grotta-di-smaria-della-speranza-189"
+  },
+  {
+    "nome": "Sentiero del professore",
+    "descrizione": "",
+    "lat": 40.7027745,
+    "lng": 14.585325,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/340c/",
+    "id": "sentieri-sentiero-del-professore-190"
+  },
+  {
+    "nome": "Sentiero della Valle del Pericolo",
+    "descrizione": "",
+    "lat": 40.693293,
+    "lng": 14.5503406,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/345/",
+    "id": "sentieri-sentiero-della-valle-del-pericolo-191"
+  },
+  {
+    "nome": "Il Butto dell'Acqua",
+    "descrizione": "",
+    "lat": 40.6862927,
+    "lng": 14.5435007,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/345a/",
+    "id": "sentieri-il-butto-dellacqua-192"
+  },
+  {
+    "nome": "Sentiero di Monte Muto",
+    "descrizione": "",
+    "lat": 40.6915779,
+    "lng": 14.5439632,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/345b/",
+    "id": "sentieri-sentiero-di-monte-muto-193"
+  },
+  {
+    "nome": "Sentiero del Castello di Lettere",
+    "descrizione": "",
+    "lat": 40.7149893,
+    "lng": 14.5601708,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/346/",
+    "id": "sentieri-sentiero-del-castello-di-lettere-194"
+  },
+  {
+    "nome": "I casali di Piano",
+    "descrizione": "",
+    "lat": 40.6266592,
+    "lng": 14.4197732,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/347/",
+    "id": "sentieri-i-casali-di-piano-195"
+  },
+  {
+    "nome": "Lo Scaricatore",
+    "descrizione": "",
+    "lat": 40.6165161,
+    "lng": 14.4349254,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/347a/",
+    "id": "sentieri-lo-scaricatore-196"
+  },
+  {
+    "nome": "Le Palommelle",
+    "descrizione": "",
+    "lat": 40.6522495,
+    "lng": 14.5462914,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/367",
+    "id": "sentieri-le-palommelle-197"
+  },
+  {
+    "nome": "Ferrata di Cospita",
+    "descrizione": "",
+    "lat": 40.6302681,
+    "lng": 14.5731094,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/369/",
+    "id": "sentieri-ferrata-di-cospita-198"
+  },
+  {
+    "nome": "Sentiero di Cospita",
+    "descrizione": "",
+    "lat": 40.6328039,
+    "lng": 14.5754703,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/369a/",
+    "id": "sentieri-sentiero-di-cospita-199"
+  },
+  {
+    "nome": "Variante alta del Sentiero degli Dei",
+    "descrizione": "",
+    "lat": 40.6223704,
+    "lng": 14.5226117,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/327/",
+    "id": "sentieri-variante-alta-del-sentiero-degli-dei-200"
+  },
+  {
+    "nome": "Sentiero della Madonna dell'Avvocata",
+    "descrizione": "",
+    "lat": 40.6508175,
+    "lng": 14.6569025,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6508175&mlon=14.6569025#map=16/40.6508175/14.6569025",
+    "id": "sentieri-sentiero-della-madonna-dellavvocata-201"
+  },
+  {
+    "nome": "Sentiero Sergio Rosa",
+    "descrizione": "",
+    "lat": 40.6933958,
+    "lng": 14.6791787,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6933958&mlon=14.6791787#map=16/40.6933958/14.6791787",
+    "id": "sentieri-sentiero-sergio-rosa-202"
+  },
+  {
+    "nome": "Sentiero delle 13 Chiese",
+    "descrizione": "",
+    "lat": 40.6924612,
+    "lng": 14.6342234,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/310/",
+    "id": "sentieri-sentiero-delle-13-chiese-203"
+  },
+  {
+    "nome": "La Via della Neve",
+    "descrizione": "",
+    "lat": 40.7096364,
+    "lng": 14.6704876,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/312/",
+    "id": "sentieri-la-via-della-neve-204"
+  },
+  {
+    "nome": "Sentiero dei Pipistrelli Impazziti",
+    "descrizione": "",
+    "lat": 40.6185355,
+    "lng": 14.5646383,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6185355&mlon=14.5646383#map=16/40.6185355/14.5646383",
+    "id": "sentieri-sentiero-dei-pipistrelli-impazziti-205"
+  },
+  {
+    "nome": "Sentiero basso della Valle delle Ferriere",
+    "descrizione": "",
+    "lat": 40.6427556,
+    "lng": 14.5923361,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/325/",
+    "id": "sentieri-sentiero-basso-della-valle-delle-ferriere-206"
+  },
+  {
+    "nome": "Le Tese di Positano",
+    "descrizione": "",
+    "lat": 40.633915,
+    "lng": 14.4791988,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/333/",
+    "id": "sentieri-le-tese-di-positano-207"
+  },
+  {
+    "nome": "Sentiero di Santa Maria ai Monti",
+    "descrizione": "",
+    "lat": 40.6618436,
+    "lng": 14.597842,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/353/",
+    "id": "sentieri-sentiero-di-santa-maria-ai-monti-208"
+  },
+  {
+    "nome": "Sentiero di Abu Tabela",
+    "descrizione": "",
+    "lat": 40.624788,
+    "lng": 14.5534668,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/354a/",
+    "id": "sentieri-sentiero-di-abu-tabela-209"
+  },
+  {
+    "nome": "Sentiero dei Castagneti di Tavernate",
+    "descrizione": "",
+    "lat": 40.6435534,
+    "lng": 14.5914847,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/359/",
+    "id": "sentieri-sentiero-dei-castagneti-di-tavernate-210"
+  },
+  {
+    "nome": "Via Maestra dei Villaggi",
+    "descrizione": "",
+    "lat": 40.6284361,
+    "lng": 14.5852062,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/361/",
+    "id": "sentieri-via-maestra-dei-villaggi-211"
+  },
+  {
+    "nome": "Sentiero della Madonna dei Fondi",
+    "descrizione": "",
+    "lat": 40.6341813,
+    "lng": 14.5883549,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6341813&mlon=14.5883549#map=16/40.6341813/14.5883549",
+    "id": "sentieri-sentiero-della-madonna-dei-fondi-212"
+  },
+  {
+    "nome": "Sentiero di Villa Notari",
+    "descrizione": "",
+    "lat": 40.6837644,
+    "lng": 14.468447,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/349b/",
+    "id": "sentieri-sentiero-di-villa-notari-213"
+  },
+  {
+    "nome": "Sentiero delle Tramontane",
+    "descrizione": "",
+    "lat": 40.6857422,
+    "lng": 14.6587298,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/309/",
+    "id": "sentieri-sentiero-delle-tramontane-214"
+  },
+  {
+    "nome": "Sentiero del Maestro Cannalonga - Rofrano",
+    "descrizione": "",
+    "lat": 40.2381205,
+    "lng": 15.3210402,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2381205&mlon=15.3210402#map=16/40.2381205/15.3210402",
+    "id": "sentieri-sentiero-del-maestro-cannalonga-rofrano-215"
+  },
+  {
+    "nome": "Felito - Campora - Laurino",
+    "descrizione": "",
+    "lat": 40.3397999,
+    "lng": 15.2852739,
+    "source": "osm",
+    "link": "https://www.ammappalitalia.it/felitto-campora/",
+    "id": "sentieri-felito-campora-laurino-216"
+  },
+  {
+    "nome": "Tempa de lupo - Vaddilonga - Cresta / Uomo morto - Passo della Beta",
+    "descrizione": "",
+    "lat": 40.2199672,
+    "lng": 15.3268353,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2199672&mlon=15.3268353#map=16/40.2199672/15.3268353",
+    "id": "sentieri-tempa-de-lupo-vaddilonga-cresta-uomo-morto-passo-della-beta-217"
+  },
+  {
+    "nome": "Sentiero Monte Monaco - Torrente Torno",
+    "descrizione": "",
+    "lat": 40.2749474,
+    "lng": 15.3349749,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2749474&mlon=15.3349749#map=16/40.2749474/15.3349749",
+    "id": "sentieri-sentiero-monte-monaco-torrente-torno-218"
+  },
+  {
+    "nome": "European long distance path E12 - part Italia",
+    "descrizione": "",
+    "lat": 40.2283,
+    "lng": 15.3471574,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2283&mlon=15.3471574#map=16/40.2283/15.3471574",
+    "id": "sentieri-european-long-distance-path-e12-part-italia-219"
+  },
+  {
+    "nome": "collection of various Cilento hiking trails",
+    "descrizione": "",
+    "lat": 40.1664282,
+    "lng": 15.3198992,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.1664282&mlon=15.3198992#map=16/40.1664282/15.3198992",
+    "id": "sentieri-collection-of-various-cilento-hiking-trails-220"
+  },
+  {
+    "nome": "Sentiero del candelito",
+    "descrizione": "",
+    "lat": 40.8071386,
+    "lng": 14.8226677,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.8071386&mlon=14.8226677#map=16/40.8071386/14.8226677",
+    "id": "sentieri-sentiero-del-candelito-221"
+  },
+  {
+    "nome": "Sentiero della scorza",
+    "descrizione": "",
+    "lat": 40.8115246,
+    "lng": 14.850613,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.8115246&mlon=14.850613#map=16/40.8115246/14.850613",
+    "id": "sentieri-sentiero-della-scorza-222"
+  },
+  {
+    "nome": "Circuito del Monte Rajamagra",
+    "descrizione": "",
+    "lat": 40.7880501,
+    "lng": 15.0847727,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7880501&mlon=15.0847727#map=16/40.7880501/15.0847727",
+    "id": "sentieri-circuito-del-monte-rajamagra-223"
+  },
+  {
+    "nome": "Circuito acernese",
+    "descrizione": "",
+    "lat": 40.7558143,
+    "lng": 15.0609657,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7558143&mlon=15.0609657#map=16/40.7558143/15.0609657",
+    "id": "sentieri-circuito-acernese-224"
+  },
+  {
+    "nome": "Circuito acernese (variante)",
+    "descrizione": "",
+    "lat": 40.7647575,
+    "lng": 15.0620028,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7647575&mlon=15.0620028#map=16/40.7647575/15.0620028",
+    "id": "sentieri-circuito-acernese-variante-225"
+  },
+  {
+    "nome": "Riserva di Valle della Caccia",
+    "descrizione": "",
+    "lat": 40.7282657,
+    "lng": 15.1847286,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7282657&mlon=15.1847286#map=16/40.7282657/15.1847286",
+    "id": "sentieri-riserva-di-valle-della-caccia-226"
+  },
+  {
+    "nome": "Sentiero dei due Santuari",
+    "descrizione": "",
+    "lat": 40.8033802,
+    "lng": 14.8212009,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.8033802&mlon=14.8212009#map=16/40.8033802/14.8212009",
+    "id": "sentieri-sentiero-dei-due-santuari-227"
+  },
+  {
+    "nome": "Alta via Monti Picentini Occidentali",
+    "descrizione": "",
+    "lat": 40.793559,
+    "lng": 14.8780499,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.793559&mlon=14.8780499#map=16/40.793559/14.8780499",
+    "id": "sentieri-alta-via-monti-picentini-occidentali-228"
+  },
+  {
+    "nome": "Anello del Monte Panormo",
+    "descrizione": "",
+    "lat": 40.5445665,
+    "lng": 15.3162015,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.5445665&mlon=15.3162015#map=16/40.5445665/15.3162015",
+    "id": "sentieri-anello-del-monte-panormo-229"
+  },
+  {
+    "nome": "Tre Comuni Trek",
+    "descrizione": "",
+    "lat": 40.7629782,
+    "lng": 14.8772167,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7629782&mlon=14.8772167#map=16/40.7629782/14.8772167",
+    "id": "sentieri-tre-comuni-trek-230"
+  },
+  {
+    "nome": "Monte Lieggio",
+    "descrizione": "",
+    "lat": 40.7627333,
+    "lng": 14.9046912,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7627333&mlon=14.9046912#map=16/40.7627333/14.9046912",
+    "id": "sentieri-monte-lieggio-231"
+  },
+  {
+    "nome": "Vallone Pagliariello",
+    "descrizione": "",
+    "lat": 40.76423,
+    "lng": 14.9320646,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.76423&mlon=14.9320646#map=16/40.76423/14.9320646",
+    "id": "sentieri-vallone-pagliariello-232"
+  },
+  {
+    "nome": "Vallone Infrattata",
+    "descrizione": "",
+    "lat": 40.7605565,
+    "lng": 14.9632317,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7605565&mlon=14.9632317#map=16/40.7605565/14.9632317",
+    "id": "sentieri-vallone-infrattata-233"
+  },
+  {
+    "nome": "Vecchio sentiero dei pellegrini",
+    "descrizione": "",
+    "lat": 40.7886451,
+    "lng": 14.8417139,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7886451&mlon=14.8417139#map=16/40.7886451/14.8417139",
+    "id": "sentieri-vecchio-sentiero-dei-pellegrini-234"
+  },
+  {
+    "nome": "Sentiero di vallebona",
+    "descrizione": "",
+    "lat": 40.7787998,
+    "lng": 15.0766271,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7787998&mlon=15.0766271#map=16/40.7787998/15.0766271",
+    "id": "sentieri-sentiero-di-vallebona-235"
+  },
+  {
+    "nome": "Sentiero del Calore e del Monte Accellica Nord",
+    "descrizione": "",
+    "lat": 40.7882083,
+    "lng": 15.00669,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7882083&mlon=15.00669#map=16/40.7882083/15.00669",
+    "id": "sentieri-sentiero-del-calore-e-del-monte-accellica-nord-236"
+  },
+  {
+    "nome": "Sentiero dello Scorzella",
+    "descrizione": "",
+    "lat": 40.8074537,
+    "lng": 14.9830009,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.8074537&mlon=14.9830009#map=16/40.8074537/14.9830009",
+    "id": "sentieri-sentiero-dello-scorzella-237"
+  },
+  {
+    "nome": "Tra le due valli del Sabato e del Calore",
+    "descrizione": "",
+    "lat": 40.7939678,
+    "lng": 14.9850066,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7939678&mlon=14.9850066#map=16/40.7939678/14.9850066",
+    "id": "sentieri-tra-le-due-valli-del-sabato-e-del-calore-238"
+  },
+  {
+    "nome": "European Long distance path E1 - part Italy - Campania",
+    "descrizione": "",
+    "lat": 40.8250069,
+    "lng": 14.9401088,
+    "source": "osm",
+    "link": "https://www.era-ewv-ferp.org/e-paths/e1/",
+    "id": "sentieri-european-long-distance-path-e1-part-italy-campania-239"
+  },
+  {
+    "nome": "Zanna Bianca",
+    "descrizione": "",
+    "lat": 40.7306369,
+    "lng": 14.61952,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7306369&mlon=14.61952#map=16/40.7306369/14.61952",
+    "id": "sentieri-zanna-bianca-240"
+  },
+  {
+    "nome": "Via dei Limoni",
+    "descrizione": "",
+    "lat": 40.6509541,
+    "lng": 14.6363693,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6509541&mlon=14.6363693#map=16/40.6509541/14.6363693",
+    "id": "sentieri-via-dei-limoni-241"
+  },
+  {
+    "nome": "Via dei Lucani",
+    "descrizione": "",
+    "lat": 40.0981718,
+    "lng": 15.2725804,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0981718&mlon=15.2725804#map=16/40.0981718/15.2725804",
+    "id": "sentieri-via-dei-lucani-242"
+  },
+  {
+    "nome": "Alta Via del Cervati e degli Alburni",
+    "descrizione": "",
+    "lat": 40.2656372,
+    "lng": 15.4876402,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2656372&mlon=15.4876402#map=16/40.2656372/15.4876402",
+    "id": "sentieri-alta-via-del-cervati-e-degli-alburni-243"
+  },
+  {
+    "nome": "Sentiero degli Cavalieri di Malta",
+    "descrizione": "",
+    "lat": 40.1233977,
+    "lng": 15.2653934,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.1233977&mlon=15.2653934#map=16/40.1233977/15.2653934",
+    "id": "sentieri-sentiero-degli-cavalieri-di-malta-244"
+  },
+  {
+    "nome": "Sentiero delle Formichelle",
+    "descrizione": "",
+    "lat": 40.6695376,
+    "lng": 14.6379511,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/310c/",
+    "id": "sentieri-sentiero-delle-formichelle-245"
+  },
+  {
+    "nome": "Sentiero degli Ulivi",
+    "descrizione": "",
+    "lat": 40.1183404,
+    "lng": 15.2403775,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.1183404&mlon=15.2403775#map=16/40.1183404/15.2403775",
+    "id": "sentieri-sentiero-degli-ulivi-246"
+  },
+  {
+    "nome": "Sentiero dei Trezeni",
+    "descrizione": "",
+    "lat": 40.327983,
+    "lng": 14.957532,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.327983&mlon=14.957532#map=16/40.327983/14.957532",
+    "id": "sentieri-sentiero-dei-trezeni-247"
+  },
+  {
+    "nome": "Sentiero dei Ponti di Pietra",
+    "descrizione": "",
+    "lat": 40.3201445,
+    "lng": 14.9731166,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3201445&mlon=14.9731166#map=16/40.3201445/14.9731166",
+    "id": "sentieri-sentiero-dei-ponti-di-pietra-248"
+  },
+  {
+    "nome": "Sentiero Corbezzoli e Castelluccio",
+    "descrizione": "",
+    "lat": 40.1114682,
+    "lng": 15.2530299,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.1114682&mlon=15.2530299#map=16/40.1114682/15.2530299",
+    "id": "sentieri-sentiero-corbezzoli-e-castelluccio-249"
+  },
+  {
+    "nome": "Sentiero della Grotta dell'Acqua",
+    "descrizione": "",
+    "lat": 40.0391331,
+    "lng": 15.4769011,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0391331&mlon=15.4769011#map=16/40.0391331/15.4769011",
+    "id": "sentieri-sentiero-della-grotta-dellacqua-250"
+  },
+  {
+    "nome": "Sentiero Perdifumo - Monte Stella",
+    "descrizione": "",
+    "lat": 40.2504996,
+    "lng": 15.0369997,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2504996&mlon=15.0369997#map=16/40.2504996/15.0369997",
+    "id": "sentieri-sentiero-perdifumo-monte-stella-251"
+  },
+  {
+    "nome": "Sentiero Sessa Cilento - Monte Stella",
+    "descrizione": "",
+    "lat": 40.2488212,
+    "lng": 15.0598681,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.2488212&mlon=15.0598681#map=16/40.2488212/15.0598681",
+    "id": "sentieri-sentiero-sessa-cilento-monte-stella-252"
+  },
+  {
+    "nome": "Sentiero Le Scalette Alberico Cusatis",
+    "descrizione": "",
+    "lat": 40.0758708,
+    "lng": 15.4299491,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0758708&mlon=15.4299491#map=16/40.0758708/15.4299491",
+    "id": "sentieri-sentiero-le-scalette-alberico-cusatis-253"
+  },
+  {
+    "nome": "European Long distance path E1 - part Italy - Campania",
+    "descrizione": "",
+    "lat": 40.7804731,
+    "lng": 15.0865844,
+    "source": "osm",
+    "link": "https://www.era-ewv-ferp.org/e-paths/e1/",
+    "id": "sentieri-european-long-distance-path-e1-part-italy-campania-254"
+  },
+  {
+    "nome": "Sentiero S1 di Capaccio Paestum",
+    "descrizione": "",
+    "lat": 40.452961,
+    "lng": 15.0119625,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.452961&mlon=15.0119625#map=16/40.452961/15.0119625",
+    "id": "sentieri-sentiero-s1-di-capaccio-paestum-255"
+  },
+  {
+    "nome": "Sentiero S5 di Capaccio Paestum",
+    "descrizione": "",
+    "lat": 40.4130435,
+    "lng": 15.0329079,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.4130435&mlon=15.0329079#map=16/40.4130435/15.0329079",
+    "id": "sentieri-sentiero-s5-di-capaccio-paestum-256"
+  },
+  {
+    "nome": "Sentiero S8 di Capaccio Paestum",
+    "descrizione": "",
+    "lat": 40.4383134,
+    "lng": 15.0700476,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.4383134&mlon=15.0700476#map=16/40.4383134/15.0700476",
+    "id": "sentieri-sentiero-s8-di-capaccio-paestum-257"
+  },
+  {
+    "nome": "Sentiero S2 di Capaccio Paestum",
+    "descrizione": "",
+    "lat": 40.445305,
+    "lng": 15.0570887,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.445305&mlon=15.0570887#map=16/40.445305/15.0570887",
+    "id": "sentieri-sentiero-s2-di-capaccio-paestum-258"
+  },
+  {
+    "nome": "Sentiero S7 di Capaccio Paestum",
+    "descrizione": "",
+    "lat": 40.4297775,
+    "lng": 15.0810556,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.4297775&mlon=15.0810556#map=16/40.4297775/15.0810556",
+    "id": "sentieri-sentiero-s7-di-capaccio-paestum-259"
+  },
+  {
+    "nome": "Sentiero S4 di Capaccio Paestum",
+    "descrizione": "",
+    "lat": 40.4339471,
+    "lng": 15.070627,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.4339471&mlon=15.070627#map=16/40.4339471/15.070627",
+    "id": "sentieri-sentiero-s4-di-capaccio-paestum-260"
+  },
+  {
+    "nome": "Sentiero S3 di Capaccio Paestum",
+    "descrizione": "",
+    "lat": 40.4266878,
+    "lng": 15.0855953,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.4266878&mlon=15.0855953#map=16/40.4266878/15.0855953",
+    "id": "sentieri-sentiero-s3-di-capaccio-paestum-261"
+  },
+  {
+    "nome": "La Panoramica",
+    "descrizione": "",
+    "lat": 40.3320333,
+    "lng": 14.9491198,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3320333&mlon=14.9491198#map=16/40.3320333/14.9491198",
+    "id": "sentieri-la-panoramica-262"
+  },
+  {
+    "nome": "Itinerario 29",
+    "descrizione": "",
+    "lat": 40.616362,
+    "lng": 14.3993829,
+    "source": "osm",
+    "link": "https://www.sorrentowalks.com/sorrento-colli-di-fontanelle-7.php",
+    "id": "sentieri-itinerario-29-263"
+  },
+  {
+    "nome": "Itinerario 59",
+    "descrizione": "",
+    "lat": 40.6083303,
+    "lng": 14.3909711,
+    "source": "osm",
+    "link": "https://www.sorrentowalks.com/colli-di-fontanelle-sant-agata-12.php",
+    "id": "sentieri-itinerario-59-264"
+  },
+  {
+    "nome": "Cammino delle due primule",
+    "descrizione": "",
+    "lat": 40.1730582,
+    "lng": 15.3837889,
+    "source": "osm",
+    "link": "https://www.ledueprimule.it/",
+    "id": "sentieri-cammino-delle-due-primule-265"
+  },
+  {
+    "nome": "326",
+    "descrizione": "",
+    "lat": 40.5320674,
+    "lng": 15.3320426,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.5320674&mlon=15.3320426#map=16/40.5320674/15.3320426",
+    "id": "sentieri-326-266"
+  },
+  {
+    "nome": "326",
+    "descrizione": "",
+    "lat": 40.5411237,
+    "lng": 15.3368765,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.5411237&mlon=15.3368765#map=16/40.5411237/15.3368765",
+    "id": "sentieri-326-267"
+  },
+  {
+    "nome": "Sentiero della Masseta",
+    "descrizione": "",
+    "lat": 40.045458,
+    "lng": 15.4733905,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.045458&mlon=15.4733905#map=16/40.045458/15.4733905",
+    "id": "sentieri-sentiero-della-masseta-268"
+  },
+  {
+    "nome": "Sentiero Francesco Raso",
+    "descrizione": "",
+    "lat": 40.7312911,
+    "lng": 14.7469396,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7312911&mlon=14.7469396#map=16/40.7312911/14.7469396",
+    "id": "sentieri-sentiero-francesco-raso-269"
+  },
+  {
+    "nome": "Sentiero del Marcellino",
+    "descrizione": "",
+    "lat": 40.0302908,
+    "lng": 15.4495423,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0302908&mlon=15.4495423#map=16/40.0302908/15.4495423",
+    "id": "sentieri-sentiero-del-marcellino-270"
+  },
+  {
+    "nome": "Sentiero dei Carbonai",
+    "descrizione": "",
+    "lat": 40.024058,
+    "lng": 15.4306545,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.024058&mlon=15.4306545#map=16/40.024058/15.4306545",
+    "id": "sentieri-sentiero-dei-carbonai-271"
+  },
+  {
+    "nome": "La Creta",
+    "descrizione": "",
+    "lat": 40.706033,
+    "lng": 14.5601139,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/330a/",
+    "id": "sentieri-la-creta-272"
+  },
+  {
+    "nome": "Sentiero Degli Ulivi",
+    "descrizione": "",
+    "lat": 40.0127265,
+    "lng": 15.419823,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0127265&mlon=15.419823#map=16/40.0127265/15.419823",
+    "id": "sentieri-sentiero-degli-ulivi-273"
+  },
+  {
+    "nome": "Sentiero degli Infreschi",
+    "descrizione": "",
+    "lat": 39.9993066,
+    "lng": 15.4046302,
+    "source": "osm",
+    "link": "https://www.komoot.com/it-it/smarttour/e1084969073/",
+    "id": "sentieri-sentiero-degli-infreschi-274"
+  },
+  {
+    "nome": "Sentiero delle Quattro Spiagge",
+    "descrizione": "",
+    "lat": 40.0018805,
+    "lng": 15.3588987,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0018805&mlon=15.3588987#map=16/40.0018805/15.3588987",
+    "id": "sentieri-sentiero-delle-quattro-spiagge-275"
+  },
+  {
+    "nome": "Sentiero di San Cono",
+    "descrizione": "",
+    "lat": 40.0201617,
+    "lng": 15.3305505,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0201617&mlon=15.3305505#map=16/40.0201617/15.3305505",
+    "id": "sentieri-sentiero-di-san-cono-276"
+  },
+  {
+    "nome": "Sentiero della Primula",
+    "descrizione": "",
+    "lat": 40.0360138,
+    "lng": 15.2886506,
+    "source": "osm",
+    "link": "https://www.sentieridelcilento.it/sentierodellaprimula/",
+    "id": "sentieri-sentiero-della-primula-277"
+  },
+  {
+    "nome": "Sentiero della Molpa",
+    "descrizione": "",
+    "lat": 40.0342835,
+    "lng": 15.3035206,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0342835&mlon=15.3035206#map=16/40.0342835/15.3035206",
+    "id": "sentieri-sentiero-della-molpa-278"
+  },
+  {
+    "nome": "Variante Croce di Carbonara",
+    "descrizione": "",
+    "lat": 40.7628822,
+    "lng": 14.9073982,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.7628822&mlon=14.9073982#map=16/40.7628822/14.9073982",
+    "id": "sentieri-variante-croce-di-carbonara-279"
+  },
+  {
+    "nome": "Variante per Vetta Avvocata",
+    "descrizione": "",
+    "lat": 40.6539147,
+    "lng": 14.6721801,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6539147&mlon=14.6721801#map=16/40.6539147/14.6721801",
+    "id": "sentieri-variante-per-vetta-avvocata-280"
+  },
+  {
+    "nome": "Variante per Monte Vico Alvano",
+    "descrizione": "",
+    "lat": 40.6229331,
+    "lng": 14.436343,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6229331&mlon=14.436343#map=16/40.6229331/14.436343",
+    "id": "sentieri-variante-per-monte-vico-alvano-281"
+  },
+  {
+    "nome": "327",
+    "descrizione": "",
+    "lat": 40.5254343,
+    "lng": 15.3653644,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.5254343&mlon=15.3653644#map=16/40.5254343/15.3653644",
+    "id": "sentieri-327-282"
+  },
+  {
+    "nome": "Itinerario del Paradiso",
+    "descrizione": "Itinerario del Progetto Terrae Antiquae di Scala (SA)",
+    "lat": 40.6482851,
+    "lng": 14.5988284,
+    "source": "osm",
+    "link": "http://bit.ly/3SykFuS",
+    "id": "sentieri-itinerario-del-paradiso-283"
+  },
+  {
+    "nome": "Il Castello che fu",
+    "descrizione": "",
+    "lat": 40.6525396,
+    "lng": 14.6018296,
+    "source": "osm",
+    "link": "http://bit.ly/3SykFuS",
+    "id": "sentieri-il-castello-che-fu-284"
+  },
+  {
+    "nome": "Fontana Carosa da Scala",
+    "descrizione": "",
+    "lat": 40.6675015,
+    "lng": 14.6039679,
+    "source": "osm",
+    "link": "http://bit.ly/3SykFuS",
+    "id": "sentieri-fontana-carosa-da-scala-285"
+  },
+  {
+    "nome": "Sentiero della tragara",
+    "descrizione": "",
+    "lat": 40.0764534,
+    "lng": 15.3529961,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0764534&mlon=15.3529961#map=16/40.0764534/15.3529961",
+    "id": "sentieri-sentiero-della-tragara-286"
+  },
+  {
+    "nome": "Sentiero degli Iazzi",
+    "descrizione": "",
+    "lat": 40.0702247,
+    "lng": 15.3685918,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0702247&mlon=15.3685918#map=16/40.0702247/15.3685918",
+    "id": "sentieri-sentiero-degli-iazzi-287"
+  },
+  {
+    "nome": "Sentiero dell'Altipiano",
+    "descrizione": "",
+    "lat": 40.0765382,
+    "lng": 15.3993804,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0765382&mlon=15.3993804#map=16/40.0765382/15.3993804",
+    "id": "sentieri-sentiero-dellaltipiano-288"
+  },
+  {
+    "nome": "Sentiero Valle Cupa",
+    "descrizione": "",
+    "lat": 40.0848497,
+    "lng": 15.381921,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0848497&mlon=15.381921#map=16/40.0848497/15.381921",
+    "id": "sentieri-sentiero-valle-cupa-289"
+  },
+  {
+    "nome": "Sentiero Pagliaro",
+    "descrizione": "",
+    "lat": 40.0820016,
+    "lng": 15.4032056,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0820016&mlon=15.4032056#map=16/40.0820016/15.4032056",
+    "id": "sentieri-sentiero-pagliaro-290"
+  },
+  {
+    "nome": "Sentiero le Scalette",
+    "descrizione": "",
+    "lat": 40.0779243,
+    "lng": 15.4300107,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0779243&mlon=15.4300107#map=16/40.0779243/15.4300107",
+    "id": "sentieri-sentiero-le-scalette-291"
+  },
+  {
+    "nome": "Sentiero degli Eremiti",
+    "descrizione": "",
+    "lat": 40.0635652,
+    "lng": 15.4293261,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0635652&mlon=15.4293261#map=16/40.0635652/15.4293261",
+    "id": "sentieri-sentiero-degli-eremiti-292"
+  },
+  {
+    "nome": "Sentiero della Lequa",
+    "descrizione": "",
+    "lat": 40.0606735,
+    "lng": 15.4317238,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0606735&mlon=15.4317238#map=16/40.0606735/15.4317238",
+    "id": "sentieri-sentiero-della-lequa-293"
+  },
+  {
+    "nome": "Strada Macera",
+    "descrizione": "",
+    "lat": 40.0851339,
+    "lng": 15.3907396,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.0851339&mlon=15.3907396#map=16/40.0851339/15.3907396",
+    "id": "sentieri-strada-macera-294"
+  },
+  {
+    "nome": "Cammino di San Nilo - Tappa 6",
+    "descrizione": "",
+    "lat": 40.1865031,
+    "lng": 15.3957885,
+    "source": "osm",
+    "link": "https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/",
+    "id": "sentieri-cammino-di-san-nilo-tappa-6-295"
+  },
+  {
+    "nome": "Cammino di San Nilo - Tappa 5",
+    "descrizione": "",
+    "lat": 40.1921223,
+    "lng": 15.4850989,
+    "source": "osm",
+    "link": "https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/",
+    "id": "sentieri-cammino-di-san-nilo-tappa-5-296"
+  },
+  {
+    "nome": "Cammino di San Nilo - Tappa 8",
+    "descrizione": "",
+    "lat": 40.0838571,
+    "lng": 15.2946964,
+    "source": "osm",
+    "link": "https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/",
+    "id": "sentieri-cammino-di-san-nilo-tappa-8-297"
+  },
+  {
+    "nome": "Cammino di San Nilo - Tappa 7",
+    "descrizione": "",
+    "lat": 40.1502198,
+    "lng": 15.3262443,
+    "source": "osm",
+    "link": "https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/",
+    "id": "sentieri-cammino-di-san-nilo-tappa-7-298"
+  },
+  {
+    "nome": "Cammino del Negro - Tappa 4",
+    "descrizione": "",
+    "lat": 40.4046652,
+    "lng": 15.4982127,
+    "source": "osm",
+    "link": "https://www.camminibizantini.com/",
+    "id": "sentieri-cammino-del-negro-tappa-4-299"
+  },
+  {
+    "nome": "Cammino del Negro - Tappa 7",
+    "descrizione": "",
+    "lat": 40.4991077,
+    "lng": 15.5008902,
+    "source": "osm",
+    "link": "https://www.camminibizantini.com/",
+    "id": "sentieri-cammino-del-negro-tappa-7-300"
+  },
+  {
+    "nome": "Cammino del Negro - Tappa 6",
+    "descrizione": "",
+    "lat": 40.5292215,
+    "lng": 15.4713299,
+    "source": "osm",
+    "link": "https://www.camminibizantini.com/",
+    "id": "sentieri-cammino-del-negro-tappa-6-301"
+  },
+  {
+    "nome": "Cammino del Negro - Tappa 5",
+    "descrizione": "",
+    "lat": 40.4745062,
+    "lng": 15.4786646,
+    "source": "osm",
+    "link": "https://www.camminibizantini.com/",
+    "id": "sentieri-cammino-del-negro-tappa-5-302"
+  },
+  {
+    "nome": "401",
+    "descrizione": "",
+    "lat": 40.3524888,
+    "lng": 15.2516799,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3524888&mlon=15.2516799#map=16/40.3524888/15.2516799",
+    "id": "sentieri-401-303"
+  },
+  {
+    "nome": "401A",
+    "descrizione": "",
+    "lat": 40.3476425,
+    "lng": 15.2580045,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.3476425&mlon=15.2580045#map=16/40.3476425/15.2580045",
+    "id": "sentieri-401a-304"
+  },
+  {
     "nome": "Sentiero dei Limoni (Path of the Lemons)",
     "descrizione": "Panoramico sentiero tra Maiori e Minori attraverso i terrazzamenti di limoni sfusati amalfitani. Scalinate storiche e antichi mulattieri.",
-    "comune": "Maiori - Minori",
-    "zona": "costiera",
-    "lunghezza_km": 2.5,
-    "dislivello_m": 160,
-    "difficolta": "facile",
     "lat": 40.6497,
     "lng": 14.6321,
+    "source": "hand-written",
     "link": "https://www.alltrails.com/trail/italy/campania/sentiero-dei-limoni",
-    "fonte": "alltrails"
+    "id": "sentiero-dei-limoni",
+    "difficolta": "",
+    "lunghezza_km": null,
+    "dislivello_m": null,
+    "periodo": "",
+    "frequenza": "",
+    "tipo": ""
   },
   {
-    "id": "valle-dei-mulini",
     "nome": "Valle dei Mulini",
     "descrizione": "Sentiero tra i ruderi delle antiche cartiere di Amalfi (1200-1900). Lungo il torrente Canneto fino alla Riserva Naturale con felce Woodwardia Radicans.",
-    "comune": "Amalfi",
-    "zona": "costiera",
-    "lunghezza_km": 6.1,
-    "dislivello_m": 340,
-    "difficolta": "media",
     "lat": 40.6338,
     "lng": 14.6027,
+    "source": "hand-written",
     "link": "https://www.caimontilattari.it/sentiero/325/",
-    "fonte": "sito-ufficiale"
+    "id": "valle-dei-mulini",
+    "difficolta": "",
+    "lunghezza_km": null,
+    "dislivello_m": null,
+    "periodo": "",
+    "frequenza": "",
+    "tipo": ""
   },
   {
-    "id": "valle-delle-ferriere",
-    "nome": "Valle delle Ferriere",
-    "descrizione": "Percorso ad anello da Amalfi attraverso la Valle dei Mulini fino alla Riserva Naturale. Boschi, cascate fino a 60m, ruderi dell'antica ferriera.",
-    "comune": "Amalfi",
-    "zona": "costiera",
-    "lunghezza_km": 6.9,
-    "dislivello_m": 453,
-    "difficolta": "difficile",
-    "lat": 40.6356,
-    "lng": 14.6007,
-    "link": "https://www.caimontilattari.it/sentiero/325/",
-    "fonte": "sito-ufficiale"
-  },
-  {
-    "id": "sentiero-costiero-cilento",
-    "nome": "Sentiero della Primula",
-    "descrizione": "Percorso circolare che costeggia Capo Palinuro. Falesie calcaree, fortini, torri saracene e calette incontaminate del Parco Nazionale del Cilento.",
-    "comune": "Centola",
-    "zona": "cilento",
-    "lunghezza_km": 14.0,
-    "dislivello_m": 200,
-    "difficolta": "media",
-    "lat": 40.036,
-    "lng": 15.292,
-    "link": "https://www.sentieridelcilento.it/sentierodellaprimula/",
-    "fonte": "sito-ufficiale"
-  },
-  {
-    "id": "sentiero-costa-infreschi",
     "nome": "Sentiero della Costa degli Infreschi",
     "descrizione": "Sentiero costiero nel Parco Nazionale del Cilento da Marina di Camerota alla Baia degli Infreschi. Boschi mediterranei, sorgenti d'acqua fresca. Parte del sentiero europeo E12.",
-    "comune": "Camerota",
-    "zona": "cilento",
-    "lunghezza_km": 9.8,
-    "dislivello_m": 360,
-    "difficolta": "media",
     "lat": 40.0003,
     "lng": 15.3744,
+    "source": "hand-written",
     "link": "https://www.komoot.com/it-it/smarttour/e1084969073/sentiero-degli-infreschi",
-    "fonte": "komoot"
+    "id": "sentiero-costa-infreschi",
+    "difficolta": "",
+    "lunghezza_km": null,
+    "dislivello_m": null,
+    "periodo": "",
+    "frequenza": "",
+    "tipo": ""
   },
   {
-    "id": "sentiero-monte-finestra",
     "nome": "Sentiero Monte Finestra",
     "descrizione": "Ascesa al Monte Finestra (1138m) da Cava de' Tirreni. Sentiero CAI 308a, passaggi esposti. Bivacco in vetta con panorama a 360° su Golfo, Costiera, Vesuvio e Monti Picentini.",
-    "comune": "Cava de' Tirreni",
-    "zona": "costiera",
-    "lunghezza_km": 7.0,
-    "dislivello_m": 750,
-    "difficolta": "difficile",
     "lat": 40.6889,
     "lng": 14.6714,
+    "source": "hand-written",
     "link": "https://www.trekkingamalficoast.com/en/our-destination/path-of-mount-finestra-hiking/",
-    "fonte": "web-research"
+    "id": "sentiero-monte-finestra",
+    "difficolta": "",
+    "lunghezza_km": null,
+    "dislivello_m": null,
+    "periodo": "",
+    "frequenza": "",
+    "tipo": ""
   },
   {
-    "id": "sentiero-delle-formichelle",
-    "nome": "Sentiero delle Formichelle",
-    "descrizione": "Sentiero CAI 310c da Tramonti a Maiori attraverso terrazzamenti di limoni. Il nome deriva dalle donne che percorrevano il sentiero con legna e limoni.",
-    "comune": "Tramonti",
-    "zona": "costiera",
-    "lunghezza_km": 4.8,
-    "dislivello_m": 200,
-    "difficolta": "media",
-    "lat": 40.6588,
-    "lng": 14.6433,
-    "link": "https://www.caimontilattari.it/sentiero/310c/",
-    "fonte": "sito-ufficiale"
-  },
-  {
-    "id": "sentiero-delle-13-chiese",
-    "nome": "Sentiero delle 13 Chiese",
-    "descrizione": "Percorso circolare CAI 310 attraverso 11 delle 13 frazioni di Tramonti. Ogni frazione ha la sua chiesa e piazza. Da Pucara (140m) a Colle Santa Maria (517m).",
-    "comune": "Tramonti",
-    "zona": "costiera",
-    "lunghezza_km": 15.2,
-    "dislivello_m": 517,
-    "difficolta": "media",
-    "lat": 40.653,
-    "lng": 14.641,
-    "link": "https://www.caimontilattari.it/sentiero/310/",
-    "fonte": "sito-ufficiale"
-  },
-  {
-    "id": "sentiero-dei-briganti",
     "nome": "Sentiero dei Briganti",
     "descrizione": "Itinerario storico-naturalistico nel Cilento da San Severino di Centola al Santuario dell'Annunziata a Licusati. Gole, borgate medievali, Castello di Montelmo.",
-    "comune": "Centola",
-    "zona": "cilento",
-    "lunghezza_km": 10.0,
-    "dislivello_m": 500,
-    "difficolta": "media",
     "lat": 40.085,
     "lng": 15.363,
-    "link": "",
-    "fonte": "web-research"
+    "source": "hand-written",
+    "link": "https://www.openstreetmap.org/?mlat=40.085&mlon=15.363#map=16/40.085/15.363",
+    "id": "sentiero-dei-briganti",
+    "difficolta": "",
+    "lunghezza_km": null,
+    "dislivello_m": null,
+    "periodo": "",
+    "frequenza": "",
+    "tipo": ""
   },
   {
-    "id": "alta-via-monti-lattari",
-    "nome": "Alta Via dei Monti Lattari (CAI 300)",
-    "descrizione": "Sentiero di lunga percorrenza da Salerno a Sorrento attraverso i Monti Lattari. 75.6 km, 4.871m di dislivello, 11 tappe.",
-    "comune": "Vietri sul Mare - Sorrento",
-    "zona": "costiera",
-    "lunghezza_km": 75.6,
-    "dislivello_m": 4871,
-    "difficolta": "difficile",
-    "lat": 40.6713,
-    "lng": 14.7308,
-    "link": "https://www.altaviadeimontilattari.it/il-sentiero-300-cai/",
-    "fonte": "sito-ufficiale"
-  },
-  {
-    "id": "anello-ravello-minori",
-    "nome": "Anello Ravello-Minori via Santa Croce",
-    "descrizione": "Percorso ad anello da Ravello a Minori attraverso Via Santa Croce. Antico mulattiero tra terrazzamenti con panorami sul Golfo di Salerno.",
-    "comune": "Ravello - Minori",
-    "zona": "costiera",
-    "lunghezza_km": 5.8,
-    "dislivello_m": 418,
-    "difficolta": "difficile",
-    "lat": 40.6484,
-    "lng": 14.6115,
-    "link": "https://www.alltrails.com/trail/italy/campania/ravello-minori-via-via-santa-croce",
-    "fonte": "alltrails"
-  },
-  {
-    "id": "giro-del-golfo-salerno",
-    "nome": "Giro del Golfo di Salerno",
-    "descrizione": "Percorso pedonale costiero attorno al Golfo di Salerno. Lungomare, scale storiche e sentieri costieri con vista sul mare.",
-    "comune": "Salerno",
-    "zona": "salerno",
-    "lunghezza_km": 11.5,
-    "dislivello_m": 118,
-    "difficolta": "facile",
-    "lat": 40.6785,
-    "lng": 14.7589,
-    "link": "",
-    "fonte": "web-research"
-  },
-  {
-    "id": "sentiero-delle-acquaiole",
     "nome": "Sentiero delle Acquaiole",
     "descrizione": "Percorso da Cetara verso Erchie attraverso i sentieri dei limoneti. Terrazzamenti coltivati a limoni sfusati e ulivi con panorami sul Golfo.",
-    "comune": "Cetara - Erchie",
-    "zona": "costiera",
-    "lunghezza_km": 5.3,
-    "dislivello_m": 319,
-    "difficolta": "media",
     "lat": 40.6489,
     "lng": 14.6884,
+    "source": "hand-written",
     "link": "https://www.alltrails.com/it-it/sentiero/italy/campania/cetara-erchie-via-sentiero-del-limoneti",
-    "fonte": "alltrails"
+    "id": "sentiero-delle-acquaiole",
+    "difficolta": "",
+    "lunghezza_km": null,
+    "dislivello_m": null,
+    "periodo": "",
+    "frequenza": "",
+    "tipo": ""
   },
   {
-    "id": "traccione-amalfi",
     "nome": "Traccione (Valle delle Ferriere alto)",
     "descrizione": "Sezione superiore del sentiero CAI 325 da Pontone alla Riserva della Valle delle Ferriere. Cascate, gallerie d'acqua e ruderi dell'antica ferriera.",
-    "comune": "Amalfi",
-    "zona": "costiera",
-    "lunghezza_km": 3.2,
-    "dislivello_m": 330,
-    "difficolta": "media",
     "lat": 40.6375,
     "lng": 14.5995,
+    "source": "hand-written",
     "link": "https://www.caimontilattari.it/sentiero/325/",
-    "fonte": "sito-ufficiale"
+    "id": "traccione-amalfi",
+    "difficolta": "",
+    "lunghezza_km": null,
+    "dislivello_m": null,
+    "periodo": "",
+    "frequenza": "",
+    "tipo": ""
   },
   {
-    "id": "cammino-san-nilo",
-    "nome": "Cammino di San Nilo",
-    "descrizione": "Itinerario di turismo lento nel Cilento. 8 tappe da Sapri a Palinuro attraverso borghi medievali, monasteri basiliani, gole e uliveti. 111 km totali.",
-    "comune": "Sapri - Palinuro",
-    "zona": "cilento",
-    "lunghezza_km": 111.0,
-    "dislivello_m": 3500,
-    "difficolta": "difficile",
-    "lat": 40.0777,
-    "lng": 15.6173,
-    "link": "https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/",
-    "fonte": "web-research"
-  },
-  {
-    "id": "sentiero-costa-cilento",
     "nome": "Sentiero Costa del Cilento",
     "descrizione": "Sentiero costiero CAI da Scario a Palinuro attraverso l'Area Marina Protetta Costa degli Infreschi e della Masseta. Inaugurato nel 2022.",
-    "comune": "Roccagloriosa - Palinuro",
-    "zona": "cilento",
-    "lunghezza_km": 25.0,
-    "dislivello_m": 800,
-    "difficolta": "difficile",
     "lat": 40.0617,
     "lng": 15.3964,
-    "link": "https://www.giornaledelcilento.it/sentiero-costa-del-cilento-accatastato-primo-tratto-da-scario-a-palinuro/",
-    "fonte": "web-research"
+    "source": "hand-written",
+    "link": "https://www.giornaledelcilento.it/sentiero-costa-del-cilento/",
+    "id": "sentiero-costa-cilento",
+    "difficolta": "",
+    "lunghezza_km": null,
+    "dislivello_m": null,
+    "periodo": "",
+    "frequenza": "",
+    "tipo": ""
   },
   {
-    "id": "anello-tre-mulini",
-    "nome": "Anello dei Tre Mulini",
-    "descrizione": "Percorso ad anello nella Valle dei Mulini di Amalfi. Tre siti di mulini storici, ruderi di cartiere, vegetazione riparia lungo il torrente Canneto.",
-    "comune": "Amalfi",
-    "zona": "costiera",
-    "lunghezza_km": 5.0,
-    "dislivello_m": 300,
-    "difficolta": "media",
-    "lat": 40.6345,
-    "lng": 14.6015,
-    "link": "",
-    "fonte": "web-research"
-  },
-  {
-    "id": "sentiero-monte-stella",
     "nome": "Sentiero del Monte Stella",
     "descrizione": "Percorso ad anello verso la vetta del Monte Stella (1131m). Area sacra delle rocce megalitiche (2000 a.C.), Eremo di Santa Maria della Stella (1362).",
-    "comune": "San Mauro Cilento",
-    "zona": "cilento",
-    "lunghezza_km": 7.5,
-    "dislivello_m": 400,
-    "difficolta": "media",
     "lat": 40.2438,
-    "lng": 15.0850,
+    "lng": 15.085,
+    "source": "hand-written",
     "link": "https://www.cilentolifestyle.it/trekking-sentiero-del-monte-stella/",
-    "fonte": "web-research"
+    "id": "sentiero-monte-stella",
+    "difficolta": "",
+    "lunghezza_km": null,
+    "dislivello_m": null,
+    "periodo": "",
+    "frequenza": "",
+    "tipo": ""
   },
   {
-    "id": "sentiero-cilento-velia",
     "nome": "Sentiero Paestum-Velia",
     "descrizione": "Sentiero archeologico tra i templi di Paestum e l'antica Elea/Velia. Percorso nella Valle dei Templi con siti della Magna Grecia.",
-    "comune": "Capaccio - Ascea",
-    "zona": "cilento",
-    "lunghezza_km": 12.0,
-    "dislivello_m": 250,
-    "difficolta": "facile",
     "lat": 40.4167,
-    "lng": 15.0000,
-    "link": "",
-    "fonte": "web-research"
+    "lng": 15.0,
+    "source": "hand-written",
+    "link": "https://www.openstreetmap.org/?mlat=40.4167&mlon=15.0#map=16/40.4167/15.0",
+    "id": "sentiero-cilento-velia",
+    "difficolta": "",
+    "lunghezza_km": null,
+    "dislivello_m": null,
+    "periodo": "",
+    "frequenza": "",
+    "tipo": ""
+  },
+  {
+    "nome": "Museo La Valle dei Mulini",
+    "descrizione": "",
+    "lat": 40.6410435,
+    "lng": 14.5971794,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/325/",
+    "id": "monumenti-museo-la-valle-dei-mulini",
+    "difficolta": "",
+    "lunghezza_km": null,
+    "dislivello_m": null,
+    "periodo": "",
+    "frequenza": "",
+    "tipo": ""
+  },
+  {
+    "nome": "Grotta Sentiero dei Briganti",
+    "descrizione": "",
+    "lat": 40.6257518,
+    "lng": 14.4574322,
+    "source": "osm",
+    "link": "https://www.openstreetmap.org/?mlat=40.6257518&mlon=14.4574322#map=16/40.6257518/14.4574322",
+    "id": "monumenti-grotta-sentiero-dei-briganti",
+    "difficolta": "",
+    "lunghezza_km": null,
+    "dislivello_m": null,
+    "periodo": "",
+    "frequenza": "",
+    "tipo": ""
+  },
+  {
+    "nome": "Belvedere Valle dei mulini",
+    "descrizione": "",
+    "lat": 40.3005505,
+    "lng": 15.260809,
+    "source": "osm",
+    "link": "https://www.caimontilattari.it/sentiero/325/",
+    "id": "monumenti-belvedere-valle-dei-mulini",
+    "difficolta": "",
+    "lunghezza_km": null,
+    "dislivello_m": null,
+    "periodo": "",
+    "frequenza": "",
+    "tipo": ""
   }
 ]
