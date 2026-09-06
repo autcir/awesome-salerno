@@ -2,58 +2,107 @@
 
 Grazie per il tuo interesse nel contribuire a questa lista! Le contribuzioni sono fondamentali per mantenere questa risorsa aggiornata e utile.
 
-## Come aggiungere una risorsa
+## Come aggiungere un POI
 
 1. **Fork** questo repository
-2. **Crea un branch** per la tua modifica: `git checkout -b add-mio-link`
-3. **Aggiungi il link** nella sezione giusta della README
-4. **Segui il formato** esatto:
-   ```markdown
-   - [Nome della risorsa](https://url-esempio.it) - Breve descrizione di una riga.
-   ```
-5. **Apri un PR** con il titolo descrittivo: `Add: Nome della risorsa`
+2. **Crea un branch** per la tua modifica: `git checkout -b add-mio-poi`
+3. **Aggiungi il POI** nel file JSON corretto nella cartella `data/`
+4. **Segui lo schema JSON** esatto (vedi sotto)
+5. **Apri un PR** con il titolo descrittivo: `Add: Nome del POI`
+
+## Schema JSON
+
+Ogni POI deve seguire questo formato:
+
+```json
+{
+  "id": "custom-nome-poi",
+  "nome": "Nome del POI",
+  "descrizione": "Breve descrizione di una riga (max 200 caratteri)",
+  "lat": 40.6892,
+  "lng": 14.7681,
+  "zona": "salerno | costiera | cilento",
+  "tipo": "chiesa | castello | museo | archeologico | grotta | fonte | sentiero | panorama | spiaggia | piazza | monumento | torre | ponte | porta | scala | altro",
+  "source": "curated | osm | wikipedia",
+  "link": "https://..."
+}
+```
+
+### Campi obbligatori
+
+| Campo | Tipo | Descrizione |
+|-------|------|-------------|
+| `id` | string | ID univoco. Formato: `custom-nome-poi` per contributi manuali, `osm-{id}` per OSM |
+| `nome` | string | Nome ufficiale del POI |
+| `descrizione` | string | Descrizione concisa (max 200 caratteri) |
+| `lat` | float | Latitudine GPS (range: 39.85 - 40.85) |
+| `lng` | float | Longitudine GPS (range: 14.3 - 15.6) |
+| `zona` | string | Una tra: `salerno`, `costiera`, `cilento` |
+| `tipo` | string | Categoria del POI (vedi lista sopra) |
+| `source` | string | Origine dei dati: `curated`, `osm`, `wikipedia` |
+
+### Campi opzionali
+
+| Campo | Tipo | Descrizione |
+|-------|------|-------------|
+| `link` | string | URL ufficiale o Wikipedia |
+| `osm_id` | int | ID OpenStreetMap (se source=osm) |
+| `osm_type` | string | Tipo OSM: `way`, `node`, o `relation` |
+
+## File JSON
+
+I dati sono organizzati per categoria nella cartella `data/`:
+
+| File | Contenuto | Esempio |
+|------|-----------|---------|
+| `sentieri.json` | Sentieri e percorsi | Sentiero degli Dei |
+| `monumenti.json` | Chiese, castelli, musei | Duomo di Salerno |
+| `spiagge.json` | Spiagge e lidi | Spiaggia Grande |
+| `panorami.json` | Punti panoramici | Belvedere di Ravello |
+| `parchi.json` | Parchi naturali | Parco del Cilento |
+| `eventi.json` | Eventi e manifestazioni | Ravello Festival |
 
 ## Regole per le entry
 
-- **Una riga per entry.** Niente paragrafi multipli, niente elenchi puntati interni.
-- **Descrizione chiara e concisa.** Cosa è, perché è utile, dove si trova (se applicabile).
-- **Link funzionante.** Verifica che il link sia attivo prima di aprire il PR.
-- **Niente spam.** Non aggiungere servizi a pagamento non trasparenti, affiliate non dichiarati, o link promozionali.
-- **Niente duplicati.** Controlla che la risorsa non sia già presente.
-- **Ordine alfabetico** all'interno di ogni sottosezione (se applicabile).
+- **GPS obbligatorio.** Ogni POI deve avere coordinate GPS valide.
+- **Descrizione concisa.** Una riga, max 200 caratteri, senza punteggiatura finale.
+- **Zona corretta.** Classifica nella zona giusta:
+  - `salerno`: città di Salerno e dintorni (lat > 40.55, lng < 14.85)
+  - `costiera`: Costiera Amalfitana (lat > 40.45, lng < 15.10)
+  - `cilento`: tutto il resto
+- **Link verificati.** Solo link funzionanti a fonti ufficiali o Wikipedia.
+- **Niente duplicati.** Controlla che il POI non sia già presente.
+- **Niente spam.** Non aggiungere attività commerciali, servizi a pagamento, o link promozionali.
 
-## Formato delle entry
+## Classificazione `tipo`
 
-### Link a sito web
-```markdown
-- [Nome Sito](https://www.esempio.it) - Breve descrizione del sito.
-```
+| Tipo | Descrizione | Esempi |
+|------|-------------|--------|
+| `chiesa` | Chiese, cattedrali, santuari | Duomo di Salerno |
+| `castello` | Castelli, fortezze, rocche | Castello di Arechi |
+| `museo` | Musei, gallerie, mostre | Museo della Carta |
+| `archeologico` | Siti archeologici, templi | Tempio di Nettuno |
+| `grotta` | Grotte, caverne | Grotta di Castelcivita |
+| `fonte` | Fontane, sorgenti, acquedotti | Fontana dei Quattro Cancelli |
+| `sentiero` | Sentieri, cammini, percorsi | Sentiero degli Dei |
+| `panorama` | Punti panoramici, belvedere | Terrazza dell'Infinito |
+| `spiaggia` | Spiagge, lidi, cala | Spiaggia Grande |
+| `piazza` | Piazze, larghi, chiostri | Piazza Flavio Gioia |
+| `monumento` | Monumenti, statue, colonne | Statua di规范 |
+| `torre` | Torri, faraglioni | Torre Normanna |
+| `ponte` | Ponti, viadotti | Ponte dei Patizzi |
+| `porta` | Porte, mura, cittadelle | Porta della Persona |
+| `scala` | Scale, scalinate, gradinate | Scalinata di Via Cannuta |
+| `altro` | Altro | Non categorizzato |
 
-### Link a luogo (OpenStreetMap)
-```markdown
-- [Nome Luogo](https://www.openstreetmap.org/#map=16/LAT/LNG) - Breve descrizione del luogo.
-```
+## Verifica automatica
 
-Sono ammessi solo link verificati: voci generate da `data/*.json` via
-`scripts/gen_pois_md.py` (nome + comune + mappa OSM) e domini ufficiali
-e istituzionali. Niente ID numerici OSM/TripAdvisor, niente indirizzi
-o domini non presenti in fonti certe, niente superlativi non provati.
+Ogni PR viene verificato automaticamente:
 
-## Categorie
-
-La README è organizzata in queste sezioni principali:
-
-1. **Salerno** - Panoramica e Storia
-2. **Spiagge** - Spiagge e lidi dai dati del progetto
-3. **Attrazioni** - Chiese, monumenti, musei dai dati del progetto
-4. **Food & Drink** - Locali dai dati del progetto
-5. **Stay** - Strutture dai dati del progetto
-6. **Trasporti** - Gestori ufficiali
-7. **Servizi ed Emergenze** - Numeri di emergenza e servizi di base
-8. **Eventi** - Manifestazioni ricorrenti documentate dal Comune
-9. **Open Data e API** - Dataset pubblici e servizi tecnici
-10. **Link utili** - Siti ufficiali e turismo
-11. **Contributing** - Come aggiungere una risorsa (questa sezione)
+1. **awesome-lint** - Controlla il formato della README
+2. **JSON validation** - Verifica che tutti i JSON siano validi
+3. **GPS bounds check** - Controlla che le coordinate siano nel range corretto
+4. **Link check** - Verifica che i link siano funzionanti
 
 ## Issue
 

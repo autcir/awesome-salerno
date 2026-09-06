@@ -110,5 +110,70 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "cilento"
+  },
+  {
+    "id": "osm-93496743",
+    "nome": "Oasi naturale Valle della Caccia",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
+    "lat": 40.7228749,
+    "lng": 15.1707038,
+    "source": "osm",
+    "osm_id": 93496743,
+    "osm_type": "way",
+    "link": "https://www.openstreetmap.org/way/93496743",
+    "zona": "cilento",
+    "tipo": "altro"
+  },
+  {
+    "id": "osm-116820888",
+    "nome": "Riserva naturale dei monti Eremita e Marzano",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
+    "lat": 40.7555335,
+    "lng": 15.3233108,
+    "source": "osm",
+    "osm_id": 116820888,
+    "osm_type": "way",
+    "link": "https://www.openstreetmap.org/way/116820888",
+    "zona": "cilento",
+    "tipo": "altro"
+  },
+  {
+    "id": "osm-1330860923",
+    "nome": "Oasi Dunale Legambiente",
+    "descrizione": "Costruito: 1994",
+    "lat": 40.419265,
+    "lng": 14.9877727,
+    "source": "osm",
+    "osm_id": 1330860923,
+    "osm_type": "way",
+    "link": "https://www.openstreetmap.org/way/1330860923",
+    "zona": "cilento",
+    "tipo": "altro"
+  },
+  {
+    "id": "osm-4100859",
+    "nome": "Parco Nazionale Cilento, Vallo di Diano e Alburni",
+    "descrizione": "Sito archeologico nel territorio di Cilento",
+    "lat": 40.2833541,
+    "lng": 15.298374,
+    "source": "osm",
+    "osm_id": 4100859,
+    "osm_type": "relation",
+    "link": "https://it.wikipedia.org/wiki/Parco_nazionale_del_Cilento,_Vallo_di_Diano_e_Alburni",
+    "zona": "cilento",
+    "tipo": "archeologico"
+  },
+  {
+    "id": "osm-4671891",
+    "nome": "Riserva naturale Foce Sele Tanagro",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
+    "lat": 40.5179718,
+    "lng": 15.2945939,
+    "source": "osm",
+    "osm_id": 4671891,
+    "osm_type": "relation",
+    "link": "https://www.openstreetmap.org/relation/4671891",
+    "zona": "cilento",
+    "tipo": "altro"
   }
 ]
