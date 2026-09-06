@@ -34,31 +34,30 @@ Grazie per il tuo interesse nel contribuire a questa lista! Le contribuzioni son
 - [Nome Luogo](https://www.openstreetmap.org/#map=16/LAT/LNG) - Breve descrizione del luogo.
 ```
 
-### Link a place (Google Maps / TripAdvisor)
-```markdown
-- [Nome Ristorante](https://www.tripadvisor.it/Restaurant_Review-g...-Reviews-...) - Indirizzo, città. Breve descrizione.
-```
+Sono ammessi solo link verificati: voci generate da `data/*.json` via
+`scripts/gen_pois_md.py` (nome + comune + mappa OSM) e domini ufficiali
+e istituzionali. Niente ID numerici OSM/TripAdvisor, niente indirizzi
+o domini non presenti in fonti certe, niente superlativi non provati.
 
 ## Categorie
 
 La README è organizzata in queste sezioni principali:
 
-1. **Salerno** - Panoramica, storia, mappa
-2. **Food & Drink** - Ristoranti, pizzerie, bar, gelaterie, enoteche, cantine
-3. **Stay** - Hotel, B&B, agriturismi, ostelli, campeggi
-4. **Beaches** - Spiagge, stabilimenti, calette
-5. **Transport** - Bus, treno, nave, bike sharing, parcheggi
-6. **Attractions & Landmarks** - Chiese, castelli, musei, monumenti
-7. **Nature & Outdoors** - Sentieri, parchi, riserve, grotte
-8. **Services** - Farmacie, ospedali, supermercati, banche, poste
-9. **Events & Festivals** - Manifestazioni, sagre, eventi ricorrenti
-10. **Open Data & APIs** - Dataset pubblici, API utili, fonti governative
-11. **Useful Links** - Siti ufficiali, turismo, numeri utili
-12. **Contributing** - Come aggiungere una risorsa (questa sezione)
+1. **Salerno** - Panoramica e Storia
+2. **Spiagge** - Spiagge e lidi dai dati del progetto
+3. **Attrazioni** - Chiese, monumenti, musei dai dati del progetto
+4. **Food & Drink** - Locali dai dati del progetto
+5. **Stay** - Strutture dai dati del progetto
+6. **Trasporti** - Gestori ufficiali
+7. **Servizi ed Emergenze** - Numeri di emergenza e servizi di base
+8. **Eventi** - Manifestazioni ricorrenti documentate dal Comune
+9. **Open Data e API** - Dataset pubblici e servizi tecnici
+10. **Link utili** - Siti ufficiali e turismo
+11. **Contributing** - Come aggiungere una risorsa (questa sezione)
 
 ## Issue
 
-Se vuoi segnalare un link morto, un errore, o suggerire una nuova sezione, apri un [Issue](https://github.com/ciroautuori/awesome-salerno/issues).
+Se vuoi segnalare un link morto, un errore, o suggerire una nuova sezione, apri un [Issue](https://github.com/autcir/awesome-salerno/issues).
 
 ## Code of Conduct
 
