@@ -13,7 +13,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "salerno"
+    "zona": "salerno",
+    "citta": "Giffoni Valle Piana"
   },
   {
     "nome": "Punta D'Aglio",
@@ -29,7 +30,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "salerno"
+    "zona": "costiera",
+    "citta": "Amalfi"
   },
   {
     "nome": "Capo Masina",
@@ -45,7 +47,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "salerno"
+    "zona": "costiera",
+    "citta": "Positano"
   },
   {
     "nome": "Castelluccio di Pisciotta",
@@ -61,7 +64,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "San Nicola Arcella"
   },
   {
     "nome": "Tozzo del Finocchio",
@@ -77,7 +81,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Montano Antilia"
   },
   {
     "nome": "Castelluccio di San Mauro",
@@ -93,7 +98,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "San Nicola Arcella"
   },
   {
     "nome": "Località Male Mursiello",
@@ -109,7 +115,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Rofrano"
   },
   {
     "nome": "Vene di S.Pietro",
@@ -125,7 +132,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "salerno"
+    "zona": "costiera",
+    "citta": "Maiori"
   },
   {
     "nome": "Collina di Sant'Adiutore",
@@ -141,7 +149,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "salerno"
+    "zona": "salerno",
+    "citta": "Giffoni Sei Casali"
   },
   {
     "nome": "Il Telegrafo",
@@ -157,7 +166,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "salerno"
+    "zona": "salerno",
+    "citta": "Salerno"
   },
   {
     "nome": "Scanno Chiuso",
@@ -173,7 +183,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Moio della Civitella"
   },
   {
     "nome": "Tempa Pistillo",
@@ -189,7 +200,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "San Giovanni a Piro"
   },
   {
     "nome": "Serra Pornia",
@@ -205,7 +217,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "San Giovanni a Piro"
   },
   {
     "nome": "Tozzo del Moio",
@@ -221,7 +234,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "San Giovanni a Piro"
   },
   {
     "nome": "Tempa della Rondinella",
@@ -237,7 +251,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Pisciotta"
   },
   {
     "nome": "Cozzo Trattonale",
@@ -253,7 +268,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Padula"
   },
   {
     "nome": "Rupe la Marvera",
@@ -269,7 +285,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Padula"
   },
   {
     "nome": "Colli lo Scorzo",
@@ -285,7 +302,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Padula"
   },
   {
     "nome": "Scanno del Tesoro",
@@ -301,7 +319,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Piaggine"
   },
   {
     "nome": "Rupa della Noce",
@@ -317,7 +336,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Roccadaspide"
   },
   {
     "nome": "Rupa della Conca",
@@ -333,7 +353,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Roccadaspide"
   },
   {
     "nome": "Punta delle Castagne",
@@ -349,7 +370,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "salerno"
+    "zona": "costiera",
+    "citta": "Amalfi"
   },
   {
     "nome": "la Raia del Pedale",
@@ -365,7 +387,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Rofrano"
   },
   {
     "nome": "Una finestra sulla Certosa e sul Vallo di Diano.",
@@ -381,7 +404,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Buonabitacolo"
   },
   {
     "nome": "Costa Palomba",
@@ -397,7 +421,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Vena San Marco",
@@ -413,7 +438,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "salerno"
+    "zona": "salerno",
+    "citta": "Sant'Egidio del Monte Albino"
   },
   {
     "nome": "Punta Serrapiana",
@@ -429,7 +455,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "salerno"
+    "zona": "salerno",
+    "citta": "San Cipriano Picentino"
   },
   {
     "nome": "Toppo Scutero",
@@ -445,7 +472,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "costiera"
+    "zona": "salerno",
+    "citta": "Acerno"
   },
   {
     "nome": "Toppo Croce del Magnone",
@@ -461,7 +489,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "costiera"
+    "zona": "salerno",
+    "citta": "Acerno"
   },
   {
     "nome": "Accellica Sud - Raione",
@@ -477,7 +506,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "costiera"
+    "zona": "salerno",
+    "citta": "Acerno"
   },
   {
     "nome": "Toppa della Faragna",
@@ -493,7 +523,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "costiera"
+    "zona": "salerno",
+    "citta": "Montecorvino Rovella"
   },
   {
     "nome": "Toppa del Castello",
@@ -509,7 +540,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "costiera"
+    "zona": "salerno",
+    "citta": "Acerno"
   },
   {
     "nome": "Ripe di Pappamondo",
@@ -525,7 +557,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "costiera"
+    "zona": "salerno",
+    "citta": "Montecorvino Rovella"
   },
   {
     "nome": "Castello d'Olevano",
@@ -541,7 +574,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "costiera"
+    "zona": "salerno",
+    "citta": "Montecorvino Rovella"
   },
   {
     "nome": "S.ra Pizzuta",
@@ -557,7 +591,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "costiera"
+    "zona": "salerno",
+    "citta": "Eboli"
   },
   {
     "nome": "Pizzo Corno",
@@ -573,7 +608,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "costiera"
+    "zona": "salerno",
+    "citta": "Acerno"
   },
   {
     "nome": "S.ra Melara",
@@ -589,7 +625,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Palomonte"
   },
   {
     "nome": "Serra del Dardano",
@@ -605,7 +642,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Valva"
   },
   {
     "nome": "Toppo Tondo",
@@ -621,7 +659,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Valva"
   },
   {
     "nome": "Timpone Colagrosso",
@@ -637,7 +676,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Ricigliano"
   },
   {
     "nome": "Timpone Petrosa",
@@ -653,7 +693,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Ricigliano"
   },
   {
     "nome": "Costa la Croce",
@@ -669,7 +710,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempa del Prato",
@@ -685,7 +727,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempa del Tesoro",
@@ -701,7 +744,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempa delle Rupi",
@@ -717,7 +761,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Timpone dei Rossi",
@@ -733,7 +778,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempa Vessano",
@@ -749,7 +795,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempa di Aquara",
@@ -765,7 +812,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempone delle Macchie",
@@ -781,7 +829,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempa delle Quote",
@@ -797,7 +846,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempa Suvero",
@@ -813,7 +863,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempone Pietra Cupa",
@@ -829,7 +880,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Capaccio Paestum"
   },
   {
     "nome": "Tempone Cotruzzo",
@@ -845,7 +897,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Capaccio Paestum"
   },
   {
     "nome": "Costa di Santa Maria",
@@ -861,7 +914,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "San Pietro al Tanagro"
   },
   {
     "nome": "Timpone Soprano",
@@ -877,7 +931,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempa Previtipietro",
@@ -893,7 +948,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sala Consilina"
   },
   {
     "nome": "Toppa dell'Arpa",
@@ -909,7 +965,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "San Pietro al Tanagro"
   },
   {
     "nome": "Capo la Serra",
@@ -925,7 +982,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "San Pietro al Tanagro"
   },
   {
     "nome": "Tempa del Bosco",
@@ -941,7 +999,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "San Pietro al Tanagro"
   },
   {
     "nome": "Costa Castello",
@@ -957,7 +1016,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Serra Carpineto",
@@ -973,7 +1033,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Buccino"
   },
   {
     "nome": "Serra Ventola",
@@ -989,7 +1050,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Serra San Giacomo",
@@ -1005,7 +1067,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Buccino"
   },
   {
     "nome": "Timpone del Piano",
@@ -1021,7 +1084,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Trecchina"
   },
   {
     "nome": "Serra Amignosa",
@@ -1037,7 +1101,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Vallo della Lucania"
   },
   {
     "nome": "Tempa della Rosalia",
@@ -1053,7 +1118,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Vallo della Lucania"
   },
   {
     "nome": "Tempa della Pantanella",
@@ -1069,7 +1135,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Vallo della Lucania"
   },
   {
     "nome": "Serra di Falco",
@@ -1085,7 +1152,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Piaggine"
   },
   {
     "nome": "Cozzo la Croce",
@@ -1101,7 +1169,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sessa Cilento"
   },
   {
     "nome": "Cozzo del Convento",
@@ -1117,7 +1186,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Perdifumo"
   },
   {
     "nome": "Serra di Campo Soprano",
@@ -1133,7 +1203,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Teggiano"
   },
   {
     "nome": "Serra la Manca",
@@ -1149,7 +1220,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Teggiano"
   },
   {
     "nome": "Serre dei Cuponi",
@@ -1165,7 +1237,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Teggiano"
   },
   {
     "nome": "Cozzo dell'Uovo",
@@ -1181,7 +1254,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Padula"
   },
   {
     "nome": "Cozzo Postale",
@@ -1197,7 +1271,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Montesano sulla Marcellana"
   },
   {
     "nome": "Serra di Corleto",
@@ -1213,7 +1288,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Padula"
   },
   {
     "nome": "Tempa di Cosimano",
@@ -1229,7 +1305,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Padula"
   },
   {
     "nome": "Preta Conca",
@@ -1245,7 +1322,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Padula"
   },
   {
     "nome": "Tempa d'Inferno",
@@ -1261,7 +1339,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Padula"
   },
   {
     "nome": "Fossa la Pecora",
@@ -1277,7 +1356,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Padula"
   },
   {
     "nome": "Timpa Petruzzone",
@@ -1293,7 +1373,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Piaggine"
   },
   {
     "nome": "Tempa d'Astore",
@@ -1309,7 +1390,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Gioi"
   },
   {
     "nome": "Tempa della Lanza",
@@ -1325,7 +1407,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Gioi"
   },
   {
     "nome": "i Tuzzi di Monte Piano",
@@ -1341,7 +1424,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Moio della Civitella"
   },
   {
     "nome": "Tempa del Carruso",
@@ -1357,7 +1441,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Roscigno"
   },
   {
     "nome": "Rupe di San Paolo",
@@ -1373,7 +1458,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Santi Cosma e Damiano"
   },
   {
     "nome": "Serra Piana",
@@ -1389,7 +1475,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Santi Cosma e Damiano"
   },
   {
     "nome": "Serra della Forcella",
@@ -1405,7 +1492,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Santi Cosma e Damiano"
   },
   {
     "nome": "Timpone Vecchio",
@@ -1421,7 +1509,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Padula"
   },
   {
     "nome": "Cozzo d'Elice",
@@ -1437,7 +1526,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Padula"
   },
   {
     "nome": "Tempa di Sorufo",
@@ -1453,7 +1543,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Padula"
   },
   {
     "nome": "Cozzi dei Caprari",
@@ -1469,7 +1560,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Padula"
   },
   {
     "nome": "Cozzo della Croce",
@@ -1485,7 +1577,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Rofrano"
   },
   {
     "nome": "Col di Lammardi",
@@ -1501,7 +1594,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Rofrano"
   },
   {
     "nome": "Tempone dei Cerri",
@@ -1517,7 +1611,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Montesano sulla Marcellana"
   },
   {
     "nome": "Cozzo Vaccaro",
@@ -1533,7 +1628,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Montesano sulla Marcellana"
   },
   {
     "nome": "Tempa di Cuccaro Vetere",
@@ -1549,7 +1645,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Montano Antilia"
   },
   {
     "nome": "Scanno del Corvo",
@@ -1565,7 +1662,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Pisciotta"
   },
   {
     "nome": "Tempa del Cerro",
@@ -1581,7 +1679,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Pisciotta"
   },
   {
     "nome": "Piano Ceraso",
@@ -1597,7 +1696,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Roscigno"
   },
   {
     "nome": "Tempone di San Giorgio",
@@ -1613,7 +1713,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Santi Cosma e Damiano"
   },
   {
     "nome": "Serre delle Fontanelle",
@@ -1629,7 +1730,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Trecchina"
   },
   {
     "nome": "Vena del Coviello",
@@ -1645,7 +1747,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "salerno"
+    "zona": "costiera",
+    "citta": "Tramonti"
   },
   {
     "nome": "Statua S. Francesco",
@@ -1661,7 +1764,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "salerno"
+    "zona": "salerno",
+    "citta": "Bracigliano"
   },
   {
     "nome": "Coddate di Filano",
@@ -1677,7 +1781,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Padula"
   },
   {
     "nome": "Stazione Osservazione Affunnaturo",
@@ -1693,7 +1798,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Padula"
   },
   {
     "nome": "M. Valletto",
@@ -1709,7 +1815,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "San Giovanni a Piro"
   },
   {
     "nome": "Timpa della Carità",
@@ -1725,7 +1832,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempa del Porco",
@@ -1741,7 +1849,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Moio della Civitella"
   },
   {
     "nome": "Tempa del lupo",
@@ -1757,7 +1866,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Vallo della Lucania"
   },
   {
     "nome": "Croce della Conocchia",
@@ -1773,7 +1883,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "salerno"
+    "zona": "costiera",
+    "citta": "Positano"
   },
   {
     "nome": "Punta di Tormine",
@@ -1789,7 +1900,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "costiera"
+    "zona": "salerno",
+    "citta": "San Cipriano Picentino"
   },
   {
     "nome": "Il Figliolo",
@@ -1805,7 +1917,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Timpone Sottano",
@@ -1821,7 +1934,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Scarrone dei Corvi",
@@ -1837,7 +1951,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "San Rufo"
   },
   {
     "nome": "La Montagnola",
@@ -1853,7 +1968,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "San Rufo"
   },
   {
     "nome": "Il Telefono",
@@ -1869,7 +1985,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "salerno"
+    "zona": "costiera",
+    "citta": "Tramonti"
   },
   {
     "nome": "Varco della Pettinessa",
@@ -1885,7 +2002,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "costiera"
+    "zona": "salerno",
+    "citta": "Acerno"
   },
   {
     "nome": "M. Palladino",
@@ -1901,7 +2019,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Maratea"
   },
   {
     "nome": "Cocuzzo delle Puglie",
@@ -1917,7 +2036,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "San Rufo"
   },
   {
     "nome": "M. Cerasulo",
@@ -1933,7 +2053,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Piaggine"
   },
   {
     "nome": "Costa Calda",
@@ -1949,7 +2070,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "costiera"
+    "zona": "salerno",
+    "citta": "Acerno"
   },
   {
     "nome": "Serra Nicola - Punto panoramico",
@@ -1965,7 +2087,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Timpone Alto",
@@ -1981,7 +2104,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "San Rufo"
   },
   {
     "nome": "Vetta Nord",
@@ -1997,7 +2121,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "salerno"
+    "zona": "costiera",
+    "citta": "Tramonti"
   },
   {
     "nome": "Piesco Grande",
@@ -2013,7 +2138,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "salerno"
+    "zona": "salerno",
+    "citta": "Giffoni Valle Piana"
   },
   {
     "nome": "Rupe di Valpalazzo",
@@ -2029,7 +2155,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Rofrano"
   },
   {
     "nome": "Poggio Sant'Antonio",
@@ -2045,7 +2172,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "salerno"
+    "zona": "salerno",
+    "citta": "Giffoni Valle Piana"
   },
   {
     "nome": "Piesco rosso",
@@ -2061,7 +2189,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sala Consilina"
   },
   {
     "nome": "Uomo A Cavallo",
@@ -2077,7 +2206,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "salerno"
+    "zona": "costiera",
+    "citta": "Cetara"
   },
   {
     "nome": "Madonna Del Sito Alto",
@@ -2093,7 +2223,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sala Consilina"
   },
   {
     "nome": "M. Pianello",
@@ -2109,7 +2240,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Gioi"
   },
   {
     "nome": "Collina del Parco",
@@ -2125,7 +2257,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "salerno"
+    "zona": "salerno",
+    "citta": "Nocera Inferiore"
   },
   {
     "nome": "Tempa di Don Marco",
@@ -2141,7 +2274,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Timpone San Cono",
@@ -2157,7 +2291,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Ricigliano"
   },
   {
     "nome": "Timpone Palombella",
@@ -2173,7 +2308,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Timpone Panariello",
@@ -2189,7 +2325,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Timpone Cuccesso",
@@ -2205,7 +2342,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Ricigliano"
   },
   {
     "nome": "Timpa Zacchera",
@@ -2221,7 +2359,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Ricigliano"
   },
   {
     "nome": "Timpa del Monaco",
@@ -2237,7 +2376,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Pietra di Gianmaria",
@@ -2253,7 +2393,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Santa Anastasia",
@@ -2269,7 +2410,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempa Pozzillo",
@@ -2285,7 +2427,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Il Torrione",
@@ -2301,7 +2444,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempa cavallerizza",
@@ -2317,7 +2461,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Timpa della Cisterna",
@@ -2333,7 +2478,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Timpa Sarrauto",
@@ -2349,7 +2495,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Serra dei Ripini",
@@ -2365,7 +2512,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Serra Monaco",
@@ -2381,7 +2529,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Serra Nicola",
@@ -2397,7 +2546,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "San Rufo"
   },
   {
     "nome": "P.zo della Ciufara",
@@ -2413,7 +2563,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "salerno"
+    "zona": "salerno",
+    "citta": "Siano"
   },
   {
     "nome": "Serra Mancusi",
@@ -2429,7 +2580,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Teggiano"
   },
   {
     "nome": "Timpa Pianella",
@@ -2445,7 +2597,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Ricigliano"
   },
   {
     "nome": "Rudere Castello di Pogerola",
@@ -2461,7 +2614,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "panorama",
-    "zona": "salerno"
+    "zona": "costiera",
+    "citta": "Amalfi"
   },
   {
     "nome": "Madonna del Silenzio",
@@ -2471,8 +2625,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6269256&mlon=14.5222546#map=16/40.6269256/14.5222546",
     "id": "panorami-madonna-del-silenzio-442",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Praiano"
   },
   {
     "nome": "Punta Tresino",
@@ -2483,7 +2638,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.3361586&mlon=14.9466753#map=16/40.3361586/14.9466753",
     "id": "panorami-punta-tresino-443",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Agropoli"
   },
   {
     "nome": "Pietra Mulacchio",
@@ -2494,7 +2650,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.2438487&mlon=15.0589307#map=16/40.2438487/15.0589307",
     "id": "panorami-pietra-mulacchio-444",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Sessa Cilento"
   },
   {
     "nome": "Fiordo di Furore",
@@ -2504,8 +2661,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6139396&mlon=14.5543071#map=16/40.6139396/14.5543071",
     "id": "panorami-fiordo-di-furore-445",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Praiano"
   },
   {
     "nome": "Pianoro di Ciolandrea",
@@ -2515,8 +2673,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.0407407&mlon=15.4573709#map=16/40.0407407/15.4573709",
     "id": "panorami-pianoro-di-ciolandrea-446",
-    "zona": "cilento",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "San Giovanni a Piro"
   },
   {
     "nome": "Gola del Diavolo - Fiume Mingardo",
@@ -2526,8 +2685,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.087837&mlon=15.3519557#map=16/40.087837/15.3519557",
     "id": "panorami-gola-del-diavolo-fiume-mingardo-448",
-    "zona": "cilento",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "Montano Antilia"
   },
   {
     "nome": "Terrazza del Cilento",
@@ -2538,7 +2698,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.4005288&mlon=15.1059626#map=16/40.4005288/15.1059626",
     "id": "panorami-terrazza-del-cilento-449",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Capaccio Paestum"
   },
   {
     "nome": "Panorama Monte Stella e Gelbison",
@@ -2549,7 +2710,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.0304832&mlon=15.2728517#map=16/40.0304832/15.2728517",
     "id": "panorami-panorama-monte-stella-e-gelbison-450",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "San Nicola Arcella"
   },
   {
     "nome": "Bird-watching 3",
@@ -2560,7 +2722,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.3030568&mlon=15.1152096#map=16/40.3030568/15.1152096",
     "id": "panorami-bird-watching-3-452",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Rutino"
   },
   {
     "nome": "Bird-watching 4",
@@ -2571,7 +2734,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.298&mlon=15.1192329#map=16/40.298/15.1192329",
     "id": "panorami-bird-watching-4-453",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Rutino"
   },
   {
     "nome": "Bird-watching 5",
@@ -2582,7 +2746,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.296748&mlon=15.1198123#map=16/40.296748/15.1198123",
     "id": "panorami-bird-watching-5-454",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Rutino"
   },
   {
     "nome": "Bird-watching 6",
@@ -2593,7 +2758,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.2911998&mlon=15.1233099#map=16/40.2911998/15.1233099",
     "id": "panorami-bird-watching-6-455",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Rutino"
   },
   {
     "nome": "Bird-watching 7",
@@ -2604,7 +2770,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.2892111&mlon=15.1228271#map=16/40.2892111/15.1228271",
     "id": "panorami-bird-watching-7-456",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Rutino"
   },
   {
     "nome": "Bird-watching 8",
@@ -2615,7 +2782,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.2878444&mlon=15.1234064#map=16/40.2878444/15.1234064",
     "id": "panorami-bird-watching-8-457",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Rutino"
   },
   {
     "nome": "Punta Bomerano",
@@ -2625,8 +2793,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6219932&mlon=14.5473013#map=16/40.6219932/14.5473013",
     "id": "panorami-punta-bomerano-463",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Praiano"
   },
   {
     "nome": "Foresta a Galleria",
@@ -2637,7 +2806,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.3192374&mlon=15.1301775#map=16/40.3192374/15.1301775",
     "id": "panorami-foresta-a-galleria-465",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Rutino"
   },
   {
     "nome": "Macchia mediterranea",
@@ -2648,7 +2818,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.3101404&mlon=15.1129684#map=16/40.3101404/15.1129684",
     "id": "panorami-macchia-mediterranea-466",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Rutino"
   },
   {
     "nome": "Bosco Misto",
@@ -2659,7 +2830,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.3151145&mlon=15.125843#map=16/40.3151145/15.125843",
     "id": "panorami-bosco-misto-468",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Rutino"
   },
   {
     "nome": "Punta San Lazzaro",
@@ -2669,8 +2841,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6230464&mlon=14.5678799#map=16/40.6230464/14.5678799",
     "id": "panorami-punta-san-lazzaro-470",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Furore"
   },
   {
     "nome": "Terrazza dell'Infinito",
@@ -2680,8 +2853,9 @@
     "source": "osm",
     "link": "https://it.wikipedia.org/wiki/Villa_Cimbrone",
     "id": "panorami-terrazza-dellinfinito-473",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Amalfi"
   },
   {
     "nome": "La Sentinella",
@@ -2691,8 +2865,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.0851378&mlon=15.3536184#map=16/40.0851378/15.3536184",
     "id": "panorami-la-sentinella-475",
-    "zona": "cilento",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "Montano Antilia"
   },
   {
     "nome": "Pizzola di Montenero",
@@ -2702,8 +2877,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.7168384&mlon=15.1592443#map=16/40.7168384/15.1592443",
     "id": "panorami-pizzola-di-montenero-479",
-    "zona": "cilento",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "Colliano"
   },
   {
     "nome": "Timpone dell'Accellica",
@@ -2713,8 +2889,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.7604496&mlon=15.0062883#map=16/40.7604496/15.0062883",
     "id": "panorami-timpone-dellaccellica-480",
-    "zona": "costiera",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "Acerno"
   },
   {
     "nome": "Piazzetta Panoramica",
@@ -2725,7 +2902,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.3993302&mlon=15.1084148#map=16/40.3993302/15.1084148",
     "id": "panorami-piazzetta-panoramica-485",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Capaccio Paestum"
   },
   {
     "nome": "Panorama a 360°",
@@ -2736,7 +2914,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.7158372&mlon=14.6109112#map=16/40.7158372/14.6109112",
     "id": "panorami-panorama-a-360-486",
     "zona": "salerno",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Sant'Egidio del Monte Albino"
   },
   {
     "nome": "Vista sulla Valle del Mingardo",
@@ -2746,8 +2925,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.2448275&mlon=15.44258#map=16/40.2448275/15.44258",
     "id": "panorami-vista-sulla-valle-del-mingardo-490",
-    "zona": "cilento",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "Rofrano"
   },
   {
     "nome": "Punta Pistiello",
@@ -2757,8 +2937,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6164268&mlon=14.5750663#map=16/40.6164268/14.5750663",
     "id": "panorami-punta-pistiello-491",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Furore"
   },
   {
     "nome": "Punta Vieca",
@@ -2768,8 +2949,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6146432&mlon=14.5731995#map=16/40.6146432/14.5731995",
     "id": "panorami-punta-vieca-492",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Furore"
   },
   {
     "nome": "vista al M. Gelbison - Bulgheria",
@@ -2780,7 +2962,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.1062791&mlon=15.2748209#map=16/40.1062791/15.2748209",
     "id": "panorami-vista-al-m-gelbison-bulgheria-493",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "San Nicola Arcella"
   },
   {
     "nome": "vista Alburni, Cervati, Centaurino",
@@ -2790,8 +2973,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.2492138&mlon=15.4431349#map=16/40.2492138/15.4431349",
     "id": "panorami-vista-alburni-cervati-centaurino-494",
-    "zona": "cilento",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "Rofrano"
   },
   {
     "nome": "Ruderi Basilica Sant'Eustachio",
@@ -2801,8 +2985,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6443125&mlon=14.6030495#map=16/40.6443125/14.6030495",
     "id": "panorami-ruderi-basilica-santeustachio-496",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Amalfi"
   },
   {
     "nome": "Mirador del Valle del Selle",
@@ -2813,7 +2998,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.4791899&mlon=15.1090643#map=16/40.4791899/15.1090643",
     "id": "panorami-mirador-del-valle-del-selle-497",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Capaccio Paestum"
   },
   {
     "nome": "Cascata del Solofrone",
@@ -2824,7 +3010,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.4085571&mlon=15.1009801#map=16/40.4085571/15.1009801",
     "id": "panorami-cascata-del-solofrone-498",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Capaccio Paestum"
   },
   {
     "nome": "Veduta sul Vesuvio",
@@ -2835,7 +3022,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.7893693&mlon=14.6589869#map=16/40.7893693/14.6589869",
     "id": "panorami-veduta-sul-vesuvio-510",
     "zona": "salerno",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Siano"
   },
   {
     "nome": "Pietra impuntellata",
@@ -2845,8 +3033,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.1987076&mlon=15.3436974#map=16/40.1987076/15.3436974",
     "id": "panorami-pietra-impuntellata-513",
-    "zona": "cilento",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "Roscigno"
   },
   {
     "nome": "Pizzo Castellone",
@@ -2856,8 +3045,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.65187&mlon=14.5000349#map=16/40.65187/14.5000349",
     "id": "panorami-pizzo-castellone-519",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Positano"
   },
   {
     "nome": "Piazzetta dell’Amore",
@@ -2868,7 +3058,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.3522779&mlon=14.9863258#map=16/40.3522779/14.9863258",
     "id": "panorami-piazzetta-dellamore-524",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Capaccio Paestum"
   },
   {
     "nome": "Pietra del diavolo (punto esposto)",
@@ -2878,8 +3069,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.5570625&mlon=15.3120721#map=16/40.5570625/15.3120721",
     "id": "panorami-pietra-del-diavolo-punto-esposto-527",
-    "zona": "cilento",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "Buccino"
   },
   {
     "nome": "sella dei Tre Calli",
@@ -2889,8 +3081,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6323898&mlon=14.5233118#map=16/40.6323898/14.5233118",
     "id": "panorami-sella-dei-tre-calli-528",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Praiano"
   },
   {
     "nome": "Punta Paipo",
@@ -2900,8 +3093,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6243545&mlon=14.5214941#map=16/40.6243545/14.5214941",
     "id": "panorami-punta-paipo-532",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Praiano"
   },
   {
     "nome": "Rovigliano amazing landscape",
@@ -2912,7 +3106,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.7287882&mlon=14.4693614#map=16/40.7287882/14.4693614",
     "id": "panorami-rovigliano-amazing-landscape-533",
     "zona": "salerno",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Torre Annunziata"
   },
   {
     "nome": "Punta Vento",
@@ -2922,8 +3117,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6784013&mlon=14.6114789#map=16/40.6784013/14.6114789",
     "id": "panorami-punta-vento-534",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Ravello"
   },
   {
     "nome": "Scanno del Cantatore",
@@ -2933,8 +3129,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.1969826&mlon=15.3798804#map=16/40.1969826/15.3798804",
     "id": "panorami-scanno-del-cantatore-535",
-    "zona": "cilento",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "Roscigno"
   },
   {
     "nome": "Piazza Belvedere",
@@ -2944,8 +3141,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6538764&mlon=14.6133031#map=16/40.6538764/14.6133031",
     "id": "panorami-piazza-belvedere-536",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Amalfi"
   },
   {
     "nome": "Capo delle Armi",
@@ -2956,7 +3154,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.4386957&mlon=15.3755477#map=16/40.4386957/15.3755477",
     "id": "panorami-capo-delle-armi-538",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Terrazza dell'Amore",
@@ -2966,8 +3165,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6330448&mlon=15.3759133#map=16/40.6330448/15.3759133",
     "id": "panorami-terrazza-dellamore-539",
-    "zona": "cilento",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "Buccino"
   },
   {
     "nome": "Madonna della Montagna",
@@ -2978,7 +3178,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.493249&mlon=15.3663965#map=16/40.493249/15.3663965",
     "id": "panorami-madonna-della-montagna-542",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "id": "osm-317680027",
@@ -2991,7 +3192,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/317680027",
     "zona": "salerno",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Pompei"
   },
   {
     "id": "osm-1436258471",
@@ -3003,8 +3205,9 @@
     "osm_id": 1436258471,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/1436258471",
-    "zona": "costiera",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "Campagna"
   },
   {
     "id": "osm-1436265123",
@@ -3016,8 +3219,9 @@
     "osm_id": 1436265123,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/1436265123",
-    "zona": "costiera",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "San Cipriano Picentino"
   },
   {
     "id": "osm-1601805585",
@@ -3030,7 +3234,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/1601805585",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Capaccio Paestum"
   },
   {
     "id": "osm-1762147523",
@@ -3043,7 +3248,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/1762147523",
     "zona": "salerno",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Sorrento"
   },
   {
     "id": "osm-1813679436",
@@ -3056,7 +3262,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/1813679436",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Rutino"
   },
   {
     "id": "osm-1813679823",
@@ -3069,7 +3276,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/1813679823",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Rutino"
   },
   {
     "id": "osm-1827346327",
@@ -3081,8 +3289,9 @@
     "osm_id": 1827346327,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/1827346327",
-    "zona": "cilento",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "Teora"
   },
   {
     "id": "osm-1827346357",
@@ -3094,8 +3303,9 @@
     "osm_id": 1827346357,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/1827346357",
-    "zona": "cilento",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "Teora"
   },
   {
     "id": "osm-1861294037",
@@ -3108,7 +3318,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/1861294037",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Castellabate"
   },
   {
     "id": "osm-1908450105",
@@ -3120,8 +3331,9 @@
     "osm_id": 1908450105,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/1908450105",
-    "zona": "cilento",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "Teora"
   },
   {
     "id": "osm-1982765733",
@@ -3133,8 +3345,9 @@
     "osm_id": 1982765733,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/1982765733",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Furore"
   },
   {
     "id": "osm-2091017399",
@@ -3146,8 +3359,9 @@
     "osm_id": 2091017399,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/2091017399",
-    "zona": "cilento",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "San Giovanni a Piro"
   },
   {
     "id": "osm-2247174273",
@@ -3159,8 +3373,9 @@
     "osm_id": 2247174273,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/2247174273",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Amalfi"
   },
   {
     "id": "osm-2249873262",
@@ -3172,8 +3387,9 @@
     "osm_id": 2249873262,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/2249873262",
-    "zona": "cilento",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "Laviano"
   },
   {
     "id": "osm-2268656639",
@@ -3185,8 +3401,9 @@
     "osm_id": 2268656639,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/2268656639",
-    "zona": "cilento",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "Caposele"
   },
   {
     "id": "osm-2268712477",
@@ -3198,8 +3415,9 @@
     "osm_id": 2268712477,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/2268712477",
-    "zona": "cilento",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "Laviano"
   },
   {
     "id": "osm-2361769180",
@@ -3212,7 +3430,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/2361769180",
     "zona": "salerno",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Sorrento"
   },
   {
     "id": "osm-2375662550",
@@ -3224,8 +3443,9 @@
     "osm_id": 2375662550,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/2375662550",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Amalfi"
   },
   {
     "id": "osm-2452244651",
@@ -3238,7 +3458,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/2452244651",
     "zona": "salerno",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Vico Equense"
   },
   {
     "id": "osm-2609086089",
@@ -3250,8 +3471,9 @@
     "osm_id": 2609086089,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/2609086089",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Amalfi"
   },
   {
     "id": "osm-2772195029",
@@ -3264,7 +3486,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/2772195029",
     "zona": "salerno",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Bracigliano"
   },
   {
     "id": "osm-3358597325",
@@ -3277,7 +3500,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/3358597325",
     "zona": "salerno",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Sorrento"
   },
   {
     "id": "osm-3388099756",
@@ -3289,8 +3513,9 @@
     "osm_id": 3388099756,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/3388099756",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Positano"
   },
   {
     "id": "osm-3726125820",
@@ -3302,8 +3527,9 @@
     "osm_id": 3726125820,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/3726125820",
-    "zona": "cilento",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "Teora"
   },
   {
     "id": "osm-4097256816",
@@ -3315,8 +3541,9 @@
     "osm_id": 4097256816,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/4097256816",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Amalfi"
   },
   {
     "id": "osm-4100111998",
@@ -3329,7 +3556,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/4100111998",
     "zona": "salerno",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Massa Lubrense"
   },
   {
     "id": "osm-4345993072",
@@ -3341,8 +3569,9 @@
     "osm_id": 4345993072,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/4345993072",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Amalfi"
   },
   {
     "id": "osm-4510427293",
@@ -3355,7 +3584,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/4510427293",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "San Pietro al Tanagro"
   },
   {
     "id": "osm-5577114531",
@@ -3367,8 +3597,9 @@
     "osm_id": 5577114531,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/5577114531",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Amalfi"
   },
   {
     "id": "osm-5598256225",
@@ -3381,7 +3612,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/5598256225",
     "zona": "salerno",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Massa Lubrense"
   },
   {
     "id": "osm-5992392218",
@@ -3394,7 +3626,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/5992392218",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "San Nicola Arcella"
   },
   {
     "id": "osm-5992392308",
@@ -3407,7 +3640,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/5992392308",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "San Nicola Arcella"
   },
   {
     "id": "osm-6015528200",
@@ -3419,8 +3653,9 @@
     "osm_id": 6015528200,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/6015528200",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Ravello"
   },
   {
     "id": "osm-6015542876",
@@ -3432,8 +3667,9 @@
     "osm_id": 6015542876,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/6015542876",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Ravello"
   },
   {
     "id": "osm-6089918753",
@@ -3446,7 +3682,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/6089918753",
     "zona": "salerno",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Sorrento"
   },
   {
     "id": "osm-6133237650",
@@ -3459,7 +3696,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/6133237650",
     "zona": "salerno",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Sorrento"
   },
   {
     "id": "osm-6143839913",
@@ -3472,7 +3710,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/6143839913",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "id": "osm-6816996961",
@@ -3485,7 +3724,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/6816996961",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Gioi"
   },
   {
     "id": "osm-8174045980",
@@ -3498,7 +3738,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/8174045980",
     "zona": "salerno",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "San Cipriano Picentino"
   },
   {
     "id": "osm-8176020601",
@@ -3510,8 +3751,9 @@
     "osm_id": 8176020601,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/8176020601",
-    "zona": "costiera",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "San Cipriano Picentino"
   },
   {
     "id": "osm-8934549621",
@@ -3524,7 +3766,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/8934549621",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Roccadaspide"
   },
   {
     "id": "osm-8998613862",
@@ -3537,7 +3780,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/8998613862",
     "zona": "salerno",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Vico Equense"
   },
   {
     "id": "osm-9028088018",
@@ -3549,8 +3793,9 @@
     "osm_id": 9028088018,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/9028088018",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Amalfi"
   },
   {
     "id": "osm-9167731785",
@@ -3563,7 +3808,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/9167731785",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Agropoli"
   },
   {
     "id": "osm-9425604011",
@@ -3576,7 +3822,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/9425604011",
     "zona": "salerno",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Vico Equense"
   },
   {
     "id": "osm-9597020896",
@@ -3589,7 +3836,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/9597020896",
     "zona": "salerno",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Giffoni Valle Piana"
   },
   {
     "id": "osm-9767039179",
@@ -3601,8 +3849,9 @@
     "osm_id": 9767039179,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/9767039179",
-    "zona": "cilento",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "San Giovanni a Piro"
   },
   {
     "id": "osm-10173675854",
@@ -3615,7 +3864,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/10173675854",
     "zona": "cilento",
-    "tipo": "panorama"
+    "tipo": "panorama",
+    "citta": "Piaggine"
   },
   {
     "id": "osm-12085666021",
@@ -3627,8 +3877,9 @@
     "osm_id": 12085666021,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/12085666021",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Praiano"
   },
   {
     "id": "osm-12105253647",
@@ -3640,8 +3891,9 @@
     "osm_id": 12105253647,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/12105253647",
-    "zona": "salerno",
-    "tipo": "panorama"
+    "zona": "costiera",
+    "tipo": "panorama",
+    "citta": "Positano"
   },
   {
     "id": "osm-13005727222",
@@ -3653,7 +3905,8 @@
     "osm_id": 13005727222,
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/13005727222",
-    "zona": "cilento",
-    "tipo": "panorama"
+    "zona": "salerno",
+    "tipo": "panorama",
+    "citta": "Campagna"
   }
 ]

@@ -13,7 +13,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "archeologico",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "Omignano"
   },
   {
     "nome": "Parco Naturale delle Ferriere",
@@ -29,7 +30,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "archeologico",
-    "zona": "salerno"
+    "zona": "costiera",
+    "citta": "Amalfi"
   },
   {
     "nome": "Riserva Naturale Costiera Amalfitana",
@@ -45,7 +47,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "altro",
-    "zona": "salerno"
+    "zona": "costiera",
+    "citta": "Amalfi"
   },
   {
     "nome": "Area Marina Protetta Costa degli Infreschi e della Masseta",
@@ -61,7 +64,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "spiaggia",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "San Giovanni a Piro"
   },
   {
     "nome": "Tenuta Castelluccio Gole del Cervati",
@@ -77,7 +81,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "altro",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Piaggine"
   },
   {
     "nome": "Area Marina Protetta Punta Campanella",
@@ -93,7 +98,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "altro",
-    "zona": "salerno"
+    "zona": "salerno",
+    "citta": "Sorrento"
   },
   {
     "nome": "Area Marina Protetta Santa Maria di Castellabate",
@@ -109,7 +115,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "altro",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Castellabate"
   },
   {
     "id": "osm-93496743",
@@ -121,8 +128,9 @@
     "osm_id": 93496743,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/93496743",
-    "zona": "cilento",
-    "tipo": "altro"
+    "zona": "salerno",
+    "tipo": "altro",
+    "citta": "Colliano"
   },
   {
     "id": "osm-116820888",
@@ -134,8 +142,9 @@
     "osm_id": 116820888,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/116820888",
-    "zona": "cilento",
-    "tipo": "altro"
+    "zona": "salerno",
+    "tipo": "altro",
+    "citta": "Valva"
   },
   {
     "id": "osm-1330860923",
@@ -148,7 +157,8 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/1330860923",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "altro",
+    "citta": "Capaccio Paestum"
   },
   {
     "id": "osm-4100859",
@@ -161,7 +171,8 @@
     "osm_type": "relation",
     "link": "https://it.wikipedia.org/wiki/Parco_nazionale_del_Cilento,_Vallo_di_Diano_e_Alburni",
     "zona": "cilento",
-    "tipo": "archeologico"
+    "tipo": "archeologico",
+    "citta": "Gioi"
   },
   {
     "id": "osm-4671891",
@@ -174,6 +185,7 @@
     "osm_type": "relation",
     "link": "https://www.openstreetmap.org/relation/4671891",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "altro",
+    "citta": "Sant'Angelo a Fasanella"
   }
 ]

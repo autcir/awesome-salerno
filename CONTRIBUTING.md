@@ -22,6 +22,7 @@ Ogni POI deve seguire questo formato:
   "lat": 40.6892,
   "lng": 14.7681,
   "zona": "salerno | costiera | cilento",
+  "citta": "Nome del comune",
   "tipo": "chiesa | castello | museo | archeologico | grotta | fonte | sentiero | panorama | spiaggia | piazza | monumento | torre | ponte | porta | scala | altro",
   "source": "curated | osm | wikipedia",
   "link": "https://..."
@@ -38,6 +39,7 @@ Ogni POI deve seguire questo formato:
 | `lat` | float | Latitudine GPS (range: 39.85 - 40.85) |
 | `lng` | float | Longitudine GPS (range: 14.3 - 15.6) |
 | `zona` | string | Una tra: `salerno`, `costiera`, `cilento` |
+| `citta` | string | Nome del comune (es. "Salerno", "Amalfi", "Capaccio Paestum") |
 | `tipo` | string | Categoria del POI (vedi lista sopra) |
 | `source` | string | Origine dei dati: `curated`, `osm`, `wikipedia` |
 

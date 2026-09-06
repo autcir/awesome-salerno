@@ -31,26 +31,29 @@ def load_json(filename):
     return []
 
 def filter_items(items, params):
-    """Filter items by zona and tipo query params."""
+    """Filter items by zona, tipo, and citta query params."""
     zona = params.get("zona", [""])[0].lower()
     tipo = params.get("tipo", [""])[0].lower()
+    citta = params.get("citta", [""])[0].lower()
     
     result = items
     if zona:
         result = [i for i in result if zona in i.get("zona", "").lower()]
     if tipo:
         result = [i for i in result if tipo in i.get("tipo", "").lower() or tipo in i.get("subcategoria", "").lower()]
+    if citta:
+        result = [i for i in result if citta in i.get("citta", "").lower()]
     return result
 
 def search_data(query, data):
-    """Search across all data by name and description."""
+    """Search across all data by name, description, and city."""
     query_lower = query.lower()
     results = []
     for category, items in data.items():
         for item in items:
             if (query_lower in item.get("nome", "").lower() or
                 query_lower in item.get("descrizione", "").lower() or
-                query_lower in item.get("comune", "").lower()):
+                query_lower in item.get("citta", "").lower()):
                 results.append({**item, "categoria": category})
     return results
 

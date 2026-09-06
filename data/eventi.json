@@ -13,7 +13,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "altro",
-    "zona": "salerno"
+    "zona": "costiera",
+    "citta": "Vietri sul Mare"
   },
   {
     "nome": "Ravello Festival",
@@ -29,7 +30,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "altro",
-    "zona": "salerno"
+    "zona": "costiera",
+    "citta": "Amalfi"
   },
   {
     "nome": "Festa di Sant'Andrea",
@@ -45,7 +47,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "altro",
-    "zona": "salerno"
+    "zona": "costiera",
+    "citta": "Amalfi"
   },
   {
     "nome": "Paestum Festival",
@@ -61,7 +64,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "archeologico",
-    "zona": "cilento"
+    "zona": "cilento",
+    "citta": "Capaccio Paestum"
   },
   {
     "nome": "Sagra del Pesce di Cetara",
@@ -77,7 +81,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "altro",
-    "zona": "salerno"
+    "zona": "costiera",
+    "citta": "Cetara"
   },
   {
     "nome": "Festa della Ceramica",
@@ -93,7 +98,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "altro",
-    "zona": "salerno"
+    "zona": "costiera",
+    "citta": "Vietri sul Mare"
   },
   {
     "nome": "Cilento Golfo Film Festival",
@@ -109,7 +115,8 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "altro",
-    "zona": "cilento"
+    "zona": "salerno",
+    "citta": "San Giovanni a Piro"
   },
   {
     "nome": "Sagra del Limone della Costa d'Amalfi",
@@ -125,6 +132,7 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "spiaggia",
-    "zona": "salerno"
+    "zona": "costiera",
+    "citta": "Amalfi"
   }
 ]

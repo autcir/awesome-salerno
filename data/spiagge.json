@@ -8,7 +8,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.0272943&mlon=15.2921368#map=16/40.0272943/15.2921368",
     "id": "spiagge-buondormire-di-terra-0",
     "zona": "cilento",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "San Nicola Arcella"
   },
   {
     "nome": "Spiagga Licinella",
@@ -19,7 +20,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.4087605&mlon=14.9915039#map=16/40.4087605/14.9915039",
     "id": "spiagge-spiagga-licinella-17",
     "zona": "cilento",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Capaccio Paestum"
   },
   {
     "nome": "Fiordo di Furore",
@@ -29,8 +31,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6146322&mlon=14.5549546#map=16/40.6146322/14.5549546",
     "id": "spiagge-fiordo-di-furore-36",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Praiano"
   },
   {
     "nome": "Marina di Vico",
@@ -41,7 +44,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.6656098&mlon=14.4278088#map=16/40.6656098/14.4278088",
     "id": "spiagge-marina-di-vico-37",
     "zona": "salerno",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Vico Equense"
   },
   {
     "nome": "Agnone( Campania)",
@@ -52,7 +56,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.2170542&mlon=14.9931224#map=16/40.2170542/14.9931224",
     "id": "spiagge-agnone-campania-38",
     "zona": "cilento",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Montecorice"
   },
   {
     "nome": "Sunset Beach Club Palinuro",
@@ -63,7 +68,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.0541267&mlon=15.28257#map=16/40.0541267/15.28257",
     "id": "spiagge-sunset-beach-club-palinuro-42",
     "zona": "cilento",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "San Nicola Arcella"
   },
   {
     "nome": "Gavitella beach",
@@ -73,8 +79,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6139802&mlon=14.5205209#map=16/40.6139802/14.5205209",
     "id": "spiagge-gavitella-beach-66",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Praiano"
   },
   {
     "nome": "La Molpa",
@@ -85,7 +92,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.0298263&mlon=15.3002296#map=16/40.0298263/15.3002296",
     "id": "spiagge-la-molpa-71",
     "zona": "cilento",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "San Nicola Arcella"
   },
   {
     "nome": "Garden Beach",
@@ -96,7 +104,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.6891194&mlon=14.456306#map=16/40.6891194/14.456306",
     "id": "spiagge-garden-beach-73",
     "zona": "salerno",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Castellammare di Stabia"
   },
   {
     "nome": "Bagno Elena",
@@ -107,7 +116,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.6889448&mlon=14.4557921#map=16/40.6889448/14.4557921",
     "id": "spiagge-bagno-elena-74",
     "zona": "salerno",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Castellammare di Stabia"
   },
   {
     "nome": "Bagno Conte",
@@ -118,7 +128,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.6886908&mlon=14.4550838#map=16/40.6886908/14.4550838",
     "id": "spiagge-bagno-conte-75",
     "zona": "salerno",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Castellammare di Stabia"
   },
   {
     "nome": "Lido Moderno",
@@ -129,7 +140,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.6884041&mlon=14.4542905#map=16/40.6884041/14.4542905",
     "id": "spiagge-lido-moderno-76",
     "zona": "salerno",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Castellammare di Stabia"
   },
   {
     "nome": "La Palombara",
@@ -140,7 +152,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.6882136&mlon=14.4532768#map=16/40.6882136/14.4532768",
     "id": "spiagge-la-palombara-77",
     "zona": "salerno",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Castellammare di Stabia"
   },
   {
     "nome": "Spiagia della Sciabichedda",
@@ -150,8 +163,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.0234331&mlon=15.4496788#map=16/40.0234331/15.4496788",
     "id": "spiagge-spiagia-della-sciabichedda-78",
-    "zona": "cilento",
-    "tipo": "spiaggia"
+    "zona": "salerno",
+    "tipo": "spiaggia",
+    "citta": "San Giovanni a Piro"
   },
   {
     "nome": "Le 7 Scogliere di Rovigliano",
@@ -162,7 +176,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.7399606&mlon=14.4626617#map=16/40.7399606/14.4626617",
     "id": "spiagge-le-7-scogliere-di-rovigliano-80",
     "zona": "salerno",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Torre Annunziata"
   },
   {
     "nome": "Lido Nettuno",
@@ -173,7 +188,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.7544858&mlon=14.4400602#map=16/40.7544858/14.4400602",
     "id": "spiagge-lido-nettuno-81",
     "zona": "salerno",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Torre Annunziata"
   },
   {
     "nome": "Lido Rinascenza",
@@ -184,7 +200,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.7542626&mlon=14.4408422#map=16/40.7542626/14.4408422",
     "id": "spiagge-lido-rinascenza-82",
     "zona": "salerno",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Torre Annunziata"
   },
   {
     "nome": "Lido Eldorado",
@@ -195,7 +212,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.7543615&mlon=14.4404689#map=16/40.7543615/14.4404689",
     "id": "spiagge-lido-eldorado-83",
     "zona": "salerno",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Torre Annunziata"
   },
   {
     "nome": "Lido Risorgimento",
@@ -206,7 +224,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.7539007&mlon=14.4411724#map=16/40.7539007/14.4411724",
     "id": "spiagge-lido-risorgimento-84",
     "zona": "salerno",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Torre Annunziata"
   },
   {
     "nome": "Marina del Sole",
@@ -217,7 +236,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.7531951&mlon=14.4424282#map=16/40.7531951/14.4424282",
     "id": "spiagge-marina-del-sole-85",
     "zona": "salerno",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Torre Annunziata"
   },
   {
     "nome": "San Pietro",
@@ -227,8 +247,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6232573&mlon=14.5028934#map=16/40.6232573/14.5028934",
     "id": "spiagge-san-pietro-87",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Positano"
   },
   {
     "nome": "Lido Azzurro",
@@ -239,7 +260,8 @@
     "link": "http://www.illidoazzurro.it",
     "id": "spiagge-lido-azzurro-94",
     "zona": "salerno",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Torre Annunziata"
   },
   {
     "nome": "Spiaggie Gemelle",
@@ -249,8 +271,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.0291653&mlon=15.4566839#map=16/40.0291653/15.4566839",
     "id": "spiagge-spiaggie-gemelle-95",
-    "zona": "cilento",
-    "tipo": "spiaggia"
+    "zona": "salerno",
+    "tipo": "spiaggia",
+    "citta": "San Giovanni a Piro"
   },
   {
     "nome": "Spiagge Gemelle",
@@ -260,8 +283,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.0285595&mlon=15.4563626#map=16/40.0285595/15.4563626",
     "id": "spiagge-spiagge-gemelle-96",
-    "zona": "cilento",
-    "tipo": "spiaggia"
+    "zona": "salerno",
+    "tipo": "spiaggia",
+    "citta": "San Giovanni a Piro"
   },
   {
     "nome": "Lo Scaricatore",
@@ -271,8 +295,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6161233&mlon=14.4418297#map=16/40.6161233/14.4418297",
     "id": "spiagge-lo-scaricatore-100",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Positano"
   },
   {
     "nome": "Antico Bagno Nettuno",
@@ -283,7 +308,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.6395593&mlon=14.4018041#map=16/40.6395593/14.4018041",
     "id": "spiagge-antico-bagno-nettuno-101",
     "zona": "salerno",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Sorrento"
   },
   {
     "nome": "La spiaggetta",
@@ -294,7 +320,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.1755226&mlon=15.1217621#map=16/40.1755226/15.1217621",
     "id": "spiagge-la-spiaggetta-103",
     "zona": "cilento",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Casal Velino"
   },
   {
     "nome": "Spiaggia degli Iscolelli",
@@ -304,8 +331,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=39.9928265&mlon=15.4158515#map=16/39.9928265/15.4158515",
     "id": "spiagge-spiaggia-degli-iscolelli-105",
-    "zona": "cilento",
-    "tipo": "spiaggia"
+    "zona": "salerno",
+    "tipo": "spiaggia",
+    "citta": "San Giovanni a Piro"
   },
   {
     "nome": "Lido Scaramella beach",
@@ -316,7 +344,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.6651385&mlon=14.7893159#map=16/40.6651385/14.7893159",
     "id": "spiagge-lido-scaramella-beach-106",
     "zona": "salerno",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Salerno"
   },
   {
     "nome": "Spiagga Licina",
@@ -327,7 +356,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.3539885&mlon=14.9914906#map=16/40.3539885/14.9914906",
     "id": "spiagge-spiagga-licina-108",
     "zona": "cilento",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Capaccio Paestum"
   },
   {
     "nome": "Torretta 23",
@@ -338,7 +368,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.3097744&mlon=14.9457829#map=16/40.3097744/14.9457829",
     "id": "spiagge-torretta-23-109",
     "zona": "cilento",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Castellabate"
   },
   {
     "nome": "Lido Tirreno",
@@ -349,7 +380,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.3100561&mlon=14.9457336#map=16/40.3100561/14.9457336",
     "id": "spiagge-lido-tirreno-110",
     "zona": "cilento",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Castellabate"
   },
   {
     "nome": "Club Michele",
@@ -359,8 +391,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.0154139&mlon=15.3325816#map=16/40.0154139/15.3325816",
     "id": "spiagge-club-michele-111",
-    "zona": "cilento",
-    "tipo": "spiaggia"
+    "zona": "salerno",
+    "tipo": "spiaggia",
+    "citta": "San Giovanni a Piro"
   },
   {
     "nome": "Bikini beach",
@@ -370,8 +403,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.0141644&mlon=15.333556#map=16/40.0141644/15.333556",
     "id": "spiagge-bikini-beach-113",
-    "zona": "cilento",
-    "tipo": "spiaggia"
+    "zona": "salerno",
+    "tipo": "spiaggia",
+    "citta": "San Giovanni a Piro"
   },
   {
     "nome": "Playa porlamar",
@@ -381,8 +415,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.0148603&mlon=15.3330115#map=16/40.0148603/15.3330115",
     "id": "spiagge-playa-porlamar-114",
-    "zona": "cilento",
-    "tipo": "spiaggia"
+    "zona": "salerno",
+    "tipo": "spiaggia",
+    "citta": "San Giovanni a Piro"
   },
   {
     "nome": "La Pagliarella",
@@ -393,7 +428,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.3118145&mlon=14.9453859#map=16/40.3118145/14.9453859",
     "id": "spiagge-la-pagliarella-115",
     "zona": "cilento",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Castellabate"
   },
   {
     "nome": "Lido La Conchiglia",
@@ -404,7 +440,8 @@
     "link": "https://www.openstreetmap.org/?mlat=40.6716667&mlon=14.7761751#map=16/40.6716667/14.7761751",
     "id": "spiagge-lido-la-conchiglia-117",
     "zona": "salerno",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Salerno"
   },
   {
     "nome": "Lido Night & Day",
@@ -414,8 +451,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.5636456&mlon=14.8962524#map=16/40.5636456/14.8962524",
     "id": "spiagge-lido-night-day-124",
-    "zona": "costiera",
-    "tipo": "spiaggia"
+    "zona": "salerno",
+    "tipo": "spiaggia",
+    "citta": "Bellizzi"
   },
   {
     "nome": "Lido Mojito Beach",
@@ -425,8 +463,9 @@
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.5639385&mlon=14.8960283#map=16/40.5639385/14.8960283",
     "id": "spiagge-lido-mojito-beach-125",
-    "zona": "costiera",
-    "tipo": "spiaggia"
+    "zona": "salerno",
+    "tipo": "spiaggia",
+    "citta": "Bellizzi"
   },
   {
     "id": "osm-10015833082",
@@ -439,7 +478,8 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/10015833082",
     "zona": "salerno",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Bellizzi"
   },
   {
     "id": "osm-146704448",
@@ -452,7 +492,8 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/146704448",
     "zona": "cilento",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Capaccio Paestum"
   },
   {
     "id": "osm-146704452",
@@ -464,8 +505,9 @@
     "osm_id": 146704452,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/146704452",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "cilento",
+    "tipo": "spiaggia",
+    "citta": "Capaccio Paestum"
   },
   {
     "id": "osm-146986661",
@@ -478,7 +520,8 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/146986661",
     "zona": "cilento",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Capaccio Paestum"
   },
   {
     "id": "osm-146986814",
@@ -491,7 +534,8 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/146986814",
     "zona": "cilento",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Agropoli"
   },
   {
     "id": "osm-146987650",
@@ -504,7 +548,8 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/146987650",
     "zona": "cilento",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Capaccio Paestum"
   },
   {
     "id": "osm-147038883",
@@ -516,8 +561,9 @@
     "osm_id": 147038883,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/147038883",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Cetara"
   },
   {
     "id": "osm-147038884",
@@ -529,8 +575,9 @@
     "osm_id": 147038884,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/147038884",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Cetara"
   },
   {
     "id": "osm-147038889",
@@ -542,8 +589,9 @@
     "osm_id": 147038889,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/147038889",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Vietri sul Mare"
   },
   {
     "id": "osm-147038890",
@@ -555,8 +603,9 @@
     "osm_id": 147038890,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/147038890",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Cetara"
   },
   {
     "id": "osm-147038891",
@@ -568,8 +617,9 @@
     "osm_id": 147038891,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/147038891",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Cetara"
   },
   {
     "id": "osm-147039294",
@@ -581,8 +631,9 @@
     "osm_id": 147039294,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/147039294",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Minori"
   },
   {
     "id": "osm-147039296",
@@ -594,8 +645,9 @@
     "osm_id": 147039296,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/147039296",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Conca dei Marini"
   },
   {
     "id": "osm-147039298",
@@ -607,8 +659,9 @@
     "osm_id": 147039298,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/147039298",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Amalfi"
   },
   {
     "id": "osm-147039301",
@@ -620,8 +673,9 @@
     "osm_id": 147039301,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/147039301",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Maiori"
   },
   {
     "id": "osm-147039314",
@@ -633,8 +687,9 @@
     "osm_id": 147039314,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/147039314",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Furore"
   },
   {
     "id": "osm-162834577",
@@ -646,8 +701,9 @@
     "osm_id": 162834577,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/162834577",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Cetara"
   },
   {
     "id": "osm-162834579",
@@ -659,8 +715,9 @@
     "osm_id": 162834579,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/162834579",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Cetara"
   },
   {
     "id": "osm-162834653",
@@ -672,8 +729,9 @@
     "osm_id": 162834653,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/162834653",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Cetara"
   },
   {
     "id": "osm-162834654",
@@ -685,8 +743,9 @@
     "osm_id": 162834654,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/162834654",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Cetara"
   },
   {
     "id": "osm-191229148",
@@ -698,8 +757,9 @@
     "osm_id": 191229148,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/191229148",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Cetara"
   },
   {
     "id": "osm-191229151",
@@ -711,8 +771,9 @@
     "osm_id": 191229151,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/191229151",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Cetara"
   },
   {
     "id": "osm-191230547",
@@ -724,8 +785,9 @@
     "osm_id": 191230547,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/191230547",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Cetara"
   },
   {
     "id": "osm-191230551",
@@ -737,8 +799,9 @@
     "osm_id": 191230551,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/191230551",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Cetara"
   },
   {
     "id": "osm-191233419",
@@ -750,8 +813,9 @@
     "osm_id": 191233419,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/191233419",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Cetara"
   },
   {
     "id": "osm-191233421",
@@ -763,8 +827,9 @@
     "osm_id": 191233421,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/191233421",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Cetara"
   },
   {
     "id": "osm-191233425",
@@ -776,8 +841,9 @@
     "osm_id": 191233425,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/191233425",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Cetara"
   },
   {
     "id": "osm-191233427",
@@ -789,8 +855,9 @@
     "osm_id": 191233427,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/191233427",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Cetara"
   },
   {
     "id": "osm-191233431",
@@ -802,8 +869,9 @@
     "osm_id": 191233431,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/191233431",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Cetara"
   },
   {
     "id": "osm-191233432",
@@ -815,8 +883,9 @@
     "osm_id": 191233432,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/191233432",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Cetara"
   },
   {
     "id": "osm-191234130",
@@ -828,8 +897,9 @@
     "osm_id": 191234130,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/191234130",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Cetara"
   },
   {
     "id": "osm-191235879",
@@ -841,8 +911,9 @@
     "osm_id": 191235879,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/191235879",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Cetara"
   },
   {
     "id": "osm-398174788",
@@ -854,8 +925,9 @@
     "osm_id": 398174788,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/398174788",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Vietri sul Mare"
   },
   {
     "id": "osm-815827728",
@@ -868,7 +940,8 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/815827728",
     "zona": "cilento",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Agropoli"
   },
   {
     "id": "osm-1280967130",
@@ -881,7 +954,8 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/1280967130",
     "zona": "cilento",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Capaccio Paestum"
   },
   {
     "id": "osm-1280967131",
@@ -894,7 +968,8 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/1280967131",
     "zona": "cilento",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Capaccio Paestum"
   },
   {
     "id": "osm-1280967132",
@@ -907,7 +982,8 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/1280967132",
     "zona": "cilento",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Capaccio Paestum"
   },
   {
     "id": "osm-1280967133",
@@ -920,7 +996,8 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/1280967133",
     "zona": "cilento",
-    "tipo": "spiaggia"
+    "tipo": "spiaggia",
+    "citta": "Capaccio Paestum"
   },
   {
     "id": "osm-1366488651",
@@ -932,7 +1009,8 @@
     "osm_id": 1366488651,
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/1366488651",
-    "zona": "salerno",
-    "tipo": "spiaggia"
+    "zona": "costiera",
+    "tipo": "spiaggia",
+    "citta": "Positano"
   }
 ]

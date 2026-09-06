@@ -11,6 +11,7 @@
 
 ## Contents
 
+- [Stats](#stats)
 - [Sentieri](#sentieri)
 - [Monumenti](#monumenti)
 - [Spiagge](#spiagge)
@@ -19,6 +20,16 @@
 - [Eventi](#eventi)
 - [Map](#map)
 - [API](#api)
+
+## Stats
+
+| Metric | Value |
+|--------|-------|
+| Total POI | 5470 |
+| Cities mapped | 95 |
+| Salerno zone | 3329 |
+| Costiera zone | 840 |
+| Cilento zone | 1301 |
 
 ## Sentieri
 
@@ -103,7 +114,7 @@
 
 ## Map
 
-Interactive map with all 5470 POI: [Open Map](https://autcir.github.io/awesome-salerno/)
+Interactive map with all 5470 POI across 95 cities: [Open Map](https://autcir.github.io/awesome-salerno/)
 
 ## API
 
@@ -123,6 +134,8 @@ python3 api/server.py
 | `GET /api/eventi` | All events (8) |
 | `GET /api/all` | All data (5470) |
 | `GET /api/search?q=<query>` | Full-text search |
+| `GET /api/all?citta=Salerno` | Filter by city |
+| `GET /api/all?citta=Amalfi&tipo=chiesa` | Combine filters |
 
 **Filter by zone:**
 
