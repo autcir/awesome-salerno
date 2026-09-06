@@ -1,0 +1,58 @@
+{
+  "name": "Awesome Salerno",
+  "description": "Voice assistant skill for the Awesome Salerno tourism guide: find POIs, upcoming events and POI details across Salerno, Amalfi Coast and Cilento.",
+  "language": "it",
+  "intents": [
+    {
+      "name": "FindPOI",
+      "description": "Find points of interest by type, city or name",
+      "slots": ["tipo", "citta", "nome"],
+      "data_source": "data/sentieri.json, data/monumenti.json, data/spiagge.json, data/panorami.json, data/parchi.json"
+    },
+    {
+      "name": "NextEvent",
+      "description": "Find upcoming events by zone, city or type",
+      "slots": ["zona", "citta", "tipo"],
+      "data_source": "data/eventi.json"
+    },
+    {
+      "name": "POIDetails",
+      "description": "Get details (description, city, coordinates, link) about a specific POI by name",
+      "slots": ["nome"],
+      "data_source": "data/all.json"
+    }
+  ],
+  "sample_utterances": {
+    "FindPOI": [
+      "Trova le chiese a Salerno",
+      "Mostra i castelli nella Costiera",
+      "Ci sono spiagge nel Cilento?",
+      "Quali sentieri partono da Amalfi?",
+      "Mostrami i panorami vicino a Positano"
+    ],
+    "NextEvent": [
+      "Ci sono feste questo weekend?",
+      "Quali eventi ci sono ad Agropoli?",
+      "La prossima sagra dove è?",
+      "Cosa c'è stasera a Salerno?",
+      "Eventi in Costiera questo mese?"
+    ],
+    "POIDetails": [
+      "Dimmi del Duomo di Amalfi",
+      "Come arrivo al Tempio di Nettuno?",
+      "Info sul Sentiero degli Dei",
+      "Raccontami del Castello di Arechi",
+      "Dov'è la Spiaggia di Positano?"
+    ]
+  },
+  "data_summary": {
+    "total_poi": 5547,
+    "cities": 103,
+    "trails": 1676,
+    "monuments": 3479,
+    "beaches": 78,
+    "events": 49,
+    "viewpoints": 253,
+    "parks": 12
+  }
+}

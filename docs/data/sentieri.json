@@ -4852,7 +4852,7 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/164452202",
     "zona": "salerno",
-    "tipo": "altro",
+    "tipo": "sentiero",
     "citta": "Acerno"
   },
   {
@@ -5474,7 +5474,7 @@
   {
     "id": "osm-207545896",
     "nome": "517",
-    "descrizione": "POI 517 a Roscigno",
+    "descrizione": "Sentiero CAI 517 nel comune di Roscigno (salerno).",
     "lat": 40.2152869,
     "lng": 15.3674503,
     "source": "osm",
@@ -6196,7 +6196,7 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/229757810",
     "zona": "salerno",
-    "tipo": "altro",
+    "tipo": "sentiero",
     "citta": "Acerno"
   },
   {
@@ -6421,7 +6421,7 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/238130017",
     "zona": "salerno",
-    "tipo": "altro",
+    "tipo": "sentiero",
     "citta": "Acerno"
   },
   {
@@ -9727,7 +9727,7 @@
   {
     "id": "osm-531960293",
     "nome": "113",
-    "descrizione": "POI 113 a Campagna",
+    "descrizione": "Sentiero CAI 113 nel comune di Campagna (salerno).",
     "lat": 40.7802255,
     "lng": 15.1299528,
     "source": "osm",
@@ -9833,7 +9833,7 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/536839691",
     "zona": "cilento",
-    "tipo": "altro",
+    "tipo": "sentiero",
     "citta": "Teggiano"
   },
   {
@@ -10358,7 +10358,7 @@
   {
     "id": "osm-643968177",
     "nome": "512",
-    "descrizione": "POI 512 a Gioi",
+    "descrizione": "Sentiero CAI 512 nel comune di Gioi (cilento).",
     "lat": 40.2747766,
     "lng": 15.3621547,
     "source": "osm",
@@ -11653,7 +11653,7 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/707170655",
     "zona": "salerno",
-    "tipo": "altro",
+    "tipo": "sentiero",
     "citta": "Buccino"
   },
   {
@@ -12219,7 +12219,7 @@
   {
     "id": "osm-776990636",
     "nome": "511",
-    "descrizione": "POI 511 a Rofrano",
+    "descrizione": "Sentiero CAI 511 nel comune di Rofrano (salerno).",
     "lat": 40.264061,
     "lng": 15.4670164,
     "source": "osm",
@@ -12359,7 +12359,7 @@
   {
     "id": "osm-806399739",
     "nome": "510",
-    "descrizione": "POI 510 a Rofrano",
+    "descrizione": "Sentiero CAI 510 nel comune di Rofrano (salerno).",
     "lat": 40.2702057,
     "lng": 15.4749672,
     "source": "osm",
@@ -13298,7 +13298,7 @@
   {
     "id": "osm-942639491",
     "nome": "514",
-    "descrizione": "POI 514 a Piaggine",
+    "descrizione": "Sentiero CAI 514 nel comune di Piaggine (cilento).",
     "lat": 40.3266149,
     "lng": 15.4406288,
     "source": "osm",
@@ -14994,7 +14994,7 @@
   {
     "id": "osm-1102651321",
     "nome": "103B",
-    "descrizione": "POI 103B a Acerno",
+    "descrizione": "Sentiero CAI 103B nel comune di Acerno (salerno).",
     "lat": 40.7717273,
     "lng": 15.0071347,
     "source": "osm",
@@ -17886,7 +17886,7 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/1424566052",
     "zona": "costiera",
-    "tipo": "altro",
+    "tipo": "scala",
     "citta": "Positano"
   },
   {
@@ -22240,7 +22240,7 @@
     "osm_type": "relation",
     "link": "https://www.openstreetmap.org/relation/4756505",
     "zona": "salerno",
-    "tipo": "altro",
+    "tipo": "sentiero",
     "citta": "Massa Lubrense"
   },
   {
@@ -22254,7 +22254,7 @@
     "osm_type": "relation",
     "link": "https://www.openstreetmap.org/relation/4756506",
     "zona": "salerno",
-    "tipo": "altro",
+    "tipo": "sentiero",
     "citta": "Massa Lubrense"
   },
   {
@@ -22268,7 +22268,7 @@
     "osm_type": "relation",
     "link": "https://www.openstreetmap.org/relation/4756508",
     "zona": "salerno",
-    "tipo": "altro",
+    "tipo": "sentiero",
     "citta": "Massa Lubrense"
   },
   {
@@ -22282,7 +22282,7 @@
     "osm_type": "relation",
     "link": "https://www.openstreetmap.org/relation/4756529",
     "zona": "salerno",
-    "tipo": "altro",
+    "tipo": "sentiero",
     "citta": "Massa Lubrense"
   },
   {
@@ -22520,7 +22520,7 @@
     "osm_type": "relation",
     "link": "https://www.openstreetmap.org/relation/9192686",
     "zona": "salerno",
-    "tipo": "altro",
+    "tipo": "sentiero",
     "citta": "Campagna"
   },
   {

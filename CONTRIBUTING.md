@@ -56,6 +56,17 @@ Ogni POI deve seguire questo formato:
 | `dislivello` | int | Dislivello in metri (per sentieri) |
 | `lunghezza_km` | float | Lunghezza in km (per sentieri) |
 
+### Campi per eventi
+
+| Campo | Tipo | Descrizione |
+|-------|------|-------------|
+| `data_inizio` | string | Data inizio evento (formato ISO: `AAAA-MM-GG`) |
+| `data_fine` | string | Data fine evento (formato ISO: `AAAA-MM-GG`) |
+| `ricorrenza` | string | `annuale`, `biennale`, `una_tantum` |
+| `edizione` | int | Numero edizione (se applicabile) |
+| `anno_inizio` | int | Anno prima edizione |
+| `luoghi` | array | Lista dei luoghi principali dell'evento |
+
 ## File JSON
 
 I dati sono organizzati per categoria nella cartella `data/`:
@@ -95,11 +106,15 @@ I dati sono organizzati per categoria nella cartella `data/`:
 | `panorama` | Punti panoramici, belvedere | Terrazza dell'Infinito |
 | `spiaggia` | Spiagge, lidi, cala | Spiaggia Grande |
 | `piazza` | Piazze, larghi, chiostri | Piazza Flavio Gioia |
-| `monumento` | Monumenti, statue, colonne | Statua di规范 |
+| `monumento` | Monumenti, statue, installazioni luminose | Luci d'Artista |
 | `torre` | Torri, faraglioni | Torre Normanna |
 | `ponte` | Ponti, viadotti | Ponte dei Patizzi |
 | `porta` | Porte, mura, cittadelle | Porta della Persona |
 | `scala` | Scale, scalinate, gradinate | Scalinata di Via Cannuta |
+| `luci-artista` | Installazioni Luci d'Artista | Giardino Preistorico |
+| `festa-patronale` | Feste patronali | Festa di San Matteo |
+| `festival` | Festival culturali | Ravello Festival |
+| `sagra` | Sagre gastronomiche | Sagra del Pesce |
 | `altro` | Altro | Non categorizzato |
 
 ## Verifica automatica

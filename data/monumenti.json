@@ -203,7 +203,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "castello",
     "zona": "costiera",
     "citta": "Vietri sul Mare"
   },
@@ -390,7 +390,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "castello",
     "zona": "costiera",
     "citta": "Positano"
   },
@@ -2260,7 +2260,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "salerno",
     "citta": "Contursi Terme"
   },
@@ -3656,7 +3656,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "costiera",
     "citta": "Ravello"
   },
@@ -4221,7 +4221,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "ponte",
     "zona": "salerno",
     "citta": "Contursi Terme"
   },
@@ -5158,7 +5158,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "salerno",
     "citta": "Giffoni Sei Casali"
   },
@@ -5311,7 +5311,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "cilento",
     "citta": "Lustra"
   },
@@ -5566,7 +5566,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "costiera",
     "citta": "Praiano"
   },
@@ -5944,7 +5944,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "salerno",
     "citta": "Sant'Egidio del Monte Albino"
   },
@@ -6767,7 +6767,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "salerno",
     "citta": "Nocera Inferiore"
   },
@@ -8128,7 +8128,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "costiera",
     "citta": "Tramonti"
   },
@@ -9850,7 +9850,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "salerno",
     "citta": "Vico Equense"
   },
@@ -9986,7 +9986,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "cilento",
     "citta": "Sant'Angelo a Fasanella"
   },
@@ -10071,7 +10071,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "salerno",
     "citta": "Montano Antilia"
   },
@@ -10377,7 +10377,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "cilento",
     "citta": "Capaccio Paestum"
   },
@@ -12421,7 +12421,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "salerno",
     "citta": "Nocera Inferiore"
   },
@@ -12472,7 +12472,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "salerno",
     "citta": "Giffoni Sei Casali"
   },
@@ -12627,7 +12627,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "salerno",
     "citta": "Giffoni Valle Piana"
   },
@@ -12644,7 +12644,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "cilento",
     "citta": "Casal Velino"
   },
@@ -12667,7 +12667,7 @@
   },
   {
     "nome": "Castello Lauritano",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello Lauritano a Furore. Edificio storico.",
     "lat": 40.6273985,
     "lng": 14.5760233,
     "source": "osm",
@@ -12684,7 +12684,7 @@
   },
   {
     "nome": "Castelluccio",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castelluccio a Sessa Cilento. Punto di interesse.",
     "lat": 40.2498812,
     "lng": 15.0510954,
     "source": "osm",
@@ -12701,7 +12701,7 @@
   },
   {
     "nome": "Castello Fienga",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello Fienga a Nocera Inferiore. Edificio storico.",
     "lat": 40.7505922,
     "lng": 14.6425037,
     "source": "osm",
@@ -12735,7 +12735,7 @@
   },
   {
     "nome": "Resti del Castello del duca Zottone di Benevento",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Resti del Castello del duca Zottone di Benevento a Piaggine. Edificio storico.",
     "lat": 40.3877514,
     "lng": 15.3680105,
     "source": "osm",
@@ -12752,7 +12752,7 @@
   },
   {
     "nome": "Il Castelluccio",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Il Castelluccio a Eboli. Punto di interesse.",
     "lat": 40.6112871,
     "lng": 15.0259441,
     "source": "osm",
@@ -12769,7 +12769,7 @@
   },
   {
     "nome": "Castello di Acerno",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello di Acerno a Acerno. Edificio storico.",
     "lat": 40.7207485,
     "lng": 15.0780513,
     "source": "osm",
@@ -12786,7 +12786,7 @@
   },
   {
     "nome": "san giorgio",
-    "descrizione": "Tipo: castle",
+    "descrizione": "san giorgio a Siano. Punto di interesse.",
     "lat": 40.784223,
     "lng": 14.6930899,
     "source": "osm",
@@ -12854,7 +12854,7 @@
   },
   {
     "nome": "Castello di Muro Lucano",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello di Muro Lucano a Teora. Edificio storico.",
     "lat": 40.7535812,
     "lng": 15.4871136,
     "source": "osm",
@@ -12871,7 +12871,7 @@
   },
   {
     "nome": "Castello Gerione",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello Gerione a Contursi Terme. Edificio storico.",
     "lat": 40.6687992,
     "lng": 15.1057084,
     "source": "osm",
@@ -12888,7 +12888,7 @@
   },
   {
     "nome": "Palazzo Pinto",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Palazzo Pinto a Vietri sul Mare. Edificio storico.",
     "lat": 40.6788714,
     "lng": 14.7598236,
     "source": "osm",
@@ -12899,13 +12899,13 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "castello",
     "zona": "costiera",
     "citta": "Vietri sul Mare"
   },
   {
     "nome": "Castello Guerritore",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello Guerritore a Colliano. Edificio storico.",
     "lat": 40.6912702,
     "lng": 15.2316176,
     "source": "osm",
@@ -12922,7 +12922,7 @@
   },
   {
     "nome": "Castello Vargas-Machucha",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello Vargas-Machucha a Perdifumo. Edificio storico.",
     "lat": 40.2815647,
     "lng": 15.0275746,
     "source": "osm",
@@ -12939,7 +12939,7 @@
   },
   {
     "nome": "Castello Colonna",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello Colonna a Eboli. Edificio storico.",
     "lat": 40.6209915,
     "lng": 15.0546718,
     "source": "osm",
@@ -12956,7 +12956,7 @@
   },
   {
     "nome": "Rocca di Castellammare della Bruca",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Rocca di Castellammare della Bruca a Centola. Edificio storico.",
     "lat": 40.1604548,
     "lng": 15.1543097,
     "source": "osm",
@@ -12973,7 +12973,7 @@
   },
   {
     "nome": "Castello di Laviano",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello di Laviano a Valva. Edificio storico.",
     "lat": 40.783517,
     "lng": 15.3044439,
     "source": "osm",
@@ -12990,7 +12990,7 @@
   },
   {
     "nome": "Castello Giusso",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello Giusso a Buccino. Edificio storico.",
     "lat": 40.5600412,
     "lng": 15.3081367,
     "source": "osm",
@@ -13007,7 +13007,7 @@
   },
   {
     "nome": "Forte La Carnale",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Forte La Carnale a Salerno. Edificio storico.",
     "lat": 40.6712328,
     "lng": 14.7801439,
     "source": "osm",
@@ -13025,7 +13025,7 @@
   },
   {
     "nome": "Castello di San Nicandro",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello di San Nicandro a Palomonte. Edificio storico.",
     "lat": 40.6034032,
     "lng": 15.2843975,
     "source": "osm",
@@ -13042,7 +13042,7 @@
   },
   {
     "nome": "Castello di Olevano",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello di Olevano a Montecorvino Rovella. Edificio storico.",
     "lat": 40.668704,
     "lng": 15.0277438,
     "source": "osm",
@@ -13059,7 +13059,7 @@
   },
   {
     "nome": "Rocca di Quaglietta",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Rocca di Quaglietta a Colliano. Edificio storico.",
     "lat": 40.7440155,
     "lng": 15.236724,
     "source": "osm",
@@ -13076,7 +13076,7 @@
   },
   {
     "nome": "Castello Medievale Mercato San Severino",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello Medievale Mercato San Severino a Bracigliano. Edificio storico.",
     "lat": 40.7910214,
     "lng": 14.7531393,
     "source": "osm",
@@ -13093,7 +13093,7 @@
   },
   {
     "nome": "Castello D'Ayala-Valva",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello D'Ayala-Valva a Valva. Edificio storico.",
     "lat": 40.7382369,
     "lng": 15.2711201,
     "source": "osm",
@@ -13127,7 +13127,7 @@
   },
   {
     "nome": "Torre Tusciano",
-    "descrizione": "Tipo: yes",
+    "descrizione": "Torre Tusciano a Bellizzi. Edificio storico.",
     "lat": 40.5788431,
     "lng": 14.8864189,
     "source": "osm",
@@ -13144,7 +13144,7 @@
   },
   {
     "nome": "Torre di Paestum",
-    "descrizione": "Tipo: yes",
+    "descrizione": "Torre di Paestum a Capaccio Paestum. Edificio storico.",
     "lat": 40.4150731,
     "lng": 14.9920635,
     "source": "osm",
@@ -13161,7 +13161,7 @@
   },
   {
     "nome": "Castello Doria",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello Doria a Sant'Egidio del Monte Albino. Edificio storico.",
     "lat": 40.7381857,
     "lng": 14.5718939,
     "source": "osm",
@@ -13178,7 +13178,7 @@
   },
   {
     "nome": "Torre Kernot",
-    "descrizione": "Tipo: yes",
+    "descrizione": "Torre Kernot a Capaccio Paestum. Edificio storico.",
     "lat": 40.4785269,
     "lng": 14.9494415,
     "source": "osm",
@@ -13195,7 +13195,7 @@
   },
   {
     "nome": "Palazzo Ducale",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Palazzo Ducale a Contursi Terme. Edificio storico.",
     "lat": 40.580072,
     "lng": 15.1829069,
     "source": "osm",
@@ -13206,13 +13206,13 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "castello",
     "zona": "salerno",
     "citta": "Contursi Terme"
   },
   {
     "nome": "Castello di Sant'Adiutore",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello di Sant'Adiutore a Giffoni Sei Casali. Edificio storico.",
     "lat": 40.7055375,
     "lng": 14.7163767,
     "source": "osm",
@@ -13229,7 +13229,7 @@
   },
   {
     "nome": "Castello di Rocca Cilento",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello di Rocca Cilento a Lustra. Edificio storico.",
     "lat": 40.2954773,
     "lng": 15.0570056,
     "source": "osm",
@@ -13246,7 +13246,7 @@
   },
   {
     "nome": "Castello Normanno del Guiscardo",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello Normanno del Guiscardo a Buccino. Edificio storico.",
     "lat": 40.5680383,
     "lng": 15.4903148,
     "source": "osm",
@@ -13263,7 +13263,7 @@
   },
   {
     "nome": "Rocca di San Quirico",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Rocca di San Quirico a Nocera Superiore. Edificio storico.",
     "lat": 40.7548368,
     "lng": 14.6773493,
     "source": "osm",
@@ -13280,7 +13280,7 @@
   },
   {
     "nome": "Castello Baronale",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello Baronale a Roccadaspide. Edificio storico.",
     "lat": 40.3735439,
     "lng": 15.2420405,
     "source": "osm",
@@ -13297,7 +13297,7 @@
   },
   {
     "nome": "Castello Normanno",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello Normanno a Valva. Edificio storico.",
     "lat": 40.7277899,
     "lng": 15.2884277,
     "source": "osm",
@@ -13314,7 +13314,7 @@
   },
   {
     "nome": "Torre Crestarella",
-    "descrizione": "Tipo: tower",
+    "descrizione": "Torre Crestarella a Vietri sul Mare. Edificio storico.",
     "lat": 40.6694389,
     "lng": 14.7323167,
     "source": "osm",
@@ -13331,7 +13331,7 @@
   },
   {
     "nome": "Torre di Cetara",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Torre di Cetara a Cetara. Edificio storico.",
     "lat": 40.6469951,
     "lng": 14.7034678,
     "source": "osm",
@@ -13348,7 +13348,7 @@
   },
   {
     "nome": "Torre di Albori",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Torre di Albori a Cetara. Edificio storico.",
     "lat": 40.6643716,
     "lng": 14.7160762,
     "source": "osm",
@@ -13365,7 +13365,7 @@
   },
   {
     "nome": "Torre La Cerniola",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Torre La Cerniola a Cetara. Edificio storico.",
     "lat": 40.6373678,
     "lng": 14.6955716,
     "source": "osm",
@@ -13382,7 +13382,7 @@
   },
   {
     "nome": "Castel Vernieri",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castel Vernieri a San Cipriano Picentino. Punto di interesse.",
     "lat": 40.6590254,
     "lng": 14.8531226,
     "source": "osm",
@@ -13399,7 +13399,7 @@
   },
   {
     "nome": "Castello di Montevetrano",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello di Montevetrano a San Cipriano Picentino. Edificio storico.",
     "lat": 40.6731939,
     "lng": 14.8602438,
     "source": "osm",
@@ -13416,7 +13416,7 @@
   },
   {
     "nome": "Castello dell'Abate",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello dell'Abate a Castellabate. Edificio storico.",
     "lat": 40.2792472,
     "lng": 14.9517756,
     "source": "osm",
@@ -13433,7 +13433,7 @@
   },
   {
     "nome": "La Torretta",
-    "descrizione": "Tipo: castle",
+    "descrizione": "La Torretta a Castellabate. Edificio storico.",
     "lat": 40.2677327,
     "lng": 14.9436781,
     "source": "osm",
@@ -13450,7 +13450,7 @@
   },
   {
     "nome": "Palazzo Baronale",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Palazzo Baronale a Roccadaspide. Edificio storico.",
     "lat": 40.4444525,
     "lng": 15.2538778,
     "source": "osm",
@@ -13461,13 +13461,13 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "castello",
     "zona": "cilento",
     "citta": "Roccadaspide"
   },
   {
     "nome": "Castello Feudale Filimarino",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello Feudale Filimarino a Roccadaspide. Edificio storico.",
     "lat": 40.42845,
     "lng": 15.1917976,
     "source": "osm",
@@ -13484,7 +13484,7 @@
   },
   {
     "nome": "Palazzo Feudale",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Palazzo Feudale a Perdifumo. Edificio storico.",
     "lat": 40.299892,
     "lng": 15.0379497,
     "source": "osm",
@@ -13495,13 +13495,13 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "castello",
     "zona": "cilento",
     "citta": "Perdifumo"
   },
   {
     "nome": "Castello di Terravecchia",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello di Terravecchia a Montecorvino Pugliano. Edificio storico.",
     "lat": 40.7171559,
     "lng": 14.9354021,
     "source": "osm",
@@ -13518,7 +13518,7 @@
   },
   {
     "nome": "Palazzo Rosapepe XVII sec.",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Palazzo Rosapepe XVII sec. a Palomonte. Edificio storico.",
     "lat": 40.6498481,
     "lng": 15.2367102,
     "source": "osm",
@@ -13529,13 +13529,13 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "castello",
     "zona": "salerno",
     "citta": "Palomonte"
   },
   {
     "nome": "Torre",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Torre a Ascea. Edificio storico.",
     "lat": 40.2197894,
     "lng": 15.1783129,
     "source": "osm",
@@ -13552,7 +13552,7 @@
   },
   {
     "nome": "Palazzo Marchesale Primicile Carafa",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Palazzo Marchesale Primicile Carafa a Rutino. Edificio storico.",
     "lat": 40.3435423,
     "lng": 15.1304162,
     "source": "osm",
@@ -13563,13 +13563,13 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "castello",
     "zona": "cilento",
     "citta": "Rutino"
   },
   {
     "nome": "Castello Marchesale",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello Marchesale a San Giovanni a Piro. Edificio storico.",
     "lat": 40.0017479,
     "lng": 15.3768972,
     "source": "osm",
@@ -13586,7 +13586,7 @@
   },
   {
     "nome": "Torre circolare",
-    "descrizione": "Tipo: yes",
+    "descrizione": "Torre circolare a Bracigliano. Edificio storico.",
     "lat": 40.788614,
     "lng": 14.7561701,
     "source": "osm",
@@ -13603,7 +13603,7 @@
   },
   {
     "nome": "Palazzo De Vita",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Palazzo De Vita a Torchiara. Edificio storico.",
     "lat": 40.3161478,
     "lng": 15.0588499,
     "source": "osm",
@@ -13614,13 +13614,13 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "castello",
     "zona": "cilento",
     "citta": "Torchiara"
   },
   {
     "nome": "Palazzo Pavone in piazza Torre",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Palazzo Pavone in piazza Torre a Torchiara. Edificio storico.",
     "lat": 40.3238067,
     "lng": 15.0517285,
     "source": "osm",
@@ -13637,7 +13637,7 @@
   },
   {
     "nome": "Palazzo Torre",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Palazzo Torre a Torchiara. Edificio storico.",
     "lat": 40.3236656,
     "lng": 15.0526244,
     "source": "osm",
@@ -13654,7 +13654,7 @@
   },
   {
     "nome": "Palazzo Pavone",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Palazzo Pavone a Torchiara. Edificio storico.",
     "lat": 40.3234907,
     "lng": 15.0531635,
     "source": "osm",
@@ -13665,13 +13665,13 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "castello",
     "zona": "cilento",
     "citta": "Torchiara"
   },
   {
     "nome": "Torre Volpe",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Torre Volpe a Ogliastro Cilento. Edificio storico.",
     "lat": 40.3326717,
     "lng": 15.0651666,
     "source": "osm",
@@ -13705,7 +13705,7 @@
   },
   {
     "nome": "Castello di San Nicola de Thoroplano",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello di San Nicola de Thoroplano a Minori. Edificio storico.",
     "lat": 40.6569285,
     "lng": 14.6466981,
     "source": "osm",
@@ -13722,7 +13722,7 @@
   },
   {
     "nome": "Torre Saracena",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Torre Saracena a Amalfi. Edificio storico.",
     "lat": 40.6329329,
     "lng": 14.606956,
     "source": "osm",
@@ -13739,7 +13739,7 @@
   },
   {
     "nome": "Castello di Pino",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello di Pino a Agerola. Edificio storico.",
     "lat": 40.6682208,
     "lng": 14.5327624,
     "source": "osm",
@@ -13756,7 +13756,7 @@
   },
   {
     "nome": "Castello Mezzacapo",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello Mezzacapo a Ravello. Edificio storico.",
     "lat": 40.6483714,
     "lng": 14.6332444,
     "source": "osm",
@@ -13773,7 +13773,7 @@
   },
   {
     "nome": "Palazzo Materazzi",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Palazzo Materazzi a Montecorice. Edificio storico.",
     "lat": 40.244962,
     "lng": 15.0320251,
     "source": "osm",
@@ -13784,13 +13784,13 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "castello",
     "zona": "cilento",
     "citta": "Montecorice"
   },
   {
     "nome": "Castello Marchesale (Scanderbeg)",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello Marchesale (Scanderbeg) a Buccino. Edificio storico.",
     "lat": 40.5582838,
     "lng": 15.426312,
     "source": "osm",
@@ -13807,7 +13807,7 @@
   },
   {
     "nome": "Castello di San Severino di Centola",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello di San Severino di Centola a Montano Antilia. Edificio storico.",
     "lat": 40.0867955,
     "lng": 15.3499079,
     "source": "osm",
@@ -13824,7 +13824,7 @@
   },
   {
     "nome": "Torre del Poggio",
-    "descrizione": "Tipo: tower",
+    "descrizione": "Torre del Poggio a San Giovanni a Piro. Edificio storico.",
     "lat": 40.0019947,
     "lng": 15.3813257,
     "source": "osm",
@@ -13841,7 +13841,7 @@
   },
   {
     "nome": "Castello di Lettere",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello di Lettere a Gragnano. Edificio storico.",
     "lat": 40.7107074,
     "lng": 14.5466596,
     "source": "osm",
@@ -13858,7 +13858,7 @@
   },
   {
     "nome": "Palazzo Palmieri",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Palazzo Palmieri a San Cipriano Picentino. Edificio storico.",
     "lat": 40.7196404,
     "lng": 14.8710529,
     "source": "osm",
@@ -13869,13 +13869,13 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "castello",
     "zona": "salerno",
     "citta": "San Cipriano Picentino"
   },
   {
     "nome": "Torre Laura",
-    "descrizione": "Tipo: tower",
+    "descrizione": "Torre Laura a Capaccio Paestum. Edificio storico.",
     "lat": 40.4187892,
     "lng": 15.0087378,
     "source": "osm",
@@ -13892,7 +13892,7 @@
   },
   {
     "nome": "Torre 28",
-    "descrizione": "Tipo: tower",
+    "descrizione": "Torre 28 a Capaccio Paestum. Edificio storico.",
     "lat": 40.4190961,
     "lng": 15.0135573,
     "source": "osm",
@@ -13909,7 +13909,7 @@
   },
   {
     "nome": "Palazzo De Maria",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Palazzo De Maria a Capaccio Paestum. Edificio storico.",
     "lat": 40.4237918,
     "lng": 15.0072117,
     "source": "osm",
@@ -13920,7 +13920,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "castello",
     "zona": "cilento",
     "citta": "Capaccio Paestum"
   },
@@ -13960,7 +13960,7 @@
   },
   {
     "nome": "La Torricella",
-    "descrizione": "Tipo: castle",
+    "descrizione": "La Torricella a Meta. Punto di interesse.",
     "lat": 40.6438211,
     "lng": 14.4343305,
     "source": "osm",
@@ -13994,7 +13994,7 @@
   },
   {
     "nome": "Torre Maggiore",
-    "descrizione": "Tipo: tower",
+    "descrizione": "Torre Maggiore a Amalfi. Edificio storico.",
     "lat": 40.6487011,
     "lng": 14.6125303,
     "source": "osm",
@@ -14011,7 +14011,7 @@
   },
   {
     "nome": "Castello Normanno Angioino",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello Normanno Angioino a Buccino. Edificio storico.",
     "lat": 40.6332934,
     "lng": 15.3755172,
     "source": "osm",
@@ -14028,7 +14028,7 @@
   },
   {
     "nome": "Castello di Camerota",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello di Camerota a San Giovanni a Piro. Edificio storico.",
     "lat": 40.0309779,
     "lng": 15.3746699,
     "source": "osm",
@@ -14533,7 +14533,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "castello",
     "zona": "costiera",
     "citta": "Vietri sul Mare"
   },
@@ -14584,7 +14584,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "castello",
     "zona": "cilento",
     "citta": "Capaccio Paestum"
   },
@@ -16513,7 +16513,7 @@
   },
   {
     "nome": "Fontana monumentale",
-    "descrizione": "Acqua Potabile",
+    "descrizione": "Fontana monumentale a Buccino. Fontana storica.",
     "lat": 40.5569805,
     "lng": 15.3095929,
     "source": "osm",
@@ -16564,7 +16564,7 @@
   },
   {
     "nome": "Casa del forno (VI.3.3)",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Casa del forno (VI.3.3) a Pompei. Punto di interesse.",
     "lat": 40.7509649,
     "lng": 14.4828052,
     "source": "osm",
@@ -16615,7 +16615,7 @@
   },
   {
     "nome": "Cornelivm",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Cornelivm a Pompei. Punto di interesse.",
     "lat": 40.7498244,
     "lng": 14.4893434,
     "source": "osm",
@@ -16717,7 +16717,7 @@
   },
   {
     "nome": "Casa dei cinque scheletri",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Casa dei cinque scheletri a Pompei. Punto di interesse.",
     "lat": 40.7514017,
     "lng": 14.4838969,
     "source": "osm",
@@ -16785,7 +16785,7 @@
   },
   {
     "nome": "Casa della caccia antica (VII.4.48)",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Casa della caccia antica (VII.4.48) a Pompei. Punto di interesse.",
     "lat": 40.7511103,
     "lng": 14.4853943,
     "source": "osm",
@@ -16802,7 +16802,7 @@
   },
   {
     "nome": "Ruderi Castello Medievale",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Ruderi Castello Medievale a Vallo della Lucania. Edificio storico.",
     "lat": 40.2898372,
     "lng": 15.2143972,
     "source": "osm",
@@ -16819,7 +16819,7 @@
   },
   {
     "nome": "San Giovanni Tresino",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "San Giovanni Tresino a Agropoli. Punto di interesse.",
     "lat": 40.3239283,
     "lng": 14.9522903,
     "source": "osm",
@@ -16836,7 +16836,7 @@
   },
   {
     "nome": "Colonna dorica",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Colonna dorica a Capaccio Paestum. Monumento.",
     "lat": 40.4246332,
     "lng": 15.0058706,
     "source": "osm",
@@ -16853,7 +16853,7 @@
   },
   {
     "nome": "Eremo di S.Erasmo e S.Giacomo degli eremiti",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Eremo di S.Erasmo e S.Giacomo degli eremiti a Eboli. Luogo di culto.",
     "lat": 40.6518657,
     "lng": 15.0818597,
     "source": "osm",
@@ -16864,13 +16864,13 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "salerno",
     "citta": "Eboli"
   },
   {
     "nome": "Mulino",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Mulino a Contursi Terme. Punto di interesse.",
     "lat": 40.6401724,
     "lng": 15.1142587,
     "source": "osm",
@@ -16887,7 +16887,7 @@
   },
   {
     "nome": "Monastero di San Cataldo",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Monastero di San Cataldo a Contursi Terme. Punto di interesse.",
     "lat": 40.6698981,
     "lng": 15.110313,
     "source": "osm",
@@ -16904,7 +16904,7 @@
   },
   {
     "nome": "Castello di Alegisio",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Castello di Alegisio a Contursi Terme. Edificio storico.",
     "lat": 40.6473455,
     "lng": 15.0934504,
     "source": "osm",
@@ -16921,7 +16921,7 @@
   },
   {
     "nome": "Torre dell'Isola",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Torre dell'Isola a San Giovanni a Piro. Edificio storico.",
     "lat": 39.9990465,
     "lng": 15.36115,
     "source": "osm",
@@ -17006,7 +17006,7 @@
   },
   {
     "nome": "Cappella S. Michele",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Cappella S. Michele a Montano Antilia. Luogo di culto.",
     "lat": 40.0949982,
     "lng": 15.378712,
     "source": "osm",
@@ -17040,7 +17040,7 @@
   },
   {
     "nome": "Sito Architettura rurale",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Sito Architettura rurale a San Nicola Arcella. Sito archeologico.",
     "lat": 40.0308437,
     "lng": 15.2683698,
     "source": "osm",
@@ -17051,13 +17051,13 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "archeologico",
     "zona": "cilento",
     "citta": "San Nicola Arcella"
   },
   {
     "nome": "Pozzo di Santa Sofia",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Pozzo di Santa Sofia a Ricigliano. Fontana storica.",
     "lat": 40.4900184,
     "lng": 15.1626025,
     "source": "osm",
@@ -17125,7 +17125,7 @@
   },
   {
     "nome": "Necropoli di Porta Ercolano",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Necropoli di Porta Ercolano a Pompei. Sito archeologico.",
     "lat": 40.7523434,
     "lng": 14.4800602,
     "source": "osm",
@@ -17193,7 +17193,7 @@
   },
   {
     "nome": "Casa dei Ceii (I.6.15)",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Casa dei Ceii (I.6.15) a Pompei. Punto di interesse.",
     "lat": 40.7500099,
     "lng": 14.4895058,
     "source": "osm",
@@ -17210,7 +17210,7 @@
   },
   {
     "nome": "Fullonica di Stephanus (I.6.7)",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Fullonica di Stephanus (I.6.7) a Pompei. Punto di interesse.",
     "lat": 40.7502861,
     "lng": 14.4891237,
     "source": "osm",
@@ -17227,7 +17227,7 @@
   },
   {
     "nome": "Il Castello",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Il Castello a Amalfi. Edificio storico.",
     "lat": 40.6560979,
     "lng": 14.5955684,
     "source": "osm",
@@ -17244,7 +17244,7 @@
   },
   {
     "nome": "Taberna Hedones",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Taberna Hedones a Pompei. Punto di interesse.",
     "lat": 40.7505828,
     "lng": 14.4863828,
     "source": "osm",
@@ -17261,7 +17261,7 @@
   },
   {
     "nome": "Casa di Marco Lucrezio (IX.3.5)",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Casa di Marco Lucrezio (IX.3.5) a Pompei. Sito archeologico.",
     "lat": 40.7510258,
     "lng": 14.4869243,
     "source": "osm",
@@ -17278,7 +17278,7 @@
   },
   {
     "nome": "Valva vecchia",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Valva vecchia a Valva. Punto di interesse.",
     "lat": 40.7434735,
     "lng": 15.27737,
     "source": "osm",
@@ -17295,7 +17295,7 @@
   },
   {
     "nome": "Rovine del castello del duca Zottone di Benevento",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Rovine del castello del duca Zottone di Benevento a Piaggine. Edificio storico.",
     "lat": 40.3878046,
     "lng": 15.3682358,
     "source": "osm",
@@ -17329,7 +17329,7 @@
   },
   {
     "nome": "Casone Montenero",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Casone Montenero a Colliano. Punto di interesse.",
     "lat": 40.7004889,
     "lng": 15.1668066,
     "source": "osm",
@@ -17414,7 +17414,7 @@
   },
   {
     "nome": "Domus L. Cornelli Diadumeni",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Domus L. Cornelli Diadumeni a Pompei. Punto di interesse.",
     "lat": 40.7502199,
     "lng": 14.4862247,
     "source": "osm",
@@ -17533,7 +17533,7 @@
   },
   {
     "nome": "Cisterna Menatora",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Cisterna Menatora a Vico Equense. Punto di interesse.",
     "lat": 40.673916,
     "lng": 14.469013,
     "source": "osm",
@@ -17669,7 +17669,7 @@
   },
   {
     "nome": "Officina coriariorum di M. Vesonius Primus (I.5.2)",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Officina coriariorum di M. Vesonius Primus (I.5.2) a Pompei. Punto di interesse.",
     "lat": 40.7487467,
     "lng": 14.4901331,
     "source": "osm",
@@ -17737,7 +17737,7 @@
   },
   {
     "nome": "Casa del Pressorio di Terracotta (I.4.22)",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Casa del Pressorio di Terracotta (I.4.22) a Pompei. Punto di interesse.",
     "lat": 40.7499652,
     "lng": 14.4885305,
     "source": "osm",
@@ -17788,7 +17788,7 @@
   },
   {
     "nome": "Casa dell'Efebo",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Casa dell'Efebo a Pompei. Punto di interesse.",
     "lat": 40.7504183,
     "lng": 14.4899937,
     "source": "osm",
@@ -17839,7 +17839,7 @@
   },
   {
     "nome": "Chiesa di Saragnano",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Chiesa di Saragnano a Vietri sul Mare. Luogo di culto.",
     "lat": 40.6807456,
     "lng": 14.7387223,
     "source": "osm",
@@ -17856,7 +17856,7 @@
   },
   {
     "nome": "Cisterna medievale",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Cisterna medievale a Nocera Inferiore. Punto di interesse.",
     "lat": 40.7514472,
     "lng": 14.6431603,
     "source": "osm",
@@ -17873,7 +17873,7 @@
   },
   {
     "nome": "Ingresso Miniera di Ittiolo",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Ingresso Miniera di Ittiolo a San Cipriano Picentino. Punto di interesse.",
     "lat": 40.7855638,
     "lng": 14.92698,
     "source": "osm",
@@ -17890,7 +17890,7 @@
   },
   {
     "nome": "Ruderi Castello di Scalelle",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Ruderi Castello di Scalelle a Amalfi. Edificio storico.",
     "lat": 40.6389173,
     "lng": 14.6038992,
     "source": "osm",
@@ -17924,7 +17924,7 @@
   },
   {
     "nome": "Carcassa vecchia auto",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Carcassa vecchia auto a Furore. Punto di interesse.",
     "lat": 40.6351816,
     "lng": 14.5775212,
     "source": "osm",
@@ -17941,7 +17941,7 @@
   },
   {
     "nome": "Abitato di acropoli - edificio arcaico",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Abitato di acropoli - edificio arcaico a Vallo della Lucania. Punto di interesse.",
     "lat": 40.2577057,
     "lng": 15.2764813,
     "source": "osm",
@@ -17958,7 +17958,7 @@
   },
   {
     "nome": "Porta Est",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Porta Est a Vallo della Lucania. Punto di interesse.",
     "lat": 40.2567591,
     "lng": 15.2774033,
     "source": "osm",
@@ -17992,7 +17992,7 @@
   },
   {
     "nome": "Casa dei Casti Amanti (IX.12.6)",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Casa dei Casti Amanti (IX.12.6) a Pompei. Punto di interesse.",
     "lat": 40.750938,
     "lng": 14.4899557,
     "source": "osm",
@@ -18009,7 +18009,7 @@
   },
   {
     "nome": "Casa dei Pigmei (IX.5.9)",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Casa dei Pigmei (IX.5.9) a Pompei. Punto di interesse.",
     "lat": 40.7519883,
     "lng": 14.4873784,
     "source": "osm",
@@ -18111,7 +18111,7 @@
   },
   {
     "nome": "Antica fornace per calce",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Antica fornace per calce a Contursi Terme. Punto di interesse.",
     "lat": 40.6146446,
     "lng": 15.1399116,
     "source": "osm",
@@ -18179,7 +18179,7 @@
   },
   {
     "nome": "Castrum",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Castrum a Amalfi. Punto di interesse.",
     "lat": 40.6579185,
     "lng": 14.5934968,
     "source": "osm",
@@ -18315,7 +18315,7 @@
   },
   {
     "nome": "vecchia calcara",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "vecchia calcara a Vietri sul Mare. Punto di interesse.",
     "lat": 40.682141,
     "lng": 14.7405594,
     "source": "osm",
@@ -18332,7 +18332,7 @@
   },
   {
     "nome": "torretta",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "torretta a Vietri sul Mare. Edificio storico.",
     "lat": 40.6817599,
     "lng": 14.7325322,
     "source": "osm",
@@ -18349,7 +18349,7 @@
   },
   {
     "nome": "Castello di Montelmo",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Castello di Montelmo a Montano Antilia. Edificio storico.",
     "lat": 40.0685274,
     "lng": 15.3415731,
     "source": "osm",
@@ -18400,7 +18400,7 @@
   },
   {
     "nome": "Eremo Sant'Elia",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Eremo Sant'Elia a Siano. Luogo di culto.",
     "lat": 40.7675562,
     "lng": 14.7315093,
     "source": "osm",
@@ -18411,13 +18411,13 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "salerno",
     "citta": "Siano"
   },
   {
     "nome": "Grotta di Bernardo",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Grotta di Bernardo a Roccadaspide. Grotta.",
     "lat": 40.3620234,
     "lng": 15.2479581,
     "source": "osm",
@@ -18910,7 +18910,7 @@
   },
   {
     "nome": "Porta Sud",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Porta Sud a Vallo della Lucania. Punto di interesse.",
     "lat": 40.2562491,
     "lng": 15.2759636,
     "source": "osm",
@@ -19114,7 +19114,7 @@
   },
   {
     "nome": "Castello Santa Maria la Nova",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Castello Santa Maria la Nova a Tramonti. Edificio storico.",
     "lat": 40.6993398,
     "lng": 14.6373553,
     "source": "osm",
@@ -19131,7 +19131,7 @@
   },
   {
     "nome": "Castello di Fratta",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Castello di Fratta a Scala. Edificio storico.",
     "lat": 40.6619814,
     "lng": 14.6108874,
     "source": "osm",
@@ -19522,7 +19522,7 @@
   },
   {
     "nome": "Antica Porta Nova",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Antica Porta Nova a Salerno. Punto di interesse.",
     "lat": 40.6775458,
     "lng": 14.7628559,
     "source": "osm",
@@ -19540,7 +19540,7 @@
   },
   {
     "nome": "Cappella di Santa Margherita",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Cappella di Santa Margherita a Nocera Inferiore. Luogo di culto.",
     "lat": 40.7477954,
     "lng": 14.6424778,
     "source": "osm",
@@ -19574,7 +19574,7 @@
   },
   {
     "nome": "Cappella del Buon consiglio",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Cappella del Buon consiglio a Nocera Inferiore. Luogo di culto.",
     "lat": 40.7488201,
     "lng": 14.645357,
     "source": "osm",
@@ -19591,7 +19591,7 @@
   },
   {
     "nome": "ruderi chiesetta S. Angelo a Jugo",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "ruderi chiesetta S. Angelo a Jugo a Agerola. Punto di interesse.",
     "lat": 40.6560184,
     "lng": 14.5480895,
     "source": "osm",
@@ -19659,7 +19659,7 @@
   },
   {
     "nome": "Antiche Cartiere e Ferriere",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Antiche Cartiere e Ferriere a Acerno. Punto di interesse.",
     "lat": 40.7319553,
     "lng": 15.0469321,
     "source": "osm",
@@ -19676,7 +19676,7 @@
   },
   {
     "nome": "Fortilizio Convalescenziario sec. XII",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Fortilizio Convalescenziario sec. XII a Sant'Antonio Abate. Punto di interesse.",
     "lat": 40.7216761,
     "lng": 14.5612201,
     "source": "osm",
@@ -19761,7 +19761,7 @@
   },
   {
     "nome": "Tomba di Numerius Agrestinus Equitius Pulcher",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Tomba di Numerius Agrestinus Equitius Pulcher a Pompei. Sito archeologico.",
     "lat": 40.7480771,
     "lng": 14.4910762,
     "source": "osm",
@@ -19812,7 +19812,7 @@
   },
   {
     "nome": "Ruderi di mulino ad acqua",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Ruderi di mulino ad acqua a Ricigliano. Punto di interesse.",
     "lat": 40.4929405,
     "lng": 15.2078955,
     "source": "osm",
@@ -19880,7 +19880,7 @@
   },
   {
     "nome": "Ruine der alten Mühle von Molina (Papiermühle?)",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Ruine der alten Mühle von Molina (Papiermühle?) a Amalfi. Punto di interesse.",
     "lat": 40.6461633,
     "lng": 14.5902595,
     "source": "osm",
@@ -19897,7 +19897,7 @@
   },
   {
     "nome": "Aqueduct",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Aqueduct a Vietri sul Mare. Punto di interesse.",
     "lat": 40.677962,
     "lng": 14.7228405,
     "source": "osm",
@@ -19965,7 +19965,7 @@
   },
   {
     "nome": "Natatio",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Natatio a Pompei. Punto di interesse.",
     "lat": 40.7507341,
     "lng": 14.4938792,
     "source": "osm",
@@ -20050,7 +20050,7 @@
   },
   {
     "nome": "Domus",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Domus a Pompei. Punto di interesse.",
     "lat": 40.7505809,
     "lng": 14.4919743,
     "source": "osm",
@@ -20118,7 +20118,7 @@
   },
   {
     "nome": "Ex convento della Concezione",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Ex convento della Concezione a Contursi Terme. Luogo di culto.",
     "lat": 40.667687,
     "lng": 15.1089717,
     "source": "osm",
@@ -20129,7 +20129,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "salerno",
     "citta": "Contursi Terme"
   },
@@ -20152,7 +20152,7 @@
   },
   {
     "nome": "Chiesa di Sant'Angelo",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Chiesa di Sant'Angelo a Contursi Terme. Luogo di culto.",
     "lat": 40.6418197,
     "lng": 15.0989779,
     "source": "osm",
@@ -20197,7 +20197,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "archeologico",
     "zona": "cilento",
     "citta": "Centola"
   },
@@ -20214,13 +20214,13 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "archeologico",
     "zona": "salerno",
     "citta": "Pontecagnano Faiano"
   },
   {
     "nome": "Romagnano al Monte Vecchia",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Romagnano al Monte Vecchia a Buccino. Punto di interesse.",
     "lat": 40.6280752,
     "lng": 15.4566688,
     "source": "osm",
@@ -20305,7 +20305,7 @@
   },
   {
     "nome": "Cosiddetto Quartiere arcaico",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Cosiddetto Quartiere arcaico a Centola. Punto di interesse.",
     "lat": 40.1609648,
     "lng": 15.1557861,
     "source": "osm",
@@ -20333,13 +20333,13 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "archeologico",
     "zona": "cilento",
     "citta": "San Nicola Arcella"
   },
   {
     "nome": "Complesso monastico di Santa Maria di Costantinopoli",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Complesso monastico di Santa Maria di Costantinopoli a Montecorvino Rovella. Spiaggia.",
     "lat": 40.6658559,
     "lng": 15.0179792,
     "source": "osm",
@@ -20407,7 +20407,7 @@
   },
   {
     "nome": "Ex Convento di S. Maria dell'Arco e del Carmine",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Ex Convento di S. Maria dell'Arco e del Carmine a Roccadaspide. Sito archeologico.",
     "lat": 40.4287925,
     "lng": 15.1857022,
     "source": "osm",
@@ -20424,7 +20424,7 @@
   },
   {
     "nome": "Castello di Capaccio",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Castello di Capaccio a Capaccio Paestum. Edificio storico.",
     "lat": 40.4451764,
     "lng": 15.0546947,
     "source": "osm",
@@ -20441,7 +20441,7 @@
   },
   {
     "nome": "San Mattia",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "San Mattia a Bellizzi. Punto di interesse.",
     "lat": 40.5948367,
     "lng": 14.9437728,
     "source": "osm",
@@ -20475,7 +20475,7 @@
   },
   {
     "nome": "Eremo di San Martino",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Eremo di San Martino a Giffoni Sei Casali. Luogo di culto.",
     "lat": 40.7202237,
     "lng": 14.6884282,
     "source": "osm",
@@ -20486,13 +20486,13 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "salerno",
     "citta": "Giffoni Sei Casali"
   },
   {
     "nome": "Convento di Sant'Onofrio",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Convento di Sant'Onofrio a Buccino. Luogo di culto.",
     "lat": 40.5480367,
     "lng": 15.3956997,
     "source": "osm",
@@ -20503,13 +20503,13 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "salerno",
     "citta": "Buccino"
   },
   {
     "nome": "Torre di Velia",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Torre di Velia a Centola. Edificio storico.",
     "lat": 40.1606022,
     "lng": 15.1544014,
     "source": "osm",
@@ -20526,7 +20526,7 @@
   },
   {
     "nome": "Chiesa di San Giovanni",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Chiesa di San Giovanni a Agropoli. Luogo di culto.",
     "lat": 40.3239045,
     "lng": 14.9520846,
     "source": "osm",
@@ -20543,7 +20543,7 @@
   },
   {
     "nome": "Castello del Parco",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Castello del Parco a Nocera Inferiore. Edificio storico.",
     "lat": 40.7506159,
     "lng": 14.6424471,
     "source": "osm",
@@ -20560,7 +20560,7 @@
   },
   {
     "nome": "Senerchia vecchia",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Senerchia vecchia a Colliano. Punto di interesse.",
     "lat": 40.7393338,
     "lng": 15.2004342,
     "source": "osm",
@@ -20594,7 +20594,7 @@
   },
   {
     "nome": "Monasterio",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Monasterio a Sessa Cilento. Punto di interesse.",
     "lat": 40.2665444,
     "lng": 15.0635021,
     "source": "osm",
@@ -20611,7 +20611,7 @@
   },
   {
     "nome": "Arco Onorario",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Arco Onorario a Pompei. Sito archeologico.",
     "lat": 40.7501251,
     "lng": 14.4845569,
     "source": "osm",
@@ -20628,7 +20628,7 @@
   },
   {
     "nome": "Arco di Caligola",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Arco di Caligola a Pompei. Sito archeologico.",
     "lat": 40.7507531,
     "lng": 14.4841863,
     "source": "osm",
@@ -20849,7 +20849,7 @@
   },
   {
     "nome": "Ponte di Annibale",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Ponte di Annibale a Buccino. Ponte storico.",
     "lat": 40.643864,
     "lng": 15.4833052,
     "source": "osm",
@@ -20860,13 +20860,13 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "ponte",
     "zona": "salerno",
     "citta": "Buccino"
   },
   {
     "nome": "Badia di San Filadelfo",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Badia di San Filadelfo a Vallo della Lucania. Punto di interesse.",
     "lat": 40.2313525,
     "lng": 15.2388876,
     "source": "osm",
@@ -20883,7 +20883,7 @@
   },
   {
     "nome": "Convento di Cospita",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Convento di Cospita a Furore. Luogo di culto.",
     "lat": 40.6304831,
     "lng": 14.577158,
     "source": "osm",
@@ -20894,7 +20894,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "costiera",
     "citta": "Furore"
   },
@@ -20917,7 +20917,7 @@
   },
   {
     "nome": "Lupanare (VII.12.18)",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Lupanare (VII.12.18) a Pompei. Punto di interesse.",
     "lat": 40.750286,
     "lng": 14.4867947,
     "source": "osm",
@@ -20934,7 +20934,7 @@
   },
   {
     "nome": "Tempio di Apollo",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Tempio di Apollo a Pompei. Sito archeologico.",
     "lat": 40.7492133,
     "lng": 14.4844162,
     "source": "osm",
@@ -21036,7 +21036,7 @@
   },
   {
     "nome": "Casa del Fauno",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Casa del Fauno a Pompei. Punto di interesse.",
     "lat": 40.7513726,
     "lng": 14.4845357,
     "source": "osm",
@@ -21070,7 +21070,7 @@
   },
   {
     "nome": "Santuario dei Lari Pubblici",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Santuario dei Lari Pubblici a Pompei. Luogo di culto.",
     "lat": 40.7497516,
     "lng": 14.4850214,
     "source": "osm",
@@ -21087,7 +21087,7 @@
   },
   {
     "nome": "Tempio di Vespasiano",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Tempio di Vespasiano a Pompei. Sito archeologico.",
     "lat": 40.7495978,
     "lng": 14.4851942,
     "source": "osm",
@@ -21325,7 +21325,7 @@
   },
   {
     "nome": "Chapel",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Chapel a Furore. Punto di interesse.",
     "lat": 40.6244188,
     "lng": 14.5744198,
     "source": "osm",
@@ -21495,7 +21495,7 @@
   },
   {
     "nome": "Civitella",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Civitella a Praiano. Punto di interesse.",
     "lat": 40.6223138,
     "lng": 14.5248296,
     "source": "osm",
@@ -21801,7 +21801,7 @@
   },
   {
     "nome": "Mulino ad acqua",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Mulino ad acqua a Montecorice. Punto di interesse.",
     "lat": 40.2432225,
     "lng": 15.0195173,
     "source": "osm",
@@ -21835,7 +21835,7 @@
   },
   {
     "nome": "Caupona of Masculus",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Caupona of Masculus a Pompei. Punto di interesse.",
     "lat": 40.7500728,
     "lng": 14.4903048,
     "source": "osm",
@@ -21869,7 +21869,7 @@
   },
   {
     "nome": "Altare",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Altare a Capaccio Paestum. Punto di interesse.",
     "lat": 40.4884081,
     "lng": 14.9702894,
     "source": "osm",
@@ -21886,7 +21886,7 @@
   },
   {
     "nome": "Stoa Nord",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Stoa Nord a Capaccio Paestum. Punto di interesse.",
     "lat": 40.4891119,
     "lng": 14.9698942,
     "source": "osm",
@@ -21903,7 +21903,7 @@
   },
   {
     "nome": "Bothros",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Bothros a Capaccio Paestum. Punto di interesse.",
     "lat": 40.4882144,
     "lng": 14.9694281,
     "source": "osm",
@@ -21920,7 +21920,7 @@
   },
   {
     "nome": "Tempio Maggiore",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Tempio Maggiore a Capaccio Paestum. Sito archeologico.",
     "lat": 40.488451,
     "lng": 14.9696493,
     "source": "osm",
@@ -21937,7 +21937,7 @@
   },
   {
     "nome": "Stoa Sud",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Stoa Sud a Capaccio Paestum. Punto di interesse.",
     "lat": 40.4878695,
     "lng": 14.9701021,
     "source": "osm",
@@ -21954,7 +21954,7 @@
   },
   {
     "nome": "Thesauros",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Thesauros a Capaccio Paestum. Punto di interesse.",
     "lat": 40.4886917,
     "lng": 14.9698043,
     "source": "osm",
@@ -22566,7 +22566,7 @@
   },
   {
     "nome": "Colle Civita",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Colle Civita a Sant'Angelo a Fasanella. Punto di interesse.",
     "lat": 40.4899956,
     "lng": 15.2726928,
     "source": "osm",
@@ -22753,7 +22753,7 @@
   },
   {
     "nome": "Castello di Montalto",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Castello di Montalto a Tramonti. Edificio storico.",
     "lat": 40.6819742,
     "lng": 14.6206238,
     "source": "osm",
@@ -22770,7 +22770,7 @@
   },
   {
     "nome": "Cinta muraria di Fratta",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Cinta muraria di Fratta a Scala. Punto di interesse.",
     "lat": 40.6637902,
     "lng": 14.6094946,
     "source": "osm",
@@ -22889,7 +22889,7 @@
   },
   {
     "nome": "Bottega (V.1.8)",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Bottega (V.1.8) a Pompei. Punto di interesse.",
     "lat": 40.7518566,
     "lng": 14.4865386,
     "source": "osm",
@@ -22906,7 +22906,7 @@
   },
   {
     "nome": "Bottega (V.1.5)",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Bottega (V.1.5) a Pompei. Punto di interesse.",
     "lat": 40.7517975,
     "lng": 14.4863744,
     "source": "osm",
@@ -22923,7 +22923,7 @@
   },
   {
     "nome": "Bottega (V.1.6)",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Bottega (V.1.6) a Pompei. Punto di interesse.",
     "lat": 40.7518096,
     "lng": 14.486439,
     "source": "osm",
@@ -22957,7 +22957,7 @@
   },
   {
     "nome": "Taberna of Auxilio",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Taberna of Auxilio a Pompei. Punto di interesse.",
     "lat": 40.7518061,
     "lng": 14.4860449,
     "source": "osm",
@@ -22974,7 +22974,7 @@
   },
   {
     "nome": "Taberna of Canices",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Taberna of Canices a Pompei. Punto di interesse.",
     "lat": 40.751787,
     "lng": 14.4861032,
     "source": "osm",
@@ -22991,7 +22991,7 @@
   },
   {
     "nome": "Casa con bottega (V.1.31)",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Casa con bottega (V.1.31) a Pompei. Punto di interesse.",
     "lat": 40.7517529,
     "lng": 14.4861397,
     "source": "osm",
@@ -23025,7 +23025,7 @@
   },
   {
     "nome": "Bottega (V.1.2)",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Bottega (V.1.2) a Pompei. Punto di interesse.",
     "lat": 40.7517464,
     "lng": 14.4862532,
     "source": "osm",
@@ -23076,7 +23076,7 @@
   },
   {
     "nome": "Bottega (V.1.27)",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Bottega (V.1.27) a Pompei. Punto di interesse.",
     "lat": 40.7519078,
     "lng": 14.4859313,
     "source": "osm",
@@ -23093,7 +23093,7 @@
   },
   {
     "nome": "Taberna di Felicio (V.1.25)",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Taberna di Felicio (V.1.25) a Pompei. Punto di interesse.",
     "lat": 40.7519707,
     "lng": 14.4858584,
     "source": "osm",
@@ -23195,7 +23195,7 @@
   },
   {
     "nome": "Convento S. Maria del Belvedere",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Convento S. Maria del Belvedere a Casola di Napoli. Punto panoramico.",
     "lat": 40.6797675,
     "lng": 14.5206332,
     "source": "osm",
@@ -23212,7 +23212,7 @@
   },
   {
     "nome": "Villa della Rocca",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Villa della Rocca a Casola di Napoli. Edificio storico.",
     "lat": 40.6887466,
     "lng": 14.5270599,
     "source": "osm",
@@ -23229,7 +23229,7 @@
   },
   {
     "nome": "Ex Pastificio Garofalo",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Ex Pastificio Garofalo a Casola di Napoli. Punto di interesse.",
     "lat": 40.6926441,
     "lng": 14.5151528,
     "source": "osm",
@@ -23314,7 +23314,7 @@
   },
   {
     "nome": "Rudere \"Paluorcio\"",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Rudere \"Paluorcio\" a Vico Equense. Punto di interesse.",
     "lat": 40.6676236,
     "lng": 14.4581453,
     "source": "osm",
@@ -23331,7 +23331,7 @@
   },
   {
     "nome": "Torre del Telegrafo",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Torre del Telegrafo a San Nicola Arcella. Edificio storico.",
     "lat": 40.125119,
     "lng": 15.1815306,
     "source": "osm",
@@ -23348,7 +23348,7 @@
   },
   {
     "nome": "Arcate antico acquedotto",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Arcate antico acquedotto a Casola di Napoli. Fontana storica.",
     "lat": 40.6773608,
     "lng": 14.5328231,
     "source": "osm",
@@ -23365,7 +23365,7 @@
   },
   {
     "nome": "Mulino di Mastromicco",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Mulino di Mastromicco a Montano Antilia. Punto di interesse.",
     "lat": 40.1373267,
     "lng": 15.3200323,
     "source": "osm",
@@ -23467,7 +23467,7 @@
   },
   {
     "nome": "Rovine dell'eremo di Sant'Angelo",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Rovine dell'eremo di Sant'Angelo a Sant'Egidio del Monte Albino. Luogo di culto.",
     "lat": 40.7298158,
     "lng": 14.5970515,
     "source": "osm",
@@ -23478,13 +23478,13 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "salerno",
     "citta": "Sant'Egidio del Monte Albino"
   },
   {
     "nome": "House of the Large Fountain",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "House of the Large Fountain a Pompei. Punto di interesse.",
     "lat": 40.7511138,
     "lng": 14.4836438,
     "source": "osm",
@@ -23620,7 +23620,7 @@
   },
   {
     "nome": "Semaforo 2",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Semaforo 2 a Castellabate. Sito archeologico.",
     "lat": 40.2544637,
     "lng": 14.9195906,
     "source": "osm",
@@ -25966,7 +25966,7 @@
   },
   {
     "nome": "Arco canale e mulino Quiroga",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Arco canale e mulino Quiroga a Casola di Napoli. Sito archeologico.",
     "lat": 40.6919181,
     "lng": 14.5228382,
     "source": "osm",
@@ -26034,7 +26034,7 @@
   },
   {
     "nome": "Calcara",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Calcara a Tramonti. Punto di interesse.",
     "lat": 40.6828567,
     "lng": 14.6824343,
     "source": "osm",
@@ -26051,7 +26051,7 @@
   },
   {
     "nome": "Acquedotto Rimano I-II sec.",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Acquedotto Rimano I-II sec. a Giffoni Sei Casali. Fontana storica.",
     "lat": 40.6832007,
     "lng": 14.6951686,
     "source": "osm",
@@ -26391,7 +26391,7 @@
   },
   {
     "nome": "Cappella di Santa Maria delli Pigni",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Cappella di Santa Maria delli Pigni a Nocera Inferiore. Luogo di culto.",
     "lat": 40.7274895,
     "lng": 14.6415254,
     "source": "osm",
@@ -26408,7 +26408,7 @@
   },
   {
     "nome": "Chiesa vecchia di San Bartolomeo",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Chiesa vecchia di San Bartolomeo a Nocera Inferiore. Luogo di culto.",
     "lat": 40.7485913,
     "lng": 14.6486641,
     "source": "osm",
@@ -26493,7 +26493,7 @@
   },
   {
     "nome": "Casa dell'Ancora",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Casa dell'Ancora a Pompei. Punto di interesse.",
     "lat": 40.7512101,
     "lng": 14.4841776,
     "source": "osm",
@@ -26510,7 +26510,7 @@
   },
   {
     "nome": "Ruderi castello Longobardo",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Ruderi castello Longobardo a Piaggine. Edificio storico.",
     "lat": 40.3347502,
     "lng": 15.3365971,
     "source": "osm",
@@ -26578,7 +26578,7 @@
   },
   {
     "nome": "il Telegrafo",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "il Telegrafo a Salerno. Punto di interesse.",
     "lat": 40.7010932,
     "lng": 14.7430881,
     "source": "osm",
@@ -26630,7 +26630,7 @@
   },
   {
     "nome": "Ruderi Chiesa Longobarda Sant'Eustachio di Brignano",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Ruderi Chiesa Longobarda Sant'Eustachio di Brignano a Salerno. Luogo di culto.",
     "lat": 40.6898926,
     "lng": 14.7906852,
     "source": "osm",
@@ -26784,7 +26784,7 @@
   },
   {
     "nome": "Cappellla",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Cappellla a Furore. Punto di interesse.",
     "lat": 40.62938,
     "lng": 14.57616,
     "source": "osm",
@@ -26801,7 +26801,7 @@
   },
   {
     "nome": "Antico Mulino",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Antico Mulino a Tramonti. Punto di interesse.",
     "lat": 40.6896665,
     "lng": 14.6405656,
     "source": "osm",
@@ -26818,7 +26818,7 @@
   },
   {
     "nome": "Ponte antico acquedotto Borbonico",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Ponte antico acquedotto Borbonico a Castellammare di Stabia. Fontana storica.",
     "lat": 40.6761767,
     "lng": 14.4980667,
     "source": "osm",
@@ -26835,7 +26835,7 @@
   },
   {
     "nome": "Cippus of Suedius Clemens",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Cippus of Suedius Clemens a Pompei. Punto di interesse.",
     "lat": 40.7491791,
     "lng": 14.493683,
     "source": "osm",
@@ -27033,7 +27033,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "costiera",
     "citta": "Tramonti"
   },
@@ -27050,7 +27050,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "archeologico",
     "zona": "salerno",
     "citta": "Buccino"
   },
@@ -28529,7 +28529,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "castello",
     "zona": "cilento",
     "citta": "San Nicola Arcella"
   },
@@ -29350,7 +29350,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "castello",
     "zona": "costiera",
     "citta": "Vietri sul Mare"
   },
@@ -29435,7 +29435,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "castello",
     "zona": "salerno",
     "citta": "Nocera Inferiore"
   },
@@ -29673,7 +29673,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "ponte",
     "zona": "cilento",
     "citta": "Piaggine"
   },
@@ -29724,7 +29724,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "ponte",
     "zona": "cilento",
     "citta": "Sant'Angelo a Fasanella"
   },
@@ -29758,7 +29758,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "ponte",
     "zona": "cilento",
     "citta": "Sant'Angelo a Fasanella"
   },
@@ -29809,7 +29809,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "ponte",
     "zona": "cilento",
     "citta": "Sant'Angelo a Fasanella"
   },
@@ -30336,13 +30336,13 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "costiera",
     "citta": "Amalfi"
   },
   {
     "nome": "Eremo di San Liberatore",
-    "descrizione": "catholic",
+    "descrizione": "Eremo di San Liberatore a Vietri sul Mare. Luogo di culto.",
     "lat": 40.6791412,
     "lng": 14.7301667,
     "source": "osm",
@@ -30353,13 +30353,13 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "costiera",
     "citta": "Vietri sul Mare"
   },
   {
     "nome": "San Vincenzo Ferreri",
-    "descrizione": "roman_catholic",
+    "descrizione": "San Vincenzo Ferreri a Giffoni Sei Casali. Punto di interesse.",
     "lat": 40.6814272,
     "lng": 14.7031287,
     "source": "osm",
@@ -30376,7 +30376,7 @@
   },
   {
     "nome": "Abbazia di Santa Maria dell'Olearia",
-    "descrizione": "catholic",
+    "descrizione": "Abbazia di Santa Maria dell'Olearia a Maiori. Luogo di culto.",
     "lat": 40.6403557,
     "lng": 14.6679307,
     "source": "osm",
@@ -30387,7 +30387,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "costiera",
     "citta": "Maiori"
   },
@@ -30427,7 +30427,7 @@
   },
   {
     "nome": "San Felice di Tenna",
-    "descrizione": "roman_catholic",
+    "descrizione": "San Felice di Tenna a Tramonti. Punto di interesse.",
     "lat": 40.6997746,
     "lng": 14.6247695,
     "source": "osm",
@@ -30444,7 +30444,7 @@
   },
   {
     "nome": "Convento di S.Francesco",
-    "descrizione": "catholic",
+    "descrizione": "Convento di S.Francesco a Tramonti. Luogo di culto.",
     "lat": 40.6951934,
     "lng": 14.6423152,
     "source": "osm",
@@ -30455,7 +30455,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "costiera",
     "citta": "Tramonti"
   },
@@ -30824,7 +30824,7 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/77029440",
     "zona": "salerno",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "citta": "Giffoni Sei Casali"
   },
   {
@@ -30978,7 +30978,7 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/108852357",
     "zona": "salerno",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "citta": "Montecorvino Rovella"
   },
   {
@@ -31034,7 +31034,7 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/113755363",
     "zona": "salerno",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "citta": "Buccino"
   },
   {
@@ -31580,7 +31580,7 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/218959008",
     "zona": "salerno",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "citta": "Montecorvino Pugliano"
   },
   {
@@ -32393,7 +32393,7 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/454931029",
     "zona": "cilento",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "citta": "Roccadaspide"
   },
   {
@@ -32645,7 +32645,7 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/643383783",
     "zona": "salerno",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "citta": "San Giovanni a Piro"
   },
   {
@@ -34051,7 +34051,7 @@
   {
     "id": "osm-472481730",
     "nome": "Torre Medievale",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Torre Medievale a Boscotrecase. Torre storica.",
     "lat": 40.8141733,
     "lng": 14.339248,
     "source": "osm",
@@ -34107,7 +34107,7 @@
   {
     "id": "osm-4461442489",
     "nome": "Castello di Solofra",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello di Solofra a Bracigliano. Edificio storico.",
     "lat": 40.8358067,
     "lng": 14.8468852,
     "source": "osm",
@@ -34177,7 +34177,7 @@
   {
     "id": "osm-161774250",
     "nome": "Castello Salviano",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello Salviano a San Pietro al Tanagro. Edificio storico.",
     "lat": 40.5685567,
     "lng": 15.5507629,
     "source": "osm",
@@ -34233,7 +34233,7 @@
   {
     "id": "osm-264816301",
     "nome": "Castelletto Parise",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castelletto Parise a Bracigliano. Punto di interesse.",
     "lat": 40.8411848,
     "lng": 14.7521983,
     "source": "osm",
@@ -34247,7 +34247,7 @@
   {
     "id": "osm-272262649",
     "nome": "Castello Longobardo",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello Longobardo a Bracigliano. Edificio storico.",
     "lat": 40.8406898,
     "lng": 14.7898926,
     "source": "osm",
@@ -34303,7 +34303,7 @@
   {
     "id": "osm-333873791",
     "nome": "Castelluccia",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castelluccia a Bracigliano. Punto di interesse.",
     "lat": 40.8468741,
     "lng": 14.823417,
     "source": "osm",
@@ -34317,7 +34317,7 @@
   {
     "id": "osm-367153156",
     "nome": "Bastione di Parsano",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Bastione di Parsano a Sorrento. Edificio storico.",
     "lat": 40.6242398,
     "lng": 14.3724854,
     "source": "osm",
@@ -34331,7 +34331,7 @@
   {
     "id": "osm-487523623",
     "nome": "Torre Vicereale di Crapolla",
-    "descrizione": "Tipo: yes",
+    "descrizione": "Torre Vicereale di Crapolla a Massa Lubrense. Torre storica.",
     "lat": 40.5921704,
     "lng": 14.3830273,
     "source": "osm",
@@ -34429,7 +34429,7 @@
   {
     "id": "osm-649522818",
     "nome": "Castello dell'Annunziata",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello dell'Annunziata a Sorrento. Edificio storico.",
     "lat": 40.6029177,
     "lng": 14.3365229,
     "source": "osm",
@@ -34443,7 +34443,7 @@
   {
     "id": "osm-674457729",
     "nome": "Castello di Balvano",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Castello di Balvano a Buccino. Edificio storico.",
     "lat": 40.6504646,
     "lng": 15.5109161,
     "source": "osm",
@@ -34485,7 +34485,7 @@
   {
     "id": "osm-749056931",
     "nome": "Torre del Castello dell'Annunziata",
-    "descrizione": "Tipo: yes",
+    "descrizione": "Torre del Castello dell'Annunziata a Sorrento. Edificio storico.",
     "lat": 40.6031105,
     "lng": 14.336322,
     "source": "osm",
@@ -34499,7 +34499,7 @@
   {
     "id": "osm-749058319",
     "nome": "Torre di Fossa Papa",
-    "descrizione": "Tipo: yes",
+    "descrizione": "Torre di Fossa Papa a Massa Lubrense. Torre storica.",
     "lat": 40.5777604,
     "lng": 14.3236272,
     "source": "osm",
@@ -34513,7 +34513,7 @@
   {
     "id": "osm-749058331",
     "nome": "Torre Minerva",
-    "descrizione": "Tipo: yes",
+    "descrizione": "Torre Minerva a Massa Lubrense. Torre storica.",
     "lat": 40.5693664,
     "lng": 14.3247095,
     "source": "osm",
@@ -34541,7 +34541,7 @@
   {
     "id": "osm-750476488",
     "nome": "Palazzo Tenta",
-    "descrizione": "Tipo: castle",
+    "descrizione": "Palazzo Tenta a Campagna. Edificio storico.",
     "lat": 40.8305303,
     "lng": 15.0696577,
     "source": "osm",
@@ -34549,7 +34549,7 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/750476488",
     "zona": "salerno",
-    "tipo": "altro",
+    "tipo": "castello",
     "citta": "Campagna"
   },
   {
@@ -34597,7 +34597,7 @@
   {
     "id": "osm-987429776",
     "nome": "Torre Caprioli",
-    "descrizione": "Costruito: C15",
+    "descrizione": "Torre Caprioli a San Nicola Arcella. Torre storica.",
     "lat": 40.0633981,
     "lng": 15.2788522,
     "source": "osm",
@@ -34611,7 +34611,7 @@
   {
     "id": "osm-987691239",
     "nome": "Torrione",
-    "descrizione": "Tipo: yes",
+    "descrizione": "Torrione a Sorrento. Torre storica.",
     "lat": 40.6088307,
     "lng": 14.3415044,
     "source": "osm",
@@ -34619,13 +34619,13 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/987691239",
     "zona": "salerno",
-    "tipo": "altro",
+    "tipo": "torre",
     "citta": "Sorrento"
   },
   {
     "id": "osm-991701151",
     "nome": "Torre Liparulo",
-    "descrizione": "Tipo: yes",
+    "descrizione": "Torre Liparulo a Sorrento. Torre storica.",
     "lat": 40.6101753,
     "lng": 14.3524061,
     "source": "osm",
@@ -34639,7 +34639,7 @@
   {
     "id": "osm-1082527821",
     "nome": "Torre Giordano",
-    "descrizione": "Tipo: yes",
+    "descrizione": "Torre Giordano a Sorrento. Torre storica.",
     "lat": 40.6074688,
     "lng": 14.3485657,
     "source": "osm",
@@ -34975,7 +34975,7 @@
   {
     "id": "osm-4213916189",
     "nome": "Pascal",
-    "descrizione": "POI Pascal a Amalfi",
+    "descrizione": "Pascal a Amalfi. Punto di interesse.",
     "lat": 40.6502204,
     "lng": 14.6117079,
     "source": "osm",
@@ -35242,7 +35242,7 @@
   {
     "id": "osm-13920834742",
     "nome": "Museo del Reale Osservatorio Vesuviano",
-    "descrizione": "Costruito: 1845",
+    "descrizione": "Museo del Reale Osservatorio Vesuviano a Boscotrecase. Museo.",
     "lat": 40.8279731,
     "lng": 14.3974764,
     "source": "osm",
@@ -35491,7 +35491,7 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/500632931",
     "zona": "salerno",
-    "tipo": "altro",
+    "tipo": "castello",
     "citta": "Bracigliano"
   },
   {
@@ -35637,7 +35637,7 @@
   {
     "id": "osm-2182277838",
     "nome": "Torre di Recommone",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Torre di Recommone a Massa Lubrense. Torre storica.",
     "lat": 40.583838,
     "lng": 14.3640788,
     "source": "osm",
@@ -35651,7 +35651,7 @@
   {
     "id": "osm-2286605437",
     "nome": "Torre Orsina",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Torre Orsina a Siano. Torre storica.",
     "lat": 40.8176063,
     "lng": 14.6224217,
     "source": "osm",
@@ -35679,7 +35679,7 @@
   {
     "id": "osm-2681105204",
     "nome": "terme romane",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "terme romane a Boscotrecase. Punto di interesse.",
     "lat": 40.778239,
     "lng": 14.375457,
     "source": "osm",
@@ -35693,7 +35693,7 @@
   {
     "id": "osm-4679074978",
     "nome": "Tomba del Vaso di Vetro Blu",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba del Vaso di Vetro Blu a Pompei. Sito archeologico.",
     "lat": 40.752034,
     "lng": 14.4805668,
     "source": "osm",
@@ -35721,7 +35721,7 @@
   {
     "id": "osm-9107928903",
     "nome": "Massimo Troisi",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Massimo Troisi a Boscotrecase. Punto di interesse.",
     "lat": 40.8313783,
     "lng": 14.3495048,
     "source": "osm",
@@ -35735,7 +35735,7 @@
   {
     "id": "osm-9959390372",
     "nome": "Ponte l'Abate",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Ponte l'Abate a Rofrano. Ponte storico.",
     "lat": 40.2298656,
     "lng": 15.5210921,
     "source": "osm",
@@ -35749,7 +35749,7 @@
   {
     "id": "osm-10048989599",
     "nome": "Luciano De Crescenzo",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Luciano De Crescenzo a Praiano. Punto di interesse.",
     "lat": 40.6212732,
     "lng": 14.5562465,
     "source": "osm",
@@ -35833,7 +35833,7 @@
   {
     "id": "osm-201012570",
     "nome": "Castello",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Castello a Sala Consilina. Edificio storico.",
     "lat": 40.4032715,
     "lng": 15.5968018,
     "source": "osm",
@@ -35847,7 +35847,7 @@
   {
     "id": "osm-220063965",
     "nome": "Centro storico",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Centro storico a Castelnuovo di Conza. Punto di interesse.",
     "lat": 40.815469,
     "lng": 15.319123,
     "source": "osm",
@@ -35861,7 +35861,7 @@
   {
     "id": "osm-242018893",
     "nome": "La Torre",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "La Torre a Santi Cosma e Damiano. Torre storica.",
     "lat": 40.1725545,
     "lng": 15.5458968,
     "source": "osm",
@@ -35917,7 +35917,7 @@
   {
     "id": "osm-264816979",
     "nome": "Neviere di Piano Salto",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Neviere di Piano Salto a Bracigliano. Punto di interesse.",
     "lat": 40.8401327,
     "lng": 14.7235466,
     "source": "osm",
@@ -36603,7 +36603,7 @@
   {
     "id": "osm-473872981",
     "nome": "Tomba di C. Calventius Quietus",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di C. Calventius Quietus a Torre Annunziata. Sito archeologico.",
     "lat": 40.7522891,
     "lng": 14.4793245,
     "source": "osm",
@@ -36617,7 +36617,7 @@
   {
     "id": "osm-473872982",
     "nome": "Tomba di Naevoleia Tyche",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di Naevoleia Tyche a Torre Annunziata. Sito archeologico.",
     "lat": 40.7523413,
     "lng": 14.4792066,
     "source": "osm",
@@ -36631,7 +36631,7 @@
   {
     "id": "osm-473872983",
     "nome": "Tomba degli Allei",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba degli Allei a Torre Annunziata. Sito archeologico.",
     "lat": 40.7524435,
     "lng": 14.4792942,
     "source": "osm",
@@ -36645,7 +36645,7 @@
   {
     "id": "osm-473872984",
     "nome": "Tomba di Lucius Caltilius",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di Lucius Caltilius a Torre Annunziata. Sito archeologico.",
     "lat": 40.7523913,
     "lng": 14.4794641,
     "source": "osm",
@@ -36659,7 +36659,7 @@
   {
     "id": "osm-473872985",
     "nome": "Tomba di M. Popidius",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di M. Popidius a Torre Annunziata. Sito archeologico.",
     "lat": 40.7524609,
     "lng": 14.4792375,
     "source": "osm",
@@ -36673,7 +36673,7 @@
   {
     "id": "osm-473872986",
     "nome": "Triclinio funebre di Vibrius Saturninus",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Triclinio funebre di Vibrius Saturninus a Torre Annunziata. Punto di interesse.",
     "lat": 40.7523502,
     "lng": 14.4791144,
     "source": "osm",
@@ -36687,7 +36687,7 @@
   {
     "id": "osm-473873007",
     "nome": "Tomba di C. Fabius Secundus",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di C. Fabius Secundus a Torre Annunziata. Sito archeologico.",
     "lat": 40.7522332,
     "lng": 14.4794808,
     "source": "osm",
@@ -36701,7 +36701,7 @@
   {
     "id": "osm-473873008",
     "nome": "Tomba di N. Festius Ampliatus",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di N. Festius Ampliatus a Torre Annunziata. Sito archeologico.",
     "lat": 40.7522225,
     "lng": 14.4795523,
     "source": "osm",
@@ -36715,7 +36715,7 @@
   {
     "id": "osm-473873011",
     "nome": "Tomba di Aulus Umbricius Scaurus",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di Aulus Umbricius Scaurus a Torre Annunziata. Sito archeologico.",
     "lat": 40.7521754,
     "lng": 14.4797101,
     "source": "osm",
@@ -36729,7 +36729,7 @@
   {
     "id": "osm-473873036",
     "nome": "Tomba delle Ghirlande",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba delle Ghirlande a Pompei. Sito archeologico.",
     "lat": 40.7520033,
     "lng": 14.4806453,
     "source": "osm",
@@ -36743,7 +36743,7 @@
   {
     "id": "osm-473873038",
     "nome": "Tomba di Curtius N. F. Spurianus",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di Curtius N. F. Spurianus a Pompei. Sito archeologico.",
     "lat": 40.7519942,
     "lng": 14.4807005,
     "source": "osm",
@@ -36757,7 +36757,7 @@
   {
     "id": "osm-473873039",
     "nome": "Tomba senza nome",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba senza nome a Pompei. Sito archeologico.",
     "lat": 40.7519003,
     "lng": 14.4810441,
     "source": "osm",
@@ -36771,7 +36771,7 @@
   {
     "id": "osm-473873041",
     "nome": "Tomba di Mamia",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di Mamia a Pompei. Sito archeologico.",
     "lat": 40.7518269,
     "lng": 14.4808025,
     "source": "osm",
@@ -36785,7 +36785,7 @@
   {
     "id": "osm-473873042",
     "nome": "Tomba della Gens Istacidia",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba della Gens Istacidia a Pompei. Sito archeologico.",
     "lat": 40.7517156,
     "lng": 14.4807496,
     "source": "osm",
@@ -36799,7 +36799,7 @@
   {
     "id": "osm-473873043",
     "nome": "Tomba di M. Porcius",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di M. Porcius a Pompei. Sito archeologico.",
     "lat": 40.7517879,
     "lng": 14.4808747,
     "source": "osm",
@@ -36813,7 +36813,7 @@
   {
     "id": "osm-473873045",
     "nome": "Tomba di M. Cerrinius Restitutus",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di M. Cerrinius Restitutus a Pompei. Sito archeologico.",
     "lat": 40.7517711,
     "lng": 14.4809953,
     "source": "osm",
@@ -36827,7 +36827,7 @@
   {
     "id": "osm-473873046",
     "nome": "Tomba di Aulus Veius",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di Aulus Veius a Pompei. Sito archeologico.",
     "lat": 40.7517838,
     "lng": 14.4809484,
     "source": "osm",
@@ -36841,7 +36841,7 @@
   {
     "id": "osm-501868638",
     "nome": "officina",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "officina a Pompei. Punto di interesse.",
     "lat": 40.7495409,
     "lng": 14.4901357,
     "source": "osm",
@@ -36855,7 +36855,7 @@
   {
     "id": "osm-503557416",
     "nome": "Tomb of the Stronnii",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of the Stronnii a Pompei. Punto di interesse.",
     "lat": 40.7488004,
     "lng": 14.4928863,
     "source": "osm",
@@ -36869,7 +36869,7 @@
   {
     "id": "osm-503557417",
     "nome": "Tomb of Annedia & Lucius Caesius",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of Annedia & Lucius Caesius a Pompei. Punto di interesse.",
     "lat": 40.748811,
     "lng": 14.4929205,
     "source": "osm",
@@ -36883,7 +36883,7 @@
   {
     "id": "osm-503558997",
     "nome": "Tomb of Aulus Campius Antiocus",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of Aulus Campius Antiocus a Pompei. Punto di interesse.",
     "lat": 40.7488204,
     "lng": 14.4929578,
     "source": "osm",
@@ -36897,7 +36897,7 @@
   {
     "id": "osm-503558998",
     "nome": "Tomb of Castricia Prisca",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of Castricia Prisca a Pompei. Punto di interesse.",
     "lat": 40.748867,
     "lng": 14.4931197,
     "source": "osm",
@@ -36911,7 +36911,7 @@
   {
     "id": "osm-503558999",
     "nome": "Tomba di Publius Vesonius Phileros",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di Publius Vesonius Phileros a Pompei. Sito archeologico.",
     "lat": 40.7488987,
     "lng": 14.4931484,
     "source": "osm",
@@ -36925,7 +36925,7 @@
   {
     "id": "osm-503576061",
     "nome": "Tomb of Stallia Haphe (& Bebrix)",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of Stallia Haphe (& Bebrix) a Pompei. Punto di interesse.",
     "lat": 40.7489229,
     "lng": 14.4932433,
     "source": "osm",
@@ -36939,7 +36939,7 @@
   {
     "id": "osm-503576063",
     "nome": "Tomb of the Tilli",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of the Tilli a Pompei. Punto di interesse.",
     "lat": 40.748965,
     "lng": 14.493327,
     "source": "osm",
@@ -36953,7 +36953,7 @@
   {
     "id": "osm-503576064",
     "nome": "Tomb of Marcus Octavius",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of Marcus Octavius a Pompei. Punto di interesse.",
     "lat": 40.7489856,
     "lng": 14.4934317,
     "source": "osm",
@@ -36967,7 +36967,7 @@
   {
     "id": "osm-503576065",
     "nome": "Tomba di Eumachia",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di Eumachia a Pompei. Sito archeologico.",
     "lat": 40.7489705,
     "lng": 14.493573,
     "source": "osm",
@@ -36981,7 +36981,7 @@
   {
     "id": "osm-503576067",
     "nome": "Tomb of the Flavii",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of the Flavii a Pompei. Punto di interesse.",
     "lat": 40.7490889,
     "lng": 14.4936599,
     "source": "osm",
@@ -36995,7 +36995,7 @@
   {
     "id": "osm-503576068",
     "nome": "Tomb of the Clodii",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of the Clodii a Pompei. Punto di interesse.",
     "lat": 40.749109,
     "lng": 14.4937212,
     "source": "osm",
@@ -37009,7 +37009,7 @@
   {
     "id": "osm-503576070",
     "nome": "Tomb of Lucius Ceius Serapio",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of Lucius Ceius Serapio a Pompei. Punto di interesse.",
     "lat": 40.7490514,
     "lng": 14.493799,
     "source": "osm",
@@ -37023,7 +37023,7 @@
   {
     "id": "osm-503755473",
     "nome": "Tomba sconosciuta",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba sconosciuta a Pompei. Sito archeologico.",
     "lat": 40.7492579,
     "lng": 14.4938614,
     "source": "osm",
@@ -37037,7 +37037,7 @@
   {
     "id": "osm-503755474",
     "nome": "Tomba di Lucius Cellius",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di Lucius Cellius a Pompei. Sito archeologico.",
     "lat": 40.7492734,
     "lng": 14.4939014,
     "source": "osm",
@@ -37051,7 +37051,7 @@
   {
     "id": "osm-503755476",
     "nome": "Tomba di Aninia Didime",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di Aninia Didime a Pompei. Sito archeologico.",
     "lat": 40.7492916,
     "lng": 14.493985,
     "source": "osm",
@@ -37065,7 +37065,7 @@
   {
     "id": "osm-503755480",
     "nome": "Tomb of Numerius Alleius Auctus",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of Numerius Alleius Auctus a Pompei. Punto di interesse.",
     "lat": 40.7493607,
     "lng": 14.4941309,
     "source": "osm",
@@ -37079,7 +37079,7 @@
   {
     "id": "osm-503761650",
     "nome": "Tomba sconosciuta P.XXIV.2.20",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba sconosciuta P.XXIV.2.20 a Pompei. Sito archeologico.",
     "lat": 40.7494216,
     "lng": 14.4943257,
     "source": "osm",
@@ -37093,7 +37093,7 @@
   {
     "id": "osm-503761651",
     "nome": "Tomb of Lucius Publicius Syneros",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of Lucius Publicius Syneros a Pompei. Punto di interesse.",
     "lat": 40.7494518,
     "lng": 14.4943902,
     "source": "osm",
@@ -37107,7 +37107,7 @@
   {
     "id": "osm-503761655",
     "nome": "Tomb of Melissaea",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of Melissaea a Pompei. Punto di interesse.",
     "lat": 40.7495349,
     "lng": 14.4945686,
     "source": "osm",
@@ -37121,7 +37121,7 @@
   {
     "id": "osm-503761656",
     "nome": "Tomb of Lucius Sepunius Sandilianus",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of Lucius Sepunius Sandilianus a Pompei. Punto di interesse.",
     "lat": 40.7495844,
     "lng": 14.494594,
     "source": "osm",
@@ -37135,7 +37135,7 @@
   {
     "id": "osm-503765646",
     "nome": "Tomb of Derecia Methe",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of Derecia Methe a Pompei. Punto di interesse.",
     "lat": 40.7497252,
     "lng": 14.4949986,
     "source": "osm",
@@ -37149,7 +37149,7 @@
   {
     "id": "osm-504193897",
     "nome": "Tomba di Veia Barchilla",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di Veia Barchilla a Pompei. Sito archeologico.",
     "lat": 40.7491792,
     "lng": 14.4941378,
     "source": "osm",
@@ -37163,7 +37163,7 @@
   {
     "id": "osm-504193898",
     "nome": "Tomb of the Moneylender",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of the Moneylender a Pompei. Punto di interesse.",
     "lat": 40.749118,
     "lng": 14.4939545,
     "source": "osm",
@@ -37177,7 +37177,7 @@
   {
     "id": "osm-504193901",
     "nome": "Tomb of Gaius Munatius Faustus (& Navoleia Tyche)",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of Gaius Munatius Faustus (& Navoleia Tyche) a Pompei. Punto di interesse.",
     "lat": 40.7494102,
     "lng": 14.4946189,
     "source": "osm",
@@ -37191,7 +37191,7 @@
   {
     "id": "osm-504193902",
     "nome": "Tomb of Aulus Veius Atticus",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of Aulus Veius Atticus a Pompei. Punto di interesse.",
     "lat": 40.7494246,
     "lng": 14.494659,
     "source": "osm",
@@ -37205,7 +37205,7 @@
   {
     "id": "osm-504193904",
     "nome": "Tomb of Lucius Barbidius Communis",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of Lucius Barbidius Communis a Pompei. Punto di interesse.",
     "lat": 40.7494846,
     "lng": 14.4948294,
     "source": "osm",
@@ -37219,7 +37219,7 @@
   {
     "id": "osm-504193905",
     "nome": "Tomb of Gaius Cuspius Cyrus",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of Gaius Cuspius Cyrus a Pompei. Punto di interesse.",
     "lat": 40.7495013,
     "lng": 14.4948703,
     "source": "osm",
@@ -37233,7 +37233,7 @@
   {
     "id": "osm-504574294",
     "nome": "Tomb of Gaius Minatius Iucundus",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of Gaius Minatius Iucundus a Pompei. Punto di interesse.",
     "lat": 40.7490152,
     "lng": 14.4934074,
     "source": "osm",
@@ -37247,7 +37247,7 @@
   {
     "id": "osm-504574296",
     "nome": "Tomb of the Muttii",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of the Muttii a Pompei. Punto di interesse.",
     "lat": 40.7488962,
     "lng": 14.4932983,
     "source": "osm",
@@ -37261,7 +37261,7 @@
   {
     "id": "osm-504574297",
     "nome": "Tomb of Helle",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of Helle a Pompei. Punto di interesse.",
     "lat": 40.7489092,
     "lng": 14.4933309,
     "source": "osm",
@@ -37275,7 +37275,7 @@
   {
     "id": "osm-505038028",
     "nome": "Tomba di Marcus Veius Marcellus",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di Marcus Veius Marcellus a Pompei. Sito archeologico.",
     "lat": 40.7533664,
     "lng": 14.483811,
     "source": "osm",
@@ -37289,7 +37289,7 @@
   {
     "id": "osm-505038029",
     "nome": "Tomba di Caio Vestorio Prisco",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di Caio Vestorio Prisco a Pompei. Sito archeologico.",
     "lat": 40.7534121,
     "lng": 14.483844,
     "source": "osm",
@@ -37303,7 +37303,7 @@
   {
     "id": "osm-505038030",
     "nome": "Tomba di Arellia Tertulla",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di Arellia Tertulla a Pompei. Sito archeologico.",
     "lat": 40.7534745,
     "lng": 14.4838613,
     "source": "osm",
@@ -37317,7 +37317,7 @@
   {
     "id": "osm-505038031",
     "nome": "Tomba di Septumia",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di Septumia a Pompei. Sito archeologico.",
     "lat": 40.7535253,
     "lng": 14.4838159,
     "source": "osm",
@@ -37331,7 +37331,7 @@
   {
     "id": "osm-505041124",
     "nome": "Tomb of Aesquillia Polla",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of Aesquillia Polla a Pompei. Punto di interesse.",
     "lat": 40.7539307,
     "lng": 14.4911114,
     "source": "osm",
@@ -37345,7 +37345,7 @@
   {
     "id": "osm-505041127",
     "nome": "Tomb of Marcus Obellius Firmus",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of Marcus Obellius Firmus a Pompei. Punto di interesse.",
     "lat": 40.753991,
     "lng": 14.4908545,
     "source": "osm",
@@ -37359,7 +37359,7 @@
   {
     "id": "osm-505043438",
     "nome": "Tomba di Marcus Tullius",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di Marcus Tullius a Pompei. Sito archeologico.",
     "lat": 40.7481267,
     "lng": 14.4903165,
     "source": "osm",
@@ -37373,7 +37373,7 @@
   {
     "id": "osm-505043439",
     "nome": "Tomba di Marcus Alleius Minius",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di Marcus Alleius Minius a Pompei. Sito archeologico.",
     "lat": 40.7481009,
     "lng": 14.4903506,
     "source": "osm",
@@ -37387,7 +37387,7 @@
   {
     "id": "osm-505047447",
     "nome": "Tombs of the Buccii & Melissaei",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tombs of the Buccii & Melissaei a Pompei. Punto di interesse.",
     "lat": 40.7516867,
     "lng": 14.480792,
     "source": "osm",
@@ -37401,7 +37401,7 @@
   {
     "id": "osm-505051798",
     "nome": "Tomba di Numerius Istacidus Helenus",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di Numerius Istacidus Helenus a Torre Annunziata. Sito archeologico.",
     "lat": 40.7523226,
     "lng": 14.4792675,
     "source": "osm",
@@ -37415,7 +37415,7 @@
   {
     "id": "osm-505054341",
     "nome": "Tomb of Titus Terentius Felix",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of Titus Terentius Felix a Pompei. Punto di interesse.",
     "lat": 40.7519544,
     "lng": 14.4809148,
     "source": "osm",
@@ -37429,7 +37429,7 @@
   {
     "id": "osm-505054346",
     "nome": "Unknown tomb",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Unknown tomb a Pompei. Punto di interesse.",
     "lat": 40.7520403,
     "lng": 14.4805591,
     "source": "osm",
@@ -37443,7 +37443,7 @@
   {
     "id": "osm-505060831",
     "nome": "tomb of Salvius",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "tomb of Salvius a Torre Annunziata. Punto di interesse.",
     "lat": 40.7525058,
     "lng": 14.4792278,
     "source": "osm",
@@ -37457,7 +37457,7 @@
   {
     "id": "osm-505060833",
     "nome": "tomb of the Ceii",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "tomb of the Ceii a Torre Annunziata. Punto di interesse.",
     "lat": 40.7525612,
     "lng": 14.4792311,
     "source": "osm",
@@ -37471,7 +37471,7 @@
   {
     "id": "osm-505060834",
     "nome": "tomb of Numerius Velasius Gratus",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "tomb of Numerius Velasius Gratus a Torre Annunziata. Punto di interesse.",
     "lat": 40.7525025,
     "lng": 14.4791564,
     "source": "osm",
@@ -37485,7 +37485,7 @@
   {
     "id": "osm-505060835",
     "nome": "tomb of M. Arrius Diomedes",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "tomb of M. Arrius Diomedes a Torre Annunziata. Punto di interesse.",
     "lat": 40.7525096,
     "lng": 14.4791272,
     "source": "osm",
@@ -37499,7 +37499,7 @@
   {
     "id": "osm-505060838",
     "nome": "tomb of P. Sittius Diophantus?",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "tomb of P. Sittius Diophantus? a Torre Annunziata. Punto di interesse.",
     "lat": 40.7526007,
     "lng": 14.4791671,
     "source": "osm",
@@ -37513,7 +37513,7 @@
   {
     "id": "osm-506028484",
     "nome": "Tomb of Caecilia Agathia",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of Caecilia Agathia a Pompei. Punto di interesse.",
     "lat": 40.7499625,
     "lng": 14.4964688,
     "source": "osm",
@@ -37527,7 +37527,7 @@
   {
     "id": "osm-506028485",
     "nome": "Tomb of Novia Amoena",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of Novia Amoena a Pompei. Punto di interesse.",
     "lat": 40.7499758,
     "lng": 14.4965271,
     "source": "osm",
@@ -37541,7 +37541,7 @@
   {
     "id": "osm-506028486",
     "nome": "Tomb of G. Veranius Rufus",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of G. Veranius Rufus a Pompei. Punto di interesse.",
     "lat": 40.7499812,
     "lng": 14.4965952,
     "source": "osm",
@@ -37555,7 +37555,7 @@
   {
     "id": "osm-506028488",
     "nome": "Tomb of the Blaesii",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of the Blaesii a Pompei. Punto di interesse.",
     "lat": 40.7500062,
     "lng": 14.4967226,
     "source": "osm",
@@ -37569,7 +37569,7 @@
   {
     "id": "osm-506028489",
     "nome": "Tomb of the Lollii",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of the Lollii a Pompei. Punto di interesse.",
     "lat": 40.7500085,
     "lng": 14.4967645,
     "source": "osm",
@@ -37583,7 +37583,7 @@
   {
     "id": "osm-506036761",
     "nome": "Tomb of Asia or A.S.I.A.",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of Asia or A.S.I.A. a Pompei. Punto di interesse.",
     "lat": 40.7498701,
     "lng": 14.4966105,
     "source": "osm",
@@ -37597,7 +37597,7 @@
   {
     "id": "osm-506036762",
     "nome": "Tomb of E. M. and Valentinus",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of E. M. and Valentinus a Pompei. Punto di interesse.",
     "lat": 40.7498624,
     "lng": 14.4965708,
     "source": "osm",
@@ -37611,7 +37611,7 @@
   {
     "id": "osm-506036763",
     "nome": "Tomb of C. Auficius Clemens and Secundus",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomb of C. Auficius Clemens and Secundus a Pompei. Punto di interesse.",
     "lat": 40.749849,
     "lng": 14.4965329,
     "source": "osm",
@@ -37625,7 +37625,7 @@
   {
     "id": "osm-506036765",
     "nome": "Tombs of the Calventii",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tombs of the Calventii a Pompei. Punto di interesse.",
     "lat": 40.7498407,
     "lng": 14.4964348,
     "source": "osm",
@@ -37681,7 +37681,7 @@
   {
     "id": "osm-848552096",
     "nome": "Ex monastero San Nicola dei Miri",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Ex monastero San Nicola dei Miri a Casola di Napoli. Punto di interesse.",
     "lat": 40.683493,
     "lng": 14.5294076,
     "source": "osm",
@@ -37709,7 +37709,7 @@
   {
     "id": "osm-955781259",
     "nome": "Resti dell'abbazia di San Pietro a Crapolla",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Resti dell'abbazia di San Pietro a Crapolla a Massa Lubrense. Luogo di culto.",
     "lat": 40.5918918,
     "lng": 14.3800913,
     "source": "osm",
@@ -37717,13 +37717,13 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/955781259",
     "zona": "salerno",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "citta": "Massa Lubrense"
   },
   {
     "id": "osm-1016842479",
     "nome": "Rudere Chiesa di Saragnano",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Rudere Chiesa di Saragnano a Vietri sul Mare. Luogo di culto.",
     "lat": 40.6807723,
     "lng": 14.7387265,
     "source": "osm",
@@ -37877,7 +37877,7 @@
   {
     "id": "osm-1301825771",
     "nome": "Tomba di Gnaeus Alleius Nigidius Maius",
-    "descrizione": "Tipo: tomb",
+    "descrizione": "Tomba di Gnaeus Alleius Nigidius Maius a Pompei. Sito archeologico.",
     "lat": 40.7479484,
     "lng": 14.4905705,
     "source": "osm",
@@ -37905,7 +37905,7 @@
   {
     "id": "osm-1361950659",
     "nome": "statue base",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "statue base a Boscotrecase. Punto di interesse.",
     "lat": 40.8068417,
     "lng": 14.3480124,
     "source": "osm",
@@ -37933,7 +37933,7 @@
   {
     "id": "osm-1433723353",
     "nome": "Antica Calcara",
-    "descrizione": "Tipo: ruins",
+    "descrizione": "Antica Calcara a Sorrento. Punto di interesse.",
     "lat": 40.6138456,
     "lng": 14.3858686,
     "source": "osm",
@@ -38717,7 +38717,7 @@
   {
     "id": "osm-6712352585",
     "nome": "Grotta del cannone",
-    "descrizione": "Turismo: attraction",
+    "descrizione": "Grotta del cannone a San Giovanni a Piro. Grotta.",
     "lat": 40.0098155,
     "lng": 15.4366898,
     "source": "osm",
@@ -39131,7 +39131,7 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/8158209080",
     "zona": "salerno",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "citta": "Siano"
   },
   {
@@ -40131,7 +40131,7 @@
   {
     "id": "osm-1109470873",
     "nome": "Epitaffio",
-    "descrizione": "Tipo: memorial",
+    "descrizione": "Epitaffio a Eboli. Punto di interesse.",
     "lat": 40.6139508,
     "lng": 15.0784943,
     "source": "osm",
@@ -40145,7 +40145,7 @@
   {
     "id": "osm-1304920149",
     "nome": "Antece",
-    "descrizione": "Tipo: monument",
+    "descrizione": "Antece a Sant'Angelo a Fasanella. Punto di interesse.",
     "lat": 40.4811415,
     "lng": 15.3693079,
     "source": "osm",
@@ -40159,7 +40159,7 @@
   {
     "id": "osm-1436260760",
     "nome": "SS Salvatore",
-    "descrizione": "Tipo: monument",
+    "descrizione": "SS Salvatore a Campagna. Punto di interesse.",
     "lat": 40.825696,
     "lng": 15.0295507,
     "source": "osm",
@@ -40173,7 +40173,7 @@
   {
     "id": "osm-1729435213",
     "nome": "Sant'Antonino Abate",
-    "descrizione": "Tipo: memorial",
+    "descrizione": "Sant'Antonino Abate a Sorrento. Punto di interesse.",
     "lat": 40.6270869,
     "lng": 14.3745794,
     "source": "osm",
@@ -40187,7 +40187,7 @@
   {
     "id": "osm-1947141962",
     "nome": "Torre dell'orologio",
-    "descrizione": "Tipo: monument",
+    "descrizione": "Torre dell'orologio a Capaccio Paestum. Torre storica.",
     "lat": 40.4220856,
     "lng": 15.0810721,
     "source": "osm",
@@ -40201,7 +40201,7 @@
   {
     "id": "osm-1967471831",
     "nome": "Christo",
-    "descrizione": "Tipo: monument",
+    "descrizione": "Christo a Montano Antilia. Punto di interesse.",
     "lat": 40.0620115,
     "lng": 15.3578383,
     "source": "osm",
@@ -40215,7 +40215,7 @@
   {
     "id": "osm-1968608082",
     "nome": "Padre Pio",
-    "descrizione": "Tipo: memorial",
+    "descrizione": "Padre Pio a Montano Antilia. Punto di interesse.",
     "lat": 40.0947932,
     "lng": 15.3789677,
     "source": "osm",
@@ -40229,7 +40229,7 @@
   {
     "id": "osm-2257463629",
     "nome": "Cippo Carlo Pisacane",
-    "descrizione": "Tipo: memorial",
+    "descrizione": "Cippo Carlo Pisacane a Rofrano. Punto di interesse.",
     "lat": 40.2484042,
     "lng": 15.5630541,
     "source": "osm",
@@ -40257,7 +40257,7 @@
   {
     "id": "osm-3077169586",
     "nome": "Monumento all'emigrante",
-    "descrizione": "Tipo: monument",
+    "descrizione": "Monumento all'emigrante a Sant'Andrea di Conza. Monumento.",
     "lat": 40.8352501,
     "lng": 15.3958614,
     "source": "osm",
@@ -40299,7 +40299,7 @@
   {
     "id": "osm-4330509367",
     "nome": "Viale Rimembranza",
-    "descrizione": "Tipo: memorial",
+    "descrizione": "Viale Rimembranza a Vico Equense. Punto di interesse.",
     "lat": 40.6623245,
     "lng": 14.4243316,
     "source": "osm",
@@ -40327,7 +40327,7 @@
   {
     "id": "osm-4483520750",
     "nome": "Targa a Salvatore Barbaro",
-    "descrizione": "Tipo: memorial",
+    "descrizione": "Targa a Salvatore Barbaro a Boscotrecase. Punto di interesse.",
     "lat": 40.8069027,
     "lng": 14.347171,
     "source": "osm",
@@ -40341,7 +40341,7 @@
   {
     "id": "osm-4575453729",
     "nome": "Pilone",
-    "descrizione": "Tipo: monument",
+    "descrizione": "Pilone a Buccino. Punto di interesse.",
     "lat": 40.6201297,
     "lng": 15.4969291,
     "source": "osm",
@@ -40369,7 +40369,7 @@
   {
     "id": "osm-5214555188",
     "nome": "Monumento \"Epitaffio\"",
-    "descrizione": "Tipo: memorial",
+    "descrizione": "Monumento \"Epitaffio\" a Boscotrecase. Monumento.",
     "lat": 40.7776206,
     "lng": 14.3893031,
     "source": "osm",
@@ -40383,7 +40383,7 @@
   {
     "id": "osm-5254167122",
     "nome": "Lapis Pollae",
-    "descrizione": "Tipo: memorial",
+    "descrizione": "Lapis Pollae a San Pietro al Tanagro. Punto di interesse.",
     "lat": 40.5171757,
     "lng": 15.505136,
     "source": "osm",
@@ -40397,7 +40397,7 @@
   {
     "id": "osm-6883316690",
     "nome": "San Giovanni Paolo II",
-    "descrizione": "Tipo: memorial",
+    "descrizione": "San Giovanni Paolo II a Sorrento. Punto di interesse.",
     "lat": 40.6253365,
     "lng": 14.3724849,
     "source": "osm",
@@ -40411,7 +40411,7 @@
   {
     "id": "osm-8454867433",
     "nome": "Torre geodetica di Paterno",
-    "descrizione": "Tipo: monument",
+    "descrizione": "Torre geodetica di Paterno a Siano. Torre storica.",
     "lat": 40.7889498,
     "lng": 14.6592728,
     "source": "osm",
@@ -40425,7 +40425,7 @@
   {
     "id": "osm-8502954499",
     "nome": "Montella ai suoi Caduti",
-    "descrizione": "Tipo: memorial",
+    "descrizione": "Montella ai suoi Caduti a Campagna. Punto di interesse.",
     "lat": 40.8411346,
     "lng": 15.0227578,
     "source": "osm",
@@ -40439,7 +40439,7 @@
   {
     "id": "osm-8589181919",
     "nome": "la statua",
-    "descrizione": "Tipo: monument",
+    "descrizione": "la statua a Castellammare di Stabia. Monumento.",
     "lat": 40.695699,
     "lng": 14.4808214,
     "source": "osm",
@@ -40467,7 +40467,7 @@
   {
     "id": "osm-9253959769",
     "nome": "Zucca",
-    "descrizione": "Tipo: monument",
+    "descrizione": "Zucca a Sant'Antonio Abate. Punto di interesse.",
     "lat": 40.7488634,
     "lng": 14.5508674,
     "source": "osm",
@@ -40509,7 +40509,7 @@
   {
     "id": "osm-9983755970",
     "nome": "Achille Lauro",
-    "descrizione": "Tipo: memorial",
+    "descrizione": "Achille Lauro a Sorrento. Punto di interesse.",
     "lat": 40.6268127,
     "lng": 14.3798241,
     "source": "osm",
@@ -40523,7 +40523,7 @@
   {
     "id": "osm-9992320279",
     "nome": "Fernando Schettini",
-    "descrizione": "Tipo: monument",
+    "descrizione": "Fernando Schettini a Sant'Andrea di Conza. Punto di interesse.",
     "lat": 40.8360801,
     "lng": 15.398218,
     "source": "osm",
@@ -40537,7 +40537,7 @@
   {
     "id": "osm-10316214463",
     "nome": "\"Totem X\"",
-    "descrizione": "Tipo: memorial",
+    "descrizione": "\"Totem X\" a Vallo della Lucania. Punto di interesse.",
     "lat": 40.2727379,
     "lng": 15.2599575,
     "source": "osm",
@@ -40551,7 +40551,7 @@
   {
     "id": "osm-10989526428",
     "nome": "Massimo Gorki",
-    "descrizione": "Tipo: memorial",
+    "descrizione": "Massimo Gorki a Sorrento. Punto di interesse.",
     "lat": 40.6288196,
     "lng": 14.3562131,
     "source": "osm",
@@ -40565,7 +40565,7 @@
   {
     "id": "osm-11042549415",
     "nome": "Francis Marion Crawford",
-    "descrizione": "Tipo: memorial",
+    "descrizione": "Francis Marion Crawford a Sorrento. Punto di interesse.",
     "lat": 40.6353895,
     "lng": 14.3920086,
     "source": "osm",
@@ -40579,7 +40579,7 @@
   {
     "id": "osm-11374335629",
     "nome": "Palazzo Pane",
-    "descrizione": "Tipo: memorial",
+    "descrizione": "Palazzo Pane a Sorrento. Edificio storico.",
     "lat": 40.6264256,
     "lng": 14.3999695,
     "source": "osm",
@@ -40587,13 +40587,13 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/11374335629",
     "zona": "salerno",
-    "tipo": "altro",
+    "tipo": "castello",
     "citta": "Sorrento"
   },
   {
     "id": "osm-11537204378",
     "nome": "Ara di Marco Nonio Balbo",
-    "descrizione": "Tipo: monument",
+    "descrizione": "Ara di Marco Nonio Balbo a Boscotrecase. Sito archeologico.",
     "lat": 40.8052987,
     "lng": 14.3466675,
     "source": "osm",
@@ -40607,7 +40607,7 @@
   {
     "id": "osm-12075112345",
     "nome": "Monumento all'Aviatore",
-    "descrizione": "Tipo: monument",
+    "descrizione": "Monumento all'Aviatore a Vico Equense. Monumento.",
     "lat": 40.661471,
     "lng": 14.4762803,
     "source": "osm",
@@ -40621,7 +40621,7 @@
   {
     "id": "osm-12999850920",
     "nome": "Monumento del donatore AVIS",
-    "descrizione": "Tipo: monument",
+    "descrizione": "Monumento del donatore AVIS a Buccino. Monumento.",
     "lat": 40.5993572,
     "lng": 15.509839,
     "source": "osm",
@@ -40635,7 +40635,7 @@
   {
     "id": "osm-13167233747",
     "nome": "Statua di Cristo",
-    "descrizione": "Tipo: memorial",
+    "descrizione": "Statua di Cristo a Sala Consilina. Monumento.",
     "lat": 40.4072426,
     "lng": 15.5789962,
     "source": "osm",
@@ -40677,7 +40677,7 @@
   {
     "id": "osm-570274576",
     "nome": "Parchetto Monumento ai Caduti (yuppidù)",
-    "descrizione": "Tipo: monument",
+    "descrizione": "Parchetto Monumento ai Caduti (yuppidù) a Bracigliano. Monumento.",
     "lat": 40.8294043,
     "lng": 14.8472567,
     "source": "osm",
@@ -40691,7 +40691,7 @@
   {
     "id": "osm-1316328562",
     "nome": "Croce",
-    "descrizione": "Tipo: wayside_cross",
+    "descrizione": "Croce a Buccino. Punto di interesse.",
     "lat": 40.5678316,
     "lng": 15.4939174,
     "source": "osm",
@@ -40705,7 +40705,7 @@
   {
     "id": "osm-1427657189",
     "nome": "Antico Lavatoio Fundanedda",
-    "descrizione": "Tipo: monument",
+    "descrizione": "Antico Lavatoio Fundanedda a Padula. Fontana storica.",
     "lat": 40.3334689,
     "lng": 15.5614479,
     "source": "osm",
@@ -40873,7 +40873,7 @@
   {
     "id": "osm-1659195473",
     "nome": "Fontana di Sant'Andrea",
-    "descrizione": "Turismo: artwork",
+    "descrizione": "Fontana di Sant'Andrea a Amalfi. Fontana storica.",
     "lat": 40.6341677,
     "lng": 14.6025549,
     "source": "osm",
@@ -42385,7 +42385,7 @@
   {
     "id": "osm-9929190249",
     "nome": "Fontana dello Schizzariello",
-    "descrizione": "Tipo: yes",
+    "descrizione": "Fontana dello Schizzariello a Sorrento. Fontana storica.",
     "lat": 40.6258629,
     "lng": 14.3728804,
     "source": "osm",
@@ -42833,7 +42833,7 @@
   {
     "id": "osm-421676162",
     "nome": "Acquedotto medievale di Salerno",
-    "descrizione": "Tipo: aqueduct",
+    "descrizione": "Acquedotto medievale di Salerno a Salerno. Fontana storica.",
     "lat": 40.6799288,
     "lng": 14.7647869,
     "source": "osm",
@@ -43507,7 +43507,7 @@
   {
     "id": "osm-29492826",
     "nome": "Raccordo Sarno-Salerno",
-    "descrizione": "Costruito: 1992",
+    "descrizione": "Raccordo Sarno-Salerno a Siano. Punto di interesse.",
     "lat": 40.8091015,
     "lng": 14.6171839,
     "source": "osm",
@@ -43521,7 +43521,7 @@
   {
     "id": "osm-29494339",
     "nome": "Linea a Monte del Vesuvio",
-    "descrizione": "Costruito: 1992",
+    "descrizione": "Linea a Monte del Vesuvio a Nocera Inferiore. Punto di interesse.",
     "lat": 40.7555148,
     "lng": 14.6533586,
     "source": "osm",
@@ -43907,7 +43907,7 @@
   {
     "id": "osm-69484929",
     "nome": "Strada Provinciale 17 di Capodigiano",
-    "descrizione": "Tipo: yes",
+    "descrizione": "Strada Provinciale 17 di Capodigiano a Teora. Punto di interesse.",
     "lat": 40.7536926,
     "lng": 15.4903929,
     "source": "osm",
@@ -45079,7 +45079,7 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/105789065",
     "zona": "cilento",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "citta": "San Pietro al Tanagro"
   },
   {
@@ -46300,7 +46300,7 @@
     "osm_type": "way",
     "link": "https://www.openstreetmap.org/way/177321050",
     "zona": "salerno",
-    "tipo": "altro",
+    "tipo": "torre",
     "citta": "Siano"
   },
   {
@@ -49618,7 +49618,7 @@
   {
     "id": "osm-667466685",
     "nome": "Ponte della Lavandaia",
-    "descrizione": "Tipo: bridge",
+    "descrizione": "Ponte della Lavandaia a Campagna. Ponte storico.",
     "lat": 40.8367282,
     "lng": 15.0304901,
     "source": "osm",
@@ -52117,7 +52117,7 @@
   {
     "id": "osm-1266458127",
     "nome": "Ponte Orazio",
-    "descrizione": "Tipo: yes",
+    "descrizione": "Ponte Orazio a Piano di Sorrento. Ponte storico.",
     "lat": 40.6349202,
     "lng": 14.4203482,
     "source": "osm",
@@ -53265,7 +53265,7 @@
   {
     "id": "osm-305070718",
     "nome": "Porta Sarno",
-    "descrizione": "Tipo: city_gate",
+    "descrizione": "Porta Sarno a Pompei. Porta storica.",
     "lat": 40.7528139,
     "lng": 14.4944173,
     "source": "osm",
@@ -53279,7 +53279,7 @@
   {
     "id": "osm-305070757",
     "nome": "Porta di Stabia",
-    "descrizione": "Tipo: city_gate",
+    "descrizione": "Porta di Stabia a Pompei. Porta storica.",
     "lat": 40.7483283,
     "lng": 14.4899552,
     "source": "osm",
@@ -53293,7 +53293,7 @@
   {
     "id": "osm-316434187",
     "nome": "Porta di Ercolano",
-    "descrizione": "Tipo: city_gate",
+    "descrizione": "Porta di Ercolano a Pompei. Porta storica.",
     "lat": 40.7518271,
     "lng": 14.4811095,
     "source": "osm",
@@ -53321,7 +53321,7 @@
   {
     "id": "osm-317672536",
     "nome": "Porta Nola",
-    "descrizione": "Tipo: city_gate",
+    "descrizione": "Porta Nola a Pompei. Porta storica.",
     "lat": 40.7537202,
     "lng": 14.4907955,
     "source": "osm",
@@ -53335,7 +53335,7 @@
   {
     "id": "osm-317723948",
     "nome": "Porta Marina",
-    "descrizione": "Tipo: city_gate",
+    "descrizione": "Porta Marina a Pompei. Porta storica.",
     "lat": 40.748509,
     "lng": 14.4830852,
     "source": "osm",
@@ -53349,7 +53349,7 @@
   {
     "id": "osm-317736807",
     "nome": "Porta Vesuvio",
-    "descrizione": "Tipo: city_gate",
+    "descrizione": "Porta Vesuvio a Pompei. Porta storica.",
     "lat": 40.7533795,
     "lng": 14.4840985,
     "source": "osm",
@@ -53377,7 +53377,7 @@
   {
     "id": "osm-738804679",
     "nome": "Porta Nocera",
-    "descrizione": "Tipo: city_gate",
+    "descrizione": "Porta Nocera a Pompei. Porta storica.",
     "lat": 40.7495098,
     "lng": 14.4934419,
     "source": "osm",
@@ -53405,7 +53405,7 @@
   {
     "id": "osm-2091433809",
     "nome": "Hotel Eremo",
-    "descrizione": "Materiale: metal",
+    "descrizione": "Hotel Eremo a Boscotrecase. Luogo di culto.",
     "lat": 40.8290764,
     "lng": 14.3950576,
     "source": "osm",
@@ -53413,7 +53413,7 @@
     "osm_type": "node",
     "link": "https://www.openstreetmap.org/node/2091433809",
     "zona": "salerno",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "citta": "Boscotrecase"
   },
   {
@@ -53433,7 +53433,7 @@
   {
     "id": "osm-4005110572",
     "nome": "Porta Sirena",
-    "descrizione": "Tipo: city_gate",
+    "descrizione": "Porta Sirena a Capaccio Paestum. Porta storica.",
     "lat": 40.4216414,
     "lng": 15.0135814,
     "source": "osm",
@@ -53447,7 +53447,7 @@
   {
     "id": "osm-6858992022",
     "nome": "Porta di Capua",
-    "descrizione": "Tipo: city_gate",
+    "descrizione": "Porta di Capua a Pompei. Porta storica.",
     "lat": 40.7542431,
     "lng": 14.4867805,
     "source": "osm",
@@ -53489,7 +53489,7 @@
   {
     "id": "osm-8816413375",
     "nome": "A Crapa Mangia",
-    "descrizione": "Materiale: metal",
+    "descrizione": "A Crapa Mangia a Castellabate. Punto di interesse.",
     "lat": 40.2900099,
     "lng": 14.9657848,
     "source": "osm",
@@ -53531,7 +53531,7 @@
   {
     "id": "osm-10052189573",
     "nome": "Porta Monumentale",
-    "descrizione": "Tipo: city_gate",
+    "descrizione": "Porta Monumentale a Capaccio Paestum. Porta storica.",
     "lat": 40.3526322,
     "lng": 14.9862078,
     "source": "osm",
@@ -53573,7 +53573,7 @@
   {
     "id": "osm-107896494",
     "nome": "Porta Rosa",
-    "descrizione": "Tipo: city_gate",
+    "descrizione": "Porta Rosa a Centola. Porta storica.",
     "lat": 40.1627016,
     "lng": 15.1587279,
     "source": "osm",
@@ -53601,7 +53601,7 @@
   {
     "id": "osm-848919863",
     "nome": "Porta di Castello",
-    "descrizione": "Tipo: city_gate",
+    "descrizione": "Porta di Castello a Casola di Napoli. Edificio storico.",
     "lat": 40.6790784,
     "lng": 14.5362234,
     "source": "osm",
@@ -53615,7 +53615,7 @@
   {
     "id": "osm-1080898284",
     "nome": "Porta di Parsano",
-    "descrizione": "Tipo: city_gate",
+    "descrizione": "Porta di Parsano a Sorrento. Porta storica.",
     "lat": 40.6243479,
     "lng": 14.3728003,
     "source": "osm",
@@ -53629,7 +53629,7 @@
   {
     "id": "osm-1286361138",
     "nome": "Porta Nuova (Porta San Marco)",
-    "descrizione": "Tipo: city_gate",
+    "descrizione": "Porta Nuova (Porta San Marco) a Salerno. Sito archeologico.",
     "lat": 40.6773452,
     "lng": 14.7626794,
     "source": "osm",
@@ -53640,5 +53640,599 @@
     "tipo": "archeologico",
     "citta": "Salerno",
     "quartiere": "Centro Storico"
+  },
+  {
+    "id": "luci-01",
+    "nome": "Giardino Preistorico",
+    "descrizione": "Installazione luminosa con dinosauri e creature preistoriche nella Villa Comunale",
+    "lat": 40.681,
+    "lng": 14.773,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Villa Comunale",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "artista": "Luca Pannoli | Ondesign",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-02",
+    "nome": "Percorso Fiorito",
+    "descrizione": "Tunnel luminoso con fiori e rami colorati nel Centro Storico",
+    "lat": 40.6795,
+    "lng": 14.765,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Centro Storico",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-03",
+    "nome": "Noi siamo Natura",
+    "descrizione": "Figure femminili in relazione con elementi naturali - capelli nuvole, mani farfalle",
+    "lat": 40.679,
+    "lng": 14.764,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Centro Storico",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "artista": "Luca Pannoli",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-04",
+    "nome": "La danza delle meduse",
+    "descrizione": "Meduse luminose multicolori che popolano il cielo della piazza",
+    "lat": 40.678,
+    "lng": 14.762,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Centro Storico",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "artista": "Luca Pannoli | Ondesign",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-05",
+    "nome": "...e le stelle stanno a guardare",
+    "descrizione": "Volta affrescata luminosa con cerchio di nuvole e figure misteriose",
+    "lat": 40.677,
+    "lng": 14.768,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Centro Storico",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "artista": "Luca Pannoli | Ondesign",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-06",
+    "nome": "Albero di Natale",
+    "descrizione": "Grande albero natalizio illuminato in Piazza Portanova",
+    "lat": 40.676,
+    "lng": 14.771,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Centro Storico",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-12-08",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-07",
+    "nome": "Angeli",
+    "descrizione": "Figure angeliche luminose lungo Via Duomo",
+    "lat": 40.6755,
+    "lng": 14.767,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Centro Storico",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-08",
+    "nome": "Colorare Salerno",
+    "descrizione": "Esplosione di colori e sfumature nella piazza",
+    "lat": 40.675,
+    "lng": 14.765,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Centro Storico",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "artista": "Luca Pannoli",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-09",
+    "nome": "Il mare d'inverno",
+    "descrizione": "Viaggio emozionale tra luci e riflessi d'acqua sul Corso Vittorio Emanuele",
+    "lat": 40.674,
+    "lng": 14.772,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Centro Storico",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "artista": "Luca Pannoli",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-10",
+    "nome": "Locomotiva dei fiori",
+    "descrizione": "Locomotiva luminosa con ciminiera di fiori variopinti in Piazza Vittorio Veneto",
+    "lat": 40.672,
+    "lng": 14.778,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Mercato",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-11",
+    "nome": "Giochi di biglie",
+    "descrizione": "Sfere colorate ispirate ai giochi d'infanzia natalizi",
+    "lat": 40.673,
+    "lng": 14.775,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Mercato",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-12",
+    "nome": "Paesaggio Polare",
+    "descrizione": "Scenario di acqua, ghiacci e orsi polari luminosi",
+    "lat": 40.6735,
+    "lng": 14.776,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Mercato",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-13",
+    "nome": "Albero natalizio con sfere colorate",
+    "descrizione": "Albero decorato con sfere multicolori",
+    "lat": 40.6745,
+    "lng": 14.769,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Centro Storico",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-14",
+    "nome": "Palme Dorate",
+    "descrizione": "Palme luminose dorate lungo il Lungomare",
+    "lat": 40.668,
+    "lng": 14.782,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Lungomare",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-15",
+    "nome": "I Fiori del Mare",
+    "descrizione": "Bulbi di luce nei pali e palme di Piazza della Libertà",
+    "lat": 40.669,
+    "lng": 14.781,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Lungomare",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "artista": "Luca Pannoli | Ondesign",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-16",
+    "nome": "Partitura d'aMARE",
+    "descrizione": "Pentagramma musicale che diventa onde marine nella Sottopiazza della Libertà",
+    "lat": 40.6685,
+    "lng": 14.7805,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Lungomare",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "artista": "Luca Pannoli | Ondesign",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-17",
+    "nome": "Alberi Magici",
+    "descrizione": "Alberi luminosi incantati in Piazza San Francesco",
+    "lat": 40.6765,
+    "lng": 14.764,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Centro Storico",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-18",
+    "nome": "La fata delle farfalle",
+    "descrizione": "Fata magica con bacchetta scintillante e farfalle variopinte a Largo Dogana Regia",
+    "lat": 40.6755,
+    "lng": 14.763,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Centro Storico",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-19",
+    "nome": "Madonna con Bambino",
+    "descrizione": "Presepe luminoso nel Complesso di Santa Sofia",
+    "lat": 40.6775,
+    "lng": 14.766,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Centro Storico",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "artista": "Eduardo Giannattasio",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-20",
+    "nome": "Rami Dorati",
+    "descrizione": "Rami d'oro luminosi lungo Via del Carmine e Via dei Principati",
+    "lat": 40.6745,
+    "lng": 14.766,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Centro Storico",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-21",
+    "nome": "Foglie d'Argento, Fiocchi e Stelle",
+    "descrizione": "Foglie argento e stelle luminose lungo Via Trento",
+    "lat": 40.673,
+    "lng": 14.769,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Centro Storico",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-22",
+    "nome": "Alberi Innevati",
+    "descrizione": "Alberi coperti di neve artificiale lungo Corso Garibaldi",
+    "lat": 40.671,
+    "lng": 14.774,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Mercato",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-23",
+    "nome": "Metamorphosis",
+    "descrizione": "Trasformazioni luminose di Eliana Petrizzi",
+    "lat": 40.6715,
+    "lng": 14.777,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Mercato",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "artista": "Eliana Petrizzi",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-24",
+    "nome": "Il Mito",
+    "descrizione": "Installazione mitologica di Nello Ferrigno",
+    "lat": 40.6725,
+    "lng": 14.779,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Mercato",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "artista": "Nello Ferrigno",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-25",
+    "nome": "Sfere-Mondi",
+    "descrizione": "Sfere luminose che rappresentano mondi diversi",
+    "lat": 40.6705,
+    "lng": 14.776,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Mercato",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-26",
+    "nome": "Giochi d'Acqua",
+    "descrizione": "Giochi luminosi d'acqua nelle vie del centro",
+    "lat": 40.674,
+    "lng": 14.763,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Centro Storico",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-27",
+    "nome": "Vele",
+    "descrizione": "Vele luminose lungo Via Cocchia",
+    "lat": 40.6695,
+    "lng": 14.78,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Lungomare",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-28",
+    "nome": "Onde e Vele",
+    "descrizione": "Onde e vele marine luminose lungo Via Diaz",
+    "lat": 40.6688,
+    "lng": 14.7815,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Lungomare",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-29",
+    "nome": "Circus",
+    "descrizione": "Circus luminoso di Luca Pannoli nelle vie del centro",
+    "lat": 40.676,
+    "lng": 14.762,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Centro Storico",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "artista": "Luca Pannoli",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-30",
+    "nome": "Accendi il tuo futuro",
+    "descrizione": "Opera della Cooperativa Sociale Fili d'Erba",
+    "lat": 40.67,
+    "lng": 14.773,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Mercato",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-31",
+    "nome": "...e le stelle stanno a guardare (Piazza Flavio Gioia)",
+    "descrizione": "Volta affrescata luminosa nella rotonda di Piazza Flavio Gioia",
+    "lat": 40.677,
+    "lng": 14.7685,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Centro Storico",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "artista": "Luca Pannoli | Ondesign",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-32",
+    "nome": "Sei Tu il Regalo Più Bello",
+    "descrizione": "Omaggio alla manifestazione per la XX edizione",
+    "lat": 40.6742,
+    "lng": 14.7675,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Centro Storico",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "artista": "Luca Pannoli",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-33",
+    "nome": "Le Parole dei Bambini",
+    "descrizione": "Opere dei bambini delle scuole primarie di Salerno",
+    "lat": 40.6738,
+    "lng": 14.7655,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Centro Storico",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "artista": "Roberto Castaldo e allievi scuole primarie",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-34",
+    "nome": "Natività",
+    "descrizione": "Presepe luminoso nella Chiesa SS. Crocifisso",
+    "lat": 40.6758,
+    "lng": 14.7685,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Centro Storico",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "artista": "Eduardo Giannattasio",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-35",
+    "nome": "Moonlight",
+    "descrizione": "Luna luminosa in Piazza Dante Alighieri",
+    "lat": 40.6748,
+    "lng": 14.7695,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Centro Storico",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "artista": "Luca Pannoli",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
+  },
+  {
+    "id": "luci-36",
+    "nome": "Don Chisciotte e altre opere",
+    "descrizione": "Don Chisciotte, Metamorphosis, Pulcinella, Il Tuffatore, Il Poeta - Piazza Vittorio Veneto",
+    "lat": 40.6722,
+    "lng": 14.7775,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Mercato",
+    "tipo": "monumento",
+    "source": "curated",
+    "link": "https://salernolucidartista.eu/opere/",
+    "artista": "Eduardo Giannattasio, Enzo Caruso, Sergio Vecchio, Livio Ceccarelli",
+    "edizione": "2025-2026",
+    "data_inizio": "2025-11-14",
+    "data_fine": "2026-02-01"
   }
 ]

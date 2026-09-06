@@ -1,0 +1,38 @@
+name: Auto-refresh data
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Rebuild all.json + GeoJSON + RSS
+        run: |
+          python3 -c "
+          import json
+          from pathlib import Path
+          DATA = Path('data')
+          files = ['sentieri','monumenti','spiagge','eventi','panorami','parchi']
+          all_data = {f: json.load(open(DATA/f'{f}.json')) for f in files}
+          json.dump(all_data, open(DATA/'all.json','w'), ensure_ascii=False, indent=2)
+          feats=[]
+          for cat, items in all_data.items():
+            for it in items:
+              if it.get('lat') and it.get('lng'):
+                feats.append({'type':'Feature','geometry':{'type':'Point','coordinates':[it['lng'],it['lat']]},'properties':{k:it.get(k) for k in ['id','nome','descrizione','zona','citta','quartiere','tipo','link']}})
+          json.dump({'type':'FeatureCollection','features':feats}, open(DATA/'awesome-salerno.geojson','w'), ensure_ascii=False, indent=2)
+          "
+      - name: Rebuild KML
+        run: python3 api/kml_export.py
+      - name: Sync docs
+        run: cp data/all.json docs/data/all.json && cp data/awesome-salerno.geojson docs/data/awesome-salerno.geojson && cp data/events.xml docs/data/events.xml && cp data/eventi.json docs/data/eventi.json
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs

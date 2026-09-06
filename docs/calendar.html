@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Calendario Eventi - Awesome Salerno</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#f5f5f5;color:#222}
+#header{background:linear-gradient(135deg,#1a1a2e 0%,#16213e 100%);color:#fff;padding:16px 24px;display:flex;align-items:center;justify-content:space-between;box-shadow:0 2px 8px rgba(0,0,0,.2)}
+#header h1{font-size:20px;font-weight:600}
+#header nav a{color:rgba(255,255,255,.8);text-decoration:none;margin-left:20px;font-size:14px}
+#header nav a:hover{color:#fff}
+#header nav a.active{color:#fff;font-weight:600}
+.container{max-width:1100px;margin:0 auto;padding:20px 16px 48px}
+.calendar-nav{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;margin-bottom:16px}
+.calendar-nav h2{font-size:22px;color:#1a1a2e}
+.nav-buttons{display:flex;gap:8px}
+.nav-buttons button{background:#1a1a2e;color:#fff;border:none;padding:8px 16px;border-radius:6px;cursor:pointer;font-size:14px;font-weight:500}
+.nav-buttons button:hover{background:#2a2a4e}
+.nav-buttons button.oggi{background:#3498db}
+.nav-buttons button.oggi:hover{background:#2980b9}
+.legend{display:flex;gap:20px;flex-wrap:wrap;margin-bottom:16px;font-size:12px;color:#555}
+.legend-group{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.legend-item{display:flex;align-items:center;gap:4px}
+.legend-dot{width:10px;height:10px;border-radius:50%;display:inline-block}
+.calendar-grid{background:#fff;border-radius:10px;box-shadow:0 2px 8px rgba(0,0,0,.08);overflow:hidden;margin-bottom:24px}
+.weekday-header{display:grid;grid-template-columns:repeat(7,1fr);background:#1a1a2e;color:#fff}
+.weekday-header div{padding:10px 4px;text-align:center;font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:.5px}
+.days-grid{display:grid;grid-template-columns:repeat(7,1fr)}
+.day-cell{min-height:80px;border:1px solid #eee;padding:6px;cursor:pointer;transition:background .15s}
+.day-cell:hover{background:#f0f4ff}
+.day-cell.today{background:#e8f0fe}
+.day-cell.selected{background:#d4e4ff;box-shadow:inset 0 0 0 2px #3498db}
+.day-cell.other-month{background:#fafafa;cursor:default}
+.day-cell.other-month:hover{background:#fafafa}
+.day-cell.other-month .day-number{color:#bbb}
+.day-number{font-size:14px;font-weight:600;color:#333;margin-bottom:4px}
+.event-dots{display:flex;flex-wrap:wrap;gap:3px}
+.event-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0;display:inline-block}
+.more-events{font-size:10px;color:#888;margin-top:2px}
+.selected-day-label{background:#fff;border-radius:10px;padding:16px 20px;box-shadow:0 2px 8px rgba(0,0,0,.08);margin-bottom:24px;display:none}
+.selected-day-label.visible{display:block}
+.selected-day-label h3{font-size:16px;color:#1a1a2e;margin-bottom:4px}
+.selected-day-label p{font-size:13px;color:#666;display:inline}
+.clear-selection{background:none;border:1px solid #ddd;padding:4px 12px;border-radius:4px;cursor:pointer;font-size:12px;color:#666;margin-left:12px}
+.clear-selection:hover{border-color:#999;color:#333}
+.month-events h3{font-size:16px;color:#1a1a2e;margin-bottom:12px}
+.no-events,.load-error{color:#999;font-size:14px;padding:20px;text-align:center;background:#fff;border-radius:10px;box-shadow:0 2px 8px rgba(0,0,0,.08)}
+.event-card{background:#fff;border-radius:10px;padding:16px 20px;box-shadow:0 2px 8px rgba(0,0,0,.08);margin-bottom:12px}
+.event-card h4{font-size:15px;color:#1a1a2e;margin-bottom:6px}
+.event-dates{font-size:13px;color:#555;margin-bottom:6px}
+.event-meta{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.badge{display:inline-block;padding:3px 10px;border-radius:12px;font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.3px}
+.zona-salerno{background:rgba(52,152,219,.12);color:#2471a3}
+.zona-costiera{background:rgba(231,76,60,.12);color:#c0392b}
+.zona-cilento{background:rgba(39,174,96,.12);color:#1e8449}
+.tipo-badge{background:#eef0f4;color:#555}
+.event-citta{font-size:13px;color:#777}
+.event-link{font-size:13px;color:#3498db;text-decoration:none;font-weight:500}
+.event-link:hover{text-decoration:underline}
+@media(max-width:600px){
+.day-cell{min-height:50px;padding:4px}
+.day-number{font-size:12px}
+.event-dot{width:6px;height:6px}
+.weekday-header div{font-size:10px;padding:8px 2px}
+#header{padding:12px 16px}
+#header h1{font-size:17px}
+}
+</style>
+</head>
+<body>
+<header id="header">
+<h1>🗓️ Awesome Salerno</h1>
+<nav>
+<a href="index.html">Mappa</a>
+<a href="calendar.html" class="active">Calendario</a>
+<a href="stats.html">Statistiche</a>
+</nav>
+</header>
+<div class="container">
+<div class="calendar-nav">
+<h2 id="monthTitle"></h2>
+<div class="nav-buttons">
+<button id="prevMonth" aria-label="Mese precedente">&larr; Prec</button>
+<button class="oggi" id="todayBtn">Oggi</button>
+<button id="nextMonth" aria-label="Mese successivo">Succ &rarr;</button>
+</div>
+</div>
+<div class="legend">
+<div class="legend-group">
+<span><strong>Zona:</strong></span>
+<span class="legend-item"><span class="legend-dot" style="background:#3498db"></span>Salerno</span>
+<span class="legend-item"><span class="legend-dot" style="background:#e74c3c"></span>Costiera</span>
+<span class="legend-item"><span class="legend-dot" style="background:#27ae60"></span>Cilento</span>
+</div>
+</div>
+<div class="calendar-grid">
+<div class="weekday-header">
+<div>Lun</div><div>Mar</div><div>Mer</div><div>Gio</div><div>Ven</div><div>Sab</div><div>Dom</div>
+</div>
+<div class="days-grid" id="daysGrid"></div>
+</div>
+<div class="selected-day-label" id="selectedDayLabel">
+<h3 id="selectedDayTitle"></h3>
+<p id="selectedDayCount"></p>
+<button class="clear-selection" id="clearSelection">Mostra tutti del mese</button>
+</div>
+<div class="month-events">
+<h3 id="eventListTitle">Eventi del mese</h3>
+<div id="eventList"><div class="no-events">Caricamento eventi…</div></div>
+</div>
+</div>
+<script>
+(function(){
+"use strict";
+var ZONA_COLORS={salerno:"#3498db",costiera:"#e74c3c",cilento:"#27ae60"};
+var MONTHS=["Gennaio","Febbraio","Marzo","Aprile","Maggio","Giugno","Luglio","Agosto","Settembre","Ottobre","Novembre","Dicembre"];
+var MONTHS_SHORT=["Gen","Feb","Mar","Apr","Mag","Giu","Lug","Ago","Set","Ott","Nov","Dic"];
+var DAYS=["Domenica","Luned\u00ec","Marted\u00ec","Mercoled\u00ec","Gioved\u00ec","Venerd\u00ec","Sabato"];
+var allEvents=[];
+var currentYear,currentMonth,selectedDay=null;
+
+function esc(s){
+return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+}
+function pad(n){return String(n).padStart(2,"0");}
+function dsOf(y,m,d){return y+"-"+pad(m+1)+"-"+pad(d);}
+function tipoLabel(t){
+if(!t)return"";
+return t.split("-").map(function(w){return w.charAt(0).toUpperCase()+w.slice(1);}).join(" ");
+}
+function formatDate(ds){
+var p=ds.split("-");
+return parseInt(p[2],10)+" "+MONTHS_SHORT[parseInt(p[1],10)-1]+" "+p[0];
+}
+function formatRange(ev){
+if(!ev.data_fine||ev.data_inizio===ev.data_fine)return formatDate(ev.data_inizio);
+return formatDate(ev.data_inizio)+" \u2192 "+formatDate(ev.data_fine);
+}
+function eventsOn(ds){
+return allEvents.filter(function(ev){return ev.data_inizio<=ds&&ev.data_fine>=ds;});
+}
+function eventsInMonth(y,m){
+var start=y+"-"+pad(m+1)+"-01";
+var last=new Date(y,m+1,0).getDate();
+var end=y+"-"+pad(m+1)+"-"+pad(last);
+return allEvents.filter(function(ev){return ev.data_inizio<=end&&ev.data_fine>=start;});
+}
+function renderDots(evs){
+return evs.slice(0,5).map(function(ev){
+var c=ZONA_COLORS[ev.zona]||"#999";
+return '<span class="event-dot" style="background:'+c+'" title="'+esc(ev.nome)+'"></span>';
+}).join("");
+}
+function renderCalendar(){
+document.getElementById("monthTitle").textContent=MONTHS[currentMonth]+" "+currentYear;
+var grid=document.getElementById("daysGrid");
+grid.innerHTML="";
+var first=new Date(currentYear,currentMonth,1);
+var daysInMonth=new Date(currentYear,currentMonth+1,0).getDate();
+var lead=(first.getDay()+6)%7;
+var today=new Date();
+var todayStr=dsOf(today.getFullYear(),today.getMonth(),today.getDate());
+var prevLen=new Date(currentYear,currentMonth,0).getDate();
+var i,d,cell,ds,evs;
+for(i=0;i<lead;i++){
+d=prevLen-lead+1+i;
+cell=document.createElement("div");
+cell.className="day-cell other-month";
+cell.innerHTML='<div class="day-number">'+d+'</div><div class="event-dots"></div>';
+grid.appendChild(cell);
+}
+for(d=1;d<=daysInMonth;d++){
+(function(day){
+ds=dsOf(currentYear,currentMonth,day);
+evs=eventsOn(ds);
+var c=document.createElement("div");
+c.className="day-cell"+(ds===todayStr?" today":"")+(ds===selectedDay?" selected":"");
+c.setAttribute("role","button");
+c.setAttribute("tabindex","0");
+c.innerHTML='<div class="day-number">'+day+'</div><div class="event-dots">'+renderDots(evs)+'</div>'+(evs.length>5?'<div class="more-events">+'+(evs.length-5)+' altri</div>':"");
+c.addEventListener("click",function(){selectDay(ds);});
+c.addEventListener("keydown",function(e){if(e.key==="Enter"||e.key===" "){e.preventDefault();selectDay(ds);}});
+grid.appendChild(c);
+})(d);
+}
+var total=lead+daysInMonth;
+var trail=(7-(total%7))%7;
+for(i=1;i<=trail;i++){
+cell=document.createElement("div");
+cell.className="day-cell other-month";
+cell.innerHTML='<div class="day-number">'+i+'</div><div class="event-dots"></div>';
+grid.appendChild(cell);
+}
+}
+function selectDay(ds){
+if(selectedDay===ds){
+selectedDay=null;
+document.getElementById("selectedDayLabel").classList.remove("visible");
+}else{
+selectedDay=ds;
+var p=ds.split("-");
+var dt=new Date(parseInt(p[0],10),parseInt(p[1],10)-1,parseInt(p[2],10));
+var evs=eventsOn(ds);
+document.getElementById("selectedDayTitle").textContent=DAYS[dt.getDay()]+" "+parseInt(p[2],10)+" "+MONTHS[parseInt(p[1],10)-1]+" "+p[0];
+document.getElementById("selectedDayCount").textContent=evs.length===0?"Nessun evento in questa giornata":evs.length+" evento"+(evs.length>1?"i":"")+" in questa giornata";
+document.getElementById("selectedDayLabel").classList.add("visible");
+}
+renderCalendar();
+renderEventList();
+}
+function cardHtml(ev){
+var link=ev.link?'<a class="event-link" href="'+esc(ev.link)+'" target="_blank" rel="noopener">Sito ufficiale &rarr;</a>':"";
+var citta=ev.citta?'<span class="event-citta">📍 '+esc(ev.citta)+'</span>':"";
+return '<div class="event-card"><h4>'+esc(ev.nome)+'</h4>'+
+'<div class="event-dates">'+esc(formatRange(ev))+'</div>'+
+'<div class="event-meta"><span class="badge zona-'+esc(ev.zona||"")+'">'+esc((ev.zona||"").charAt(0).toUpperCase()+(ev.zona||"").slice(1))+'</span>'+
+'<span class="badge tipo-badge">'+esc(tipoLabel(ev.tipo))+'</span>'+citta+link+'</div></div>';
+}
+function renderEventList(){
+var inMonth=eventsInMonth(currentYear,currentMonth);
+var list=selectedDay?eventsOn(selectedDay):inMonth;
+var title=document.getElementById("eventListTitle");
+if(selectedDay){
+var p=selectedDay.split("-");
+title.textContent="Eventi del "+parseInt(p[2],10)+" "+MONTHS[parseInt(p[1],10)-1]+" ("+list.length+")";
+}else{
+title.textContent="Eventi di "+MONTHS[currentMonth]+" "+currentYear+" ("+inMonth.length+")";
+}
+var el=document.getElementById("eventList");
+if(list.length===0){
+el.innerHTML='<div class="no-events">Nessun evento per questo periodo</div>';
+return;
+}
+list=list.slice().sort(function(a,b){return a.data_inizio<b.data_inizio?-1:a.data_inizio>b.data_inizio?1:0;});
+el.innerHTML=list.map(cardHtml).join("");
+}
+function step(dir){
+currentMonth+=dir;
+if(currentMonth<0){currentMonth=11;currentYear--;}
+if(currentMonth>11){currentMonth=0;currentYear++;}
+selectedDay=null;
+document.getElementById("selectedDayLabel").classList.remove("visible");
+renderCalendar();
+renderEventList();
+}
+function goToday(){
+var t=new Date();
+currentYear=t.getFullYear();
+currentMonth=t.getMonth();
+selectedDay=null;
+document.getElementById("selectedDayLabel").classList.remove("visible");
+renderCalendar();
+renderEventList();
+}
+document.getElementById("prevMonth").addEventListener("click",function(){step(-1);});
+document.getElementById("nextMonth").addEventListener("click",function(){step(1);});
+document.getElementById("todayBtn").addEventListener("click",goToday);
+document.getElementById("clearSelection").addEventListener("click",function(){
+selectedDay=null;
+document.getElementById("selectedDayLabel").classList.remove("visible");
+renderCalendar();
+renderEventList();
+});
+function init(){
+var t=new Date();
+currentYear=t.getFullYear();
+currentMonth=t.getMonth();
+fetch("data/eventi.json").then(function(r){
+if(!r.ok)throw new Error("HTTP "+r.status);
+return r.json();
+}).then(function(data){
+allEvents=Array.isArray(data)?data:[];
+renderCalendar();
+renderEventList();
+}).catch(function(){
+document.getElementById("eventList").innerHTML='<div class="load-error">Impossibile caricare data/eventi.json</div>';
+renderCalendar();
+});
+}
+init();
+})();
+</script>
+</body>
+</html>

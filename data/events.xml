@@ -8,60 +8,347 @@
         <language>it-IT</language>
         
     <item>
-        <title>Festa di San Matteo</title>
-        <description>Festa patronale di Salerno. Processione con le reliquie del santo dal Duomo alla Cripta.</description>
-        <link>https://www.comune.salerno.it</link>
-        <guid isPermaLink="false">festa-san-matteo</guid>
-        <pubDate></pubDate>
+        <title>Luci d'Artista 2025-2026</title>
+        <description>XX edizione della manifestazione luminosa natalizia. 36 installazioni di artisti contemporanei nel centro storico e lungomare di Salerno. Ingresso gratuito.</description>
+        <link>https://salernolucidartista.eu</link>
+        <guid isPermaLink="false">luci-dartista-2025</guid>
+        <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Ravello Festival</title>
-        <description>Festival musicale estivo nei giardini di Villa Rufolo e Villa Cimbrone. Concerti di musica classica, jazz e pop.</description>
-        <link>https://www.ravellofestival.it</link>
-        <guid isPermaLink="false">ravello-festival</guid>
-        <pubDate></pubDate>
+        <title>Festa di San Costabile</title>
+        <description>Festa patronale di Castellabate. Celebrazioni in onore di San Costabile Abate, monaco benedettino del VI secolo. Processione con le reliquie e luminarie nel borgo medievale.</description>
+        <link>https://www.comune.castellabate.sa.it/novita/notizie/novita_428.html</link>
+        <guid isPermaLink="false">festa-san-costabile-castellabate</guid>
+        <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>San Marco Evangelista</title>
+        <description>Festa di San Marco Evangelista ad Agropoli. Processione con la statua del santo per le vie del centro storico. Tradizionale sfilata di barche nel porto.</description>
+        <link>https://comune.agropoli.sa.it/</link>
+        <guid isPermaLink="false">san-marco-evangelista-agropoli</guid>
+        <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Festa di Sant'Apollonio</title>
+        <description>Festa patronale di Centola. Celebrazioni in onore del santo patrono con processione e luminarie.</description>
+        <link>https://www.comune.centola.sa.it/</link>
+        <guid isPermaLink="false">santapollonio-centola</guid>
+        <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Sant'Antonio da Padova</title>
+        <description>Festa di Sant'Antonio da Padova, celebrata in decine di comuni del Cilento. Tra i principali: Agropoli, Sapri, Palinuro, Roccadaspide, Polla, Castelcivita e molti altri.</description>
+        <link>https://www.comune.roccadaspide.sa.it/vivere_il_comune/eventi/evento_3.html</link>
+        <guid isPermaLink="false">santantonio-da-padova-diffuso</guid>
+        <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Festa di San Vito</title>
+        <description>Festa patronale di Positano. Processione con la statua di San Vito martire per le strade del borgo. Luminarie, fuochi d'artificio e banda musicale.</description>
+        <link>https://comune.positano.sa.it/</link>
+        <guid isPermaLink="false">festa-sanvito-positano</guid>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Festa di San Vito</title>
+        <description>Festa patronale di Palinuro. Processione con la statua di San Vito per le vie del borgo e porto. Fuochi d'artificio.</description>
+        <link>https://www.comune.centola.sa.it/</link>
+        <guid isPermaLink="false">festa-sanvito-palinuro</guid>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Estate Salernitana 2026</title>
+        <description>Rassegna estiva di concerti, spettacoli teatrali e eventi culturali in tutta la provincia di Salerno. Dal giugno al settembre.</description>
+        <link>https://www.comune.salerno.it</link>
+        <guid isPermaLink="false">estate-salernitana-2026</guid>
+        <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Festival delle Colline Mediterranee</title>
+        <description>Rassegna culturale dedicata alla letteratura, musica e arti performative delle colline del Mediterraneo. Incontri, reading, concerti e laboratori.</description>
+        <link>https://www.festivalcollinemediterranee.it/</link>
+        <guid isPermaLink="false">festival-colline-mediterranee</guid>
+        <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>San Giovanni Battista</title>
+        <description>Festa di San Giovanni Battista ad Agropoli. Celebrazioni religiose e processione per il centro storico.</description>
+        <link>https://comune.agropoli.sa.it/</link>
+        <guid isPermaLink="false">san-giovanni-battista-agropoli</guid>
+        <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Festa di Sant'Andrea</title>
-        <description>Festa del patrono di Amalfi. Processione e spettacoli pirotecnici sul mare.</description>
+        <description>Festa del patrono di Amalfi. Processione con la statua del santo dal Duomo al mare. Fuochi d'artificio e spettacoli pirotecnici.</description>
         <link>https://www.comune.amalfi.it</link>
         <guid isPermaLink="false">festa-santandrea</guid>
-        <pubDate></pubDate>
+        <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Paestum Festival</title>
-        <description>Festival musicale nei templi della Magna Grecia. Concerti all'aperto tra le rovine.</description>
+        <title>Festa dei Santi Pietro e Paolo</title>
+        <description>Festa patronale di Cetara. Processione con le statue dei santi patroni dal Duomo al porto. Fuochi d'artificio, illuminazioni e sfilata di barche decorate.</description>
+        <link>https://www.prolococetara.it/festivita/</link>
+        <guid isPermaLink="false">festa-sanpietro-paolo-cetara</guid>
+        <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Santi Pietro e Paolo</title>
+        <description>Festa dei Santi Pietro e Paolo, celebrata in numerosi comuni del Cilento tra cui Agropoli, Pisciotta, Montesano, Tortorella, Cuccaro Vetere.</description>
+        <link>https://comune.agropoli.sa.it/</link>
+        <guid isPermaLink="false">san-pietro-paolo-diffuso-cilento</guid>
+        <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Ravello Festival 2026</title>
+        <description>Festival musicale estivo nei giardini di Villa Rufolo e Villa Cimbrone. Concerti di musica classica, jazz e pop con il panorama del golfo.</description>
+        <link>https://www.ravellofestival.it</link>
+        <guid isPermaLink="false">ravello-festival-2026</guid>
+        <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Paestum Festival 2026</title>
+        <description>Festival musicale nei templi della Magna Grecia. Concerti all'aperto tra le rovine dei templi dorici di Paestum.</description>
         <link>https://www.paestumfestival.it</link>
-        <guid isPermaLink="false">paestum-festival</guid>
-        <pubDate></pubDate>
+        <guid isPermaLink="false">paestum-festival-2026</guid>
+        <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Beata Vergine del Carmelo</title>
+        <description>Festa della Madonna del Carmelo ad Agropoli. Processione con la statua della Madonna per le vie della città e dal porto.</description>
+        <link>https://comune.agropoli.sa.it/</link>
+        <guid isPermaLink="false">madonna-del-carmine-agropoli</guid>
+        <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Madonna del Carmelo di Palinuro</title>
+        <description>Festa della Madonna del Carmelo a Palinuro. Processione dal Santuario al porto con illuminazioni nautiche.</description>
+        <link>https://www.comune.centola.sa.it/</link>
+        <guid isPermaLink="false">madonna-del-carmine-palinuro</guid>
+        <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Beata Vergine del Carmelo</title>
+        <description>Festa della Madonna del Carmelo, celebrata in oltre 30 comuni del Cilento. Tra i principali: Agropoli, Marina di Camerota, Castellabate, Teggiano, Padula, Sala Consilina.</description>
+        <link>http://www.comune.piaggine.sa.it/Vivere-il-Comune/Eventi/Madonna-del-Carmelo</link>
+        <guid isPermaLink="false">madonna-del-carmelo-diffuso</guid>
+        <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Salerno Sounds 2026</title>
+        <description>Festival musicale estivo con artisti della scena italiana. Concerti in diverse location del centro storico e del lungomare.</description>
+        <link>https://cultura.comune.salerno.it/eventi/salerno-sounds-2026/</link>
+        <guid isPermaLink="false">salerno-sounds-2026</guid>
+        <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Festa di Sant'Anna</title>
+        <description>Festa patronale del quartiere Canalone. Processione con la statua di Sant'Anna per le vie del quartiere, con fuochi d'artificio e bancarelle.</description>
+        <link>https://www.comune.salerno.it/</link>
+        <guid isPermaLink="false">festa-santanna-salerno</guid>
+        <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Festa di San Pantaleone</title>
+        <description>Festa patronale di Ravello. Messa solenne nella Cattedrale e processione con le reliquie del santo patrono per le piazze del borgo.</description>
+        <link>https://comune.ravello.sa.it/it/novita/page/ravello-san-pantaleone-dispositivo-temporaneo-per-la-circolazione-stradale</link>
+        <guid isPermaLink="false">santapantaleone-ravello</guid>
+        <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Sagra del Cavatiello</title>
+        <description>Evento dedicato alla pasta fresca lavorata a mano secondo la tradizione cilentana, servita al ragù tradizionale. Spettacoli folk, tammorriate e stand di artigianato.</description>
+        <link>https://comune.maglianovetere.sa.it/Vivere-il-comune/Eventi/Sagra-del-Cavatiello-Maglianese</link>
+        <guid isPermaLink="false">sagra-cavatiello-magliano</guid>
+        <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Festa della Cipolla di Vatolla</title>
+        <description>Manifestazione dedicata all'ecotipo locale noto per la dolcezza. Frittelle, cipolle gratinate, zuppe, pizze e dolci. Show-cooking, laboratori sulla biodiversità e concerti etnici.</description>
+        <link>https://www.cipolladivatolla.it/la-festa/</link>
+        <guid isPermaLink="false">sagra-cipolla-vatolla</guid>
+        <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Musica &amp; Parole</title>
+        <description>Rassegna musicale nei Parchi archeologici di Paestum e Velia. Jazz, soul, cantautorato e contaminazioni contemporanee tra le rovine antiche.</description>
+        <link>https://parchipaestumvelia.cultura.gov.it/musica-parole-2025-dal-26-luglio-al-17-agosto-la-musica-incontra-la-bellezza-senza-tempo-di-paestum-e-velia/</link>
+        <guid isPermaLink="false">musica-parole-paestum-velia</guid>
+        <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Madonna che viene dal Mare</title>
+        <description>Celebrazione della Madonna del Popolo, icona miracolosa arrivata per mare nel 1523. Processione con il dipinto dalla Chiesa di San Matteo a Piazza Cavour. La tradizione vuole che l'immagine sia stata portata dai fedeli dietro le mura di Costantinopoli in fuga dai Turchi. 104esima edizione nel 2026.</description>
+        <link>https://cultura.comune.salerno.it/eventi/festa-della-madonna-che-viene-dal-mare-2026/</link>
+        <guid isPermaLink="false">madonna-che-viene-dal-mare</guid>
+        <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Festa di Santa Maria degli Angeli</title>
+        <description>Festa patronale di San Severino di Centola. Celebrazioni religiose, processione e concerto in piazza. Paolo Meneguzzi in concerto nel 2026.</description>
+        <link>https://www.beweb.chiesacattolica.it/enti/ente/1016346/Parrocchia+di+Santa+Maria+degli+Angeli</link>
+        <guid isPermaLink="false">festa-santa-maria-angeli-san-severino</guid>
+        <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Madonna della Neve</title>
+        <description>Celebrazione della Madonna della Neve nei borghi di Tramonti. Festa diffusa nei dieci casali del comune con processioni e luminarie.</description>
+        <link>https://www.comune.tramonti.sa.it/</link>
+        <guid isPermaLink="false">madonna-della-neve-tramonti</guid>
+        <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Madonna della Neve di Palinuro</title>
+        <description>Celebrazione della Madonna della Neve a Palinuro. Festa religiosa con processione e luminarie.</description>
+        <link>https://www.comune.centola.sa.it/</link>
+        <guid isPermaLink="false">madonna-della-neve-palinuro</guid>
+        <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Sagra della Mozzarella ind'a Murtedda</title>
+        <description>Evento dedicato alla mozzarella conservata nei rami di mirtillo selvatico (murtedda), che le conferisce un aroma caratteristico. Fusilli e salumi del Monte Gelbison, sfilate in abiti d'epoca e suonatori di zampogna.</description>
+        <link>https://www.comune.novivelia.sa.it/Vivere-il-comune/Scopri-Novi-Velia/Sagre-e-Feste</link>
+        <guid isPermaLink="false">sagra-mozzarella-novi-velia</guid>
+        <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Festa dei Ceci di Cicerale</title>
+        <description>Evento dedicato al Cece di Cicerale (Presidio Slow Food). Lagane e ceci, zuppe, frittelle, fotticchie e liquori dedicati. Mostre-mercato dell'artigianato e musica folk.</description>
+        <link>https://www.comune.cicerale.sa.it/vivere_il_comune/eventi/evento_1.html</link>
+        <guid isPermaLink="false">festa-ceci-cicerale</guid>
+        <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Sagra del Fusillo Felittese</title>
+        <description>Rassegna dedicata al Fusillo di Felitto (Presidio Slow Food). Pasta fresca all'uovo lavorata al ferro e servita con ragù di castrato o di vitello. Mostre fotografiche ed escursioni alle Gole del Calore.</description>
+        <link>https://www.prolocofelitto.it/sagra-del-fusillo-felittese/</link>
+        <guid isPermaLink="false">sagra-fusillo-felitto</guid>
+        <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Festa del Vino di Castel San Lorenzo</title>
+        <description>Manifestazione per valorizzare le produzioni vitivinicole della denominazione Castel San Lorenzo DOC (Barbera e Moscato). Apertura delle cantine storiche, mostre ed eventi musicali.</description>
+        <link>https://comune.castelsanlorenzo.sa.it/</link>
+        <guid isPermaLink="false">festa-vino-castel-san-lorenzo</guid>
+        <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Madonna dell'Assunta</title>
+        <description>Festeggiamenti per l'Assunta a Positano. Processione con il dipinto della Madonna dalla Chiesa di Santa Maria Assunta alla spiaggia.</description>
+        <link>https://comune.positano.sa.it/</link>
+        <guid isPermaLink="false">madonna-assunta-positano</guid>
+        <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Madonna Costantinopoli</title>
+        <description>Festa della Madonna Costantinopoli a Maiori. Processione con l'icona della Madonna per le vie del centro storico.</description>
+        <link>https://visitmaiori.it/festa-dellassunta/</link>
+        <guid isPermaLink="false">madonna-costantinopoli-maiori</guid>
+        <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Sagra del Pesce di Cetara</title>
-        <description>Degustazione di pesce e prodotti del mare. Cuochi stellati e ristoranti locali.</description>
+        <description>Degustazione di pesce azzurro e prodotti del mare cilentano. Cuochi stellati, laboratori di cucina, mercato del pesce fresco.</description>
         <link>https://www.sagradelpescecetara.it</link>
         <guid isPermaLink="false">sagra-pesce-cetara</guid>
-        <pubDate></pubDate>
+        <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-        <title>Festa della Ceramica</title>
-        <description>Manifestazione dedicata alla tradizione ceramica vietrese. Laboratori, mostre, mercatini.</description>
-        <link>https://www.festadellaceramica.it</link>
-        <guid isPermaLink="false">festa-ceramica-vietri</guid>
-        <pubDate></pubDate>
+        <title>Madonna dell'Assunta</title>
+        <description>Festa dell'Assunta, celebrata in quasi tutti i comuni del Cilento. Tra i principali: Santa Maria di Castellabate, Novi Velia, Policastro, Felitto, Agropoli.</description>
+        <link>https://www.comune.castellabate.sa.it/vivere_il_comune/luoghi/luogo_5.html</link>
+        <guid isPermaLink="false">madonna-assunta-diffuso-cilento</guid>
+        <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Festa di San Rocco</title>
+        <description>Festa di San Rocco a Palinuro. Celebrazioni religiose con processione e fuochi d'artificio.</description>
+        <link>https://www.comune.centola.sa.it/</link>
+        <guid isPermaLink="false">san-rocco-palinuro</guid>
+        <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>San Rocco</title>
+        <description>Festa di San Rocco, celebrata in molti comuni del Cilento il 16 agosto. Processioni e raduni di fede a Sassano, Caselle in Pittari, Teggiano, Marina di Camerota.</description>
+        <link>https://www.san-rocco.it/</link>
+        <guid isPermaLink="false">san-rocco-diffuso-cilento</guid>
+        <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Sagra dei Ciccimmaretati</title>
+        <description>Manifestazione dedicata alla storica minestra di legumi e cereali misti (ceci, fagioli, lenticchie, grano, granturco) cotti separatamente e poi 'sposati'. Musica etnica e dibattiti sulla Dieta Mediterranea.</description>
+        <link>https://comune.stio.sa.it/vivere-il-comune/eventi/sagra-dei-piatti-poveri-ciccimaritati/</link>
+        <guid isPermaLink="false">sagra-ciccimmaretati-stio</guid>
+        <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Festa del Maiale Paesano</title>
+        <description>Evento gastronomico sulla carne suina di provenienza locale: braciole al sugo, salsicce, soffritto, minestra maritata e salumi tipici. Esibizioni folk e dimostrazioni degli antichi mestieri agricoli.</description>
+        <link>https://www.comune.roccadaspide.sa.it/</link>
+        <guid isPermaLink="false">festa-maiale-roccadaspide</guid>
+        <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Cilento Golfo Film Festival</title>
-        <description>Festival del cinema a Palinuro. Proiezioni, workshop, incontri con registi.</description>
+        <description>Festival del cinema a Palinuro. Proiezioni in piazza, workshop, incontri con registi italiani e internazionali.</description>
         <link>https://www.cilentogolfofilmfestival.it</link>
         <guid isPermaLink="false">cilento-golfo-film-festival</guid>
-        <pubDate></pubDate>
+        <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Festa del Fico Bianco del Cilento</title>
+        <description>Evento dedicato al Fico Bianco del Cilento DOP. Impaccato con frutta secca, ricoperto di cioccolato, in confettura e in abbinamento a piatti salati. Convegni sull'agricoltura locale e concerti.</description>
+        <link>https://www.facebook.com/FestadelFicoCilentanoGiungano/</link>
+        <guid isPermaLink="false">festa-fico-bianco-giungano</guid>
+        <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Madonna Costantinopoli di Agropoli</title>
+        <description>Processione via mare della Madonna Costantinopoli. L'immagine sacra viene portata in barca dal porto alla costa, scortata da decine di barche decorate. Una delle feste più spettacolari del Cilento.</description>
+        <link>https://comune.agropoli.sa.it/</link>
+        <guid isPermaLink="false">madonna-costantinopoli-agropoli</guid>
+        <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Festa della Ceramica</title>
+        <description>Manifestazione dedicata alla tradizione ceramica vietrese. Laboratori, mostre, mercatini di ceramiche colorate.</description>
+        <link>https://www.festadellaceramica.it</link>
+        <guid isPermaLink="false">festa-ceramica-vietri</guid>
+        <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
         <title>Sagra del Limone della Costa d'Amalfi</title>
-        <description>Degustazione di limoni sfusati amalfitani e prodotti locali.</description>
-        <link>https://www.openstreetmap.org/?mlat=40.6333&mlon=14.6#map=16/40.6333/14.6</link>
+        <description>Degustazione di limoni sfusati amalfitani, limoncello, ricette locali. Mercato di prodotti tipici.</description>
+        <link>https://www.sagradellimone.it</link>
         <guid isPermaLink="false">sagra-limone-costiera</guid>
-        <pubDate></pubDate>
+        <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Festa di San Matteo</title>
+        <description>Festa patronale di Salerno. Processione con le reliquie del santo dal Duomo alla Cripta. Fuochi d'artificio sul mare.</description>
+        <link>https://www.comune.salerno.it</link>
+        <guid isPermaLink="false">festa-san-matteo</guid>
+        <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Sant'Antonio al Porto</title>
+        <description>Festa di Sant'Antonio al Porto di Palinuro. Processione con la statua del santo lungo il porto turistico.</description>
+        <link>https://www.comune.centola.sa.it/</link>
+        <guid isPermaLink="false">santantonio-al-porto-palinuro</guid>
+        <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Festa di Santa Trofimena</title>
+        <description>Festa patronale di Minori. Processione con le reliquie della santa per le vie del centro storico, con luminarie e banda musicale.</description>
+        <link>https://www.comune.minori.sa.it/vivere_il_comune/eventi/evento_1.html</link>
+        <guid isPermaLink="false">santa-trofimena-minori</guid>
+        <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Festa di Santa Lucia</title>
+        <description>Festa di Santa Lucia a Polla. Celebrazioni religiose e processione per il centro storico.</description>
+        <link>https://comune.polla.sa.it/</link>
+        <guid isPermaLink="false">santa-lucia-polla</guid>
+        <pubDate>Sun, 13 Dec 2026 00:00:00 +0000</pubDate>
     </item>
     </channel>
 </rss>

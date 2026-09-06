@@ -18,6 +18,7 @@
 - [Panorami](#panorami)
 - [Parchi](#parchi)
 - [Eventi](#eventi)
+- [Luci d'Artista](#luci-dartista)
 - [Map](#map)
 - [API](#api)
 
@@ -25,11 +26,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total POI | 5470 |
-| Cities mapped | 95 |
-| Salerno zone | 3329 |
-| Costiera zone | 840 |
-| Cilento zone | 1301 |
+| Total POI | 5547 |
+| Cities mapped | 103 |
+| Salerno zone | 3371 |
+| Costiera zone | 846 |
+| Cilento zone | 1330 |
+| Luci d'Artista | 36 |
+| Events | 49 |
 
 ## Sentieri
 
@@ -45,7 +48,7 @@
 
 ## Monumenti
 
-> 3443 churches, castles, museums and archaeological sites.
+> 3479 churches, castles, museums, archaeological sites and light installations.
 
 ### Salerno
 
@@ -101,20 +104,123 @@
 
 ## Eventi
 
-> 8 annual festivals and events.
+> 49 annual festivals, feste patronali, sagre and cultural events with dates and recurrence.
 
-- [Ravello Festival](https://www.ravellofestival.it) - Classical music festival in Villa Rufolo gardens. June-September.
-- [Paestum Festival](https://www.comune.capaccio.sa.it/) - Music festival among Greek temples. July-August.
-- [Festa di San Matteo](https://www.comune.salerno.it/) - Patron saint feast in Salerno. September 19-21.
-- [Festa di Sant'Andrea](https://www.comune.amalfi.sa.it/) - Patron saint feast in Amalfi. November 27-30.
-- [Sagra del Pesce](https://www.comune.cetara.sa.it/) - Fish festival in Cetara. August.
-- [Festa della Ceramica](https://www.festadellaceramica.it/) - Ceramics festival in Vietri sul Mare. September.
-- [Battentieri](https://www.comune.agropoli.sa.it/) - International dance festival in Agropoli. August.
-- [Regata Repubbliche Marinare](https://it.wikipedia.org/wiki/Regata_delle_Antiche_Repubbliche_Marinare) - Historic regatta in Amalfi. June.
+### Salerno
+
+- [Luci d'Artista](https://salernolucidartista.eu) - Christmas light festival. 36 installations. November-February.
+- Festa di San Matteo - Patron saint feast. September 21-23.
+- Madonna che viene dal Mare - Icon from 1523 arrives by sea. August 2.
+- Festa di Sant'Anna - Canalone quartiere patron feast. July 26.
+- Estate Salernitana - Summer cultural events. June-September.
+- Salerno Sounds - Summer music festival. July 21-25.
+- Festival delle Colline Mediterranee - Literature and music. June-July.
+
+### Costiera Amalfitana
+
+- [Festa di Sant'Andrea](https://www.comune.amalfi.it) - Amalfi patron saint. June 27-30.
+- Festa dei Santi Pietro e Paolo - Cetara patron saints. June 29-30.
+- [Festa di San Vito](https://www.comune.positano.it) - Positano patron saint. June 15.
+- Festa di San Pantaleone - Ravello patron saint. July 27.
+- [Ravello Festival](https://www.ravellofestival.it) - Classical music in Villa Rufolo. July-September.
+- Madonna dell'Assunta - Positano Assumption feast. August 14-16.
+- Madonna Costantinopoli - Maiori patron feast. August 15.
+- Madonna della Neve - Tramonti feast. August 5.
+- Festa di Santa Trofimena - Minori patron saint. November 13.
+- [Sagra del Pesce](https://www.sagradelpescecetara.it) - Cetara fish festival. August 15-18.
+- [Festa della Ceramica](https://www.festadellaceramica.it) - Vietri ceramics. September 1-8.
+- [Sagra del Limone](https://www.sagradellimone.it) - Amalfi lemon festival. September 10-12.
+
+### Cilento
+
+- [Paestum Festival](https://www.paestumfestival.it) - Music among Greek temples. July-August.
+- Festa di San Costabile - Castellabate patron saint. April 16-17.
+- Madonna Costantinopoli di Agropoli - Procession by sea. August 24.
+- [San Marco Evangelista](https://www.comune.agropoli.sa.it) - Agropoli patron saint. April 25.
+- San Giovanni Battista - Agropoli feast. June 24.
+- Beata Vergine del Carmelo - Widespread (30+ comuni). July 16.
+- Sant'Antonio da Padova - Widespread (35+ comuni). June 13.
+- Madonna dell'Assunta - Widespread Cilento. August 15.
+- San Rocco - Widespread Cilento. August 16.
+- [Festa di Santa Maria degli Angeli](https://www.comune.centola.sa.it) - San Severino di Centola. August 2.
+- Festa di Sant'Apollonio - Centola patron saint. May 22.
+- [Festa di San Vito](https://www.comune.sangiannoaapiro.it) - Palinuro patron saint. June 15.
+- Madonna del Carmelo di Palinuro - Palinuro feast. July 16.
+- Festa di San Rocco di Palinuro - Palinuro feast. August 16.
+- Sant'Antonio al Porto - Palinuro port feast. September 25.
+- Festa di Santa Lucia - Polla patron saint. December 13.
+- [Cilento Golfo Film Festival](https://www.cilentogolfofilmfestival.it) - Cinema in Palinuro. August 20-25.
+- Musica & Parole - Jazz at Paestum/Velia. August 1-23.
+
+### Sagre (Cilento)
+
+- Festa della Cipolla di Vatolla - August 1-2.
+- Sagra del Cavatiello - Magliano Vetere. July 31 - August 6.
+- Sagra della Mozzarella ind'a Murtedda - Novi Velia. August 8-13.
+- Festa dei Ceci di Cicerale - Slow Food Presidium. August 11-14.
+- Sagra del Fusillo Felittese - Slow Food Presidium. August 13-23.
+- Festa del Vino - Castel San Lorenzo DOC. August 13-18.
+- Sagra dei Ciccimmaretati - Stio. August 17-23.
+- Festa del Maiale Paesano - Roccadaspide. August 18-20.
+- Festa del Fico Bianco del Cilento - DOP figs. August 20-24.
+
+## Luci d'Artista
+
+> 36 light installations for the XX edition (2025-2026). Free entry, November 14 - February 1.
+
+The most important Christmas event in Southern Italy. Since 2006, Salerno transforms into an open-air light museum with works by contemporary artists.
+
+### Main Installations
+
+| # | Name | Location | Artist |
+|---|------|----------|--------|
+| 1 | Giardino Preistorico | Villa Comunale | Luca Pannoli / Ondesign |
+| 2 | Percorso Fiorito | Centro Storico | — |
+| 3 | Noi siamo Natura | Via Mercanti | Luca Pannoli |
+| 4 | La danza delle meduse | Piazza Sedile del Campo | Luca Pannoli / Ondesign |
+| 5 | …e le stelle stanno a guardare | Piazza Flavio Gioia | Luca Pannoli / Ondesign |
+| 6 | Albero di Natale | Piazza Portanova | — |
+| 7 | Angeli | Via Duomo | — |
+| 8 | Colorare Salerno | Piazza Sant'Agostino | Luca Pannoli |
+| 9 | Il mare d'inverno | Corso Vittorio Emanuele | Luca Pannoli |
+| 10 | Locomotiva dei fiori | Piazza Vittorio Veneto | — |
+| 11 | Giochi di biglie | Piazza Caduti di Brescia | — |
+| 12 | Paesaggio Polare | Piazza Gian Camillo Gloriosi | — |
+| 13 | Albero natalizio con sfere | Piazza Monsignor Grasso | — |
+| 14 | Palme Dorate | Arenile Santa Teresa | — |
+| 15 | I Fiori del Mare | Piazza della Libertà | Luca Pannoli / Ondesign |
+| 16 | Partitura d'aMARE | Sottopiazza della Libertà | Luca Pannoli / Ondesign |
+| 17 | Alberi Magici | Piazza San Francesco | — |
+| 18 | La fata delle farfalle | Largo Dogana Regia | — |
+| 19 | Madonna con Bambino | Complesso di Santa Sofia | Eduardo Giannattasio |
+| 20 | Rami Dorati | Via del Carmine | — |
+| 21 | Foglie d'Argento | Via Trento | — |
+| 22 | Alberi Innevati | Corso Garibaldi | — |
+| 23 | Metamorphosis | Via Volpe | Eliana Petrizzi |
+| 24 | Il Mito | Via Nizza | Nello Ferrigno |
+| 25 | Sfere-Mondi | Via Ventimiglia | — |
+| 26 | Giochi d'Acqua | Via Santa Margherita | — |
+| 27 | Vele | Via Cocchia | — |
+| 28 | Onde e Vele | Via Diaz | — |
+| 29 | Circus | Via Memoli | Luca Pannoli |
+| 30 | Accendi il tuo futuro | Via Arce | Cooperativa Fili d'Erba |
+| 31 | Sei Tu il Regalo Più Bello | Piazza Dante | Luca Pannoli |
+| 32 | Le Parole dei Bambini | Via Settimio Mobilio | Roberto Castaldo |
+| 33 | Natività | Chiesa SS. Crocifisso | Eduardo Giannattasio |
+| 34 | Moonlight | Piazza Dante | Luca Pannoli |
+| 35 | Don Chisciotte | Piazza Vittorio Veneto | Eduardo Giannattasio |
+| 36 | Annunciazione | Chiesa del Sacro Cuore | Eduardo Giannattasio |
+
+### Related Events During Luci d'Artista
+
+Related events include MeraviglioSA Christmas city in the Mirabile complex (December 5 - January 6), Fiabe d'artista theater for children at Teatro Augusteo, and gospel and jazz street concerts throughout the period.
 
 ## Map
 
 Interactive map with filters for zona, tipo, and search: [Open Map](https://autcir.github.io/awesome-salerno/)
+
+- [Event calendar](https://autcir.github.io/awesome-salerno/calendar.html) - 49 events by date with zone filters.
+- [Statistics dashboard](https://autcir.github.io/awesome-salerno/stats.html) - Charts by zone, type and top cities.
 
 ## API
 
@@ -127,14 +233,14 @@ python3 api/server.py
 | Endpoint | Description |
 |----------|-------------|
 | `GET /api/sentieri` | All trails (1676) |
-| `GET /api/monumenti` | All monuments (3443) |
+| `GET /api/monumenti` | All monuments (3479) |
 | `GET /api/spiagge` | All beaches (78) |
 | `GET /api/panorami` | All viewpoints (253) |
 | `GET /api/parchi` | All parks (12) |
-| `GET /api/eventi` | All events (8) |
-| `GET /api/all` | All data (5470) |
+| `GET /api/eventi` | All events (49) |
+| `GET /api/all` | All data (5547) |
 | `GET /api/geojson` | GeoJSON format for GIS |
-| `GET /api/cities` | List of all 95 cities |
+| `GET /api/cities` | List of all 103 cities |
 | `GET /api/search?q=<query>` | Fuzzy search |
 
 **Filter by zone:**
@@ -177,6 +283,15 @@ curl "http://localhost:8080/api/search?q=chiesa+salerno"
 ```bash
 curl "http://localhost:8080/api/geojson" > awesome-salerno.geojson
 ```
+
+**KML/KMZ download:**
+
+- [KML export](https://autcir.github.io/awesome-salerno/data/awesome-salerno.kml) - All 5547 POI for Google Earth.
+- [KMZ export](https://autcir.github.io/awesome-salerno/data/awesome-salerno.kmz) - Compressed KML for mobile apps.
+
+**Voice assistant:**
+
+- [Voice skill](https://autcir.github.io/awesome-salerno/data/voice-assistant.json) - FindPOI, NextEvent and POIDetails intents in `data/voice-assistant.json`.
 
 **RSS feed for events:**
 
