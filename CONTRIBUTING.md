@@ -23,6 +23,7 @@ Ogni POI deve seguire questo formato:
   "lng": 14.7681,
   "zona": "salerno | costiera | cilento",
   "citta": "Nome del comune",
+  "quartiere": "Solo per Salerno (opzionale)",
   "tipo": "chiesa | castello | museo | archeologico | grotta | fonte | sentiero | panorama | spiaggia | piazza | monumento | torre | ponte | porta | scala | altro",
   "source": "curated | osm | wikipedia",
   "link": "https://..."
@@ -47,9 +48,13 @@ Ogni POI deve seguire questo formato:
 
 | Campo | Tipo | Descrizione |
 |-------|------|-------------|
+| `quartiere` | string | Quartiere di Salerno (es. "Centro Storico", "Pastena", "Mercato", "Fratte", "Fuorni") |
 | `link` | string | URL ufficiale o Wikipedia |
 | `osm_id` | int | ID OpenStreetMap (se source=osm) |
 | `osm_type` | string | Tipo OSM: `way`, `node`, o `relation` |
+| `difficolta` | string | Per sentieri: `facile`, `medio`, `difficile`, `molto_difficile` |
+| `dislivello` | int | Dislivello in metri (per sentieri) |
+| `lunghezza_km` | float | Lunghezza in km (per sentieri) |
 
 ## File JSON
 

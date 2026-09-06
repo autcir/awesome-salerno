@@ -114,11 +114,11 @@
 
 ## Map
 
-Interactive map with all 5470 POI across 95 cities: [Open Map](https://autcir.github.io/awesome-salerno/)
+Interactive map with filters for zona, tipo, and search: [Open Map](https://autcir.github.io/awesome-salerno/)
 
 ## API
 
-A simple JSON API to consume the data.
+JSON API with fuzzy search, filters, and GeoJSON export.
 
 ```bash
 python3 api/server.py
@@ -133,9 +133,9 @@ python3 api/server.py
 | `GET /api/parchi` | All parks (12) |
 | `GET /api/eventi` | All events (8) |
 | `GET /api/all` | All data (5470) |
-| `GET /api/search?q=<query>` | Full-text search |
-| `GET /api/all?citta=Salerno` | Filter by city |
-| `GET /api/all?citta=Amalfi&tipo=chiesa` | Combine filters |
+| `GET /api/geojson` | GeoJSON format for GIS |
+| `GET /api/cities` | List of all 95 cities |
+| `GET /api/search?q=<query>` | Fuzzy search |
 
 **Filter by zone:**
 
@@ -151,11 +151,37 @@ curl "http://localhost:8080/api/monumenti?tipo=chiesa"
 curl "http://localhost:8080/api/monumenti?tipo=castello"
 ```
 
-**Search:**
+**Filter by city:**
+
+```bash
+curl "http://localhost:8080/api/all?citta=Salerno"
+curl "http://localhost:8080/api/all?citta=Amalfi&tipo=chiesa"
+```
+
+**Filter by quartiere (Salerno only):**
+
+```bash
+curl "http://localhost:8080/api/all?citta=Salerno&quartiere=Centro Storico"
+```
+
+**Search (fuzzy matching):**
 
 ```bash
 curl "http://localhost:8080/api/search?q=paestum"
 curl "http://localhost:8080/api/search?q=ravello"
+curl "http://localhost:8080/api/search?q=chiesa+salerno"
+```
+
+**GeoJSON export:**
+
+```bash
+curl "http://localhost:8080/api/geojson" > awesome-salerno.geojson
+```
+
+**RSS feed for events:**
+
+```xml
+https://autcir.github.io/awesome-salerno/data/events.xml
 ```
 
 ## Contributing

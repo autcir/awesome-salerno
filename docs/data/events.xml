@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Awesome Salerno - Eventi</title>
+        <description>Eventi e manifestazioni nella provincia di Salerno</description>
+        <link>https://autcir.github.io/awesome-salerno/</link>
+        <atom:link href="https://autcir.github.io/awesome-salerno/data/events.xml" rel="self" type="application/rss+xml"/>
+        <language>it-IT</language>
+        
+    <item>
+        <title>Festa di San Matteo</title>
+        <description>Festa patronale di Salerno. Processione con le reliquie del santo dal Duomo alla Cripta.</description>
+        <link>https://www.comune.salerno.it</link>
+        <guid isPermaLink="false">festa-san-matteo</guid>
+        <pubDate></pubDate>
+    </item>
+    <item>
+        <title>Ravello Festival</title>
+        <description>Festival musicale estivo nei giardini di Villa Rufolo e Villa Cimbrone. Concerti di musica classica, jazz e pop.</description>
+        <link>https://www.ravellofestival.it</link>
+        <guid isPermaLink="false">ravello-festival</guid>
+        <pubDate></pubDate>
+    </item>
+    <item>
+        <title>Festa di Sant'Andrea</title>
+        <description>Festa del patrono di Amalfi. Processione e spettacoli pirotecnici sul mare.</description>
+        <link>https://www.comune.amalfi.it</link>
+        <guid isPermaLink="false">festa-santandrea</guid>
+        <pubDate></pubDate>
+    </item>
+    <item>
+        <title>Paestum Festival</title>
+        <description>Festival musicale nei templi della Magna Grecia. Concerti all'aperto tra le rovine.</description>
+        <link>https://www.paestumfestival.it</link>
+        <guid isPermaLink="false">paestum-festival</guid>
+        <pubDate></pubDate>
+    </item>
+    <item>
+        <title>Sagra del Pesce di Cetara</title>
+        <description>Degustazione di pesce e prodotti del mare. Cuochi stellati e ristoranti locali.</description>
+        <link>https://www.sagradelpescecetara.it</link>
+        <guid isPermaLink="false">sagra-pesce-cetara</guid>
+        <pubDate></pubDate>
+    </item>
+    <item>
+        <title>Festa della Ceramica</title>
+        <description>Manifestazione dedicata alla tradizione ceramica vietrese. Laboratori, mostre, mercatini.</description>
+        <link>https://www.festadellaceramica.it</link>
+        <guid isPermaLink="false">festa-ceramica-vietri</guid>
+        <pubDate></pubDate>
+    </item>
+    <item>
+        <title>Cilento Golfo Film Festival</title>
+        <description>Festival del cinema a Palinuro. Proiezioni, workshop, incontri con registi.</description>
+        <link>https://www.cilentogolfofilmfestival.it</link>
+        <guid isPermaLink="false">cilento-golfo-film-festival</guid>
+        <pubDate></pubDate>
+    </item>
+    <item>
+        <title>Sagra del Limone della Costa d'Amalfi</title>
+        <description>Degustazione di limoni sfusati amalfitani e prodotti locali.</description>
+        <link>https://www.openstreetmap.org/?mlat=40.6333&mlon=14.6#map=16/40.6333/14.6</link>
+        <guid isPermaLink="false">sagra-limone-costiera</guid>
+        <pubDate></pubDate>
+    </item>
+    </channel>
+</rss>

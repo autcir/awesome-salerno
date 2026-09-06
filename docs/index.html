@@ -3,107 +3,356 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Awesome Salerno — Mappa Interattiva</title>
+    <title>Awesome Salerno - Mappa Interattiva</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
-        #map { width: 100%; height: 100vh; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+        
+        #header {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: white;
+            padding: 16px 24px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+        }
+        
+        #header h1 { font-size: 20px; font-weight: 600; }
+        #header .stats { font-size: 14px; opacity: 0.8; }
+        
+        #controls {
+            background: #f8f9fa;
+            padding: 12px 24px;
+            display: flex;
+            gap: 16px;
+            flex-wrap: wrap;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .filter-group {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .filter-group label {
+            font-size: 13px;
+            font-weight: 500;
+            color: #555;
+        }
+        
+        select, input[type="text"] {
+            padding: 8px 12px;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            font-size: 13px;
+            background: white;
+            min-width: 150px;
+        }
+        
+        select:focus, input:focus {
+            outline: none;
+            border-color: #007bff;
+            box-shadow: 0 0 0 3px rgba(0,123,255,0.1);
+        }
+        
+        #count {
+            margin-left: auto;
+            font-size: 13px;
+            color: #666;
+            display: flex;
+            align-items: center;
+        }
+        
+        #map { 
+            height: calc(100vh - 120px); 
+            width: 100%; 
+        }
+        
         .legend {
             background: white;
-            padding: 10px 15px;
+            padding: 12px;
             border-radius: 8px;
-            box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-            font-size: 13px;
-            line-height: 1.8;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+            font-size: 12px;
         }
-        .legend h4 { margin-bottom: 5px; font-size: 14px; }
-        .legend i { display: inline-block; width: 12px; height: 12px; margin-right: 5px; border-radius: 50%; }
+        
+        .legend h4 { margin-bottom: 8px; font-size: 13px; }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 4px;
+        }
+        
+        .legend-color {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+        }
+        
+        .marker-popup {
+            font-size: 13px;
+        }
+        
+        .marker-popup h3 {
+            font-size: 15px;
+            margin-bottom: 4px;
+            color: #1a1a2e;
+        }
+        
+        .marker-popup .type-badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: 500;
+            margin-bottom: 8px;
+        }
+        
+        .marker-popup .coords {
+            font-size: 11px;
+            color: #888;
+        }
     </style>
 </head>
 <body>
+    <div id="header">
+        <h1>Awesome Salerno</h1>
+        <span class="stats">Mappa interattiva con tutti i POI turistici</span>
+    </div>
+    
+    <div id="controls">
+        <div class="filter-group">
+            <label for="zona">Zona:</label>
+            <select id="zona">
+                <option value="">Tutte</option>
+                <option value="salerno">Salerno</option>
+                <option value="costiera">Costiera</option>
+                <option value="cilento">Cilento</option>
+            </select>
+        </div>
+        
+        <div class="filter-group">
+            <label for="tipo">Tipo:</label>
+            <select id="tipo">
+                <option value="">Tutti</option>
+                <option value="chiesa">Chiesa</option>
+                <option value="castello">Castello</option>
+                <option value="museo">Museo</option>
+                <option value="sentiero">Sentiero</option>
+                <option value="spiaggia">Spiaggia</option>
+                <option value="panorama">Panorama</option>
+                <option value="torre">Torre</option>
+                <option value="ponte">Ponte</option>
+                <option value="grotta">Grotta</option>
+                <option value="fonte">Fonte</option>
+                <option value="archeologico">Archeologico</option>
+            </select>
+        </div>
+        
+        <div class="filter-group">
+            <label for="search">Cerca:</label>
+            <input type="text" id="search" placeholder="Nome, citta...">
+        </div>
+        
+        <div id="count">Caricamento...</div>
+    </div>
+    
     <div id="map"></div>
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
     <script>
-        const map = L.map('map').setView([40.4, 15.0], 9);
+        // Initialize map centered on Salerno
+        const map = L.map('map').setView([40.55, 14.85], 9);
         
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+            attribution: '&copy; OpenStreetMap contributors',
+            maxZoom: 18
         }).addTo(map);
         
+        // Color mapping
         const colors = {
-            sentieri: '#2ecc71',
-            monumenti: '#e74c3c',
-            spiagge: '#3498db',
-            panorami: '#f39c12',
-            parchi: '#27ae60',
-            eventi: '#9b59b6'
+            chiesa: '#e74c3c',
+            castello: '#8e44ad',
+            museo: '#3498db',
+            sentiero: '#27ae60',
+            spiaggia: '#f39c12',
+            panorama: '#1abc9c',
+            torre: '#9b59b6',
+            ponte: '#e67e22',
+            grotta: '#34495e',
+            fonte: '#2980b9',
+            archeologico: '#c0392b',
+            altro: '#95a5a6'
         };
         
-        const icons = {};
-        for (const [cat, color] of Object.entries(colors)) {
-            icons[cat] = L.divIcon({
-                className: 'custom-marker',
-                html: `<div style="background:${color};width:10px;height:10px;border-radius:50%;border:2px solid white;box-shadow:0 1px 3px rgba(0,0,0,0.3)"></div>`,
-                iconSize: [10, 10],
-                iconAnchor: [5, 5]
-            });
-        }
+        const typeNames = {
+            chiesa: 'Chiese',
+            castello: 'Castelli',
+            museo: 'Musei',
+            sentiero: 'Sentieri',
+            spiaggia: 'Spiagge',
+            panorama: 'Panorami',
+            torre: 'Torri',
+            ponte: 'Ponti',
+            grotta: 'Grotte',
+            fonte: 'Fonti',
+            archeologico: 'Archeologico',
+            altro: 'Altro'
+        };
         
+        // Layer groups for each type
         const layers = {};
-        for (const cat of Object.keys(colors)) {
-            layers[cat] = L.layerGroup().addTo(map);
+        Object.keys(colors).forEach(type => {
+            layers[type] = L.layerGroup();
+        });
+        
+        let allMarkers = [];
+        
+        // Load data
+        async function loadData() {
+            try {
+                const [sentieri, monumenti, spiagge, eventi, panorami, parchi] = await Promise.all([
+                    fetch('data/sentieri.json').then(r => r.json()),
+                    fetch('data/monumenti.json').then(r => r.json()),
+                    fetch('data/spiagge.json').then(r => r.json()),
+                    fetch('data/eventi.json').then(r => r.json()),
+                    fetch('data/panorami.json').then(r => r.json()),
+                    fetch('data/parchi.json').then(r => r.json())
+                ]);
+                
+                // Combine all data
+                const allData = [
+                    ...sentieri.map(d => ({...d, categoria: 'sentieri'})),
+                    ...monumenti.map(d => ({...d, categoria: 'monumenti'})),
+                    ...spiagge.map(d => ({...d, categoria: 'spiagge'})),
+                    ...eventi.map(d => ({...d, categoria: 'eventi'})),
+                    ...panorami.map(d => ({...d, categoria: 'panorami'})),
+                    ...parchi.map(d => ({...d, categoria: 'parchi'}))
+                ];
+                
+                // Add markers
+                allData.forEach(item => {
+                    if (item.lat && item.lng) {
+                        const tipo = item.tipo || 'altro';
+                        const color = colors[tipo] || colors.altro;
+                        
+                        const marker = L.circleMarker([item.lat, item.lng], {
+                            radius: 6,
+                            fillColor: color,
+                            color: '#fff',
+                            weight: 2,
+                            opacity: 1,
+                            fillOpacity: 0.8
+                        });
+                        
+                        // Build popup
+                        let popup = `<div class="marker-popup">
+                            <h3>${item.nome}</h3>
+                            <span class="type-badge" style="background: ${color}20; color: ${color}">${typeNames[tipo] || tipo}</span>
+                            <p>${item.descrizione || ''}</p>
+                            <p><strong>Zona:</strong> ${item.zona} | <strong>Citta:</strong> ${item.citta || 'N/A'}`;
+                        
+                        if (item.quartiere) {
+                            popup += ` | <strong>Quartiere:</strong> ${item.quartiere}`;
+                        }
+                        
+                        popup += `</p>
+                            <p class="coords">${item.lat.toFixed(6)}, ${item.lng.toFixed(6)}</p>`;
+                        
+                        if (item.link) {
+                            popup += `<p><a href="${item.link}" target="_blank">Link</a></p>`;
+                        }
+                        
+                        popup += '</div>';
+                        
+                        marker.bindPopup(popup);
+                        marker.itemData = item;
+                        
+                        allMarkers.push(marker);
+                        
+                        if (layers[tipo]) {
+                            layers[tipo].addLayer(marker);
+                        }
+                    }
+                });
+                
+                // Add all layers to map
+                Object.values(layers).forEach(layer => layer.addTo(map));
+                
+                // Build legend
+                const legend = L.control({position: 'bottomright'});
+                legend.onAdd = function() {
+                    const div = L.DomUtil.create('div', 'legend');
+                    div.innerHTML = '<h4>Tipo POI</h4>';
+                    
+                    Object.keys(colors).forEach(type => {
+                        if (layers[type].getLayers().length > 0) {
+                            div.innerHTML += `
+                                <div class="legend-item">
+                                    <span class="legend-color" style="background: ${colors[type]}"></span>
+                                    <span>${typeNames[type]} (${layers[type].getLayers().length})</span>
+                                </div>`;
+                        }
+                    });
+                    
+                    return div;
+                };
+                legend.addTo(map);
+                
+                updateCount();
+                
+            } catch (err) {
+                console.error('Error loading data:', err);
+                document.getElementById('count').textContent = 'Errore caricamento dati';
+            }
         }
         
-        // Load data from relative path (works on GitHub Pages)
-        fetch('data/all.json')
-            .then(r => r.json())
-            .then(data => {
-                let total = 0;
-                for (const [cat, items] of Object.entries(data)) {
-                    if (!layers[cat]) continue;
-                    for (const item of items) {
-                        const lat = item.lat || (item.coordinates && item.coordinates.lat);
-                        const lng = item.lng || (item.coordinates && item.coordinates.lng);
-                        if (!lat || !lng) continue;
-                        
-                        const marker = L.marker([lat, lng], { icon: icons[cat] });
-                        const link = item.link ? `<br><a href="${item.link}" target="_blank">Link</a>` : '';
-                        const zona = item.zona ? `<br><small>Zona: ${item.zona}</small>` : '';
-                        marker.bindPopup(`<b>${item.nome}</b>${link}${zona}<br><small>${item.descrizione || ''}</small>`);
-                        marker.addTo(layers[cat]);
-                        total++;
-                    }
+        // Filter logic
+        function applyFilters() {
+            const zona = document.getElementById('zona').value.toLowerCase();
+            const tipo = document.getElementById('tipo').value.toLowerCase();
+            const search = document.getElementById('search').value.toLowerCase();
+            
+            let visibleCount = 0;
+            
+            allMarkers.forEach(marker => {
+                const item = marker.itemData;
+                let show = true;
+                
+                if (zona && item.zona !== zona) show = false;
+                if (tipo && item.tipo !== tipo) show = false;
+                if (search) {
+                    const matchFields = [item.nome, item.descrizione, item.citta, item.quartiere, item.zona].join(' ').toLowerCase();
+                    if (!matchFields.includes(search)) show = false;
                 }
-                document.title = `Awesome Salerno — ${total} POI`;
+                
+                if (show) {
+                    marker.addTo(map);
+                    visibleCount++;
+                } else {
+                    map.removeLayer(marker);
+                }
             });
+            
+            document.getElementById('count').textContent = `${visibleCount} POI`;
+        }
         
-        // Legend
-        const legend = L.control({ position: 'bottomright' });
-        legend.onAdd = function() {
-            const div = L.DomUtil.create('div', 'legend');
-            div.innerHTML = `
-                <h4>Awesome Salerno</h4>
-                <i style="background:#2ecc71"></i> Sentieri<br>
-                <i style="background:#e74c3c"></i> Monumenti<br>
-                <i style="background:#3498db"></i> Spiagge<br>
-                <i style="background:#f39c12"></i> Panorami<br>
-                <i style="background:#27ae60"></i> Parchi<br>
-                <i style="background:#9b59b6"></i> Eventi
-            `;
-            return div;
-        };
-        legend.addTo(map);
+        function updateCount() {
+            document.getElementById('count').textContent = `${allMarkers.length} POI`;
+        }
         
-        // Layer control
-        L.control.layers(null, {
-            'Sentieri': layers.sentieri,
-            'Monumenti': layers.monumenti,
-            'Spiagge': layers.spiagge,
-            'Panorami': layers.panorami,
-            'Parchi': layers.parchi,
-            'Eventi': layers.eventi
-        }).addTo(map);
+        // Event listeners
+        document.getElementById('zona').addEventListener('change', applyFilters);
+        document.getElementById('tipo').addEventListener('change', applyFilters);
+        document.getElementById('search').addEventListener('input', applyFilters);
+        
+        // Load data
+        loadData();
     </script>
 </body>
 </html>

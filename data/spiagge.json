@@ -1,7 +1,7 @@
 [
   {
     "nome": "Buondormire di terra",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia Buondormire di terra a San Nicola Arcella",
     "lat": 40.0272943,
     "lng": 15.2921368,
     "source": "osm",
@@ -13,7 +13,7 @@
   },
   {
     "nome": "Spiagga Licinella",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia Spiagga Licinella a Capaccio Paestum",
     "lat": 40.4087605,
     "lng": 14.9915039,
     "source": "osm",
@@ -25,7 +25,7 @@
   },
   {
     "nome": "Fiordo di Furore",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Fiordo di Furore a Praiano",
     "lat": 40.6146322,
     "lng": 14.5549546,
     "source": "osm",
@@ -37,7 +37,7 @@
   },
   {
     "nome": "Marina di Vico",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Marina di Vico a Vico Equense",
     "lat": 40.6656098,
     "lng": 14.4278088,
     "source": "osm",
@@ -49,7 +49,7 @@
   },
   {
     "nome": "Agnone( Campania)",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia Agnone( Campania) a Montecorice",
     "lat": 40.2170542,
     "lng": 14.9931224,
     "source": "osm",
@@ -61,7 +61,7 @@
   },
   {
     "nome": "Sunset Beach Club Palinuro",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia Sunset Beach Club Palinuro a San Nicola Arcella",
     "lat": 40.0541267,
     "lng": 15.28257,
     "source": "osm",
@@ -73,7 +73,7 @@
   },
   {
     "nome": "Gavitella beach",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Gavitella beach a Praiano",
     "lat": 40.6139802,
     "lng": 14.5205209,
     "source": "osm",
@@ -97,7 +97,7 @@
   },
   {
     "nome": "Garden Beach",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Garden Beach a Castellammare di Stabia",
     "lat": 40.6891194,
     "lng": 14.456306,
     "source": "osm",
@@ -109,7 +109,7 @@
   },
   {
     "nome": "Bagno Elena",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Bagno Elena a Castellammare di Stabia",
     "lat": 40.6889448,
     "lng": 14.4557921,
     "source": "osm",
@@ -121,7 +121,7 @@
   },
   {
     "nome": "Bagno Conte",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Bagno Conte a Castellammare di Stabia",
     "lat": 40.6886908,
     "lng": 14.4550838,
     "source": "osm",
@@ -133,7 +133,7 @@
   },
   {
     "nome": "Lido Moderno",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Lido Moderno a Castellammare di Stabia",
     "lat": 40.6884041,
     "lng": 14.4542905,
     "source": "osm",
@@ -145,7 +145,7 @@
   },
   {
     "nome": "La Palombara",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia La Palombara a Castellammare di Stabia",
     "lat": 40.6882136,
     "lng": 14.4532768,
     "source": "osm",
@@ -157,7 +157,7 @@
   },
   {
     "nome": "Spiagia della Sciabichedda",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia Spiagia della Sciabichedda a San Giovanni a Piro",
     "lat": 40.0234331,
     "lng": 15.4496788,
     "source": "osm",
@@ -169,7 +169,7 @@
   },
   {
     "nome": "Le 7 Scogliere di Rovigliano",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Le 7 Scogliere di Rovigliano a Torre Annunziata",
     "lat": 40.7399606,
     "lng": 14.4626617,
     "source": "osm",
@@ -181,7 +181,7 @@
   },
   {
     "nome": "Lido Nettuno",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Lido Nettuno a Torre Annunziata",
     "lat": 40.7544858,
     "lng": 14.4400602,
     "source": "osm",
@@ -193,7 +193,7 @@
   },
   {
     "nome": "Lido Rinascenza",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Lido Rinascenza a Torre Annunziata",
     "lat": 40.7542626,
     "lng": 14.4408422,
     "source": "osm",
@@ -205,7 +205,7 @@
   },
   {
     "nome": "Lido Eldorado",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Lido Eldorado a Torre Annunziata",
     "lat": 40.7543615,
     "lng": 14.4404689,
     "source": "osm",
@@ -217,7 +217,7 @@
   },
   {
     "nome": "Lido Risorgimento",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Lido Risorgimento a Torre Annunziata",
     "lat": 40.7539007,
     "lng": 14.4411724,
     "source": "osm",
@@ -229,7 +229,7 @@
   },
   {
     "nome": "Marina del Sole",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Marina del Sole a Torre Annunziata",
     "lat": 40.7531951,
     "lng": 14.4424282,
     "source": "osm",
@@ -253,7 +253,7 @@
   },
   {
     "nome": "Lido Azzurro",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Lido Azzurro a Torre Annunziata",
     "lat": 40.7547232,
     "lng": 14.4393525,
     "source": "osm",
@@ -265,7 +265,7 @@
   },
   {
     "nome": "Spiaggie Gemelle",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia Spiaggie Gemelle a San Giovanni a Piro",
     "lat": 40.0291653,
     "lng": 15.4566839,
     "source": "osm",
@@ -277,7 +277,7 @@
   },
   {
     "nome": "Spiagge Gemelle",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia Spiagge Gemelle a San Giovanni a Piro",
     "lat": 40.0285595,
     "lng": 15.4563626,
     "source": "osm",
@@ -301,7 +301,7 @@
   },
   {
     "nome": "Antico Bagno Nettuno",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Antico Bagno Nettuno a Sorrento",
     "lat": 40.6395593,
     "lng": 14.4018041,
     "source": "osm",
@@ -313,7 +313,7 @@
   },
   {
     "nome": "La spiaggetta",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia La spiaggetta a Casal Velino",
     "lat": 40.1755226,
     "lng": 15.1217621,
     "source": "osm",
@@ -337,7 +337,7 @@
   },
   {
     "nome": "Lido Scaramella beach",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Lido Scaramella beach a Salerno",
     "lat": 40.6651385,
     "lng": 14.7893159,
     "source": "osm",
@@ -345,11 +345,12 @@
     "id": "spiagge-lido-scaramella-beach-106",
     "zona": "salerno",
     "tipo": "spiaggia",
-    "citta": "Salerno"
+    "citta": "Salerno",
+    "quartiere": "Lungomare"
   },
   {
     "nome": "Spiagga Licina",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia Spiagga Licina a Capaccio Paestum",
     "lat": 40.3539885,
     "lng": 14.9914906,
     "source": "osm",
@@ -361,7 +362,7 @@
   },
   {
     "nome": "Torretta 23",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia Torretta 23 a Castellabate",
     "lat": 40.3097744,
     "lng": 14.9457829,
     "source": "osm",
@@ -373,7 +374,7 @@
   },
   {
     "nome": "Lido Tirreno",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia Lido Tirreno a Castellabate",
     "lat": 40.3100561,
     "lng": 14.9457336,
     "source": "osm",
@@ -385,7 +386,7 @@
   },
   {
     "nome": "Club Michele",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia Club Michele a San Giovanni a Piro",
     "lat": 40.0154139,
     "lng": 15.3325816,
     "source": "osm",
@@ -397,7 +398,7 @@
   },
   {
     "nome": "Bikini beach",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia Bikini beach a San Giovanni a Piro",
     "lat": 40.0141644,
     "lng": 15.333556,
     "source": "osm",
@@ -409,7 +410,7 @@
   },
   {
     "nome": "Playa porlamar",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia Playa porlamar a San Giovanni a Piro",
     "lat": 40.0148603,
     "lng": 15.3330115,
     "source": "osm",
@@ -421,7 +422,7 @@
   },
   {
     "nome": "La Pagliarella",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia La Pagliarella a Castellabate",
     "lat": 40.3118145,
     "lng": 14.9453859,
     "source": "osm",
@@ -433,7 +434,7 @@
   },
   {
     "nome": "Lido La Conchiglia",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Lido La Conchiglia a Salerno",
     "lat": 40.6716667,
     "lng": 14.7761751,
     "source": "osm",
@@ -441,11 +442,12 @@
     "id": "spiagge-lido-la-conchiglia-117",
     "zona": "salerno",
     "tipo": "spiaggia",
-    "citta": "Salerno"
+    "citta": "Salerno",
+    "quartiere": "Lungomare"
   },
   {
     "nome": "Lido Night & Day",
-    "descrizione": "Spiaggia nel territorio di Costiera Amalfitana",
+    "descrizione": "Spiaggia Lido Night & Day a Bellizzi",
     "lat": 40.5636456,
     "lng": 14.8962524,
     "source": "osm",
@@ -457,7 +459,7 @@
   },
   {
     "nome": "Lido Mojito Beach",
-    "descrizione": "Spiaggia nel territorio di Costiera Amalfitana",
+    "descrizione": "Spiaggia Lido Mojito Beach a Bellizzi",
     "lat": 40.5639385,
     "lng": 14.8960283,
     "source": "osm",
@@ -470,7 +472,7 @@
   {
     "id": "osm-10015833082",
     "nome": "Spiaggia libera S8 Eboli",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia libera S8 Eboli a Bellizzi",
     "lat": 40.5155625,
     "lng": 14.9239895,
     "source": "osm",
@@ -484,7 +486,7 @@
   {
     "id": "osm-146704448",
     "nome": "Spiaggia Foce Acqua dei Ranci",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia Spiaggia Foce Acqua dei Ranci a Capaccio Paestum",
     "lat": 40.3865926,
     "lng": 14.9997257,
     "source": "osm",
@@ -498,7 +500,7 @@
   {
     "id": "osm-146704452",
     "nome": "Spiaggia Varolato",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia Varolato a Capaccio Paestum",
     "lat": 40.4680939,
     "lng": 14.952597,
     "source": "osm",
@@ -512,7 +514,7 @@
   {
     "id": "osm-146986661",
     "nome": "Spiaggia di Agropoli",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia Spiaggia di Agropoli a Capaccio Paestum",
     "lat": 40.3625563,
     "lng": 14.9987224,
     "source": "osm",
@@ -526,7 +528,7 @@
   {
     "id": "osm-146986814",
     "nome": "Spiaggia di Trentova",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia Spiaggia di Trentova a Agropoli",
     "lat": 40.3438048,
     "lng": 14.9717346,
     "source": "osm",
@@ -540,7 +542,7 @@
   {
     "id": "osm-146987650",
     "nome": "Spiaggia Testene",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia Spiaggia Testene a Capaccio Paestum",
     "lat": 40.3543288,
     "lng": 14.9938353,
     "source": "osm",
@@ -554,7 +556,7 @@
   {
     "id": "osm-147038883",
     "nome": "Spiaggia di Sovarano (Sgarrupo)",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia di Sovarano (Sgarrupo) a Cetara",
     "lat": 40.6399421,
     "lng": 14.696636,
     "source": "osm",
@@ -568,7 +570,7 @@
   {
     "id": "osm-147038884",
     "nome": "Spiaggia di Cauco",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia di Cauco a Cetara",
     "lat": 40.6381263,
     "lng": 14.6956648,
     "source": "osm",
@@ -582,7 +584,7 @@
   {
     "id": "osm-147038889",
     "nome": "Spiaggia della Crestarella",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia della Crestarella a Vietri sul Mare",
     "lat": 40.6692647,
     "lng": 14.7315339,
     "source": "osm",
@@ -596,7 +598,7 @@
   {
     "id": "osm-147038890",
     "nome": "Spiaggia del Tuoro Vecchio",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia del Tuoro Vecchio a Cetara",
     "lat": 40.6502981,
     "lng": 14.7047899,
     "source": "osm",
@@ -610,7 +612,7 @@
   {
     "id": "osm-147038891",
     "nome": "Spiaggia del Lannio",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia del Lannio a Cetara",
     "lat": 40.6485011,
     "lng": 14.7038947,
     "source": "osm",
@@ -624,7 +626,7 @@
   {
     "id": "osm-147039294",
     "nome": "Spiaggia Acquachiara",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia Acquachiara a Minori",
     "lat": 40.6444932,
     "lng": 14.6499251,
     "source": "osm",
@@ -638,7 +640,7 @@
   {
     "id": "osm-147039296",
     "nome": "Spiaggia Duoglio",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia Duoglio a Conca dei Marini",
     "lat": 40.6260001,
     "lng": 14.5883297,
     "source": "osm",
@@ -652,7 +654,7 @@
   {
     "id": "osm-147039298",
     "nome": "Castiglione",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Castiglione a Amalfi",
     "lat": 40.6368363,
     "lng": 14.6108958,
     "source": "osm",
@@ -666,7 +668,7 @@
   {
     "id": "osm-147039301",
     "nome": "Spiaggia del Cavallo Morto",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia del Cavallo Morto a Maiori",
     "lat": 40.6417218,
     "lng": 14.6623744,
     "source": "osm",
@@ -680,7 +682,7 @@
   {
     "id": "osm-147039314",
     "nome": "Spiaggia della Vite",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia della Vite a Furore",
     "lat": 40.6186623,
     "lng": 14.5775324,
     "source": "osm",
@@ -694,7 +696,7 @@
   {
     "id": "osm-162834577",
     "nome": "Spiaggia di Marina d'Albori",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia di Marina d'Albori a Cetara",
     "lat": 40.6638108,
     "lng": 14.7158611,
     "source": "osm",
@@ -708,7 +710,7 @@
   {
     "id": "osm-162834579",
     "nome": "Spiaggia della Cartiera",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia della Cartiera a Cetara",
     "lat": 40.6635914,
     "lng": 14.7153254,
     "source": "osm",
@@ -722,7 +724,7 @@
   {
     "id": "osm-162834653",
     "nome": "Spiaggia dello Scoglione",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia dello Scoglione a Cetara",
     "lat": 40.6652832,
     "lng": 14.717734,
     "source": "osm",
@@ -736,7 +738,7 @@
   {
     "id": "osm-162834654",
     "nome": "Spiaggia della Torre di Albori",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia della Torre di Albori a Cetara",
     "lat": 40.6642035,
     "lng": 14.716568,
     "source": "osm",
@@ -750,7 +752,7 @@
   {
     "id": "osm-191229148",
     "nome": "Spiaggia della Collata",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia della Collata a Cetara",
     "lat": 40.6434937,
     "lng": 14.6982841,
     "source": "osm",
@@ -764,7 +766,7 @@
   {
     "id": "osm-191229151",
     "nome": "Spiaggia dei Ninnilli",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia dei Ninnilli a Cetara",
     "lat": 40.6669481,
     "lng": 14.7192365,
     "source": "osm",
@@ -778,7 +780,7 @@
   {
     "id": "osm-191230547",
     "nome": "Spiaggia del Cancelluzzo",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia del Cancelluzzo a Cetara",
     "lat": 40.6660368,
     "lng": 14.7184797,
     "source": "osm",
@@ -792,7 +794,7 @@
   {
     "id": "osm-191230551",
     "nome": "Spiaggia della Carrubina",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia della Carrubina a Cetara",
     "lat": 40.6665617,
     "lng": 14.718756,
     "source": "osm",
@@ -806,7 +808,7 @@
   {
     "id": "osm-191233419",
     "nome": "Spiaggia Scavatella",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia Scavatella a Cetara",
     "lat": 40.6527829,
     "lng": 14.7072439,
     "source": "osm",
@@ -820,7 +822,7 @@
   {
     "id": "osm-191233421",
     "nome": "Spiaggia della Vergola di Ferro",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia della Vergola di Ferro a Cetara",
     "lat": 40.6536762,
     "lng": 14.7079785,
     "source": "osm",
@@ -834,7 +836,7 @@
   {
     "id": "osm-191233425",
     "nome": "Spiaggia dell'Acqua della Fica",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia dell'Acqua della Fica a Cetara",
     "lat": 40.6610365,
     "lng": 14.7131047,
     "source": "osm",
@@ -848,7 +850,7 @@
   {
     "id": "osm-191233427",
     "nome": "Spiaggia della Campana",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia della Campana a Cetara",
     "lat": 40.6511361,
     "lng": 14.7054715,
     "source": "osm",
@@ -862,7 +864,7 @@
   {
     "id": "osm-191233431",
     "nome": "Spiaggia Fuenti",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia Fuenti a Cetara",
     "lat": 40.657756,
     "lng": 14.7119509,
     "source": "osm",
@@ -876,7 +878,7 @@
   {
     "id": "osm-191233432",
     "nome": "Spiaggia dei Travertini",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia dei Travertini a Cetara",
     "lat": 40.6567568,
     "lng": 14.7100374,
     "source": "osm",
@@ -890,7 +892,7 @@
   {
     "id": "osm-191234130",
     "nome": "Spiaggia Addò Francesca",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia Addò Francesca a Cetara",
     "lat": 40.6543659,
     "lng": 14.7084265,
     "source": "osm",
@@ -904,7 +906,7 @@
   {
     "id": "osm-191235879",
     "nome": "Spiaggia di Ciglio (I Limoni)",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia di Ciglio (I Limoni) a Cetara",
     "lat": 40.6414016,
     "lng": 14.6977772,
     "source": "osm",
@@ -918,7 +920,7 @@
   {
     "id": "osm-398174788",
     "nome": "Spiaggia Santa Teresa",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Spiaggia Santa Teresa a Vietri sul Mare",
     "lat": 40.6773263,
     "lng": 14.7561703,
     "source": "osm",
@@ -932,7 +934,7 @@
   {
     "id": "osm-815827728",
     "nome": "Cala Blu",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia Cala Blu a Agropoli",
     "lat": 40.3377329,
     "lng": 14.9535234,
     "source": "osm",
@@ -946,7 +948,7 @@
   {
     "id": "osm-1280967130",
     "nome": "Spiaggia La Laura",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia Spiaggia La Laura a Capaccio Paestum",
     "lat": 40.4480402,
     "lng": 14.9672095,
     "source": "osm",
@@ -960,7 +962,7 @@
   {
     "id": "osm-1280967131",
     "nome": "Spiaggia Casina d'Amato",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia Spiaggia Casina d'Amato a Capaccio Paestum",
     "lat": 40.432523,
     "lng": 14.9780032,
     "source": "osm",
@@ -974,7 +976,7 @@
   {
     "id": "osm-1280967132",
     "nome": "Spiaggia Ponte di ferro",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia Spiaggia Ponte di ferro a Capaccio Paestum",
     "lat": 40.4201712,
     "lng": 14.9855256,
     "source": "osm",
@@ -988,7 +990,7 @@
   {
     "id": "osm-1280967133",
     "nome": "Spiaggia Torre di Paestum",
-    "descrizione": "Spiaggia nel territorio di Cilento",
+    "descrizione": "Spiaggia Spiaggia Torre di Paestum a Capaccio Paestum",
     "lat": 40.3972587,
     "lng": 14.9968925,
     "source": "osm",
@@ -1002,7 +1004,7 @@
   {
     "id": "osm-1366488651",
     "nome": "Laurito",
-    "descrizione": "Spiaggia nel territorio di Salerno",
+    "descrizione": "Spiaggia Laurito a Positano",
     "lat": 40.6223104,
     "lng": 14.5069566,
     "source": "osm",

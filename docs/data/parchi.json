@@ -69,7 +69,7 @@
   },
   {
     "nome": "Tenuta Castelluccio Gole del Cervati",
-    "descrizione": "Punto di interesse nel territorio di Cilento",
+    "descrizione": "POI Tenuta Castelluccio Gole del Cervati a Piaggine",
     "lat": 40.3490094,
     "lng": 15.3883086,
     "source": "osm",
@@ -86,7 +86,7 @@
   },
   {
     "nome": "Area Marina Protetta Punta Campanella",
-    "descrizione": "Punto di interesse nel territorio di Salerno",
+    "descrizione": "POI Area Marina Protetta Punta Campanella a Sorrento",
     "lat": 40.60293,
     "lng": 14.3890769,
     "source": "osm",
@@ -103,7 +103,7 @@
   },
   {
     "nome": "Area Marina Protetta Santa Maria di Castellabate",
-    "descrizione": "Punto di interesse nel territorio di Cilento",
+    "descrizione": "POI Area Marina Protetta Santa Maria di Castellabate a Castellabate",
     "lat": 40.2763458,
     "lng": 14.8887679,
     "source": "osm",
@@ -121,7 +121,7 @@
   {
     "id": "osm-93496743",
     "nome": "Oasi naturale Valle della Caccia",
-    "descrizione": "Punto di interesse nel territorio di Cilento",
+    "descrizione": "POI Oasi naturale Valle della Caccia a Colliano",
     "lat": 40.7228749,
     "lng": 15.1707038,
     "source": "osm",
@@ -135,7 +135,7 @@
   {
     "id": "osm-116820888",
     "nome": "Riserva naturale dei monti Eremita e Marzano",
-    "descrizione": "Punto di interesse nel territorio di Cilento",
+    "descrizione": "POI Riserva naturale dei monti Eremita e Marzano a Valva",
     "lat": 40.7555335,
     "lng": 15.3233108,
     "source": "osm",
@@ -163,7 +163,7 @@
   {
     "id": "osm-4100859",
     "nome": "Parco Nazionale Cilento, Vallo di Diano e Alburni",
-    "descrizione": "Sito archeologico nel territorio di Cilento",
+    "descrizione": "Sito archeologico Parco Nazionale Cilento, Vallo di Diano e Alburni a Gioi",
     "lat": 40.2833541,
     "lng": 15.298374,
     "source": "osm",
@@ -177,7 +177,7 @@
   {
     "id": "osm-4671891",
     "nome": "Riserva naturale Foce Sele Tanagro",
-    "descrizione": "Punto di interesse nel territorio di Cilento",
+    "descrizione": "POI Riserva naturale Foce Sele Tanagro a Sant'Angelo a Fasanella",
     "lat": 40.5179718,
     "lng": 15.2945939,
     "source": "osm",
