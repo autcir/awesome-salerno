@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mappa Awesome Salerno</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+        #map { width: 100%; height: 100vh; }
+        .legend {
+            background: white;
+            padding: 10px 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+            font-size: 13px;
+            line-height: 1.8;
+        }
+        .legend h4 { margin-bottom: 5px; font-size: 14px; }
+        .legend i { display: inline-block; width: 12px; height: 12px; margin-right: 5px; border-radius: 50%; }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        const map = L.map('map').setView([40.4, 15.0], 9);
+        
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; OpenStreetMap contributors'
+        }).addTo(map);
+        
+        const colors = {
+            sentieri: '#2ecc71',
+            monumenti: '#e74c3c',
+            spiagge: '#3498db',
+            panorami: '#f39c12',
+            parchi: '#27ae60',
+            eventi: '#9b59b6'
+        };
+        
+        const icons = {};
+        for (const [cat, color] of Object.entries(colors)) {
+            icons[cat] = L.divIcon({
+                className: 'custom-marker',
+                html: `<div style="background:${color};width:10px;height:10px;border-radius:50%;border:2px solid white;box-shadow:0 1px 3px rgba(0,0,0,0.3)"></div>`,
+                iconSize: [10, 10],
+                iconAnchor: [5, 5]
+            });
+        }
+        
+        const layers = {};
+        for (const cat of Object.keys(colors)) {
+            layers[cat] = L.layerGroup().addTo(map);
+        }
+        
+        // Load data
+        fetch('data/all.json')
+            .then(r => r.json())
+            .then(data => {
+                for (const [cat, items] of Object.entries(data)) {
+                    if (!layers[cat]) continue;
+                    for (const item of items) {
+                        const lat = item.lat || (item.coordinates && item.coordinates.lat);
+                        const lng = item.lng || (item.coordinates && item.coordinates.lng);
+                        if (!lat || !lng) continue;
+                        
+                        const marker = L.marker([lat, lng], { icon: icons[cat] });
+                        const link = item.link ? `<br><a href="${item.link}" target="_blank">Link</a>` : '';
+                        marker.bindPopup(`<b>${item.nome}</b>${link}<br><small>${item.descrizione || ''}</small>`);
+                        marker.addTo(layers[cat]);
+                    }
+                }
+            })
+            .catch(() => {
+                // Fallback: load from API
+                const categories = ['sentieri', 'monumenti', 'spiagge', 'panorami', 'parchi', 'eventi'];
+                for (const cat of categories) {
+                    fetch(`/api/${cat}`)
+                        .then(r => r.json())
+                        .then(items => {
+                            for (const item of items) {
+                                if (!item.lat || !item.lng) continue;
+                                const marker = L.marker([item.lat, item.lng], { icon: icons[cat] });
+                                const link = item.link ? `<br><a href="${item.link}" target="_blank">Link</a>` : '';
+                                marker.bindPopup(`<b>${item.nome}</b>${link}<br><small>${item.descrizione || ''}</small>`);
+                                marker.addTo(layers[cat]);
+                            }
+                        });
+                }
+            });
+        
+        // Legend
+        const legend = L.control({ position: 'bottomright' });
+        legend.onAdd = function() {
+            const div = L.DomUtil.create('div', 'legend');
+            div.innerHTML = `
+                <h4>Awesome Salerno</h4>
+                <i style="background:#2ecc71"></i> Sentieri<br>
+                <i style="background:#e74c3c"></i> Monumenti<br>
+                <i style="background:#3498db"></i> Spiagge<br>
+                <i style="background:#f39c12"></i> Panorami<br>
+                <i style="background:#27ae60"></i> Parchi<br>
+                <i style="background:#9b59b6"></i> Eventi
+            `;
+            return div;
+        };
+        legend.addTo(map);
+        
+        // Layer control
+        L.control.layers(null, {
+            'Sentieri': layers.sentieri,
+            'Monumenti': layers.monumenti,
+            'Spiagge': layers.spiagge,
+            'Panorami': layers.panorami,
+            'Parchi': layers.parchi,
+            'Eventi': layers.eventi
+        }).addTo(map);
+    </script>
+</body>
+</html>

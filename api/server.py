@@ -30,6 +30,18 @@ def load_json(filename):
             return json.load(f)
     return []
 
+def filter_items(items, params):
+    """Filter items by zona and tipo query params."""
+    zona = params.get("zona", [""])[0].lower()
+    tipo = params.get("tipo", [""])[0].lower()
+    
+    result = items
+    if zona:
+        result = [i for i in result if zona in i.get("zona", "").lower()]
+    if tipo:
+        result = [i for i in result if tipo in i.get("tipo", "").lower() or tipo in i.get("subcategoria", "").lower()]
+    return result
+
 def search_data(query, data):
     """Search across all data by name and description."""
     query_lower = query.lower()
@@ -57,37 +69,37 @@ class APIHandler(BaseHTTPRequestHandler):
         self.end_headers()
         
         if path == "/api/sentieri":
-            data = load_json("sentieri.json")
+            data = filter_items(load_json("sentieri.json"), params)
             self.wfile.write(json.dumps(data, ensure_ascii=False, indent=2).encode())
         
         elif path == "/api/monumenti":
-            data = load_json("monumenti.json")
+            data = filter_items(load_json("monumenti.json"), params)
             self.wfile.write(json.dumps(data, ensure_ascii=False, indent=2).encode())
         
         elif path == "/api/spiagge":
-            data = load_json("spiagge.json")
+            data = filter_items(load_json("spiagge.json"), params)
             self.wfile.write(json.dumps(data, ensure_ascii=False, indent=2).encode())
         
         elif path == "/api/eventi":
-            data = load_json("eventi.json")
+            data = filter_items(load_json("eventi.json"), params)
             self.wfile.write(json.dumps(data, ensure_ascii=False, indent=2).encode())
         
         elif path == "/api/panorami":
-            data = load_json("panorami.json")
+            data = filter_items(load_json("panorami.json"), params)
             self.wfile.write(json.dumps(data, ensure_ascii=False, indent=2).encode())
         
         elif path == "/api/parchi":
-            data = load_json("parchi.json")
+            data = filter_items(load_json("parchi.json"), params)
             self.wfile.write(json.dumps(data, ensure_ascii=False, indent=2).encode())
         
         elif path == "/api/all":
             all_data = {
-                "sentieri": load_json("sentieri.json"),
-                "monumenti": load_json("monumenti.json"),
-                "spiagge": load_json("spiagge.json"),
-                "eventi": load_json("eventi.json"),
-                "panorami": load_json("panorami.json"),
-                "parchi": load_json("parchi.json")
+                "sentieri": filter_items(load_json("sentieri.json"), params),
+                "monumenti": filter_items(load_json("monumenti.json"), params),
+                "spiagge": filter_items(load_json("spiagge.json"), params),
+                "eventi": filter_items(load_json("eventi.json"), params),
+                "panorami": filter_items(load_json("panorami.json"), params),
+                "parchi": filter_items(load_json("parchi.json"), params)
             }
             self.wfile.write(json.dumps(all_data, ensure_ascii=False, indent=2).encode())
         
@@ -124,8 +136,8 @@ def main():
     print(f"=== Awesome Salerno API ===")
     print(f"Listening on http://localhost:{port}")
     print(f"\nEndpoints:")
-    print(f"  GET /api/sentieri")
-    print(f"  GET /api/monumenti")
+    print(f"  GET /api/sentieri?zona=<costiera|cilento|salerno>")
+    print(f"  GET /api/monumenti?tipo=<chiesa|castello|museo|archeologico>")
     print(f"  GET /api/spiagge")
     print(f"  GET /api/eventi")
     print(f"  GET /api/panorami")

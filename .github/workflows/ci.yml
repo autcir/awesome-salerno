@@ -1,4 +1,4 @@
-name: Awesome Lint
+name: CI
 
 on:
   push:
@@ -14,14 +14,41 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: npm install -g awesome-lint
-      - run: awesome-lint
+      - run: npm ci
+      - run: npx awesome-lint
 
-  link-check:
+  validate-data:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: lycheeverse/lychee-action@v2
+      - uses: actions/setup-python@v5
         with:
-          args: --verbose --no-progress README.md
-          fail: true
+          python-version: 3.12
+      - name: Validate JSON files
+        run: |
+          for f in data/*.json; do
+            python3 -c "import json; json.load(open('$f'))" || exit 1
+            echo "✓ $f"
+          done
+      - name: Check GPS coordinates
+        run: |
+          python3 -c "
+          import json, sys
+          errors = 0
+          for cat in ['sentieri', 'monumenti', 'spiagge', 'eventi', 'panorami', 'parchi']:
+              with open(f'data/{cat}.json') as f:
+                  items = json.load(f)
+              for i, item in enumerate(items):
+                  lat = item.get('lat', 0)
+                  lng = item.get('lng', 0)
+                  if lat == 0 and lng == 0:
+                      print(f'ERROR: {cat}[{i}] has GPS (0,0)')
+                      errors += 1
+                  elif lat < 39 or lat > 42 or lng < 14 or lng > 16:
+                      print(f'ERROR: {cat}[{i}] GPS out of bounds ({lat},{lng})')
+                      errors += 1
+          if errors:
+              print(f'{errors} GPS errors found')
+              sys.exit(1)
+          print('All GPS coordinates valid')
+          "

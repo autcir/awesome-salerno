@@ -8,7 +8,7 @@
     "export-data": "python3 scripts/export_data.py"
   },
   "devDependencies": {
-    "awesome-lint": "^1.0.0"
+    "awesome-lint": "^1.2.0"
   },
   "license": "CC0-1.0"
 }

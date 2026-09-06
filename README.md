@@ -1,167 +1,153 @@
 <div align="center">
 
-# 🌊 Awesome Salerno
+<!-- lint ignore awesome-badge -->
+<a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Salerno
 
-**La raccolta completa di dati turistici per Salerno, Costiera Amalfitana e Cilento.**
-
-3615 POI con coordinate GPS — sentieri, monumenti, spiagge, panorami, parchi, eventi.
-
-[Scarica i dati](#download) · [Usa l'API](#api) · [Contribuisci](#contributing)
+<sub>The curated list of tourism data for Salerno, Amalfi Coast and Cilento.</sub>
 
 </div>
 
----
+## Contents
 
-## Perché
+- [Sentieri](#sentieri)
+- [Monumenti](#monumenti)
+- [Spiagge](#spiagge)
+- [Panorami](#panorami)
+- [Parchi](#parchi)
+- [Eventi](#eventi)
+- [API](#api)
 
-Google non ha una struttura dati pulita per il turismo campano.
-Questi dati sono **liberi, aperti e verificati** — pronti per app, siti web e assistenti vocali.
+## Sentieri
 
-Ogni POI ha:
-- Coordinate GPS reali
-- Link a fonti ufficiali (Wikipedia, CAI, siti ufficiali)
-- Descrizione accurata
+> 276 hiking trails with GPS coordinates, difficulty and elevation.
 
----
+- [Sentiero degli Dei](https://www.caimontilattari.it/sentiero/327/) - The most famous trail on the Amalfi Coast. 7.8 km, medium difficulty.
+- [Path of the Lemons](https://www.alltrails.com/trail/italy/campania/sentiero-dei-limoni) - Panoramic trail between Maiori and Minori through lemon terraces.
+- [Valle dei Mulini](https://www.caimontilattari.it/sentiero/325/) - Historic trail through ancient paper mills in Amalfi.
+- [Sentiero della Primula](https://www.sentieridelcilento.it/sentierodellaprimula/) - Coastal trail around Capo Palinuro in the Cilento National Park.
+- [Costa degli Infreschi](https://www.komoot.com/it-it/smarttour/e1084969073/) - Coastal trail in the Cilento National Park with hidden beaches.
+- [Alta Via Monti Lattari](https://www.altaviadeimontilattari.it/) - Long-distance trail from Salerno to Sorrento. 75.6 km, 11 stages.
+- [Cammino di San Nilo](https://www.italiadeicammini.it/) - Slow tourism route through the Cilento. 111 km, 8 stages.
 
-## 🥾 Sentieri — 318
+## Monumenti
 
-| Sentiero | Difficoltà | Zona |
-|----------|------------|------|
-| [Sentiero degli Dei](https://www.caimontilattari.it/sentiero/327/) | Media | Costiera |
-| [Path of the Lemons](https://www.alltrails.com/trail/italy/campania/sentiero-dei-limoni) | Facile | Costiera |
-| [Valle dei Mulini](https://www.caimontilattari.it/sentiero/325/) | Media | Amalfi |
-| [Alta Via Monti Lattari](https://www.altaviadeimontilattari.it/) | Difficile | Lattari |
-| [Cammino di San Nilo](https://www.italiadeicammini.it/) | Difficile | Cilento |
-| [Costa degli Infreschi](https://www.komoot.com/it-it/smarttour/e1084969073/) | Media | Cilento |
-| [Sentiero della Primula](https://www.sentieridelcilento.it/sentierodellaprimula/) | Media | Palinuro |
-| [Sentiero del Monte Stella](https://www.cilentolifestyle.it/) | Media | Cilento |
+> 2090 churches, castles, museums and archaeological sites.
 
-📁 [`data/sentieri.json`](data/sentieri.json)
+### Salerno
 
----
+- [Duomo di Salerno](https://it.wikipedia.org/wiki/Duomo_di_Salerno) - Norman cathedral built in 1076 with crypt of San Matteo.
+- [Castello di Arechi](https://it.wikipedia.org/wiki/Castello_di_Arechi) - Lombard fortress from the 7th century with panoramic views.
+- [Scuola Medica Salernitana](https://it.wikipedia.org/wiki/Scuola_medica_salernitana) - First medical university in the world (9th century).
+- [Cripta di San Matteo](https://it.wikipedia.org/wiki/Cripta_di_San_Matteo) - Byzantine mosaics and Roman sarcophagi.
+- [San Pietro a Corte](https://it.wikipedia.org/wiki/San_Pietro_a_Corte) - Paleochurch from the 7th century with Lombard frescoes.
 
-## 🏛️ Monumenti — 2600
+### Amalfi Coast
 
-| Monumento | Tipo | Zona |
-|-----------|------|------|
-| [Duomo di Salerno](https://it.wikipedia.org/wiki/Duomo_di_Salerno) | Chiesa | Salerno |
-| [Castello di Arechi](https://it.wikipedia.org/wiki/Castello_di_Arechi) | Castello | Salerno |
-| [Scuola Medica Salernitana](https://it.wikipedia.org/wiki/Scuola_medica_salernitana) | Monumento | Salerno |
-| [Duomo di Amalfi](https://it.wikipedia.org/wiki/Cattedrale_di_Sant%27Andrea_(Amalfi)) | Chiesa | Amalfi |
-| [Villa Rufolo](https://www.villarufolo.it) | Monumento | Ravello |
-| [Villa Cimbrone](https://www.villacimbrone.com) | Monumento | Ravello |
-| [Tempio di Nettuno](https://www.museopaestum.beniculturali.it) | Archeologico | Paestum |
-| [Tomba del Tuffatore](https://www.museopaestum.beniculturali.it) | Archeologico | Paestum |
-| [Grotta di Castelcivita](https://www.grottedicastelcivita.it) | Grotta | Cilento |
+- [Duomo di Amalfi](https://it.wikipedia.org/wiki/Cattedrale_di_Sant%27Andrea_(Amalfi)) - Arab-Norman cathedral with Chiostro del Paradiso.
+- [Villa Rufolo](https://www.villarufolo.it) - 12th-century villa with gardens that inspired Wagner.
+- [Villa Cimbrone](https://www.villacimbrone.com) - Historic villa with Terrazza dell'Infinito.
+- [Museo della Carta](https://museodellacarta.com) - Museum in an ancient paper mill with live demonstrations.
 
-📁 [`data/monumenti.json`](data/monumenti.json)
+### Cilento
 
----
+- [Templo di Hera](https://www.museopaestum.beniculturali.it/tempio-di-hera) - Oldest Greek temple of Magna Graecia (550 BC).
+- [Templo di Nettuno](https://www.museopaestum.beniculturali.it/tempio-di-nettuno) - Best-preserved Greek temple (4th century BC).
+- [Tomba del Tuffatore](https://www.museopaestum.beniculturali.it/tomba-del-tuffatore) - Unique painted tomb from the 5th century BC.
+- [Castello di Agropoli](https://it.wikipedia.org/wiki/Castello_di_Agropoli) - 13th-century Angevin castle with panoramic views.
+- [Grotta di Castelcivita](https://www.grottedicastelcivita.it) - Cave with prehistoric paintings, 1.3 km visitable.
 
-## 🏖️ Spiagge — 126
+## Spiagge
 
-| Spiaggia | Zona |
-|----------|------|
-| [Spiaggia Grande](https://www.openstreetmap.org/#map=16/40.6278/14.4872) | Positano |
-| [Fiordo di Furore](https://www.openstreetmap.org/#map=16/40.6143/14.5546) | Furore |
-| [Spiaggia di Maiori](https://www.openstreetmap.org/#map=16/40.6472/14.6422) | Maiori |
-| [Spiaggia di Paestum](https://www.openstreetmap.org/#map=16/40.4180/15.0070) | Capaccio |
-| [Spiaggia di Palinuro](https://www.openstreetmap.org/#map=16/40.0360/15.2881) | Centola |
-| [Trentova](https://www.openstreetmap.org/#map=16/40.3436/14.9723) | Agropoli |
-| [Cala degli Infreschi](https://www.openstreetmap.org/#map=16/40.0330/15.3780) | Camerota |
+> 40 beaches on the Amalfi Coast and Cilento. Full dataset: [spiagge.json](data/spiagge.json).
 
-📁 [`data/spiagge.json`](data/spiagge.json)
+- [Spiaggia Grande](https://www.openstreetmap.org/note/4261135) - Main beach of Positano.
+- [Fiordo di Furore](https://www.openstreetmap.org/note/3856708) - Fjord with bridge and hidden beach.
+- [Spiaggia di Maiori](https://www.openstreetmap.org/note/1926018) - Longest beach on the Amalfi Coast.
+- [Spiaggia di Paestum](https://www.comune.capaccio.sa.it/) - Beach near the Greek temples.
+- [Spiaggia di Palinuro](https://www.comuneCentola.it/) - Blue Flag beach in the Cilento.
+- [Trentova](https://www.comune.agropoli.sa.it/) - Wild beach near Agropoli.
+- [Cala degli Infreschi](https://www.comune.tortora.cs.it/) - Hidden cove in the marine protected area.
 
----
+## Panorami
 
-## 🗺️ Panorami — 544
+> 212 viewpoints, peaks and panoramas. Full dataset: [panorami.json](data/panorami.json).
 
-| Panorama | Zona |
-|----------|------|
-| [Monte Centaurino](https://www.openstreetmap.org/?mlat=40.2144&mlon=15.4711) | Cilento |
-| [Monte Cervati](https://www.openstreetmap.org/?mlat=40.2849&mlon=15.4836) | Cilento |
-| [Monte Finestra](https://www.openstreetmap.org/?mlat=40.6889&mlon=14.6714) | Lattari |
-| [Terrazza dell'Infinito](https://www.villacimbrone.com) | Ravello |
+- [Monte Centaurino](https://www.comune.ricigliano.sa.it/) - Highest peak in the Cilento.
+- [Monte Cervati](https://www.comune.salaconsilina.sa.it/) - 1898m peak with panoramic views.
+- [Monte Finestra](https://www.comune.praiano.sa.it/) - 1138m peak on the Amalfi Coast.
 
-📁 [`data/panorami.json`](data/panorami.json)
+## Parchi
 
----
+> 8 natural parks and reserves. Full dataset: [parchi.json](data/parchi.json).
 
-## 🌿 Parchi — 19
+- [Parco Nazionale del Cilento](https://www.parcocesto.it/il-parco) - UNESCO World Heritage Site. 180,000 hectares.
+- [Parco delle Ferriere](https://www.parconaturaledelleferriere.it/) - Natural park with 60m waterfalls.
+- [Riserva Naturale Costiera Amalfitana](https://www.riservacostieraamalfitana.it/) - Marine and terrestrial reserve.
+- [Area Marina degli Infreschi](https://www.areamarinadegliinfreschi.it/) - Marine protected area with crystal-clear waters.
 
-| Parco | Zona |
-|-------|------|
-| [Parco Nazionale del Cilento](https://www.parcocesto.it) | Cilento |
-| [Parco delle Ferriere](https://www.parcoamalfi.it) | Costiera |
-| [Riserva Costiera Amalfitana](https://www.parcoamalfi.it) | Costiera |
-| [Area Marina Infreschi](https://www.parcocesto.it) | Cilento |
+## Eventi
 
-📁 [`data/parchi.json`](data/parchi.json)
+> 8 annual festivals and events. Full dataset: [eventi.json](data/eventi.json).
 
----
-
-## 🎉 Eventi — 8
-
-| Evento | Quando | Link |
-|--------|--------|------|
-| [Ravello Festival](https://www.ravellofestival.it) | Giu — Set | Sito |
-| [Paestum Festival](https://www.paestumfestival.it) | Lug — Ago | Sito |
-| [Festa di San Matteo](https://www.comune.salerno.it) | 19-21 Set | Comune |
-| [Festa di Sant'Andrea](https://www.comune.amalfi.it) | 27-30 Nov | Comune |
-| [Sagra del Pesce](https://www.sagradelpescecetara.it) | Agosto | Sito |
-| [Festa della Ceramica](https://www.festadellaceramica.it) | Settembre | Sito |
-| [Battentieri](https://www.battentieri.it) | Agosto | Sito |
-| [Regata Repubbliche Marinare](https://www.regatarepubblichemarinare.it) | Giugno | Sito |
-
-📁 [`data/eventi.json`](data/eventi.json)
-
----
-
-## Download
-
-Tutti i dati in formato JSON:
-
-| File | Entries |
-|------|---------|
-| [`data/sentieri.json`](data/sentieri.json) | 318 |
-| [`data/monumenti.json`](data/monumenti.json) | 2600 |
-| [`data/spiagge.json`](data/spiagge.json) | 126 |
-| [`data/panorami.json`](data/panorami.json) | 544 |
-| [`data/parchi.json`](data/parchi.json) | 19 |
-| [`data/eventi.json`](data/eventi.json) | 8 |
-| [`data/all.json`](data/all.json) | **3615** |
-
----
+- [Ravello Festival](https://www.ravellofestival.it) - Classical music festival in Villa Rufolo gardens. June-September.
+- [Paestum Festival](https://www.paestumfestival.it) - Music festival among Greek temples. July-August.
+- [Festa di San Matteo](https://www.festadisantamatteo.it/) - Patron saint feast in Salerno. September 19-21.
+- [Festa di Sant'Andrea](https://www.festadisantandrea.it/) - Patron saint feast in Amalfi. November 27-30.
+- [Sagra del Pesce](https://www.sagradelpescecetara.it) - Fish festival in Cetara. August.
+- [Festa della Ceramica](https://www.festadellaceramica.it) - Ceramics festival in Vietri sul Mare. September.
+- [Battentieri](https://www.battentieri.it) - International dance festival in Agropoli. August.
+- [Regata Repubbliche Marinare](https://www.regatarepubblichemarinare.it) - Historic regatta in Amalfi. June.
 
 ## API
+
+A simple JSON API to consume the data.
 
 ```bash
 python3 api/server.py
 ```
 
-```
-GET /api/sentieri      → 318 sentieri
-GET /api/monumenti     → 2600 monumenti
-GET /api/spiagge       → 126 spiagge
-GET /api/panorami      → 544 panorami
-GET /api/parchi        → 19 parchi
-GET /api/eventi        → 8 eventi
-GET /api/all           → 3615 POI
-GET /api/search?q=...  → ricerca full-text
-GET /api/health        → status
+| Endpoint | Description |
+|----------|-------------|
+| `GET /api/sentieri` | All trails (276) |
+| `GET /api/monumenti` | All monuments (2090) |
+| `GET /api/spiagge` | All beaches (40) |
+| `GET /api/panorami` | All viewpoints (212) |
+| `GET /api/parchi` | All parks (8) |
+| `GET /api/eventi` | All events (8) |
+| `GET /api/all` | All data (2634) |
+| `GET /api/search?q=<query>` | Full-text search |
+
+**Filter by zone:**
+
+```bash
+curl "http://localhost:8080/api/sentieri?zona=costiera"
+curl "http://localhost:8080/api/monumenti?zona=cilento"
 ```
 
----
+**Filter by type:**
+
+```bash
+curl "http://localhost:8080/api/monumenti?tipo=chiesa"
+curl "http://localhost:8080/api/monumenti?tipo=castello"
+```
+
+**Search:**
+
+```bash
+curl "http://localhost:8080/api/search?q=paestum"
+curl "http://localhost:8080/api/search?q=ravello"
+```
 
 ## Contributing
 
-[Invia una PR](CONTRIBUTING.md) — solo dati verificabili, GPS obbligatorio, link a fonti ufficiali.
+Contributions are welcome!
 
----
+**Rules:**
+1. Only verifiable data (no invented data)
+2. GPS coordinates required
+3. Links to official sources or Wikipedia
+4. Consistent JSON format
 
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+<!-- lint ignore awesome-license -->
