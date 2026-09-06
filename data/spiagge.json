@@ -539,5 +539,120 @@
     "hasPhoto": true,
     "source": "google_places",
     "curated": false
+  },
+  {
+    "id": "osm-7437289319",
+    "slug": "bahia-beach-club",
+    "title": "Bahia Beach Club",
+    "section": "mangiare",
+    "subsection": "",
+    "category": "food",
+    "subcategory": "pizzeria",
+    "description": "Cuisine: pizza;regional",
+    "address": "Ascea",
+    "district": "Ascea",
+    "lat": 40.1283067,
+    "lng": 15.1798434,
+    "rating": {
+      "score": null,
+      "count": 0
+    },
+    "placeId": "",
+    "image": "",
+    "hasPhoto": false,
+    "source": "osm",
+    "curated": false
+  },
+  {
+    "id": "osm-11206185271",
+    "slug": "bikini-beach",
+    "title": "Bikini beach",
+    "section": "mangiare",
+    "subsection": "",
+    "category": "food",
+    "subcategory": "bar",
+    "description": "",
+    "address": "Palinuro",
+    "district": "Palinuro",
+    "lat": 40.0142291,
+    "lng": 15.3337477,
+    "rating": {
+      "score": null,
+      "count": 0
+    },
+    "placeId": "",
+    "image": "",
+    "hasPhoto": false,
+    "source": "osm",
+    "curated": false
+  },
+  {
+    "id": "osm-13001265018",
+    "slug": "oleandri-resort-beach-club",
+    "title": "Oleandri Resort Beach Club",
+    "section": "mangiare",
+    "subsection": "",
+    "category": "food",
+    "subcategory": "ristorante",
+    "description": "",
+    "address": "Agropoli",
+    "district": "Agropoli",
+    "lat": 40.4342257,
+    "lng": 14.9779855,
+    "rating": {
+      "score": null,
+      "count": 0
+    },
+    "placeId": "",
+    "image": "",
+    "hasPhoto": false,
+    "source": "osm",
+    "curated": false
+  },
+  {
+    "id": "osm-7108145889",
+    "slug": "spiaggia-marina-delle-barche",
+    "title": "Spiaggia Marina delle Barche",
+    "section": "luoghi",
+    "subsection": "",
+    "category": "attraction",
+    "subcategory": "atraccion",
+    "description": "",
+    "address": "",
+    "district": "",
+    "lat": 40.0003053,
+    "lng": 15.3780555,
+    "rating": {
+      "score": null,
+      "count": 0
+    },
+    "placeId": "",
+    "image": "",
+    "hasPhoto": false,
+    "source": "osm",
+    "curated": false
+  },
+  {
+    "id": "osm-8963717310",
+    "slug": "spiaggia-delle-lentiscelle",
+    "title": "Spiaggia delle Lentiscelle",
+    "section": "luoghi",
+    "subsection": "",
+    "category": "attraction",
+    "subcategory": "atraccion",
+    "description": "",
+    "address": "",
+    "district": "",
+    "lat": 40.0006551,
+    "lng": 15.3826069,
+    "rating": {
+      "score": null,
+      "count": 0
+    },
+    "placeId": "",
+    "image": "",
+    "hasPhoto": false,
+    "source": "osm",
+    "curated": false
   }
 ]
