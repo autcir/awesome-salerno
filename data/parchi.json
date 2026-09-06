@@ -1,0 +1,35 @@
+[
+  {
+    "id": "parco-cilento",
+    "nome": "Parco Nazionale del Cilento e Vallo di Diano",
+    "descrizione": "Parco Nazionale UNESCO. 180.000 ettari di natura e archeologia.",
+    "comune": "Cilento",
+    "zona": "cilento",
+    "lat": 40.2833,
+    "lng": 15.1667,
+    "link": "https://www.parcocesto.it",
+    "fonte": "sito-ufficiale"
+  },
+  {
+    "id": "parco-ferriere",
+    "nome": "Parco Naturale delle Ferriere",
+    "descrizione": "Parco naturale con cascate e sentieri. Valle dei Mulini.",
+    "comune": "Amalfi",
+    "zona": "costiera",
+    "lat": 40.65,
+    "lng": 14.5833,
+    "link": "",
+    "fonte": "osm"
+  },
+  {
+    "id": "riserva-costiera",
+    "nome": "Riserva Naturale Costiera Amalfitana",
+    "descrizione": "Riserva marina e terrestre. Flora e fauna mediterranea.",
+    "comune": "Costiera Amalfitana",
+    "zona": "costiera",
+    "lat": 40.6333,
+    "lng": 14.6,
+    "link": "https://www.parcoamalfi.it",
+    "fonte": "sito-ufficiale"
+  }
+]

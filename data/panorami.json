@@ -1,0 +1,46 @@
+[
+  {
+    "id": "terrazza-infinito",
+    "nome": "Terrazza dell'Infinito",
+    "descrizione": "Terrazza panoramica di Villa Cimbrone. Vista sulla Costiera.",
+    "comune": "Ravello",
+    "zona": "costiera",
+    "lat": 40.6489,
+    "lng": 14.6103,
+    "link": "https://www.villacimbrone.com",
+    "fonte": "sito-ufficiale"
+  },
+  {
+    "id": "belvedere-maddalena",
+    "nome": "Belvedere Maddalena",
+    "descrizione": "Punto panoramico su Salerno e il golfo.",
+    "comune": "Salerno",
+    "zona": "salerno",
+    "lat": 40.68,
+    "lng": 14.755,
+    "link": "",
+    "fonte": "osm"
+  },
+  {
+    "id": "punto-panoramico-golfo",
+    "nome": "Punto Panoramico Golfo di Salerno",
+    "descrizione": "Vista panoramica sul golfo di Salerno.",
+    "comune": "Salerno",
+    "zona": "salerno",
+    "lat": 40.675,
+    "lng": 14.76,
+    "link": "",
+    "fonte": "osm"
+  },
+  {
+    "id": "belvedere-praiano",
+    "nome": "Belvedere di Praiano",
+    "descrizione": "Punto panoramico su Positano e la Costiera.",
+    "comune": "Praiano",
+    "zona": "costiera",
+    "lat": 40.61,
+    "lng": 14.53,
+    "link": "",
+    "fonte": "osm"
+  }
+]

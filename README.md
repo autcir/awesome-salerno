@@ -1,203 +1,201 @@
 <![CDATA[<div align="center">
 
-# Awesome Salerno
+# Awesome Salerno 🌊
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*Una lista di risorse verificate su Salerno e la sua provincia. PR benvenute.*
+*Turismo, sentieri, monumenti, spiagge e eventi di Salerno, Costiera Amalfitana e Cilento.*
+
+[Salerno](#salerno) · [Sentieri](#sentieri) · [Monumenti](#monumenti) · [Spiagge](#spiagge) · [Eventi](#eventi) · [Panorami](#panorami) · [Parchi](#parchi) · [Open Data](#open-data)
 
 </div>
-
-Le voci di Spiagge, Attrazioni, Food e Stay sono generate dai file
-`data/*.json` con `scripts/gen_pois_md.py`. Ogni voce riporta nome,
-comune e link alla mappa OpenStreetMap. I link manuali usano solo
-domini ufficiali e istituzionali.
-
-## Contents
-
-- [Salerno](#salerno)
-- [Spiagge](#spiagge)
-- [Attrazioni](#attrazioni)
-- [Food & Drink](#food--drink)
-- [Stay](#stay)
-- [Trasporti](#trasporti)
-- [Servizi ed Emergenze](#servizi-ed-emergenze)
-- [Eventi](#eventi)
-- [Open Data e API](#open-data-e-api)
-- [Link utili](#link-utili)
 
 ---
 
 ## Salerno
 
-Salerno è un comune della Campania, capoluogo di provincia, affacciato
-sul golfo omonimo, tra Costiera Amalfitana e Cilento.
+La città della Fortezza, gateway della Costiera Amalfitana e porta del Cilento. 130.000 abitanti, il Duomo normanno, il Lungomare Trieste, e il centro storico medievale.
 
-- [Comune di Salerno](https://www.comune.salerno.it) - Sito ufficiale del Comune: atti, servizi, eventi.
-- [Salerno su Wikipedia](https://it.wikipedia.org/wiki/Salerno) - Voce enciclopedica sulla città.
+- [Comune di Salerno](https://www.comune.salerno.it) - Sito ufficiale del Comune.
+- [Salerno su Wikipedia](https://it.wikipedia.org/wiki/Salerno) - Voce enciclopedica.
 - [Salerno su Wikivoyage](https://it.wikivoyage.org/wiki/Salerno) - Guida di viaggio.
-- [Salerno su OpenStreetMap](https://www.openstreetmap.org) - Mappa collaborativa (cercare "Salerno").
+- [SalernOS](https://salernos.it) - Progetto sui dati di Salerno.
 
-### Storia
+---
 
-Per la storia della città (Scuola Medica Salernitana, Castello di Arechi,
-Duomo di San Matteo) vedi il sito del Comune e la voce su Wikipedia
-linkati sopra.
+## Sentieri
+
+Sentieri e percorsi escursionistici della provincia.
+
+| Sentiero | Comune | Zona | Difficoltà | Link |
+|----------|--------|------|------------|------|
+| [Sentiero degli Dei](data/sentieri.json#sentiero-degli-dei) | Agerola - Positano | Costiera | Media | [sito](https://www.sentierodeglidei.it) |
+| [Sentiero dei Mulini](data/sentieri.json#sentiero-dei-mulini) | Vietri sul Mare | Costiera | Facile | - |
+| [Sentiero Costiero Amalfitano](data/sentieri.json#sentiero-costiero-amalfi) | Amalfi - Positano | Costiera | Media | - |
+| [Sentiero del Cilento](data/sentieri.json#sentiero-cilento) | Cilento | Cilento | Variabile | [parco](https://www.parcocesto.it) |
+| [Sentiero Paestum-Velia](data/sentieri.json#sentiero-paestum-velia) | Capaccio - Ascea | Cilento | Facile | - |
+
+> 📁 Dati completi: [`data/sentieri.json`](data/sentieri.json)
+
+---
+
+## Monumenti
+
+Chiese, castelli, musei e siti archeologici.
+
+| Monumento | Comune | Zona | Tipo | Link |
+|-----------|--------|------|------|------|
+| [Duomo di Salerno](data/monumenti.json#duomo-salerno) | Salerno | Salerno | Chiesa | [wiki](https://it.wikipedia.org/wiki/Duomo_di_Salerno) |
+| [Castello di Arechi](data/monumenti.json#castel-arechi) | Salerno | Salerno | Castello | [wiki](https://it.wikipedia.org/wiki/Castello_di_Arechi) |
+| [Scuola Medica Salernitana](data/monumenti.json#scuola-medica) | Salerno | Salerno | Monumento | [wiki](https://it.wikipedia.org/wiki/Scuola_medica_salernitana) |
+| [Duomo di Amalfi](data/monumenti.json#duomo-amalfi) | Amalfi | Costiera | Chiesa | [wiki](https://it.wikipedia.org/wiki/Cattedrale_di_Sant%27Andrea_(Amalfi)) |
+| [Villa Rufolo](data/monumenti.json#villa-rufolo) | Ravello | Costiera | Monumento | [sito](https://www.villarufolo.it) |
+| [Villa Cimbrone](data/monumenti.json#villa-cimbrone) | Ravello | Costiera | Monumento | [sito](https://www.villacimbrone.com) |
+| [Tempio di Nettuno](data/monumenti.json#tempio-nettuno-paestum) | Capaccio | Cilento | Monumento | [museo](https://www.museopaestum.beniculturali.it) |
+| [Tomba del Tuffatore](data/monumenti.json#tomba-tuffatore) | Capaccio | Cilento | Monumento | [museo](https://www.museopaestum.beniculturali.it) |
+| [Cripta di San Matteo](data/monumenti.json#cripta-san-matteo) | Salerno | Salerno | Chiesa | - |
+| [Chiesa di San Giorgio](data/monumenti.json#san-giorgio-salerno) | Salerno | Salerno | Chiesa | - |
+| [Museo della Ceramica](data/monumenti.json#museo-ceramica-vietri) | Vietri sul Mare | Costiera | Museo | [sito](https://www.museodellaceramica.it) |
+| [Palazzo Ferrante](data/monumenti.json#palazzo-ferrante) | Salerno | Salerno | Monumento | - |
+
+> 📁 Dati completi: [`data/monumenti.json`](data/monumenti.json)
 
 ---
 
 ## Spiagge
 
-Spiagge e lidi presenti nei dati del progetto, in provincia di Salerno.
+Spiagge della Costiera Amalfitana e del Cilento.
 
-- [Spiaggia Santa Teresa](https://www.openstreetmap.org/#map=16/40.67748/14.75606) - Spiaggia.
-- [Spiaggia di Maiori (Maiori Beach)](https://www.openstreetmap.org/#map=16/40.64734/14.64243) - Spiaggia.
-- [Lido di Ravello Spiaggia di Castiglione](https://www.openstreetmap.org/#map=16/40.63693/14.61095) - Spiaggia.
-- [Acquachiara Spiaggia](https://www.openstreetmap.org/#map=16/40.64449/14.64974) - Spiaggia.
-- [Lido Degli Artisti Beach Club](https://www.openstreetmap.org/#map=16/40.62569/14.58735) - Spiaggia.
-- [Spiaggia di Salerno](https://www.openstreetmap.org/#map=16/40.65767/14.80088) - Spiaggia.
-- [Il Duoglio Spiaggia](https://www.openstreetmap.org/#map=16/40.62582/14.58768) - Spiaggia.
-- [Lido delle Sirene](https://www.openstreetmap.org/#map=16/40.63167/14.59687) - Spiaggia.
-- [Spiaggia Cavallo Morto](https://www.openstreetmap.org/#map=16/40.64222/14.66290) - Spiaggia.
-- [Spiaggia della Vite](https://www.openstreetmap.org/#map=16/40.61869/14.57750) - Spiaggia.
+| Spiaggia | Comune | Zona | Tipologia |
+|----------|--------|------|-----------|
+| [Spiaggia di Maiori](data/spiagge.json#spiaggia-maiori) | Maiori | Costiera | Sabbiosa (1 km) |
+| [Spiaggia Grande](data/spiagge.json#spiaggia-positano) | Positano | Costiera | Sabbiosa |
+| [Spiaggia di Amalfi](data/spiagge.json#spiaggia-amalfi) | Amalfi | Costiera | Sabbiosa |
+| [Fiordo di Furore](data/spiagge.json#fiordo-furore) | Furore | Costiera | Rocciosa |
+| [Spiaggia di Paestum](data/spiagge.json#spiaggia-paestum) | Capaccio | Cilento | Sabbiosa |
+| [Spiaggia di Palinuro](data/spiagge.json#spiaggia-palinuro) | Camerota | Cilento | Sabbiosa |
+| [Spiaggia di Agropoli](data/spiagge.json#spiaggia-agropoli) | Agropoli | Cilento | Sabbiosa |
+| [Spiaggia di Cetara](data/spiagge.json#spiaggia-cetara) | Cetara | Costiera | Sabbiosa |
 
----
-
-## Attrazioni
-
-Chiese, monumenti e musei presenti nei dati del progetto.
-
-- [Duomo di Santa Maria degli Angeli, San Matteo e San Gregorio VII](https://www.openstreetmap.org/#map=16/40.68016/14.76005) - Luogo di interesse.
-- [Giardino della Minerva](https://www.openstreetmap.org/#map=16/40.68096/14.75384) - Luogo di interesse.
-- [Castello di Arechi](https://www.openstreetmap.org/#map=16/40.68435/14.75514) - Luogo di interesse.
-- [Villa Comunale di Salerno](https://www.openstreetmap.org/#map=16/40.67847/14.75315) - Luogo di interesse.
-- [Acquedotto Medievale](https://www.openstreetmap.org/#map=16/40.67954/14.76493) - Luogo di interesse.
-- [Lungomare di Salerno](https://www.openstreetmap.org/#map=16/40.67772/14.75822) - Luogo di interesse.
-- [Museo Diocesano San Matteo](https://www.openstreetmap.org/#map=16/40.68072/14.76036) - Luogo di interesse.
-- [Cripta di San Matteo](https://www.openstreetmap.org/#map=16/40.68022/14.76027) - Luogo di interesse.
-- [Museo delle ceramiche del castello medievale di Arechi](https://www.openstreetmap.org/#map=16/40.68462/14.75478) - Luogo di interesse.
-- [Parco del Mercatello](https://www.openstreetmap.org/#map=16/40.66013/14.80487) - Luogo di interesse.
-- [Chiesa e Monastero di San Giorgio](https://www.openstreetmap.org/#map=16/40.67883/14.75920) - Luogo di interesse.
-- [Palazzo Fruscione](https://www.openstreetmap.org/#map=16/40.67975/14.75750) - Luogo di interesse.
-
----
-
-## Food & Drink
-
-Locali presenti nei dati del progetto.
-
-- [Embarcadero](https://www.openstreetmap.org/#map=16/40.67710/14.75990) - Locale.
-- [Daniele Gourmet - Salerno](https://www.openstreetmap.org/#map=16/40.67590/14.76531) - Locale.
-- [Cicirinella](https://www.openstreetmap.org/#map=16/40.67978/14.76084) - Locale.
-- [Antonio la Trippa](https://www.openstreetmap.org/#map=16/40.67895/14.75663) - Locale.
-- [Casa Ragùsa](https://www.openstreetmap.org/#map=16/40.67350/14.77956) - Locale.
-- [Banzai Salerno](https://www.openstreetmap.org/#map=16/40.67802/14.76302) - Locale.
-- [Bar Moka](https://www.openstreetmap.org/#map=16/40.67656/14.76755) - Locale.
-- [Sweet Bakery](https://www.openstreetmap.org/#map=16/40.66486/14.79580) - Locale.
-- [Ciardò cucina di mare](https://www.openstreetmap.org/#map=16/40.64688/14.83056) - Locale.
-- [Crudo Salerno](https://www.openstreetmap.org/#map=16/40.67474/14.76923) - Locale.
-
----
-
-## Stay
-
-Strutture presenti nei dati del progetto.
-
-- [Grand Hotel Salerno](https://www.openstreetmap.org/#map=16/40.67251/14.77588) - Struttura.
-- [Hotel Novotel Salerno Est Arechi](https://www.openstreetmap.org/#map=16/40.64919/14.81620) - Struttura.
-- [Mediterranea Hotel - Resort & Convention Center](https://www.openstreetmap.org/#map=16/40.65030/14.81285) - Struttura.
-- [Hotel Polo Nautico](https://www.openstreetmap.org/#map=16/40.66164/14.79551) - Struttura.
-- [Hotel Montestella 1914](https://www.openstreetmap.org/#map=16/40.67712/14.76584) - Struttura.
-- [Hotel Plaza](https://www.openstreetmap.org/#map=16/40.67503/14.77139) - Struttura.
-- [Saint Joseph Resort](https://www.openstreetmap.org/#map=16/40.64188/14.82224) - Struttura.
-- [B&B il Duca d'Amalfi](https://www.openstreetmap.org/#map=16/40.67861/14.76261) - Struttura.
-- [Hotel Bruman Salerno](https://www.openstreetmap.org/#map=16/40.67477/14.77263) - Struttura.
-- [Salerno Antica Bed & Breakfast](https://www.openstreetmap.org/#map=16/40.67761/14.76202) - Struttura.
-
----
-
-## Trasporti
-
-Collegamenti da e per Salerno, solo gestori ufficiali.
-
-- [Trenitalia](https://www.trenitalia.com) - Treni da e per la stazione di Salerno.
-- [FlixBus](https://www.flixbus.it) - Collegamenti in autobus.
-- [Sita Sud](https://www.sitasudtrasporti.it) - Autobus per Costiera e Cilento.
-
----
-
-## Servizi ed Emergenze
-
-Numeri di emergenza e servizi di base.
-
-- [112](tel:112) - Numero unico di emergenza europeo.
-- [113](tel:113) - Polizia di Stato.
-- [115](tel:115) - Vigili del Fuoco.
-- [118](tel:118) - Emergenza sanitaria.
-- [1530](tel:1530) - Guardia Costiera.
-- [Poste Italiane](https://www.poste.it) - Uffici postali e servizi.
-- [Carabinieri](https://www.carabinieri.it) - Sito ufficiale dell'Arma.
-- [Polizia di Stato](https://www.poliziadistato.it) - Sito ufficiale.
+> 📁 Dati completi: [`data/spiagge.json`](data/spiagge.json)
 
 ---
 
 ## Eventi
 
-Solo manifestazioni ricorrenti documentate dal Comune (date e programmi
-sul sito del Comune di Salerno): **Luci d'Artista**, installazioni luminose
-del periodo invernale; **Festa di San Matteo (21 settembre)**, patronale.
+Manifestazioni ricorrenti della provincia.
+
+| Evento | Comune | Zona | Periodo | Link |
+|--------|--------|------|---------|------|
+| [Luci d'Artista](data/eventi.json#luci-dartista) | Salerno | Salerno | Nov - Gen | [comune](https://www.comune.salerno.it) |
+| [Festa di San Matteo](data/eventi.json#festa-san-matteo) | Salerno | Salerno | 21 Set | [comune](https://www.comune.salerno.it) |
+| [Ravello Festival](data/eventi.json#ravello-festival) | Ravello | Costiera | Giu - Set | [sito](https://www.ravellofestival.it) |
+| [Regata Repubbliche Marinare](data/eventi.json#regata-repubbliche-marinare) | Amalfi | Costiera | Giu | [sito](https://www.regatarepubblichemarinare.it) |
+| [Presepe Vivente](data/eventi.json#presepe-vivente) | Salerno | Salerno | Dic | [comune](https://www.comune.salerno.it) |
+| [Battentieri](data/eventi.json#battentieri) | Agropoli | Cilento | Ago | [sito](https://www.battentieri.it) |
+| [Paestum Festival](data/eventi.json#paestum-festival) | Capaccio | Cilento | Estate | - |
+
+> 📁 Dati completi: [`data/eventi.json`](data/eventi.json)
 
 ---
 
-## Open Data e API
+## Panorami
 
-Dataset pubblici e servizi tecnici a supporto della lista.
+Punti panoramici con vista sul golfo e la Costiera.
+
+| Panorama | Comune | Zona | Link |
+|----------|--------|------|------|
+| [Terrazza dell'Infinito](data/panorami.json#terrazza-infinito) | Ravello | Costiera | [sito](https://www.villacimbrone.com) |
+| [Belvedere Maddalena](data/panorami.json#belvedere-maddalena) | Salerno | Salerno | - |
+| [Punto Panoramico Golfo](data/panorami.json#punto-panoramico-golfo) | Salerno | Salerno | - |
+| [Belvedere di Praiano](data/panorami.json#belvedere-praiano) | Praiano | Costiera | - |
+
+> 📁 Dati completi: [`data/panorami.json`](data/panorami.json)
+
+---
+
+## Parchi
+
+Parchi naturali e riserve.
+
+| Parco | Comune | Zona | Link |
+|-------|--------|------|------|
+| [Parco Nazionale del Cilento](data/parchi.json#parco-cilento) | Cilento | Cilento | [sito](https://www.parcocesto.it) |
+| [Parco delle Ferriere](data/parchi.json#parco-ferriere) | Amalfi | Costiera | - |
+| [Riserva Costiera Amalfitana](data/parchi.json#riserva-costiera) | Costiera | Costiera | [sito](https://www.parcoamalfi.it) |
+
+> 📁 Dati completi: [`data/parchi.json`](data/parchi.json)
+
+---
+
+## Open Data
+
+Dataset pubblici e API.
 
 ### Dati pubblici
 
-- [dati.gov.it](https://www.dati.gov.it) - Portale dei dati aperti italiani.
+- [dati.gov.it](https://www.dati.gov.it) - Portale dati aperti italiani.
 - [ISTAT](https://www.istat.it) - Istituto nazionale di statistica.
-- [OpenCUP](https://www.opencup.gov.it) - Codice unico di progetto degli investimenti pubblici.
-- [ANAC dati aperti](https://www.dati.anticorruzione.it) - Dati aperti dell'anticorruzione.
 
-### Mappe, routing e meteo
+### Mappe e routing
 
-- [Nominatim](https://nominatim.openstreetmap.org) - Geocoding basato su OpenStreetMap.
-- [Overpass API](https://overpass-api.de) - Interrogazioni sui dati OpenStreetMap.
-- [Photon](https://photon.komoot.io) - Geocoding basato su OpenStreetMap.
-- [OSRM](https://project-osrm.org) - Routing basato su OpenStreetMap.
-- [Open-Meteo](https://open-meteo.com) - API meteo aperte.
+- [Nominatim](https://nominatim.openstreetmap.org) - Geocoding OSM.
+- [Overpass API](https://overpass-api.de) - Query dati OSM.
+- [OSRM](https://project-osrm.org) - Routing OSM.
+- [Open-Meteo](https://open-meteo.com) - API meteo.
 
 ### Progetti wiki
 
 - [Wikidata](https://www.wikidata.org) - Base di conoscenza libera.
-- [Wikimedia Commons](https://commons.wikimedia.org) - Archivio di media liberi.
+- [Wikimedia Commons](https://commons.wikimedia.org) - Media liberi.
 - [Wikipedia](https://www.wikipedia.org) - Enciclopedia libera.
 
 ---
 
-## Link utili
+## API
 
-- [Provincia di Salerno](https://www.provincia.salerno.it) - Sito ufficiale della Provincia.
-- [Università di Salerno](https://www.unisa.it) - Sito ufficiale dell'Ateneo.
-- [Italia.it](https://www.italia.it) - Portale ufficiale del turismo in Italia.
-- [ENIT](https://www.enit.it) - Agenzia nazionale del turismo.
-- [SalernOS](https://salernos.it) - Progetto collegato sui dati di Salerno.
+Un server JSON semplice è disponibile in `api/server.py`.
+
+```bash
+python3 api/server.py
+```
+
+### Endpoint
+
+| Endpoint | Descrizione |
+|----------|-------------|
+| `GET /api/sentieri` | Tutti i sentieri |
+| `GET /api/monumenti` | Tutti i monumenti |
+| `GET /api/spiagge` | Tutte le spiagge |
+| `GET /api/eventi` | Tutti gli eventi |
+| `GET /api/panorami` | Tutti i panorami |
+| `GET /api/parchi` | Tutti i parchi |
+| `GET /api/all` | Tutti i dati |
+| `GET /api/search?q=<query>` | Ricerca full-text |
+| `GET /api/health` | Stato del server |
+
+### Esempio
+
+```bash
+curl http://localhost:8080/api/sentieri
+curl http://localhost:8080/api/search?q=paestum
+```
 
 ---
 
 ## Contributing
 
-Le contribuzioni sono benvenute. Leggi la guida in `CONTRIBUTING.md`
-prima di aprire un PR.
+Le contribuzioni sono benvenute! Leggi la [Contributing Guide](CONTRIBUTING.md).
 
 Per aggiungere una risorsa:
+1. Fork this repo
+2. Aggiungi il JSON nella sezione `data/` giusta
+3. Segui lo schema esistente
+4. Apri un PR
 
-1. Fork this repo.
-2. Aggiungi il link nella sezione giusta.
-3. Segui il formato: `- [Nome](url) - Breve descrizione.`
-4. Apri un PR.
+---
 
-Per segnalare un link morto o un errore, apri un
-[Issue](https://github.com/autcir/awesome-salerno/issues).
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 ]]>

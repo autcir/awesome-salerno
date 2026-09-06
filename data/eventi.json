@@ -1,0 +1,79 @@
+[
+  {
+    "id": "luci-dartista",
+    "nome": "Luci d'Artista",
+    "descrizione": "Manifestazione luminosa natalizia. Installazioni artistiche in tutta la città.",
+    "comune": "Salerno",
+    "zona": "salerno",
+    "periodo": "novembre - gennaio",
+    "frequenza": "annuale",
+    "link": "https://www.comune.salerno.it",
+    "fonte": "sito-ufficiale"
+  },
+  {
+    "id": "festa-san-matteo",
+    "nome": "Festa di San Matteo",
+    "descrizione": "Festa patronale. Processione con le reliquie del santo.",
+    "comune": "Salerno",
+    "zona": "salerno",
+    "periodo": "21 settembre",
+    "frequenza": "annuale",
+    "link": "https://www.comune.salerno.it",
+    "fonte": "sito-ufficiale"
+  },
+  {
+    "id": "ravello-festival",
+    "nome": "Ravello Festival",
+    "descrizione": "Festival musicale estivo nei giardini di Villa Rufolo e Villa Cimbrone.",
+    "comune": "Ravello",
+    "zona": "costiera",
+    "periodo": "giugno - settembre",
+    "frequenza": "annuale",
+    "link": "https://www.ravellofestival.it",
+    "fonte": "sito-ufficiale"
+  },
+  {
+    "id": "regata-repubbliche-marinare",
+    "nome": "Regata delle Repubbliche Marinare",
+    "descrizione": "Regata storica tra le antiche repubbliche marinare. Tappa ad Amalfi.",
+    "comune": "Amalfi",
+    "zona": "costiera",
+    "periodo": "giugno",
+    "frequenza": "annuale",
+    "link": "https://www.regatarepubblichemarinare.it",
+    "fonte": "sito-ufficiale"
+  },
+  {
+    "id": "presepe-vivente",
+    "nome": "Presepe Vivente",
+    "descrizione": "Presepe vivente nel centro storico. Rappresentazioni dal vivo.",
+    "comune": "Salerno",
+    "zona": "salerno",
+    "periodo": "dicembre",
+    "frequenza": "annuale",
+    "link": "https://www.comune.salerno.it",
+    "fonte": "sito-ufficiale"
+  },
+  {
+    "id": "battentieri",
+    "nome": "Battentieri",
+    "descrizione": "Festival di danza contemporanea ad Agropoli.",
+    "comune": "Agropoli",
+    "zona": "cilento",
+    "periodo": "agosto",
+    "frequenza": "annuale",
+    "link": "https://www.battentieri.it",
+    "fonte": "sito-ufficiale"
+  },
+  {
+    "id": "paestum-festival",
+    "nome": "Paestum Festival",
+    "descrizione": "Festival musicale nei templi della Magna Grecia.",
+    "comune": "Capaccio",
+    "zona": "cilento",
+    "periodo": "estate",
+    "frequenza": "annuale",
+    "link": "",
+    "fonte": "osm"
+  }
+]

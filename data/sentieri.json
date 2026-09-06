@@ -1,0 +1,72 @@
+[
+  {
+    "id": "sentiero-degli-dei",
+    "nome": "Sentiero degli Dei",
+    "descrizione": "Sentiero panoramico da Agerola a Nocelle (Positano). 7.8 km, Dislivello: 500m, Difficoltà: media.",
+    "comune": "Agerola - Positano",
+    "zona": "costiera",
+    "lunghezza_km": 7.8,
+    "dislivello_m": 500,
+    "difficolta": "media",
+    "lat": 40.6383,
+    "lng": 14.5267,
+    "link": "https://www.sentierodeglidei.it",
+    "fonte": "sito-ufficiale"
+  },
+  {
+    "id": "sentiero-dei-mulini",
+    "nome": "Sentiero dei Mulini",
+    "descrizione": "Sentiero storico tra i mulini di Vietri sul Mare. 3 km, Dislivello: 200m, Difficoltà: facile.",
+    "comune": "Vietri sul Mare",
+    "zona": "costiera",
+    "lunghezza_km": 3.0,
+    "dislivello_m": 200,
+    "difficolta": "facile",
+    "lat": 40.6583,
+    "lng": 14.7267,
+    "link": "",
+    "fonte": "osm"
+  },
+  {
+    "id": "sentiero-costiero-amalfi",
+    "nome": "Sentiero Costiero Amalfitano",
+    "descrizione": "Sentiero panoramico sulla Costiera Amalfitana. Percorso lungo la costa con viste sul mare.",
+    "comune": "Amalfi - Positano",
+    "zona": "costiera",
+    "lunghezza_km": null,
+    "dislivello_m": null,
+    "difficolta": "media",
+    "lat": 40.634,
+    "lng": 14.6026,
+    "link": "",
+    "fonte": "osm"
+  },
+  {
+    "id": "sentiero-cilento",
+    "nome": "Sentiero del Cilento",
+    "descrizione": "Rete di sentieri nel Parco Nazionale del Cilento. Percorsi variabili.",
+    "comune": "Cilento",
+    "zona": "cilento",
+    "lunghezza_km": null,
+    "dislivello_m": null,
+    "difficolta": "variabile",
+    "lat": 40.2833,
+    "lng": 15.1667,
+    "link": "https://www.parcocesto.it",
+    "fonte": "sito-ufficiale"
+  },
+  {
+    "id": "sentiero-paestum-velia",
+    "nome": "Sentiero Paestum-Velia",
+    "descrizione": "Sentiero archeologico tra i templi di Paestum e l'antica Elea/Velia.",
+    "comune": "Capaccio - Ascea",
+    "zona": "cilento",
+    "lunghezza_km": null,
+    "dislivello_m": null,
+    "difficolta": "facile",
+    "lat": 40.4167,
+    "lng": 15.0,
+    "link": "",
+    "fonte": "osm"
+  }
+]
