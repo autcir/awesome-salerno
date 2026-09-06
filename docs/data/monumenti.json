@@ -1,37 +1,5 @@
 [
   {
-    "nome": "Alta Via dei Monti Lattari (CAI 300)",
-    "descrizione": "Sentiero di lunga percorrenza da Salerno a Sorrento attraverso i Monti Lattari. 75.6 km, 4.871m di dislivello, 11 tappe.",
-    "lat": 40.6713,
-    "lng": 14.7308,
-    "source": "hand-written",
-    "link": "https://www.altaviadeimontilattari.it/il-sentiero-300-cai/",
-    "id": "alta-via-monti-lattari",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "salerno"
-  },
-  {
-    "nome": "Anello Ravello-Minori via Santa Croce",
-    "descrizione": "Percorso ad anello da Ravello a Minori attraverso Via Santa Croce. Antico mulattiero tra terrazzamenti con panorami sul Golfo di Salerno.",
-    "lat": 40.6484,
-    "lng": 14.6115,
-    "source": "hand-written",
-    "link": "https://www.alltrails.com/trail/italy/campania/ravello-minori-via-via-santa-croce",
-    "id": "anello-ravello-minori",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "salerno"
-  },
-  {
     "nome": "Giro del Golfo di Salerno",
     "descrizione": "Percorso pedonale costiero attorno al Golfo di Salerno. Lungomare, scale storiche e sentieri costieri con vista sul mare.",
     "lat": 40.6785,
@@ -46,22 +14,6 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno"
-  },
-  {
-    "nome": "Cammino di San Nilo",
-    "descrizione": "Itinerario di turismo lento nel Cilento. 8 tappe da Sapri a Palinuro attraverso borghi medievali, monasteri basiliani, gole e uliveti. 111 km totali.",
-    "lat": 40.0777,
-    "lng": 15.6173,
-    "source": "hand-written",
-    "link": "https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/",
-    "id": "cammino-san-nilo",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "cilento"
   },
   {
     "nome": "Anello dei Tre Mulini",
@@ -204,7 +156,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "fonte",
     "zona": "salerno"
   },
   {
@@ -620,7 +572,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "salerno"
   },
   {
@@ -636,7 +588,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "salerno"
   },
   {
@@ -652,7 +604,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "salerno"
   },
   {
@@ -668,7 +620,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "salerno"
   },
   {
@@ -684,7 +636,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "salerno"
   },
   {
@@ -700,7 +652,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "salerno"
   },
   {
@@ -732,7 +684,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "salerno"
   },
   {
@@ -748,7 +700,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "salerno"
   },
   {
@@ -764,7 +716,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "salerno"
   },
   {
@@ -780,7 +732,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "salerno"
   },
   {
@@ -812,7 +764,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "cilento"
   },
   {
@@ -828,7 +780,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "cilento"
   },
   {
@@ -844,7 +796,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "cilento"
   },
   {
@@ -860,7 +812,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "cilento"
   },
   {
@@ -876,7 +828,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "cilento"
   },
   {
@@ -908,7 +860,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "cilento"
   },
   {
@@ -988,7 +940,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "salerno"
   },
   {
@@ -1057,7 +1009,7 @@
   },
   {
     "nome": "Verso le Sorgenti del Sammaro",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3853664,
     "lng": 15.3630063,
     "source": "osm",
@@ -1073,7 +1025,7 @@
   },
   {
     "nome": "\"ò' mancino\"",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6438738,
     "lng": 14.486765,
     "source": "osm",
@@ -1104,24 +1056,8 @@
     "zona": "salerno"
   },
   {
-    "nome": "Via Vallone",
-    "descrizione": "",
-    "lat": 40.6475469,
-    "lng": 14.6166394,
-    "source": "osm",
-    "link": "https://www.openstreetmap.org/?mlat=40.6475469&mlon=14.6166394#map=16/40.6475469/14.6166394",
-    "id": "monumenti-via-vallone",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "salerno"
-  },
-  {
     "nome": "Vallone Pozzo",
-    "descrizione": "",
+    "descrizione": "Fonte nel territorio di Salerno",
     "lat": 40.6399511,
     "lng": 14.4821523,
     "source": "osm",
@@ -1137,7 +1073,7 @@
   },
   {
     "nome": "via Grotta Petina",
-    "descrizione": "",
+    "descrizione": "Grotta nel territorio di Salerno",
     "lat": 40.6416038,
     "lng": 14.6136466,
     "source": "osm",
@@ -1153,7 +1089,7 @@
   },
   {
     "nome": "Vallone Scurorillo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6827394,
     "lng": 14.4617048,
     "source": "osm",
@@ -1168,24 +1104,8 @@
     "zona": "salerno"
   },
   {
-    "nome": "via Pastino",
-    "descrizione": "",
-    "lat": 40.6365836,
-    "lng": 14.610071,
-    "source": "osm",
-    "link": "https://www.openstreetmap.org/?mlat=40.6365836&mlon=14.610071#map=16/40.6365836/14.610071",
-    "id": "monumenti-via-pastino",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "salerno"
-  },
-  {
     "nome": "\"alternative to 325a\"",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6500098,
     "lng": 14.5839882,
     "source": "osm",
@@ -1201,7 +1121,7 @@
   },
   {
     "nome": "selva della tomba",
-    "descrizione": "",
+    "descrizione": "Sito archeologico nel territorio di Salerno",
     "lat": 40.6259958,
     "lng": 14.4387481,
     "source": "osm",
@@ -1217,7 +1137,7 @@
   },
   {
     "nome": "Caserma del Gaudo-Monte Polveracchio",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.733083,
     "lng": 15.1594419,
     "source": "osm",
@@ -1233,7 +1153,7 @@
   },
   {
     "nome": "108 Caserma del Gaudo-Monte Polveracchio",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.7429848,
     "lng": 15.1387683,
     "source": "osm",
@@ -1249,7 +1169,7 @@
   },
   {
     "nome": "Grotte del Bonea - Fontana della Frestola",
-    "descrizione": "",
+    "descrizione": "Fonte nel territorio di Salerno",
     "lat": 40.6819727,
     "lng": 14.6951136,
     "source": "osm",
@@ -1281,7 +1201,7 @@
   },
   {
     "nome": "Ferrata Ninno",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7751582,
     "lng": 15.0082614,
     "source": "osm",
@@ -1297,7 +1217,7 @@
   },
   {
     "nome": "Ponte Cibberno acquedotto Borbonico",
-    "descrizione": "",
+    "descrizione": "Fonte nel territorio di Salerno",
     "lat": 40.6788943,
     "lng": 14.4888021,
     "source": "osm",
@@ -1308,28 +1228,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
-    "zona": "salerno"
-  },
-  {
-    "nome": "Via Ponte di Mortora",
-    "descrizione": "",
-    "lat": 40.6300373,
-    "lng": 14.4121371,
-    "source": "osm",
-    "link": "https://www.openstreetmap.org/?mlat=40.6300373&mlon=14.4121371#map=16/40.6300373/14.4121371",
-    "id": "monumenti-via-ponte-di-mortora",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
+    "tipo": "fonte",
     "zona": "salerno"
   },
   {
     "nome": "traversa 114a con 114b",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7600444,
     "lng": 15.0964034,
     "source": "osm",
@@ -1342,22 +1246,6 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "costiera"
-  },
-  {
-    "nome": "Via Paradiso",
-    "descrizione": "",
-    "lat": 40.6407047,
-    "lng": 14.5993355,
-    "source": "osm",
-    "link": "https://www.openstreetmap.org/?mlat=40.6407047&mlon=14.5993355#map=16/40.6407047/14.5993355",
-    "id": "monumenti-via-paradiso",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "salerno"
   },
   {
     "nome": "il Vallone Del Marcellino",
@@ -1376,22 +1264,6 @@
     "zona": "cilento"
   },
   {
-    "nome": "via Scorosa",
-    "descrizione": "",
-    "lat": 40.6613292,
-    "lng": 14.604928,
-    "source": "osm",
-    "link": "https://www.openstreetmap.org/?mlat=40.6613292&mlon=14.604928#map=16/40.6613292/14.604928",
-    "id": "monumenti-via-scorosa",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "salerno"
-  },
-  {
     "nome": "Variante M. Ceglie alle Gole del Calore",
     "descrizione": "Sentiero alternativo per raggiungere Remolino dal Ponte medievale, visto che il sentiero originale è stato chiuso da proprieta private. Aperto e pulito da Pietro di Stasi.",
     "lat": 40.3585635,
@@ -1408,24 +1280,8 @@
     "zona": "cilento"
   },
   {
-    "nome": "via Vecchia Arola",
-    "descrizione": "",
-    "lat": 40.63613,
-    "lng": 14.4369732,
-    "source": "osm",
-    "link": "https://www.openstreetmap.org/?mlat=40.63613&mlon=14.4369732#map=16/40.63613/14.4369732",
-    "id": "monumenti-via-vecchia-arola",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "salerno"
-  },
-  {
     "nome": "Inizio variante",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6591514,
     "lng": 14.6978143,
     "source": "osm",
@@ -1456,24 +1312,8 @@
     "zona": "cilento"
   },
   {
-    "nome": "Deviazione per Santa Maria dell'Olearia",
-    "descrizione": "",
-    "lat": 40.641182,
-    "lng": 14.669842,
-    "source": "osm",
-    "link": "https://www.openstreetmap.org/?mlat=40.641182&mlon=14.669842#map=16/40.641182/14.669842",
-    "id": "monumenti-deviazione-per-santa-maria-dellolearia",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "salerno"
-  },
-  {
     "nome": "Piano di Pecore-M. Marzano",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.7366721,
     "lng": 15.3116313,
     "source": "osm",
@@ -1489,7 +1329,7 @@
   },
   {
     "nome": "Rovigliano seafront pathway",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.7343817,
     "lng": 14.467372,
     "source": "osm",
@@ -1505,7 +1345,7 @@
   },
   {
     "nome": "F.S. Monte Raiamagra",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7904735,
     "lng": 15.0727446,
     "source": "osm",
@@ -1520,24 +1360,8 @@
     "zona": "costiera"
   },
   {
-    "nome": "via Famiglia Acconciajoco",
-    "descrizione": "",
-    "lat": 40.6387514,
-    "lng": 14.611725,
-    "source": "osm",
-    "link": "https://www.openstreetmap.org/?mlat=40.6387514&mlon=14.611725#map=16/40.6387514/14.611725",
-    "id": "monumenti-via-famiglia-acconciajoco",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "salerno"
-  },
-  {
     "nome": "Vallone Del Centenaro",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6466239,
     "lng": 14.4662154,
     "source": "osm",
@@ -1553,7 +1377,7 @@
   },
   {
     "nome": "Variante Punta Paipo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6247731,
     "lng": 14.5225639,
     "source": "osm",
@@ -1569,7 +1393,7 @@
   },
   {
     "nome": "Lo Sferracavallo",
-    "descrizione": "",
+    "descrizione": "Grotta nel territorio di Salerno",
     "lat": 40.6580214,
     "lng": 14.5193572,
     "source": "osm",
@@ -1585,7 +1409,7 @@
   },
   {
     "nome": "\"o' pass é Catiello\"",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6533488,
     "lng": 14.5062339,
     "source": "osm",
@@ -1601,7 +1425,7 @@
   },
   {
     "nome": "Vallone Revone",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6481751,
     "lng": 14.4776863,
     "source": "osm",
@@ -1617,7 +1441,7 @@
   },
   {
     "nome": "Vallone Del Milo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6476169,
     "lng": 14.4791448,
     "source": "osm",
@@ -1629,22 +1453,6 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "altro",
-    "zona": "salerno"
-  },
-  {
-    "nome": "Via Enrico de Martino",
-    "descrizione": "",
-    "lat": 40.6315424,
-    "lng": 14.4109057,
-    "source": "osm",
-    "link": "https://www.openstreetmap.org/?mlat=40.6315424&mlon=14.4109057#map=16/40.6315424/14.4109057",
-    "id": "monumenti-via-enrico-de-martino",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
     "zona": "salerno"
   },
   {
@@ -1664,40 +1472,8 @@
     "zona": "salerno"
   },
   {
-    "nome": "via Pistiello Terza",
-    "descrizione": "",
-    "lat": 40.6130512,
-    "lng": 14.5333311,
-    "source": "osm",
-    "link": "https://www.openstreetmap.org/?mlat=40.6130512&mlon=14.5333311#map=16/40.6130512/14.5333311",
-    "id": "monumenti-via-pistiello-terza",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "salerno"
-  },
-  {
-    "nome": "Antica Via Sambuco",
-    "descrizione": "",
-    "lat": 40.6787685,
-    "lng": 14.6140251,
-    "source": "osm",
-    "link": "https://www.openstreetmap.org/?mlat=40.6787685&mlon=14.6140251#map=16/40.6787685/14.6140251",
-    "id": "monumenti-antica-via-sambuco",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "salerno"
-  },
-  {
     "nome": "il Vrecciatone",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6779102,
     "lng": 14.6128686,
     "source": "osm",
@@ -1713,7 +1489,7 @@
   },
   {
     "nome": "ferrata rudimentale",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6309938,
     "lng": 14.575407,
     "source": "osm",
@@ -1729,7 +1505,7 @@
   },
   {
     "nome": "Madonnina Di Monte Chiunzi",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.7201566,
     "lng": 14.6250278,
     "source": "osm",
@@ -1744,24 +1520,8 @@
     "zona": "salerno"
   },
   {
-    "nome": "Via Casanova",
-    "descrizione": "",
-    "lat": 40.644632,
-    "lng": 14.6157148,
-    "source": "osm",
-    "link": "https://www.openstreetmap.org/?mlat=40.644632&mlon=14.6157148#map=16/40.644632/14.6157148",
-    "id": "monumenti-via-casanova",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "salerno"
-  },
-  {
     "nome": "sotto tiro a volo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6592362,
     "lng": 14.5346135,
     "source": "osm",
@@ -1793,7 +1553,7 @@
   },
   {
     "nome": "Lo scivolo della pastorella",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.683141,
     "lng": 14.4759498,
     "source": "osm",
@@ -1809,7 +1569,7 @@
   },
   {
     "nome": "Le tese di Pimonte",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.671447,
     "lng": 14.4977939,
     "source": "osm",
@@ -1824,120 +1584,8 @@
     "zona": "salerno"
   },
   {
-    "nome": "Alta Via dei Monti Lattari - 05",
-    "descrizione": "",
-    "lat": 40.6747508,
-    "lng": 14.5691242,
-    "source": "osm",
-    "link": "https://www.altaviadeimontilattari.it/il-sentiero-300-cai/",
-    "id": "monumenti-alta-via-dei-monti-lattari---05",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "salerno"
-  },
-  {
-    "nome": "Alta Via dei Monti Lattari - 06",
-    "descrizione": "",
-    "lat": 40.6528168,
-    "lng": 14.5238374,
-    "source": "osm",
-    "link": "https://www.altaviadeimontilattari.it/il-sentiero-300-cai/",
-    "id": "monumenti-alta-via-dei-monti-lattari---06",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "salerno"
-  },
-  {
-    "nome": "Alta Via dei Monti Lattari - 07",
-    "descrizione": "",
-    "lat": 40.6271837,
-    "lng": 14.4444617,
-    "source": "osm",
-    "link": "https://www.altaviadeimontilattari.it/il-sentiero-300-cai/",
-    "id": "monumenti-alta-via-dei-monti-lattari---07",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "salerno"
-  },
-  {
-    "nome": "Alta Via dei Monti Lattari - 01",
-    "descrizione": "",
-    "lat": 40.6680351,
-    "lng": 14.6825282,
-    "source": "osm",
-    "link": "https://www.altaviadeimontilattari.it/il-sentiero-300-cai/",
-    "id": "monumenti-alta-via-dei-monti-lattari---01",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "salerno"
-  },
-  {
-    "nome": "Alta Via dei Monti Lattari - 02",
-    "descrizione": "",
-    "lat": 40.6757576,
-    "lng": 14.6741193,
-    "source": "osm",
-    "link": "https://www.altaviadeimontilattari.it/il-sentiero-300-cai/",
-    "id": "monumenti-alta-via-dei-monti-lattari---02",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "salerno"
-  },
-  {
-    "nome": "Alta Via dei Monti Lattari - 03",
-    "descrizione": "",
-    "lat": 40.7062969,
-    "lng": 14.6382559,
-    "source": "osm",
-    "link": "https://www.altaviadeimontilattari.it/il-sentiero-300-cai/",
-    "id": "monumenti-alta-via-dei-monti-lattari---03",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "salerno"
-  },
-  {
-    "nome": "Alta Via dei Monti Lattari - 04",
-    "descrizione": "",
-    "lat": 40.7011846,
-    "lng": 14.5987423,
-    "source": "osm",
-    "link": "https://www.altaviadeimontilattari.it/il-sentiero-300-cai/",
-    "id": "monumenti-alta-via-dei-monti-lattari---04",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "salerno"
-  },
-  {
     "nome": "Mulattiera Orsano-Megano",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6952337,
     "lng": 14.5676966,
     "source": "osm",
@@ -1953,7 +1601,7 @@
   },
   {
     "nome": "Il Butto dell'Acqua",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6862927,
     "lng": 14.5435007,
     "source": "osm",
@@ -1969,7 +1617,7 @@
   },
   {
     "nome": "I casali di Piano",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6266592,
     "lng": 14.4197732,
     "source": "osm",
@@ -1985,7 +1633,7 @@
   },
   {
     "nome": "Lo Scaricatore",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6165161,
     "lng": 14.4349254,
     "source": "osm",
@@ -2001,7 +1649,7 @@
   },
   {
     "nome": "Le Palommelle",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6522495,
     "lng": 14.5462914,
     "source": "osm",
@@ -2017,7 +1665,7 @@
   },
   {
     "nome": "Ferrata di Cospita",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6302681,
     "lng": 14.5731094,
     "source": "osm",
@@ -2032,24 +1680,8 @@
     "zona": "salerno"
   },
   {
-    "nome": "La Via della Neve",
-    "descrizione": "",
-    "lat": 40.7096364,
-    "lng": 14.6704876,
-    "source": "osm",
-    "link": "https://www.caimontilattari.it/sentiero/312/",
-    "id": "monumenti-la-via-della-neve",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "salerno"
-  },
-  {
     "nome": "Le Tese di Positano",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.633915,
     "lng": 14.4791988,
     "source": "osm",
@@ -2064,24 +1696,8 @@
     "zona": "salerno"
   },
   {
-    "nome": "Via Maestra dei Villaggi",
-    "descrizione": "",
-    "lat": 40.6284361,
-    "lng": 14.5852062,
-    "source": "osm",
-    "link": "https://www.caimontilattari.it/sentiero/361/",
-    "id": "monumenti-via-maestra-dei-villaggi",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "salerno"
-  },
-  {
     "nome": "Felito - Campora - Laurino",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3397999,
     "lng": 15.2852739,
     "source": "osm",
@@ -2097,7 +1713,7 @@
   },
   {
     "nome": "Tempa de lupo - Vaddilonga - Cresta / Uomo morto - Passo della Beta",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.2199672,
     "lng": 15.3268353,
     "source": "osm",
@@ -2113,7 +1729,7 @@
   },
   {
     "nome": "European long distance path E12 - part Italia",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.2283,
     "lng": 15.3471574,
     "source": "osm",
@@ -2129,7 +1745,7 @@
   },
   {
     "nome": "collection of various Cilento hiking trails",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.1664282,
     "lng": 15.3198992,
     "source": "osm",
@@ -2145,7 +1761,7 @@
   },
   {
     "nome": "Circuito del Monte Rajamagra",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7880501,
     "lng": 15.0847727,
     "source": "osm",
@@ -2161,7 +1777,7 @@
   },
   {
     "nome": "Circuito acernese",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7558143,
     "lng": 15.0609657,
     "source": "osm",
@@ -2177,7 +1793,7 @@
   },
   {
     "nome": "Circuito acernese (variante)",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7647575,
     "lng": 15.0620028,
     "source": "osm",
@@ -2192,24 +1808,8 @@
     "zona": "costiera"
   },
   {
-    "nome": "Alta via Monti Picentini Occidentali",
-    "descrizione": "",
-    "lat": 40.793559,
-    "lng": 14.8780499,
-    "source": "osm",
-    "link": "https://www.openstreetmap.org/?mlat=40.793559&mlon=14.8780499#map=16/40.793559/14.8780499",
-    "id": "monumenti-alta-via-monti-picentini-occidentali",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "costiera"
-  },
-  {
     "nome": "Anello del Monte Panormo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5445665,
     "lng": 15.3162015,
     "source": "osm",
@@ -2225,7 +1825,7 @@
   },
   {
     "nome": "Tre Comuni Trek",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7629782,
     "lng": 14.8772167,
     "source": "osm",
@@ -2241,7 +1841,7 @@
   },
   {
     "nome": "Vallone Pagliariello",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.76423,
     "lng": 14.9320646,
     "source": "osm",
@@ -2257,7 +1857,7 @@
   },
   {
     "nome": "Vallone Infrattata",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7605565,
     "lng": 14.9632317,
     "source": "osm",
@@ -2273,7 +1873,7 @@
   },
   {
     "nome": "Tra le due valli del Sabato e del Calore",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7939678,
     "lng": 14.9850066,
     "source": "osm",
@@ -2289,7 +1889,7 @@
   },
   {
     "nome": "European Long distance path E1 - part Italy - Campania",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.8250069,
     "lng": 14.9401088,
     "source": "osm",
@@ -2305,7 +1905,7 @@
   },
   {
     "nome": "Zanna Bianca",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.7306369,
     "lng": 14.61952,
     "source": "osm",
@@ -2320,56 +1920,8 @@
     "zona": "salerno"
   },
   {
-    "nome": "Via dei Limoni",
-    "descrizione": "",
-    "lat": 40.6509541,
-    "lng": 14.6363693,
-    "source": "osm",
-    "link": "https://www.openstreetmap.org/?mlat=40.6509541&mlon=14.6363693#map=16/40.6509541/14.6363693",
-    "id": "monumenti-via-dei-limoni",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "salerno"
-  },
-  {
-    "nome": "Via dei Lucani",
-    "descrizione": "",
-    "lat": 40.0981718,
-    "lng": 15.2725804,
-    "source": "osm",
-    "link": "https://www.openstreetmap.org/?mlat=40.0981718&mlon=15.2725804#map=16/40.0981718/15.2725804",
-    "id": "monumenti-via-dei-lucani",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "cilento"
-  },
-  {
-    "nome": "Alta Via del Cervati e degli Alburni",
-    "descrizione": "",
-    "lat": 40.2656372,
-    "lng": 15.4876402,
-    "source": "osm",
-    "link": "https://www.openstreetmap.org/?mlat=40.2656372&mlon=15.4876402#map=16/40.2656372/15.4876402",
-    "id": "monumenti-alta-via-del-cervati-e-degli-alburni",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "cilento"
-  },
-  {
     "nome": "Itinerario 29",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.616362,
     "lng": 14.3993829,
     "source": "osm",
@@ -2385,7 +1937,7 @@
   },
   {
     "nome": "Itinerario 59",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6083303,
     "lng": 14.3909711,
     "source": "osm",
@@ -2400,24 +1952,8 @@
     "zona": "salerno"
   },
   {
-    "nome": "Cammino delle due primule",
-    "descrizione": "",
-    "lat": 40.1730582,
-    "lng": 15.3837889,
-    "source": "osm",
-    "link": "https://www.ledueprimule.it/",
-    "id": "monumenti-cammino-delle-due-primule",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "cilento"
-  },
-  {
     "nome": "Variante Croce di Carbonara",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7628822,
     "lng": 14.9073982,
     "source": "osm",
@@ -2433,7 +1969,7 @@
   },
   {
     "nome": "Variante per Vetta Avvocata",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6539147,
     "lng": 14.6721801,
     "source": "osm",
@@ -2449,7 +1985,7 @@
   },
   {
     "nome": "Variante per Monte Vico Alvano",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6229331,
     "lng": 14.436343,
     "source": "osm",
@@ -2481,7 +2017,7 @@
   },
   {
     "nome": "Il Castello che fu",
-    "descrizione": "",
+    "descrizione": "Castello nel territorio di Salerno",
     "lat": 40.6525396,
     "lng": 14.6018296,
     "source": "osm",
@@ -2497,7 +2033,7 @@
   },
   {
     "nome": "Strada Macera",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.0851339,
     "lng": 15.3907396,
     "source": "osm",
@@ -2509,134 +2045,6 @@
     "periodo": "",
     "frequenza": "",
     "tipo": "altro",
-    "zona": "cilento"
-  },
-  {
-    "nome": "Cammino di San Nilo - Tappa 6",
-    "descrizione": "",
-    "lat": 40.1865031,
-    "lng": 15.3957885,
-    "source": "osm",
-    "link": "https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/",
-    "id": "monumenti-cammino-di-san-nilo---tappa-6",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "cilento"
-  },
-  {
-    "nome": "Cammino di San Nilo - Tappa 5",
-    "descrizione": "",
-    "lat": 40.1921223,
-    "lng": 15.4850989,
-    "source": "osm",
-    "link": "https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/",
-    "id": "monumenti-cammino-di-san-nilo---tappa-5",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "cilento"
-  },
-  {
-    "nome": "Cammino di San Nilo - Tappa 8",
-    "descrizione": "",
-    "lat": 40.0838571,
-    "lng": 15.2946964,
-    "source": "osm",
-    "link": "https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/",
-    "id": "monumenti-cammino-di-san-nilo---tappa-8",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "cilento"
-  },
-  {
-    "nome": "Cammino di San Nilo - Tappa 7",
-    "descrizione": "",
-    "lat": 40.1502198,
-    "lng": 15.3262443,
-    "source": "osm",
-    "link": "https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/",
-    "id": "monumenti-cammino-di-san-nilo---tappa-7",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "cilento"
-  },
-  {
-    "nome": "Cammino del Negro - Tappa 4",
-    "descrizione": "",
-    "lat": 40.4046652,
-    "lng": 15.4982127,
-    "source": "osm",
-    "link": "https://www.camminibizantini.com/",
-    "id": "monumenti-cammino-del-negro---tappa-4",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "cilento"
-  },
-  {
-    "nome": "Cammino del Negro - Tappa 7",
-    "descrizione": "",
-    "lat": 40.4991077,
-    "lng": 15.5008902,
-    "source": "osm",
-    "link": "https://www.camminibizantini.com/",
-    "id": "monumenti-cammino-del-negro---tappa-7",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "cilento"
-  },
-  {
-    "nome": "Cammino del Negro - Tappa 6",
-    "descrizione": "",
-    "lat": 40.5292215,
-    "lng": 15.4713299,
-    "source": "osm",
-    "link": "https://www.camminibizantini.com/",
-    "id": "monumenti-cammino-del-negro---tappa-6",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "cilento"
-  },
-  {
-    "nome": "Cammino del Negro - Tappa 5",
-    "descrizione": "",
-    "lat": 40.4745062,
-    "lng": 15.4786646,
-    "source": "osm",
-    "link": "https://www.camminibizantini.com/",
-    "id": "monumenti-cammino-del-negro---tappa-5",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
     "zona": "cilento"
   },
   {
@@ -3196,7 +2604,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "cilento"
   },
   {
@@ -5516,7 +4924,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "piazza",
     "zona": "salerno"
   },
   {
@@ -6620,7 +6028,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "cilento"
   },
   {
@@ -11100,7 +10508,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "salerno"
   },
   {
@@ -11196,7 +10604,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "salerno"
   },
   {
@@ -11452,7 +10860,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "salerno"
   },
   {
@@ -11660,7 +11068,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "cilento"
   },
   {
@@ -12172,7 +11580,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "salerno"
   },
   {
@@ -12609,7 +12017,7 @@
   },
   {
     "nome": "Villa Fisciano",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.7890509,
     "lng": 14.7848606,
     "source": "osm",
@@ -12641,7 +12049,7 @@
   },
   {
     "nome": "Ruderi Torre San Benedetto",
-    "descrizione": "",
+    "descrizione": "Castello nel territorio di Cilento",
     "lat": 40.3354352,
     "lng": 15.3338176,
     "source": "osm",
@@ -13441,7 +12849,7 @@
   },
   {
     "nome": "Campanile del Santuario Della Madonna Di Pompei",
-    "descrizione": "",
+    "descrizione": "Chiesa nel territorio di Salerno",
     "lat": 40.749623,
     "lng": 14.5000434,
     "source": "osm",
@@ -13665,7 +13073,7 @@
   },
   {
     "nome": "Campanile dell'Assunta",
-    "descrizione": "",
+    "descrizione": "Chiesa nel territorio di Salerno",
     "lat": 40.6297484,
     "lng": 14.5900114,
     "source": "osm",
@@ -13676,12 +13084,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "salerno"
   },
   {
     "nome": "Campanile Medievale",
-    "descrizione": "",
+    "descrizione": "Chiesa nel territorio di Cilento",
     "lat": 40.3528217,
     "lng": 14.9859344,
     "source": "osm",
@@ -13692,7 +13100,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "cilento"
   },
   {
@@ -13713,7 +13121,7 @@
   },
   {
     "nome": "Campanile dell'Annunziata",
-    "descrizione": "",
+    "descrizione": "Chiesa nel territorio di Salerno",
     "lat": 40.6532486,
     "lng": 14.6297811,
     "source": "osm",
@@ -13724,7 +13132,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "chiesa",
     "zona": "salerno"
   },
   {
@@ -13777,7 +13185,7 @@
   },
   {
     "nome": "Antiquarium e Laboratorio di archeologia sugli scavi di Monte Pruno",
-    "descrizione": "",
+    "descrizione": "Chiesa nel territorio di Cilento",
     "lat": 40.3992406,
     "lng": 15.3462741,
     "source": "osm",
@@ -13788,12 +13196,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "archeologico",
+    "tipo": "chiesa",
     "zona": "cilento"
   },
   {
     "nome": "Catacombe della Confraternita dei cinturati di Santa Maria del Soccorso",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.6664127,
     "lng": 15.107639,
     "source": "osm",
@@ -13809,7 +13217,7 @@
   },
   {
     "nome": "Antiquarium Roccagloriosa",
-    "descrizione": "",
+    "descrizione": "Castello nel territorio di Cilento",
     "lat": 40.1086042,
     "lng": 15.4307844,
     "source": "osm",
@@ -13825,7 +13233,7 @@
   },
   {
     "nome": "Antiquarium II",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.1094083,
     "lng": 15.4289176,
     "source": "osm",
@@ -13841,7 +13249,7 @@
   },
   {
     "nome": "Arsenale di Amalfi",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6338094,
     "lng": 14.6020506,
     "source": "osm",
@@ -13857,7 +13265,7 @@
   },
   {
     "nome": "Spazio Paestum",
-    "descrizione": "",
+    "descrizione": "Sito archeologico nel territorio di Cilento",
     "lat": 40.4239669,
     "lng": 15.0069563,
     "source": "osm",
@@ -13873,7 +13281,7 @@
   },
   {
     "nome": "Casa della Corte",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6396761,
     "lng": 14.544453,
     "source": "osm",
@@ -13889,7 +13297,7 @@
   },
   {
     "nome": "Basilica del Crocifisso - Museo Diocesiano",
-    "descrizione": "",
+    "descrizione": "Chiesa nel territorio di Salerno",
     "lat": 40.6346081,
     "lng": 14.6030905,
     "source": "osm",
@@ -13905,7 +13313,7 @@
   },
   {
     "nome": "MIdA Museo Geologico",
-    "descrizione": "",
+    "descrizione": "Museo nel territorio di Cilento",
     "lat": 40.5438889,
     "lng": 15.4503517,
     "source": "osm",
@@ -13921,7 +13329,7 @@
   },
   {
     "nome": "MIdA Museo Botanico",
-    "descrizione": "",
+    "descrizione": "Museo nel territorio di Cilento",
     "lat": 40.538575,
     "lng": 15.4532136,
     "source": "osm",
@@ -13937,7 +13345,7 @@
   },
   {
     "nome": "Villa Marittima Archeologica Romana",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6505692,
     "lng": 14.6260731,
     "source": "osm",
@@ -13969,7 +13377,7 @@
   },
   {
     "nome": "Pinacoteca Provinciale",
-    "descrizione": "",
+    "descrizione": "Museo nel territorio di Salerno",
     "lat": 40.6789572,
     "lng": 14.7597896,
     "source": "osm",
@@ -13985,7 +13393,7 @@
   },
   {
     "nome": "Casa natale S. Gerardo Maiella",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.7536549,
     "lng": 15.4895349,
     "source": "osm",
@@ -14017,7 +13425,7 @@
   },
   {
     "nome": "liquid art system",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6493598,
     "lng": 14.6117815,
     "source": "osm",
@@ -14049,7 +13457,7 @@
   },
   {
     "nome": "Galleria d'Arte Moderna",
-    "descrizione": "",
+    "descrizione": "Museo nel territorio di Salerno",
     "lat": 40.6740551,
     "lng": 14.7733757,
     "source": "osm",
@@ -14065,7 +13473,7 @@
   },
   {
     "nome": "Liquid air system",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6293748,
     "lng": 14.4865523,
     "source": "osm",
@@ -14081,7 +13489,7 @@
   },
   {
     "nome": "Escher in Atrani",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6366022,
     "lng": 14.6084316,
     "source": "osm",
@@ -14097,7 +13505,7 @@
   },
   {
     "nome": "Raccolta di Arti Applicate nella Villa De Ruggiero",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.7406,
     "lng": 14.6660006,
     "source": "osm",
@@ -14113,7 +13521,7 @@
   },
   {
     "nome": "Pompeii Children's Museum",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.7526337,
     "lng": 14.4946312,
     "source": "osm",
@@ -14129,7 +13537,7 @@
   },
   {
     "nome": "Antiquarium della Chiesa di Santa Maria",
-    "descrizione": "",
+    "descrizione": "Chiesa nel territorio di Cilento",
     "lat": 40.1604914,
     "lng": 15.1550921,
     "source": "osm",
@@ -14145,7 +13553,7 @@
   },
   {
     "nome": "Anqituarium della Cappella Palatina",
-    "descrizione": "",
+    "descrizione": "Chiesa nel territorio di Cilento",
     "lat": 40.1610777,
     "lng": 15.1550463,
     "source": "osm",
@@ -14161,7 +13569,7 @@
   },
   {
     "nome": "MUVIP Camerota",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.0008794,
     "lng": 15.3761913,
     "source": "osm",
@@ -14177,7 +13585,7 @@
   },
   {
     "nome": "Complesso Monumentale di Santa Sofia",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6807781,
     "lng": 14.7574827,
     "source": "osm",
@@ -14193,7 +13601,7 @@
   },
   {
     "nome": "Antiquarium nazionale Boscoreale",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.7619669,
     "lng": 14.4708219,
     "source": "osm",
@@ -14209,7 +13617,7 @@
   },
   {
     "nome": "Casa del Servo di Dio Giuseppe Ottone",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.7563389,
     "lng": 14.4475613,
     "source": "osm",
@@ -14225,7 +13633,7 @@
   },
   {
     "nome": "Palazzo Capasso",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6809356,
     "lng": 14.7541214,
     "source": "osm",
@@ -14257,7 +13665,7 @@
   },
   {
     "nome": "MOA Museum of Operation Avalanche",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.622191,
     "lng": 15.0570726,
     "source": "osm",
@@ -14273,7 +13681,7 @@
   },
   {
     "nome": "Palazzo Civico delle Arti",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3506775,
     "lng": 14.9854768,
     "source": "osm",
@@ -14289,7 +13697,7 @@
   },
   {
     "nome": "Buondormire di terra",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.0272943,
     "lng": 15.2921368,
     "source": "osm",
@@ -14305,7 +13713,7 @@
   },
   {
     "nome": "Spiagga Licinella",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4087605,
     "lng": 14.9915039,
     "source": "osm",
@@ -14321,7 +13729,7 @@
   },
   {
     "nome": "Marina di Vico",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6656098,
     "lng": 14.4278088,
     "source": "osm",
@@ -14337,7 +13745,7 @@
   },
   {
     "nome": "Agnone( Campania)",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.2170542,
     "lng": 14.9931224,
     "source": "osm",
@@ -14353,7 +13761,7 @@
   },
   {
     "nome": "Sunset Beach Club Palinuro",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.0541267,
     "lng": 15.28257,
     "source": "osm",
@@ -14369,7 +13777,7 @@
   },
   {
     "nome": "Gavitella beach",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6139802,
     "lng": 14.5205209,
     "source": "osm",
@@ -14401,7 +13809,7 @@
   },
   {
     "nome": "Garden Beach",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6891194,
     "lng": 14.456306,
     "source": "osm",
@@ -14417,7 +13825,7 @@
   },
   {
     "nome": "Bagno Elena",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6889448,
     "lng": 14.4557921,
     "source": "osm",
@@ -14433,7 +13841,7 @@
   },
   {
     "nome": "Bagno Conte",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6886908,
     "lng": 14.4550838,
     "source": "osm",
@@ -14449,7 +13857,7 @@
   },
   {
     "nome": "Lido Moderno",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.6884041,
     "lng": 14.4542905,
     "source": "osm",
@@ -14460,12 +13868,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "salerno"
   },
   {
     "nome": "La Palombara",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6882136,
     "lng": 14.4532768,
     "source": "osm",
@@ -14481,7 +13889,7 @@
   },
   {
     "nome": "Spiagia della Sciabichedda",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.0234331,
     "lng": 15.4496788,
     "source": "osm",
@@ -14497,7 +13905,7 @@
   },
   {
     "nome": "Le 7 Scogliere di Rovigliano",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.7399606,
     "lng": 14.4626617,
     "source": "osm",
@@ -14513,7 +13921,7 @@
   },
   {
     "nome": "Lido Nettuno",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.7544858,
     "lng": 14.4400602,
     "source": "osm",
@@ -14524,12 +13932,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "salerno"
   },
   {
     "nome": "Lido Rinascenza",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.7542626,
     "lng": 14.4408422,
     "source": "osm",
@@ -14540,12 +13948,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "salerno"
   },
   {
     "nome": "Lido Eldorado",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.7543615,
     "lng": 14.4404689,
     "source": "osm",
@@ -14556,12 +13964,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "salerno"
   },
   {
     "nome": "Lido Risorgimento",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.7539007,
     "lng": 14.4411724,
     "source": "osm",
@@ -14572,12 +13980,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "salerno"
   },
   {
     "nome": "Marina del Sole",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.7531951,
     "lng": 14.4424282,
     "source": "osm",
@@ -14593,7 +14001,7 @@
   },
   {
     "nome": "Lido Azzurro",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.7547232,
     "lng": 14.4393525,
     "source": "osm",
@@ -14604,12 +14012,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "salerno"
   },
   {
     "nome": "Spiaggie Gemelle",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.0291653,
     "lng": 15.4566839,
     "source": "osm",
@@ -14625,7 +14033,7 @@
   },
   {
     "nome": "Spiagge Gemelle",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.0285595,
     "lng": 15.4563626,
     "source": "osm",
@@ -14641,7 +14049,7 @@
   },
   {
     "nome": "Antico Bagno Nettuno",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6395593,
     "lng": 14.4018041,
     "source": "osm",
@@ -14657,7 +14065,7 @@
   },
   {
     "nome": "La spiaggetta",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.1755226,
     "lng": 15.1217621,
     "source": "osm",
@@ -14684,12 +14092,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "cilento"
   },
   {
     "nome": "Lido Scaramella beach",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.6651385,
     "lng": 14.7893159,
     "source": "osm",
@@ -14700,12 +14108,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "salerno"
   },
   {
     "nome": "Spiagga Licina",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3539885,
     "lng": 14.9914906,
     "source": "osm",
@@ -14721,7 +14129,7 @@
   },
   {
     "nome": "Torretta 23",
-    "descrizione": "",
+    "descrizione": "Castello nel territorio di Cilento",
     "lat": 40.3097744,
     "lng": 14.9457829,
     "source": "osm",
@@ -14737,7 +14145,7 @@
   },
   {
     "nome": "Lido Tirreno",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Cilento",
     "lat": 40.3100561,
     "lng": 14.9457336,
     "source": "osm",
@@ -14748,12 +14156,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "cilento"
   },
   {
     "nome": "Club Michele",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.0154139,
     "lng": 15.3325816,
     "source": "osm",
@@ -14769,7 +14177,7 @@
   },
   {
     "nome": "Bikini beach",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.0141644,
     "lng": 15.333556,
     "source": "osm",
@@ -14785,7 +14193,7 @@
   },
   {
     "nome": "Playa porlamar",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.0148603,
     "lng": 15.3330115,
     "source": "osm",
@@ -14801,7 +14209,7 @@
   },
   {
     "nome": "La Pagliarella",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3118145,
     "lng": 14.9453859,
     "source": "osm",
@@ -14817,7 +14225,7 @@
   },
   {
     "nome": "Lido La Conchiglia",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.6716667,
     "lng": 14.7761751,
     "source": "osm",
@@ -14828,12 +14236,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "salerno"
   },
   {
     "nome": "Lido Night & Day",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Costiera Amalfitana",
     "lat": 40.5636456,
     "lng": 14.8962524,
     "source": "osm",
@@ -14844,12 +14252,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "costiera"
   },
   {
     "nome": "Lido Mojito Beach",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Costiera Amalfitana",
     "lat": 40.5639385,
     "lng": 14.8960283,
     "source": "osm",
@@ -14860,12 +14268,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "costiera"
   },
   {
     "nome": "Madonna del Silenzio",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6269256,
     "lng": 14.5222546,
     "source": "osm",
@@ -14881,7 +14289,7 @@
   },
   {
     "nome": "Punta Tresino",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3361586,
     "lng": 14.9466753,
     "source": "osm",
@@ -14897,7 +14305,7 @@
   },
   {
     "nome": "Pietra Mulacchio",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.2438487,
     "lng": 15.0589307,
     "source": "osm",
@@ -14913,7 +14321,7 @@
   },
   {
     "nome": "Pianoro di Ciolandrea",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.0407407,
     "lng": 15.4573709,
     "source": "osm",
@@ -14929,7 +14337,7 @@
   },
   {
     "nome": "Gola del Diavolo - Fiume Mingardo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.087837,
     "lng": 15.3519557,
     "source": "osm",
@@ -14945,7 +14353,7 @@
   },
   {
     "nome": "Terrazza del Cilento",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4005288,
     "lng": 15.1059626,
     "source": "osm",
@@ -14956,12 +14364,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Panorama Monte Stella e Gelbison",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.0304832,
     "lng": 15.2728517,
     "source": "osm",
@@ -14977,7 +14385,7 @@
   },
   {
     "nome": "Bird-watching 3",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3030568,
     "lng": 15.1152096,
     "source": "osm",
@@ -14993,7 +14401,7 @@
   },
   {
     "nome": "Bird-watching 4",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.298,
     "lng": 15.1192329,
     "source": "osm",
@@ -15009,7 +14417,7 @@
   },
   {
     "nome": "Bird-watching 5",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.296748,
     "lng": 15.1198123,
     "source": "osm",
@@ -15025,7 +14433,7 @@
   },
   {
     "nome": "Bird-watching 6",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.2911998,
     "lng": 15.1233099,
     "source": "osm",
@@ -15041,7 +14449,7 @@
   },
   {
     "nome": "Bird-watching 7",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.2892111,
     "lng": 15.1228271,
     "source": "osm",
@@ -15057,7 +14465,7 @@
   },
   {
     "nome": "Bird-watching 8",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.2878444,
     "lng": 15.1234064,
     "source": "osm",
@@ -15073,7 +14481,7 @@
   },
   {
     "nome": "Punta Bomerano",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6219932,
     "lng": 14.5473013,
     "source": "osm",
@@ -15089,7 +14497,7 @@
   },
   {
     "nome": "Foresta a Galleria",
-    "descrizione": "",
+    "descrizione": "Museo nel territorio di Cilento",
     "lat": 40.3192374,
     "lng": 15.1301775,
     "source": "osm",
@@ -15105,7 +14513,7 @@
   },
   {
     "nome": "Macchia mediterranea",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3101404,
     "lng": 15.1129684,
     "source": "osm",
@@ -15121,7 +14529,7 @@
   },
   {
     "nome": "Bosco Misto",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3151145,
     "lng": 15.125843,
     "source": "osm",
@@ -15137,7 +14545,7 @@
   },
   {
     "nome": "Punta San Lazzaro",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6230464,
     "lng": 14.5678799,
     "source": "osm",
@@ -15153,7 +14561,7 @@
   },
   {
     "nome": "La Sentinella",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.0851378,
     "lng": 15.3536184,
     "source": "osm",
@@ -15169,7 +14577,7 @@
   },
   {
     "nome": "Pizzola di Montenero",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.7168384,
     "lng": 15.1592443,
     "source": "osm",
@@ -15185,7 +14593,7 @@
   },
   {
     "nome": "Timpone dell'Accellica",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7604496,
     "lng": 15.0062883,
     "source": "osm",
@@ -15201,7 +14609,7 @@
   },
   {
     "nome": "Piazzetta Panoramica",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3993302,
     "lng": 15.1084148,
     "source": "osm",
@@ -15217,7 +14625,7 @@
   },
   {
     "nome": "Panorama a 360°",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.7158372,
     "lng": 14.6109112,
     "source": "osm",
@@ -15233,7 +14641,7 @@
   },
   {
     "nome": "Vista sulla Valle del Mingardo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.2448275,
     "lng": 15.44258,
     "source": "osm",
@@ -15249,7 +14657,7 @@
   },
   {
     "nome": "Punta Pistiello",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6164268,
     "lng": 14.5750663,
     "source": "osm",
@@ -15265,7 +14673,7 @@
   },
   {
     "nome": "Punta Vieca",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6146432,
     "lng": 14.5731995,
     "source": "osm",
@@ -15281,7 +14689,7 @@
   },
   {
     "nome": "vista al M. Gelbison - Bulgheria",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.1062791,
     "lng": 15.2748209,
     "source": "osm",
@@ -15297,7 +14705,7 @@
   },
   {
     "nome": "vista Alburni, Cervati, Centaurino",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.2492138,
     "lng": 15.4431349,
     "source": "osm",
@@ -15313,7 +14721,7 @@
   },
   {
     "nome": "Ruderi Basilica Sant'Eustachio",
-    "descrizione": "",
+    "descrizione": "Chiesa nel territorio di Salerno",
     "lat": 40.6443125,
     "lng": 14.6030495,
     "source": "osm",
@@ -15345,7 +14753,7 @@
   },
   {
     "nome": "Cascata del Solofrone",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4085571,
     "lng": 15.1009801,
     "source": "osm",
@@ -15361,7 +14769,7 @@
   },
   {
     "nome": "Veduta sul Vesuvio",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.7893693,
     "lng": 14.6589869,
     "source": "osm",
@@ -15377,7 +14785,7 @@
   },
   {
     "nome": "Pietra impuntellata",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.1987076,
     "lng": 15.3436974,
     "source": "osm",
@@ -15393,7 +14801,7 @@
   },
   {
     "nome": "vista dal Monte Tubenna",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.7071509,
     "lng": 14.8489692,
     "source": "osm",
@@ -15409,7 +14817,7 @@
   },
   {
     "nome": "Pizzo Castellone",
-    "descrizione": "",
+    "descrizione": "Castello nel territorio di Salerno",
     "lat": 40.65187,
     "lng": 14.5000349,
     "source": "osm",
@@ -15425,7 +14833,7 @@
   },
   {
     "nome": "Piazzetta dell’Amore",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3522779,
     "lng": 14.9863258,
     "source": "osm",
@@ -15441,7 +14849,7 @@
   },
   {
     "nome": "Pietra del diavolo (punto esposto)",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5570625,
     "lng": 15.3120721,
     "source": "osm",
@@ -15457,7 +14865,7 @@
   },
   {
     "nome": "Rovigliano amazing landscape",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.7287882,
     "lng": 14.4693614,
     "source": "osm",
@@ -15473,7 +14881,7 @@
   },
   {
     "nome": "Punta Vento",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6784013,
     "lng": 14.6114789,
     "source": "osm",
@@ -15489,7 +14897,7 @@
   },
   {
     "nome": "Scanno del Cantatore",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.1969826,
     "lng": 15.3798804,
     "source": "osm",
@@ -15505,7 +14913,7 @@
   },
   {
     "nome": "Piazza Belvedere",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.6538764,
     "lng": 14.6133031,
     "source": "osm",
@@ -15521,7 +14929,7 @@
   },
   {
     "nome": "Capo delle Armi",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4386957,
     "lng": 15.3755477,
     "source": "osm",
@@ -15537,7 +14945,7 @@
   },
   {
     "nome": "Terrazza dell'Amore",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.6330448,
     "lng": 15.3759133,
     "source": "osm",
@@ -15548,12 +14956,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Acqua Cantani",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.6514733,
     "lng": 15.2292475,
     "source": "osm",
@@ -15569,7 +14977,7 @@
   },
   {
     "nome": "Acqua Menecale",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.7097758,
     "lng": 15.1091828,
     "source": "osm",
@@ -15585,7 +14993,7 @@
   },
   {
     "nome": "A Riggiulella",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6501812,
     "lng": 14.6812437,
     "source": "osm",
@@ -15601,7 +15009,7 @@
   },
   {
     "nome": "Acqua Fridiello",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7593287,
     "lng": 15.0097025,
     "source": "osm",
@@ -15617,7 +15025,7 @@
   },
   {
     "nome": "Acqua Leggia",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.645409,
     "lng": 14.547387,
     "source": "osm",
@@ -15633,7 +15041,7 @@
   },
   {
     "nome": "Asso di coppe",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.688284,
     "lng": 14.5228295,
     "source": "osm",
@@ -15649,7 +15057,7 @@
   },
   {
     "nome": "Acqua del Vrecciaro",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6692901,
     "lng": 14.5666747,
     "source": "osm",
@@ -15681,7 +15089,7 @@
   },
   {
     "nome": "Acqua fredda",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6681988,
     "lng": 14.5571734,
     "source": "osm",
@@ -15697,7 +15105,7 @@
   },
   {
     "nome": "Acqua del Sambuco",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6519712,
     "lng": 14.5754207,
     "source": "osm",
@@ -15713,7 +15121,7 @@
   },
   {
     "nome": "Acqua dell'Orto",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6373703,
     "lng": 14.5805814,
     "source": "osm",
@@ -15729,7 +15137,7 @@
   },
   {
     "nome": "Acqua delle Vecite",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6634879,
     "lng": 14.5788034,
     "source": "osm",
@@ -15745,7 +15153,7 @@
   },
   {
     "nome": "Acqua di Bolvito",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6490762,
     "lng": 14.5564773,
     "source": "osm",
@@ -15761,7 +15169,7 @@
   },
   {
     "nome": "Acqua Vellica",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6732687,
     "lng": 14.5657491,
     "source": "osm",
@@ -15777,7 +15185,7 @@
   },
   {
     "nome": "Acqua di Castello",
-    "descrizione": "",
+    "descrizione": "Castello nel territorio di Salerno",
     "lat": 40.673673,
     "lng": 14.5593714,
     "source": "osm",
@@ -15793,7 +15201,7 @@
   },
   {
     "nome": "Acqua dei Marinai",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.2645619,
     "lng": 15.336115,
     "source": "osm",
@@ -15809,7 +15217,7 @@
   },
   {
     "nome": "Sorgenti le Pantone",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.154077,
     "lng": 15.2531539,
     "source": "osm",
@@ -15825,7 +15233,7 @@
   },
   {
     "nome": "Acqua delle Scorchie",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6553415,
     "lng": 14.4981953,
     "source": "osm",
@@ -15841,7 +15249,7 @@
   },
   {
     "nome": "Acqua dei porci",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6719511,
     "lng": 14.4814491,
     "source": "osm",
@@ -15857,7 +15265,7 @@
   },
   {
     "nome": "De Cape e Ciucci",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6365267,
     "lng": 14.602101,
     "source": "osm",
@@ -15873,7 +15281,7 @@
   },
   {
     "nome": "Acqua del Castagno",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6526424,
     "lng": 14.6639337,
     "source": "osm",
@@ -15889,7 +15297,7 @@
   },
   {
     "nome": "Piscìcolo di Capo di Testa",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.2725885,
     "lng": 15.4905242,
     "source": "osm",
@@ -15905,7 +15313,7 @@
   },
   {
     "nome": "Acqua di Conca",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6633474,
     "lng": 14.4684624,
     "source": "osm",
@@ -15921,7 +15329,7 @@
   },
   {
     "nome": "Acqua Sant'Alferio",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6761342,
     "lng": 14.685308,
     "source": "osm",
@@ -15937,7 +15345,7 @@
   },
   {
     "nome": "Acqua o' pass é Catiello",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6552229,
     "lng": 14.5050779,
     "source": "osm",
@@ -15953,7 +15361,7 @@
   },
   {
     "nome": "Acqua Lavello Sopra",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6742959,
     "lng": 14.4920712,
     "source": "osm",
@@ -15969,7 +15377,7 @@
   },
   {
     "nome": "Acqua Lavello",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6764876,
     "lng": 14.4924445,
     "source": "osm",
@@ -15985,7 +15393,7 @@
   },
   {
     "nome": "Acqua Del Milo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6503682,
     "lng": 14.4886507,
     "source": "osm",
@@ -16001,7 +15409,7 @@
   },
   {
     "nome": "Acqua di Scala",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.6775543,
     "lng": 14.6079116,
     "source": "osm",
@@ -16012,12 +15420,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "salerno"
   },
   {
     "nome": "Acqua delle Radiche",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7774242,
     "lng": 14.9441312,
     "source": "osm",
@@ -16033,7 +15441,7 @@
   },
   {
     "nome": "Le Sorgenti",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6324458,
     "lng": 14.5821824,
     "source": "osm",
@@ -16049,7 +15457,7 @@
   },
   {
     "nome": "F.te di S. Andrea",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.285759,
     "lng": 15.2934286,
     "source": "osm",
@@ -16065,7 +15473,7 @@
   },
   {
     "nome": "Acqua delle Tagliole",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7775834,
     "lng": 14.8831062,
     "source": "osm",
@@ -16081,7 +15489,7 @@
   },
   {
     "nome": "Tulo 'ri goppa",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.0357103,
     "lng": 15.3691787,
     "source": "osm",
@@ -16113,7 +15521,7 @@
   },
   {
     "nome": "Flavio Gioia",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6335974,
     "lng": 14.602607,
     "source": "osm",
@@ -16129,7 +15537,7 @@
   },
   {
     "nome": "Sistema delle Acque",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6812129,
     "lng": 14.7534064,
     "source": "osm",
@@ -16412,7 +15820,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "monumento",
     "zona": "cilento"
   },
   {
@@ -17084,7 +16492,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "archeologico",
     "zona": "salerno"
   },
   {
@@ -17100,7 +16508,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "fonte",
     "zona": "salerno"
   },
   {
@@ -17132,7 +16540,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "archeologico",
     "zona": "salerno"
   },
   {
@@ -17180,7 +16588,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "archeologico",
     "zona": "salerno"
   },
   {
@@ -17212,7 +16620,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "archeologico",
     "zona": "salerno"
   },
   {
@@ -18316,7 +17724,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "archeologico",
     "zona": "cilento"
   },
   {
@@ -18348,7 +17756,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "monumento",
     "zona": "cilento"
   },
   {
@@ -19244,7 +18652,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "salerno"
   },
   {
@@ -19516,7 +18924,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "fonte",
     "zona": "cilento"
   },
   {
@@ -19708,7 +19116,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "costiera"
   },
   {
@@ -19932,7 +19340,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "archeologico",
     "zona": "salerno"
   },
   {
@@ -20284,7 +19692,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "archeologico",
     "zona": "salerno"
   },
   {
@@ -20480,22 +19888,6 @@
     "zona": "salerno"
   },
   {
-    "nome": "Area Archeo - Fluviale di Longola",
-    "descrizione": "Tipo: archaeological_site",
-    "lat": 40.7950295,
-    "lng": 14.5742576,
-    "source": "osm",
-    "link": "https://it.wikipedia.org/wiki/Longola_di_Poggiomarino",
-    "id": "monumenti-area-archeo---fluviale-di-longola",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
-    "zona": "salerno"
-  },
-  {
     "nome": "Necropoli di Pareti",
     "descrizione": "Tipo: archaeological_site",
     "lat": 40.733901,
@@ -20604,7 +19996,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "piazza",
     "zona": "salerno"
   },
   {
@@ -21084,7 +20476,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "archeologico",
     "zona": "salerno"
   },
   {
@@ -21932,7 +21324,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
@@ -22364,7 +21756,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "archeologico",
     "zona": "salerno"
   },
   {
@@ -22556,7 +21948,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "fonte",
     "zona": "salerno"
   },
   {
@@ -22780,7 +22172,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "fonte",
     "zona": "salerno"
   },
   {
@@ -22812,7 +22204,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "archeologico",
     "zona": "cilento"
   },
   {
@@ -23244,7 +22636,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "monumento",
     "zona": "salerno"
   },
   {
@@ -24972,7 +24364,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "archeologico",
     "zona": "salerno"
   },
   {
@@ -25100,7 +24492,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "fonte",
     "zona": "salerno"
   },
   {
@@ -25820,7 +25212,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "fonte",
     "zona": "salerno"
   },
   {
@@ -25852,7 +25244,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "archeologico",
     "zona": "salerno"
   },
   {
@@ -26081,7 +25473,7 @@
   },
   {
     "nome": "Grotte di Pertosa - Auletta",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5370456,
     "lng": 15.4550242,
     "source": "osm",
@@ -26097,7 +25489,7 @@
   },
   {
     "nome": "Grotte di Castelcivita",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.495534,
     "lng": 15.2091978,
     "source": "osm",
@@ -26113,7 +25505,7 @@
   },
   {
     "nome": "Grava di Vesalo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.2885374,
     "lng": 15.3600914,
     "source": "osm",
@@ -26129,7 +25521,7 @@
   },
   {
     "nome": "Affondatore di Vallivona",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.2629167,
     "lng": 15.470169,
     "source": "osm",
@@ -26145,7 +25537,7 @@
   },
   {
     "nome": "Grava C dei Temponi",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3056015,
     "lng": 15.4824764,
     "source": "osm",
@@ -26161,7 +25553,7 @@
   },
   {
     "nome": "Tunnel dello scoglio",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.0306218,
     "lng": 15.3131532,
     "source": "osm",
@@ -26177,7 +25569,7 @@
   },
   {
     "nome": "Grava I dell'Acqua che Suona",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.2984847,
     "lng": 15.4897283,
     "source": "osm",
@@ -26193,7 +25585,7 @@
   },
   {
     "nome": "Grava XI dell'Acqua che Suona",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3013022,
     "lng": 15.4880108,
     "source": "osm",
@@ -26209,7 +25601,7 @@
   },
   {
     "nome": "Grava I dei Temponi",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3025966,
     "lng": 15.4828389,
     "source": "osm",
@@ -26225,7 +25617,7 @@
   },
   {
     "nome": "Grava XV dei Temponi",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.306019,
     "lng": 15.4848047,
     "source": "osm",
@@ -26241,7 +25633,7 @@
   },
   {
     "nome": "Sauna dei monaci",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6523859,
     "lng": 14.6734479,
     "source": "osm",
@@ -26257,7 +25649,7 @@
   },
   {
     "nome": "Pandora Cave",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6425697,
     "lng": 14.6542083,
     "source": "osm",
@@ -26289,7 +25681,7 @@
   },
   {
     "nome": "Grotte di Malacera",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5436664,
     "lng": 15.2598232,
     "source": "osm",
@@ -26305,7 +25697,7 @@
   },
   {
     "nome": "Grava del Fumo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4988282,
     "lng": 15.3659866,
     "source": "osm",
@@ -26337,7 +25729,7 @@
   },
   {
     "nome": "Grava del Campo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5247138,
     "lng": 15.3041041,
     "source": "osm",
@@ -26353,7 +25745,7 @@
   },
   {
     "nome": "Grava del Casone Vecchio",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5293038,
     "lng": 15.3032406,
     "source": "osm",
@@ -26369,7 +25761,7 @@
   },
   {
     "nome": "Grava delle Mele",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5324531,
     "lng": 15.292864,
     "source": "osm",
@@ -26385,7 +25777,7 @@
   },
   {
     "nome": "Grava Secchitiello",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5434887,
     "lng": 15.2940808,
     "source": "osm",
@@ -26401,7 +25793,7 @@
   },
   {
     "nome": "Inghiottitoio sotto Serra Carpineto",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5087543,
     "lng": 15.3665295,
     "source": "osm",
@@ -26417,7 +25809,7 @@
   },
   {
     "nome": "Inghiottitoio di Cavaggione",
-    "descrizione": "",
+    "descrizione": "Grotta nel territorio di Cilento",
     "lat": 40.5083755,
     "lng": 15.3671905,
     "source": "osm",
@@ -26433,7 +25825,7 @@
   },
   {
     "nome": "Grava d'Inverno",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5062327,
     "lng": 15.3779555,
     "source": "osm",
@@ -26449,7 +25841,7 @@
   },
   {
     "nome": "Grava di Madonna del Monte",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4971184,
     "lng": 15.3683255,
     "source": "osm",
@@ -26465,7 +25857,7 @@
   },
   {
     "nome": "Grava dei Gentili",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4801514,
     "lng": 15.3598311,
     "source": "osm",
@@ -26481,7 +25873,7 @@
   },
   {
     "nome": "Varco La Peta (sorgente del Bussento)",
-    "descrizione": "",
+    "descrizione": "Sito archeologico nel territorio di Cilento",
     "lat": 40.2607901,
     "lng": 15.4777776,
     "source": "osm",
@@ -26497,7 +25889,7 @@
   },
   {
     "nome": "Grotticella del Ricovero",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.67083,
     "lng": 15.0429965,
     "source": "osm",
@@ -26513,7 +25905,7 @@
   },
   {
     "nome": "Grava della Pianella",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3247246,
     "lng": 15.4730415,
     "source": "osm",
@@ -26529,7 +25921,7 @@
   },
   {
     "nome": "La casa nella roccia",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6831051,
     "lng": 14.4517614,
     "source": "osm",
@@ -26545,7 +25937,7 @@
   },
   {
     "nome": "Inghiottitoio del Parchitiello",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4947314,
     "lng": 15.3932423,
     "source": "osm",
@@ -26577,7 +25969,7 @@
   },
   {
     "nome": "Grava II di Santa Maria",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5300777,
     "lng": 15.2626598,
     "source": "osm",
@@ -26593,7 +25985,7 @@
   },
   {
     "nome": "Grava I di Santa Maria",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5307179,
     "lng": 15.261603,
     "source": "osm",
@@ -26609,7 +26001,7 @@
   },
   {
     "nome": "Grava di Don Vincenzo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5312153,
     "lng": 15.2651918,
     "source": "osm",
@@ -26625,7 +26017,7 @@
   },
   {
     "nome": "Risorgenza Festola",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4534795,
     "lng": 15.3257842,
     "source": "osm",
@@ -26641,7 +26033,7 @@
   },
   {
     "nome": "Grava Morta",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.456893,
     "lng": 15.3236961,
     "source": "osm",
@@ -26657,7 +26049,7 @@
   },
   {
     "nome": "Voragine di Aquara",
-    "descrizione": "",
+    "descrizione": "Grotta nel territorio di Cilento",
     "lat": 40.4721642,
     "lng": 15.2892297,
     "source": "osm",
@@ -26673,7 +26065,7 @@
   },
   {
     "nome": "Voragine Mano Mozza",
-    "descrizione": "",
+    "descrizione": "Grotta nel territorio di Cilento",
     "lat": 40.4962663,
     "lng": 15.2811,
     "source": "osm",
@@ -26689,7 +26081,7 @@
   },
   {
     "nome": "Buco dei Lanzi",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5499089,
     "lng": 15.3397331,
     "source": "osm",
@@ -26705,7 +26097,7 @@
   },
   {
     "nome": "Grava del Tummulo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5529598,
     "lng": 15.3372896,
     "source": "osm",
@@ -26721,7 +26113,7 @@
   },
   {
     "nome": "Grava II Vuccolo dell'Arena",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5414321,
     "lng": 15.3052318,
     "source": "osm",
@@ -26737,7 +26129,7 @@
   },
   {
     "nome": "Grava della dolina fratturata",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.541856,
     "lng": 15.3053874,
     "source": "osm",
@@ -26753,7 +26145,7 @@
   },
   {
     "nome": "Grava III Vuccolo dell'Arena",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.542229,
     "lng": 15.3055912,
     "source": "osm",
@@ -26769,7 +26161,7 @@
   },
   {
     "nome": "Grava Vuccolo dell'Arena",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5404272,
     "lng": 15.3088649,
     "source": "osm",
@@ -26785,7 +26177,7 @@
   },
   {
     "nome": "Frattura dell'Arena",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5386599,
     "lng": 15.31378,
     "source": "osm",
@@ -26801,7 +26193,7 @@
   },
   {
     "nome": "Pozzo I dei Varroncelli",
-    "descrizione": "",
+    "descrizione": "Fonte nel territorio di Cilento",
     "lat": 40.4833865,
     "lng": 15.3831138,
     "source": "osm",
@@ -26817,7 +26209,7 @@
   },
   {
     "nome": "Pozzo degli Sconsolati",
-    "descrizione": "",
+    "descrizione": "Fonte nel territorio di Cilento",
     "lat": 40.4838098,
     "lng": 15.3833391,
     "source": "osm",
@@ -26833,7 +26225,7 @@
   },
   {
     "nome": "Fessura del Sotano",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4838364,
     "lng": 15.3828898,
     "source": "osm",
@@ -26849,7 +26241,7 @@
   },
   {
     "nome": "Grava delle Ossa",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4839516,
     "lng": 15.3818679,
     "source": "osm",
@@ -26865,7 +26257,7 @@
   },
   {
     "nome": "Inghiottitoio I dei Varroncelli",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4853225,
     "lng": 15.3831661,
     "source": "osm",
@@ -26881,7 +26273,7 @@
   },
   {
     "nome": "Grava Bosega",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4886415,
     "lng": 15.371359,
     "source": "osm",
@@ -26897,7 +26289,7 @@
   },
   {
     "nome": "Inghiottitoio delle Gravaccine",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4868444,
     "lng": 15.3737998,
     "source": "osm",
@@ -26913,7 +26305,7 @@
   },
   {
     "nome": "Inghiottitoio Ciccio Piccolo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4834661,
     "lng": 15.3675878,
     "source": "osm",
@@ -26929,7 +26321,7 @@
   },
   {
     "nome": "riparo sotto San Pellegrino",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4816708,
     "lng": 15.3619015,
     "source": "osm",
@@ -26945,7 +26337,7 @@
   },
   {
     "nome": "Grava di Castiglione",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4750931,
     "lng": 15.3618371,
     "source": "osm",
@@ -26961,7 +26353,7 @@
   },
   {
     "nome": "Pozzo sopra Rupistelle",
-    "descrizione": "",
+    "descrizione": "Fonte nel territorio di Cilento",
     "lat": 40.4906672,
     "lng": 15.3146785,
     "source": "osm",
@@ -26977,7 +26369,7 @@
   },
   {
     "nome": "Grava Nobis",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4859509,
     "lng": 15.3102046,
     "source": "osm",
@@ -26993,7 +26385,7 @@
   },
   {
     "nome": "Grava di Matteo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4986711,
     "lng": 15.3234655,
     "source": "osm",
@@ -27009,7 +26401,7 @@
   },
   {
     "nome": "Grava di Cesare",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5019629,
     "lng": 15.3257346,
     "source": "osm",
@@ -27025,7 +26417,7 @@
   },
   {
     "nome": "Grava di Giovannino",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5045408,
     "lng": 15.3171945,
     "source": "osm",
@@ -27041,7 +26433,7 @@
   },
   {
     "nome": "Grava II Sarrauto",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5054218,
     "lng": 15.3123343,
     "source": "osm",
@@ -27057,7 +26449,7 @@
   },
   {
     "nome": "Grava Sarrauto",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5057481,
     "lng": 15.311315,
     "source": "osm",
@@ -27073,7 +26465,7 @@
   },
   {
     "nome": "Voragine di Piano delle Noci",
-    "descrizione": "",
+    "descrizione": "Grotta nel territorio di Cilento",
     "lat": 40.5066944,
     "lng": 15.3141153,
     "source": "osm",
@@ -27089,7 +26481,7 @@
   },
   {
     "nome": "Grava II del Vuccolo della Carità",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.510515,
     "lng": 15.309982,
     "source": "osm",
@@ -27105,7 +26497,7 @@
   },
   {
     "nome": "Grava I del Vuccolo della Carità",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5105879,
     "lng": 15.3098875,
     "source": "osm",
@@ -27121,7 +26513,7 @@
   },
   {
     "nome": "Meandro della Pietra di Gianmaria",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.51427,
     "lng": 15.317071,
     "source": "osm",
@@ -27137,7 +26529,7 @@
   },
   {
     "nome": "Grava del Rifugio della Forestale",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5302235,
     "lng": 15.2876848,
     "source": "osm",
@@ -27153,7 +26545,7 @@
   },
   {
     "nome": "Cavernetta del Rifugio della Forestale",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5304009,
     "lng": 15.2876969,
     "source": "osm",
@@ -27169,7 +26561,7 @@
   },
   {
     "nome": "Grava II del Faggio Scritto",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5225425,
     "lng": 15.2988642,
     "source": "osm",
@@ -27185,7 +26577,7 @@
   },
   {
     "nome": "Grava I del Faggio Scritto",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5245446,
     "lng": 15.29917,
     "source": "osm",
@@ -27201,7 +26593,7 @@
   },
   {
     "nome": "Grava Serra Monaco",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5270253,
     "lng": 15.2973783,
     "source": "osm",
@@ -27217,7 +26609,7 @@
   },
   {
     "nome": "Pozzo Caramito",
-    "descrizione": "",
+    "descrizione": "Fonte nel territorio di Cilento",
     "lat": 40.514192,
     "lng": 15.341505,
     "source": "osm",
@@ -27233,7 +26625,7 @@
   },
   {
     "nome": "Pozzo Sant'Angelo a Fasanella",
-    "descrizione": "",
+    "descrizione": "Fonte nel territorio di Cilento",
     "lat": 40.4968697,
     "lng": 15.3761385,
     "source": "osm",
@@ -27249,7 +26641,7 @@
   },
   {
     "nome": "Antica Cappella del Salvatore",
-    "descrizione": "",
+    "descrizione": "Chiesa nel territorio di Salerno",
     "lat": 40.6368103,
     "lng": 14.6049817,
     "source": "osm",
@@ -27265,7 +26657,7 @@
   },
   {
     "nome": "Ex monastero di San Martino",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.6540675,
     "lng": 15.1115048,
     "source": "osm",
@@ -27281,7 +26673,7 @@
   },
   {
     "nome": "Monumento ai caduti",
-    "descrizione": "",
+    "descrizione": "Monumento nel territorio di Cilento",
     "lat": 40.6631186,
     "lng": 15.1068822,
     "source": "osm",
@@ -27292,12 +26684,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "monumento",
     "zona": "cilento"
   },
   {
     "nome": "Le tre croci",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.6696577,
     "lng": 15.1225899,
     "source": "osm",
@@ -27313,7 +26705,7 @@
   },
   {
     "nome": "Real Teatro Francesco I",
-    "descrizione": "",
+    "descrizione": "Sito archeologico nel territorio di Salerno",
     "lat": 40.6920936,
     "lng": 14.4797226,
     "source": "osm",
@@ -27329,7 +26721,7 @@
   },
   {
     "nome": "Arco di San Catello",
-    "descrizione": "",
+    "descrizione": "Sito archeologico nel territorio di Salerno",
     "lat": 40.6956436,
     "lng": 14.4812237,
     "source": "osm",
@@ -27345,7 +26737,7 @@
   },
   {
     "nome": "Monumento Ai Caduti Di Tutte Le Guerre",
-    "descrizione": "",
+    "descrizione": "Monumento nel territorio di Salerno",
     "lat": 40.6960463,
     "lng": 14.481803,
     "source": "osm",
@@ -27356,12 +26748,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "monumento",
     "zona": "salerno"
   },
   {
     "nome": "Epigrafe di Ferdinando IV di Borbone,",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.595164,
     "lng": 15.1222743,
     "source": "osm",
@@ -27377,7 +26769,7 @@
   },
   {
     "nome": "Casa del Canonico Antonio Maria De Luca",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.0945824,
     "lng": 15.4049564,
     "source": "osm",
@@ -27393,7 +26785,7 @@
   },
   {
     "nome": "Monumento ai caduti in guerra",
-    "descrizione": "",
+    "descrizione": "Monumento nel territorio di Cilento",
     "lat": 40.0959647,
     "lng": 15.4040693,
     "source": "osm",
@@ -27404,12 +26796,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "monumento",
     "zona": "cilento"
   },
   {
     "nome": "Palazzo Ricci",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.1397228,
     "lng": 15.1858785,
     "source": "osm",
@@ -27425,7 +26817,7 @@
   },
   {
     "nome": "Monumemto ai caduti",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4838097,
     "lng": 15.1990213,
     "source": "osm",
@@ -27441,7 +26833,7 @@
   },
   {
     "nome": "Campanaro medievale",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.7450306,
     "lng": 15.2732851,
     "source": "osm",
@@ -27457,7 +26849,7 @@
   },
   {
     "nome": "Resti della chiesetta di San Nicola",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3872856,
     "lng": 15.367297,
     "source": "osm",
@@ -27473,7 +26865,7 @@
   },
   {
     "nome": "Monumento ai caduti del Velella",
-    "descrizione": "",
+    "descrizione": "Monumento nel territorio di Cilento",
     "lat": 40.2535008,
     "lng": 14.9062217,
     "source": "osm",
@@ -27484,7 +26876,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "monumento",
     "zona": "cilento"
   },
   {
@@ -27505,7 +26897,7 @@
   },
   {
     "nome": "Il Pinnacolo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6221859,
     "lng": 14.5290455,
     "source": "osm",
@@ -27521,7 +26913,7 @@
   },
   {
     "nome": "Caduti di Salerno nella Grande Guerra",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6749608,
     "lng": 14.7719126,
     "source": "osm",
@@ -27537,7 +26929,7 @@
   },
   {
     "nome": "Monumenti ai Martiri Politici",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6766584,
     "lng": 14.7641064,
     "source": "osm",
@@ -27553,7 +26945,7 @@
   },
   {
     "nome": "Monumento ai Caduti di Torre Annunziata",
-    "descrizione": "",
+    "descrizione": "Castello nel territorio di Salerno",
     "lat": 40.7570094,
     "lng": 14.4453549,
     "source": "osm",
@@ -27569,7 +26961,7 @@
   },
   {
     "nome": "Monumento ai Carabinieri",
-    "descrizione": "",
+    "descrizione": "Monumento nel territorio di Salerno",
     "lat": 40.7585255,
     "lng": 14.4436027,
     "source": "osm",
@@ -27580,12 +26972,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "monumento",
     "zona": "salerno"
   },
   {
     "nome": "Piazza Martiri de' Mattia",
-    "descrizione": "",
+    "descrizione": "Piazza nel territorio di Cilento",
     "lat": 40.2281883,
     "lng": 15.2661301,
     "source": "osm",
@@ -27596,12 +26988,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "piazza",
     "zona": "cilento"
   },
   {
     "nome": "Monumento del Cinema | Wall of Fame",
-    "descrizione": "",
+    "descrizione": "Monumento nel territorio di Salerno",
     "lat": 40.6629145,
     "lng": 14.4274107,
     "source": "osm",
@@ -27612,28 +27004,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
-    "zona": "salerno"
-  },
-  {
-    "nome": "Viale Rimembranza",
-    "descrizione": "",
-    "lat": 40.6623245,
-    "lng": 14.4243316,
-    "source": "osm",
-    "link": "https://www.openstreetmap.org/?mlat=40.6623245&mlon=14.4243316#map=16/40.6623245/14.4243316",
-    "id": "monumenti-viale-rimembranza",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
+    "tipo": "monumento",
     "zona": "salerno"
   },
   {
     "nome": "Lapide aereo svedese caduto",
-    "descrizione": "",
+    "descrizione": "Monumento nel territorio di Salerno",
     "lat": 40.671867,
     "lng": 14.5833156,
     "source": "osm",
@@ -27644,12 +27020,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "monumento",
     "zona": "salerno"
   },
   {
     "nome": "Tomba di Casanocillo",
-    "descrizione": "",
+    "descrizione": "Sito archeologico nel territorio di Salerno",
     "lat": 40.624458,
     "lng": 14.4408555,
     "source": "osm",
@@ -27681,7 +27057,7 @@
   },
   {
     "nome": "San Francesco",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.190488,
     "lng": 15.0613046,
     "source": "osm",
@@ -27697,7 +27073,7 @@
   },
   {
     "nome": "Monumento ai cittadini torresi",
-    "descrizione": "",
+    "descrizione": "Castello nel territorio di Salerno",
     "lat": 40.7505784,
     "lng": 14.4655455,
     "source": "osm",
@@ -27713,7 +27089,7 @@
   },
   {
     "nome": "Targa dedicata",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.7093919,
     "lng": 14.7015677,
     "source": "osm",
@@ -27729,7 +27105,7 @@
   },
   {
     "nome": "Targa Memoriale",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6970952,
     "lng": 14.7029528,
     "source": "osm",
@@ -27745,7 +27121,7 @@
   },
   {
     "nome": "Il dolori della madre di Dio",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6574695,
     "lng": 14.8087569,
     "source": "osm",
@@ -27761,7 +27137,7 @@
   },
   {
     "nome": "Monumento alla Resistenza",
-    "descrizione": "",
+    "descrizione": "Monumento nel territorio di Salerno",
     "lat": 40.7497605,
     "lng": 14.5274352,
     "source": "osm",
@@ -27772,12 +27148,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "monumento",
     "zona": "salerno"
   },
   {
     "nome": "Targa alla memoria di Achille Lauro",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6332349,
     "lng": 14.4112328,
     "source": "osm",
@@ -27793,7 +27169,7 @@
   },
   {
     "nome": "targa commemorativa ad Achille Lauro",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6342412,
     "lng": 14.4116745,
     "source": "osm",
@@ -27809,7 +27185,7 @@
   },
   {
     "nome": "Stemma del Comune di Piano di Sorrento",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.632605,
     "lng": 14.4117204,
     "source": "osm",
@@ -27825,7 +27201,7 @@
   },
   {
     "nome": "Faro della Giustizia",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6796248,
     "lng": 14.7742671,
     "source": "osm",
@@ -27841,7 +27217,7 @@
   },
   {
     "nome": "Ai caduti in mare",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6745657,
     "lng": 14.7683436,
     "source": "osm",
@@ -27857,7 +27233,7 @@
   },
   {
     "nome": "Cippo in memoria dei caduti dell'eliambulanza ASL/SA3 del 21-11-1997",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4739527,
     "lng": 15.4038527,
     "source": "osm",
@@ -27873,7 +27249,7 @@
   },
   {
     "nome": "Targa in memoria dei caduti di Nassiriya",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6944209,
     "lng": 14.640322,
     "source": "osm",
@@ -27889,7 +27265,7 @@
   },
   {
     "nome": "Memorial stone at Monte Faito",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6708123,
     "lng": 14.4762444,
     "source": "osm",
@@ -27905,7 +27281,7 @@
   },
   {
     "nome": "Arco napoleonico",
-    "descrizione": "",
+    "descrizione": "Sito archeologico nel territorio di Salerno",
     "lat": 40.6948571,
     "lng": 14.5109452,
     "source": "osm",
@@ -27921,7 +27297,7 @@
   },
   {
     "nome": "Inno al Lavoro",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.645681,
     "lng": 14.8756608,
     "source": "osm",
@@ -27937,7 +27313,7 @@
   },
   {
     "nome": "allegoria di stabia",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6955565,
     "lng": 14.4798478,
     "source": "osm",
@@ -27953,7 +27329,7 @@
   },
   {
     "nome": "ai caduti sul lavoro",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6959548,
     "lng": 14.479686,
     "source": "osm",
@@ -27969,7 +27345,7 @@
   },
   {
     "nome": "Albero della non violenza",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6957386,
     "lng": 14.4810571,
     "source": "osm",
@@ -27985,7 +27361,7 @@
   },
   {
     "nome": "Targa a Marco Pittoni",
-    "descrizione": "",
+    "descrizione": "Sito archeologico nel territorio di Salerno",
     "lat": 40.7415229,
     "lng": 14.6694868,
     "source": "osm",
@@ -28001,7 +27377,7 @@
   },
   {
     "nome": "Statua della Madonna del Carmine",
-    "descrizione": "",
+    "descrizione": "Monumento nel territorio di Cilento",
     "lat": 40.0009349,
     "lng": 15.3768541,
     "source": "osm",
@@ -28012,12 +27388,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "monumento",
     "zona": "cilento"
   },
   {
     "nome": "custode della montagna \"scintilla\"",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.2880795,
     "lng": 15.2414596,
     "source": "osm",
@@ -28049,7 +27425,7 @@
   },
   {
     "nome": "A devozione di Padre Pio",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6507473,
     "lng": 14.6424688,
     "source": "osm",
@@ -28065,7 +27441,7 @@
   },
   {
     "nome": "A perenne ricordo dei militari della Guardia di Finanza in servizio e in congedo vittime dell'epidemia del Coronavirus",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6495893,
     "lng": 14.8132755,
     "source": "osm",
@@ -28081,7 +27457,7 @@
   },
   {
     "nome": "Monumento a Maria SS. della Neve",
-    "descrizione": "",
+    "descrizione": "Monumento nel territorio di Salerno",
     "lat": 40.7607689,
     "lng": 14.4307746,
     "source": "osm",
@@ -28092,28 +27468,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
-    "zona": "salerno"
-  },
-  {
-    "nome": "Monumento all'Aviatore",
-    "descrizione": "",
-    "lat": 40.661471,
-    "lng": 14.4762803,
-    "source": "osm",
-    "link": "https://www.openstreetmap.org/?mlat=40.661471&mlon=14.4762803#map=16/40.661471/14.4762803",
-    "id": "monumenti-monumento-allaviatore",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
+    "tipo": "monumento",
     "zona": "salerno"
   },
   {
     "nome": "Monumento a Falcone e Borsellino",
-    "descrizione": "",
+    "descrizione": "Monumento nel territorio di Salerno",
     "lat": 40.7519334,
     "lng": 14.4677277,
     "source": "osm",
@@ -28124,12 +27484,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "monumento",
     "zona": "salerno"
   },
   {
     "nome": "Monumento a San Bartolo Longo",
-    "descrizione": "",
+    "descrizione": "Monumento nel territorio di Salerno",
     "lat": 40.749066,
     "lng": 14.501018,
     "source": "osm",
@@ -28140,12 +27500,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "monumento",
     "zona": "salerno"
   },
   {
     "nome": "Memoriale dedicato a Audie L. Murphy, medaglia d'Onore, e Lattie Tipton, Medaglia di Bronzo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7253318,
     "lng": 15.0336114,
     "source": "osm",
@@ -28161,7 +27521,7 @@
   },
   {
     "nome": "Monumento ai Caduti della Prima Guerra Mondiale",
-    "descrizione": "",
+    "descrizione": "Monumento nel territorio di Cilento",
     "lat": 40.6322796,
     "lng": 15.3702794,
     "source": "osm",
@@ -28172,12 +27532,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "monumento",
     "zona": "cilento"
   },
   {
     "nome": "Statua Suor Maria delle Grazie",
-    "descrizione": "",
+    "descrizione": "Monumento nel territorio di Salerno",
     "lat": 40.747556,
     "lng": 14.6740782,
     "source": "osm",
@@ -28188,12 +27548,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "monumento",
     "zona": "salerno"
   },
   {
     "nome": "Statua di Padre Pio",
-    "descrizione": "",
+    "descrizione": "Monumento nel territorio di Salerno",
     "lat": 40.748066,
     "lng": 14.6858321,
     "source": "osm",
@@ -28204,12 +27564,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "monumento",
     "zona": "salerno"
   },
   {
     "nome": "Palazzo San Massimo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6812563,
     "lng": 14.7566932,
     "source": "osm",
@@ -28225,7 +27585,7 @@
   },
   {
     "nome": "Monumento ai caduti della seconda guerra mondiale",
-    "descrizione": "",
+    "descrizione": "Monumento nel territorio di Cilento",
     "lat": 40.3990788,
     "lng": 15.345998,
     "source": "osm",
@@ -28236,12 +27596,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "monumento",
     "zona": "cilento"
   },
   {
     "nome": "Area Monunento ai Caduti",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.6497403,
     "lng": 15.2371895,
     "source": "osm",
@@ -28257,7 +27617,7 @@
   },
   {
     "nome": "caduti e dispersi di tutte le guerre",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3088717,
     "lng": 15.2456714,
     "source": "osm",
@@ -28273,7 +27633,7 @@
   },
   {
     "nome": "Piazzale degli Eroi di Nassirya",
-    "descrizione": "",
+    "descrizione": "Piazza nel territorio di Salerno",
     "lat": 40.7736679,
     "lng": 14.7944981,
     "source": "osm",
@@ -28284,12 +27644,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "piazza",
     "zona": "salerno"
   },
   {
     "nome": "Palazzo Fienga",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.7498356,
     "lng": 14.6425103,
     "source": "osm",
@@ -28305,7 +27665,7 @@
   },
   {
     "nome": "Monumento Porta dei Leoni",
-    "descrizione": "",
+    "descrizione": "Monumento nel territorio di Cilento",
     "lat": 40.2909447,
     "lng": 15.2195055,
     "source": "osm",
@@ -28316,12 +27676,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "monumento",
     "zona": "cilento"
   },
   {
     "nome": "La Purtedda - bivio storico",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4152081,
     "lng": 15.3501718,
     "source": "osm",
@@ -28337,7 +27697,7 @@
   },
   {
     "nome": "Faro di Agropoli",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3549447,
     "lng": 14.9869705,
     "source": "osm",
@@ -28353,7 +27713,7 @@
   },
   {
     "nome": "Sorgenti Ferranti",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.394723,
     "lng": 15.643214,
     "source": "osm",
@@ -28369,7 +27729,7 @@
   },
   {
     "nome": "Villa Marittima Romana",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6505099,
     "lng": 14.6262518,
     "source": "osm",
@@ -28385,7 +27745,7 @@
   },
   {
     "nome": "Obelisco di San Cono",
-    "descrizione": "",
+    "descrizione": "Monumento nel territorio di Cilento",
     "lat": 40.3799888,
     "lng": 15.5394912,
     "source": "osm",
@@ -28396,12 +27756,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "monumento",
     "zona": "cilento"
   },
   {
     "nome": "Caduti in Guerra",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3369793,
     "lng": 15.5607218,
     "source": "osm",
@@ -28417,7 +27777,7 @@
   },
   {
     "nome": "Lavatoio \"Fontana\"",
-    "descrizione": "",
+    "descrizione": "Fonte nel territorio di Cilento",
     "lat": 40.3392928,
     "lng": 15.5615584,
     "source": "osm",
@@ -28433,7 +27793,7 @@
   },
   {
     "nome": "Vecchie postazioni antiaeree della 2°Guerra Mondiale",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.030743,
     "lng": 15.2687857,
     "source": "osm",
@@ -28449,7 +27809,7 @@
   },
   {
     "nome": "Scoglio del Coniglio",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.0238244,
     "lng": 15.2943292,
     "source": "osm",
@@ -28465,7 +27825,7 @@
   },
   {
     "nome": "Sorgenti del Fiume Sarno",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.8319518,
     "lng": 14.5927294,
     "source": "osm",
@@ -28481,7 +27841,7 @@
   },
   {
     "nome": "Mura ciclopiche",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3365716,
     "lng": 15.6709401,
     "source": "osm",
@@ -28497,7 +27857,7 @@
   },
   {
     "nome": "Lido Capo di Conca",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.6127616,
     "lng": 14.5736446,
     "source": "osm",
@@ -28508,12 +27868,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "salerno"
   },
   {
     "nome": "Ponte Medievale sul Calore",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.341632,
     "lng": 15.3801461,
     "source": "osm",
@@ -28529,7 +27889,7 @@
   },
   {
     "nome": "ponti e assi in equilibrio",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4946367,
     "lng": 15.4100597,
     "source": "osm",
@@ -28545,7 +27905,7 @@
   },
   {
     "nome": "ponti di legno",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4945308,
     "lng": 15.4100177,
     "source": "osm",
@@ -28561,7 +27921,7 @@
   },
   {
     "nome": "ponte tibetano",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4942911,
     "lng": 15.4098731,
     "source": "osm",
@@ -28577,7 +27937,7 @@
   },
   {
     "nome": "Fornace per la calce",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5174416,
     "lng": 15.4674961,
     "source": "osm",
@@ -28593,7 +27953,7 @@
   },
   {
     "nome": "ponte tirolese",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4941919,
     "lng": 15.4098322,
     "source": "osm",
@@ -28609,7 +27969,7 @@
   },
   {
     "nome": "scala dei pirati",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Cilento",
     "lat": 40.4940702,
     "lng": 15.4097517,
     "source": "osm",
@@ -28620,12 +27980,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "cilento"
   },
   {
     "nome": "villa uruguay",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5219076,
     "lng": 15.4839014,
     "source": "osm",
@@ -28641,7 +28001,7 @@
   },
   {
     "nome": "Ponte Romano a schiena d'asino",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4533117,
     "lng": 15.3249625,
     "source": "osm",
@@ -28657,7 +28017,7 @@
   },
   {
     "nome": "Monastero Carmelitane",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4555216,
     "lng": 15.3442561,
     "source": "osm",
@@ -28673,7 +28033,7 @@
   },
   {
     "nome": "Cascata Auso",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4540462,
     "lng": 15.3250147,
     "source": "osm",
@@ -28689,7 +28049,7 @@
   },
   {
     "nome": "Castello della Mezzana",
-    "descrizione": "",
+    "descrizione": "Castello nel territorio di Cilento",
     "lat": 40.4188591,
     "lng": 15.424988,
     "source": "osm",
@@ -28705,7 +28065,7 @@
   },
   {
     "nome": "Giardino Botanico Appennino Mediterraneo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.2649903,
     "lng": 15.2705687,
     "source": "osm",
@@ -28721,7 +28081,7 @@
   },
   {
     "nome": "Giffoni Film Festival",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7120046,
     "lng": 14.9387912,
     "source": "osm",
@@ -28737,7 +28097,7 @@
   },
   {
     "nome": "Chiostro San Francisco (XIIIe)",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6473012,
     "lng": 14.6115912,
     "source": "osm",
@@ -28753,7 +28113,7 @@
   },
   {
     "nome": "L'acqua delle Vigne",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.0592283,
     "lng": 15.6417578,
     "source": "osm",
@@ -28769,7 +28129,7 @@
   },
   {
     "nome": "Bora bora lido",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Cilento",
     "lat": 40.0776711,
     "lng": 15.5796528,
     "source": "osm",
@@ -28780,12 +28140,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "cilento"
   },
   {
     "nome": "Porto di Amalfi Marina Coppola",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6317218,
     "lng": 14.5970603,
     "source": "osm",
@@ -28817,7 +28177,7 @@
   },
   {
     "nome": "F.te di Capitino",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.1274697,
     "lng": 15.6299829,
     "source": "osm",
@@ -28833,7 +28193,7 @@
   },
   {
     "nome": "Salita degli \"Scaloni\" - Agropoli",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3523058,
     "lng": 14.9865835,
     "source": "osm",
@@ -28849,7 +28209,7 @@
   },
   {
     "nome": "Area archeologia Golfo di Policastro",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.0692478,
     "lng": 15.5136877,
     "source": "osm",
@@ -28865,7 +28225,7 @@
   },
   {
     "nome": "Vola Laurino arrivo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3342016,
     "lng": 15.3356626,
     "source": "osm",
@@ -28881,7 +28241,7 @@
   },
   {
     "nome": "Sorgenti Festolaro",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.32485,
     "lng": 15.359283,
     "source": "osm",
@@ -28897,7 +28257,7 @@
   },
   {
     "nome": "Argille rosse",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.411067,
     "lng": 15.10235,
     "source": "osm",
@@ -28913,7 +28273,7 @@
   },
   {
     "nome": "Pietra incatenata",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.399535,
     "lng": 15.1065752,
     "source": "osm",
@@ -28929,7 +28289,7 @@
   },
   {
     "nome": "Villaggio dell’acqua",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3469887,
     "lng": 15.1826946,
     "source": "osm",
@@ -28945,7 +28305,7 @@
   },
   {
     "nome": "Preta Perciata",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.338492,
     "lng": 15.255981,
     "source": "osm",
@@ -28961,7 +28321,7 @@
   },
   {
     "nome": "Mulino del Principe",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.4253581,
     "lng": 15.2391603,
     "source": "osm",
@@ -28977,7 +28337,7 @@
   },
   {
     "nome": "Mulino Scalone",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.305217,
     "lng": 15.29767,
     "source": "osm",
@@ -28993,7 +28353,7 @@
   },
   {
     "nome": "Acquedotto Sorgenti Soprane",
-    "descrizione": "",
+    "descrizione": "Fonte nel territorio di Cilento",
     "lat": 40.3225481,
     "lng": 15.6070045,
     "source": "osm",
@@ -29004,28 +28364,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
-    "zona": "cilento"
-  },
-  {
-    "nome": "casello ferroviario ferrovia calabro lucana",
-    "descrizione": "",
-    "lat": 40.4570846,
-    "lng": 15.5662365,
-    "source": "osm",
-    "link": "https://www.openstreetmap.org/?mlat=40.4570846&mlon=15.5662365#map=16/40.4570846/15.5662365",
-    "id": "monumenti-casello-ferroviario-ferrovia-calabro-lucana",
-    "difficolta": "",
-    "lunghezza_km": null,
-    "dislivello_m": null,
-    "periodo": "",
-    "frequenza": "",
-    "tipo": "sentiero",
+    "tipo": "fonte",
     "zona": "cilento"
   },
   {
     "nome": "Mercato Vecchio",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3360434,
     "lng": 15.3364502,
     "source": "osm",
@@ -29041,7 +28385,7 @@
   },
   {
     "nome": "Il \"Seggio\"",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3358117,
     "lng": 15.3374561,
     "source": "osm",
@@ -29057,7 +28401,7 @@
   },
   {
     "nome": "Antica torre Aragonese oggi adibita ad abitazione privata",
-    "descrizione": "",
+    "descrizione": "Castello nel territorio di Cilento",
     "lat": 40.559497,
     "lng": 15.3078292,
     "source": "osm",
@@ -29073,7 +28417,7 @@
   },
   {
     "nome": "Tabula Lusoria",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5689615,
     "lng": 15.490871,
     "source": "osm",
@@ -29089,7 +28433,7 @@
   },
   {
     "nome": "Sorgenti del Vivo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.388496,
     "lng": 15.6619817,
     "source": "osm",
@@ -29105,7 +28449,7 @@
   },
   {
     "nome": "Casa Museo Joe Petrosino",
-    "descrizione": "",
+    "descrizione": "Museo nel territorio di Cilento",
     "lat": 40.3393675,
     "lng": 15.6584211,
     "source": "osm",
@@ -29121,7 +28465,7 @@
   },
   {
     "nome": "Cascata delle cartiere",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6405543,
     "lng": 14.598828,
     "source": "osm",
@@ -29137,7 +28481,7 @@
   },
   {
     "nome": "Antico lavatoio",
-    "descrizione": "",
+    "descrizione": "Fonte nel territorio di Salerno",
     "lat": 40.6812546,
     "lng": 14.7536341,
     "source": "osm",
@@ -29148,12 +28492,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "fonte",
     "zona": "salerno"
   },
   {
     "nome": "Chiostro Convento Luna",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.633306,
     "lng": 14.6066715,
     "source": "osm",
@@ -29217,7 +28561,7 @@
   },
   {
     "nome": "San Salvatore de Birecto",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.636235,
     "lng": 14.6087996,
     "source": "osm",
@@ -29233,7 +28577,7 @@
   },
   {
     "nome": "Ruins Basilica San Eustachio",
-    "descrizione": "",
+    "descrizione": "Chiesa nel territorio di Salerno",
     "lat": 40.6445246,
     "lng": 14.6028731,
     "source": "osm",

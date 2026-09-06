@@ -1,80 +1,80 @@
 [
   {
     "nome": "Buondormire di terra",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Cilento",
     "lat": 40.0272943,
     "lng": 15.2921368,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.0272943&mlon=15.2921368#map=16/40.0272943/15.2921368",
     "id": "spiagge-buondormire-di-terra-0",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Spiagga Licinella",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Cilento",
     "lat": 40.4087605,
     "lng": 14.9915039,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.4087605&mlon=14.9915039#map=16/40.4087605/14.9915039",
     "id": "spiagge-spiagga-licinella-17",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Fiordo di Furore",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.6146322,
     "lng": 14.5549546,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6146322&mlon=14.5549546#map=16/40.6146322/14.5549546",
     "id": "spiagge-fiordo-di-furore-36",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Marina di Vico",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.6656098,
     "lng": 14.4278088,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6656098&mlon=14.4278088#map=16/40.6656098/14.4278088",
     "id": "spiagge-marina-di-vico-37",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Agnone( Campania)",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Cilento",
     "lat": 40.2170542,
     "lng": 14.9931224,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.2170542&mlon=14.9931224#map=16/40.2170542/14.9931224",
     "id": "spiagge-agnone-campania-38",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Sunset Beach Club Palinuro",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Cilento",
     "lat": 40.0541267,
     "lng": 15.28257,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.0541267&mlon=15.28257#map=16/40.0541267/15.28257",
     "id": "spiagge-sunset-beach-club-palinuro-42",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Gavitella beach",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.6139802,
     "lng": 14.5205209,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6139802&mlon=14.5205209#map=16/40.6139802/14.5205209",
     "id": "spiagge-gavitella-beach-66",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "La Molpa",
@@ -85,139 +85,139 @@
     "link": "https://www.openstreetmap.org/?mlat=40.0298263&mlon=15.3002296#map=16/40.0298263/15.3002296",
     "id": "spiagge-la-molpa-71",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Garden Beach",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.6891194,
     "lng": 14.456306,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6891194&mlon=14.456306#map=16/40.6891194/14.456306",
     "id": "spiagge-garden-beach-73",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Bagno Elena",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.6889448,
     "lng": 14.4557921,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6889448&mlon=14.4557921#map=16/40.6889448/14.4557921",
     "id": "spiagge-bagno-elena-74",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Bagno Conte",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.6886908,
     "lng": 14.4550838,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6886908&mlon=14.4550838#map=16/40.6886908/14.4550838",
     "id": "spiagge-bagno-conte-75",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Lido Moderno",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.6884041,
     "lng": 14.4542905,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6884041&mlon=14.4542905#map=16/40.6884041/14.4542905",
     "id": "spiagge-lido-moderno-76",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "La Palombara",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.6882136,
     "lng": 14.4532768,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6882136&mlon=14.4532768#map=16/40.6882136/14.4532768",
     "id": "spiagge-la-palombara-77",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Spiagia della Sciabichedda",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Cilento",
     "lat": 40.0234331,
     "lng": 15.4496788,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.0234331&mlon=15.4496788#map=16/40.0234331/15.4496788",
     "id": "spiagge-spiagia-della-sciabichedda-78",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Le 7 Scogliere di Rovigliano",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.7399606,
     "lng": 14.4626617,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.7399606&mlon=14.4626617#map=16/40.7399606/14.4626617",
     "id": "spiagge-le-7-scogliere-di-rovigliano-80",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Lido Nettuno",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.7544858,
     "lng": 14.4400602,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.7544858&mlon=14.4400602#map=16/40.7544858/14.4400602",
     "id": "spiagge-lido-nettuno-81",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Lido Rinascenza",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.7542626,
     "lng": 14.4408422,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.7542626&mlon=14.4408422#map=16/40.7542626/14.4408422",
     "id": "spiagge-lido-rinascenza-82",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Lido Eldorado",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.7543615,
     "lng": 14.4404689,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.7543615&mlon=14.4404689#map=16/40.7543615/14.4404689",
     "id": "spiagge-lido-eldorado-83",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Lido Risorgimento",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.7539007,
     "lng": 14.4411724,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.7539007&mlon=14.4411724#map=16/40.7539007/14.4411724",
     "id": "spiagge-lido-risorgimento-84",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Marina del Sole",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.7531951,
     "lng": 14.4424282,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.7531951&mlon=14.4424282#map=16/40.7531951/14.4424282",
     "id": "spiagge-marina-del-sole-85",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "San Pietro",
@@ -228,40 +228,40 @@
     "link": "https://www.openstreetmap.org/?mlat=40.6232573&mlon=14.5028934#map=16/40.6232573/14.5028934",
     "id": "spiagge-san-pietro-87",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Lido Azzurro",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.7547232,
     "lng": 14.4393525,
     "source": "osm",
     "link": "http://www.illidoazzurro.it",
     "id": "spiagge-lido-azzurro-94",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Spiaggie Gemelle",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Cilento",
     "lat": 40.0291653,
     "lng": 15.4566839,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.0291653&mlon=15.4566839#map=16/40.0291653/15.4566839",
     "id": "spiagge-spiaggie-gemelle-95",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Spiagge Gemelle",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Cilento",
     "lat": 40.0285595,
     "lng": 15.4563626,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.0285595&mlon=15.4563626#map=16/40.0285595/15.4563626",
     "id": "spiagge-spiagge-gemelle-96",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Lo Scaricatore",
@@ -272,29 +272,29 @@
     "link": "https://www.openstreetmap.org/?mlat=40.6161233&mlon=14.4418297#map=16/40.6161233/14.4418297",
     "id": "spiagge-lo-scaricatore-100",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Antico Bagno Nettuno",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.6395593,
     "lng": 14.4018041,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6395593&mlon=14.4018041#map=16/40.6395593/14.4018041",
     "id": "spiagge-antico-bagno-nettuno-101",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "La spiaggetta",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Cilento",
     "lat": 40.1755226,
     "lng": 15.1217621,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.1755226&mlon=15.1217621#map=16/40.1755226/15.1217621",
     "id": "spiagge-la-spiaggetta-103",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Spiaggia degli Iscolelli",
@@ -305,127 +305,127 @@
     "link": "https://www.openstreetmap.org/?mlat=39.9928265&mlon=15.4158515#map=16/39.9928265/15.4158515",
     "id": "spiagge-spiaggia-degli-iscolelli-105",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Lido Scaramella beach",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.6651385,
     "lng": 14.7893159,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6651385&mlon=14.7893159#map=16/40.6651385/14.7893159",
     "id": "spiagge-lido-scaramella-beach-106",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Spiagga Licina",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Cilento",
     "lat": 40.3539885,
     "lng": 14.9914906,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.3539885&mlon=14.9914906#map=16/40.3539885/14.9914906",
     "id": "spiagge-spiagga-licina-108",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Torretta 23",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Cilento",
     "lat": 40.3097744,
     "lng": 14.9457829,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.3097744&mlon=14.9457829#map=16/40.3097744/14.9457829",
     "id": "spiagge-torretta-23-109",
     "zona": "cilento",
-    "tipo": "castello"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Lido Tirreno",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Cilento",
     "lat": 40.3100561,
     "lng": 14.9457336,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.3100561&mlon=14.9457336#map=16/40.3100561/14.9457336",
     "id": "spiagge-lido-tirreno-110",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Club Michele",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Cilento",
     "lat": 40.0154139,
     "lng": 15.3325816,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.0154139&mlon=15.3325816#map=16/40.0154139/15.3325816",
     "id": "spiagge-club-michele-111",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Bikini beach",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Cilento",
     "lat": 40.0141644,
     "lng": 15.333556,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.0141644&mlon=15.333556#map=16/40.0141644/15.333556",
     "id": "spiagge-bikini-beach-113",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Playa porlamar",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Cilento",
     "lat": 40.0148603,
     "lng": 15.3330115,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.0148603&mlon=15.3330115#map=16/40.0148603/15.3330115",
     "id": "spiagge-playa-porlamar-114",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "La Pagliarella",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Cilento",
     "lat": 40.3118145,
     "lng": 14.9453859,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.3118145&mlon=14.9453859#map=16/40.3118145/14.9453859",
     "id": "spiagge-la-pagliarella-115",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Lido La Conchiglia",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Salerno",
     "lat": 40.6716667,
     "lng": 14.7761751,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6716667&mlon=14.7761751#map=16/40.6716667/14.7761751",
     "id": "spiagge-lido-la-conchiglia-117",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Lido Night & Day",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Costiera Amalfitana",
     "lat": 40.5636456,
     "lng": 14.8962524,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.5636456&mlon=14.8962524#map=16/40.5636456/14.8962524",
     "id": "spiagge-lido-night-day-124",
     "zona": "costiera",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   },
   {
     "nome": "Lido Mojito Beach",
-    "descrizione": "",
+    "descrizione": "Spiaggia nel territorio di Costiera Amalfitana",
     "lat": 40.5639385,
     "lng": 14.8960283,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.5639385&mlon=14.8960283#map=16/40.5639385/14.8960283",
     "id": "spiagge-lido-mojito-beach-125",
     "zona": "costiera",
-    "tipo": "altro"
+    "tipo": "spiaggia"
   }
 ]

@@ -60,12 +60,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "spiaggia",
     "zona": "cilento"
   },
   {
     "nome": "Tenuta Castelluccio Gole del Cervati",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3490094,
     "lng": 15.3883086,
     "source": "osm",
@@ -81,7 +81,7 @@
   },
   {
     "nome": "Area Marina Protetta Punta Campanella",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.60293,
     "lng": 14.3890769,
     "source": "osm",
@@ -97,7 +97,7 @@
   },
   {
     "nome": "Area Marina Protetta Santa Maria di Castellabate",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.2763458,
     "lng": 14.8887679,
     "source": "osm",

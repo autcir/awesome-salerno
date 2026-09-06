@@ -34,7 +34,7 @@
 
 ## Monumenti
 
-> 1835 churches, castles, museums and archaeological sites.
+> 1794 churches, castles, museums and archaeological sites.
 
 ### Salerno
 
@@ -103,7 +103,7 @@
 
 ## Map
 
-Interactive map with all 2313 POI: [Open Map](https://autcir.github.io/awesome-salerno/)
+Interactive map with all 2272 POI: [Open Map](https://autcir.github.io/awesome-salerno/)
 
 ## API
 
@@ -116,12 +116,12 @@ python3 api/server.py
 | Endpoint | Description |
 |----------|-------------|
 | `GET /api/sentieri` | All trails (223) |
-| `GET /api/monumenti` | All monuments (1835) |
+| `GET /api/monumenti` | All monuments (1794) |
 | `GET /api/spiagge` | All beaches (39) |
 | `GET /api/panorami` | All viewpoints (201) |
 | `GET /api/parchi` | All parks (7) |
 | `GET /api/eventi` | All events (8) |
-| `GET /api/all` | All data (2313) |
+| `GET /api/all` | All data (2272) |
 | `GET /api/search?q=<query>` | Full-text search |
 
 **Filter by zone:**

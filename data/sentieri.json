@@ -1,7 +1,7 @@
 [
   {
     "nome": "Verso le Sorgenti del Sammaro",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3853664,
     "lng": 15.3630063,
     "source": "osm",
@@ -12,7 +12,7 @@
   },
   {
     "nome": "Sentiero sorgenti \"Sammaro\"",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.3870857,
     "lng": 15.3611821,
     "source": "osm",
@@ -23,7 +23,7 @@
   },
   {
     "nome": "Sentiero Passo della Beta",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.2120576,
     "lng": 15.3414035,
     "source": "osm",
@@ -34,7 +34,7 @@
   },
   {
     "nome": "sentiero Cala Degli Infreschi",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 39.9974062,
     "lng": 15.4246866,
     "source": "osm",
@@ -45,7 +45,7 @@
   },
   {
     "nome": "Sentiero Valle cupa",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.0865789,
     "lng": 15.3801149,
     "source": "osm",
@@ -56,7 +56,7 @@
   },
   {
     "nome": "Sentiero Storico Madonna della Neve",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.2806134,
     "lng": 15.5069529,
     "source": "osm",
@@ -67,7 +67,7 @@
   },
   {
     "nome": "sentiero Degli Infreschi",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 39.9981268,
     "lng": 15.4068653,
     "source": "osm",
@@ -78,7 +78,7 @@
   },
   {
     "nome": "Valle delle Ferriere",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6465293,
     "lng": 14.5887705,
     "source": "osm",
@@ -89,7 +89,7 @@
   },
   {
     "nome": "Sentiero del Pellegrino",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.0276863,
     "lng": 15.2688638,
     "source": "osm",
@@ -100,7 +100,7 @@
   },
   {
     "nome": "Fortini e Torri - Sentiero del Pellegrino",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.0258747,
     "lng": 15.2796351,
     "source": "osm",
@@ -111,7 +111,7 @@
   },
   {
     "nome": "Sentiero del Sambuco (Fosso della Rena)",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6792411,
     "lng": 14.6869997,
     "source": "osm",
@@ -122,7 +122,7 @@
   },
   {
     "nome": "Sentiero le Scalette",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.0736552,
     "lng": 15.4275801,
     "source": "osm",
@@ -133,7 +133,7 @@
   },
   {
     "nome": "\"ò' mancino\"",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6438738,
     "lng": 14.486765,
     "source": "osm",
@@ -155,7 +155,7 @@
   },
   {
     "nome": "Sentiero Novi Veila - Sacro Monte",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.2134487,
     "lng": 15.318494,
     "source": "osm",
@@ -166,7 +166,7 @@
   },
   {
     "nome": "Sentiero delle Formichelle",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6751714,
     "lng": 14.6395386,
     "source": "osm",
@@ -177,7 +177,7 @@
   },
   {
     "nome": "Via Vallone",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6475469,
     "lng": 14.6166394,
     "source": "osm",
@@ -188,7 +188,7 @@
   },
   {
     "nome": "sentiero Pietre della Torina",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6826233,
     "lng": 14.5504463,
     "source": "osm",
@@ -199,7 +199,7 @@
   },
   {
     "nome": "Sentiero Chiancolelle",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.7212,
     "lng": 14.6416654,
     "source": "osm",
@@ -210,7 +210,7 @@
   },
   {
     "nome": "Vallone Pozzo",
-    "descrizione": "",
+    "descrizione": "Fonte nel territorio di Salerno",
     "lat": 40.6399511,
     "lng": 14.4821523,
     "source": "osm",
@@ -221,7 +221,7 @@
   },
   {
     "nome": "via Grotta Petina",
-    "descrizione": "",
+    "descrizione": "Grotta nel territorio di Salerno",
     "lat": 40.6416038,
     "lng": 14.6136466,
     "source": "osm",
@@ -232,7 +232,7 @@
   },
   {
     "nome": "Vallone Scurorillo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6827394,
     "lng": 14.4617048,
     "source": "osm",
@@ -243,7 +243,7 @@
   },
   {
     "nome": "Sentiero delle Tramontane",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6852757,
     "lng": 14.6598821,
     "source": "osm",
@@ -254,7 +254,7 @@
   },
   {
     "nome": "via Pastino",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6365836,
     "lng": 14.610071,
     "source": "osm",
@@ -265,7 +265,7 @@
   },
   {
     "nome": "Sentiero 311",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.5469576,
     "lng": 15.2541931,
     "source": "osm",
@@ -276,7 +276,7 @@
   },
   {
     "nome": "sentiero cai",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.257841,
     "lng": 14.9169534,
     "source": "osm",
@@ -287,7 +287,7 @@
   },
   {
     "nome": "Sentiero Passo della Beta - Cresta - Uomo Morto",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.2202075,
     "lng": 15.3450061,
     "source": "osm",
@@ -298,7 +298,7 @@
   },
   {
     "nome": "Sentiero Tempa del Lupo - Vaddilonga - Cresta",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.2271569,
     "lng": 15.317799,
     "source": "osm",
@@ -309,7 +309,7 @@
   },
   {
     "nome": "Sentiero del Maestro",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.2365473,
     "lng": 15.3318068,
     "source": "osm",
@@ -320,7 +320,7 @@
   },
   {
     "nome": "\"alternative to 325a\"",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6500098,
     "lng": 14.5839882,
     "source": "osm",
@@ -331,7 +331,7 @@
   },
   {
     "nome": "selva della tomba",
-    "descrizione": "",
+    "descrizione": "Sito archeologico nel territorio di Salerno",
     "lat": 40.6259958,
     "lng": 14.4387481,
     "source": "osm",
@@ -342,7 +342,7 @@
   },
   {
     "nome": "Caserma del Gaudo-Monte Polveracchio",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.733083,
     "lng": 15.1594419,
     "source": "osm",
@@ -353,7 +353,7 @@
   },
   {
     "nome": "108 Caserma del Gaudo-Monte Polveracchio",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.7429848,
     "lng": 15.1387683,
     "source": "osm",
@@ -364,7 +364,7 @@
   },
   {
     "nome": "Grotte del Bonea - Fontana della Frestola",
-    "descrizione": "",
+    "descrizione": "Fonte nel territorio di Salerno",
     "lat": 40.6819727,
     "lng": 14.6951136,
     "source": "osm",
@@ -386,7 +386,7 @@
   },
   {
     "nome": "Ferrata Ninno",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7751582,
     "lng": 15.0082614,
     "source": "osm",
@@ -397,7 +397,7 @@
   },
   {
     "nome": "Sentiero degli Innamorati",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.1284392,
     "lng": 15.1822971,
     "source": "osm",
@@ -408,18 +408,18 @@
   },
   {
     "nome": "Ponte Cibberno acquedotto Borbonico",
-    "descrizione": "",
+    "descrizione": "Fonte nel territorio di Salerno",
     "lat": 40.6788943,
     "lng": 14.4888021,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6788943&mlon=14.4888021#map=16/40.6788943/14.4888021",
     "id": "sentieri-ponte-cibberno-acquedotto-borbonico-62",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "fonte"
   },
   {
     "nome": "Sentiero 312",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.549402,
     "lng": 15.2610624,
     "source": "osm",
@@ -430,7 +430,7 @@
   },
   {
     "nome": "Via Ponte di Mortora",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6300373,
     "lng": 14.4121371,
     "source": "osm",
@@ -441,7 +441,7 @@
   },
   {
     "nome": "traversa 114a con 114b",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7600444,
     "lng": 15.0964034,
     "source": "osm",
@@ -452,7 +452,7 @@
   },
   {
     "nome": "Sentiero dei Limoneti di Cetara",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6436049,
     "lng": 14.6951499,
     "source": "osm",
@@ -463,7 +463,7 @@
   },
   {
     "nome": "Sentiero degli Sposi",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.3988794,
     "lng": 15.1029731,
     "source": "osm",
@@ -474,7 +474,7 @@
   },
   {
     "nome": "Via Paradiso",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6407047,
     "lng": 14.5993355,
     "source": "osm",
@@ -496,7 +496,7 @@
   },
   {
     "nome": "via Scorosa",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6613292,
     "lng": 14.604928,
     "source": "osm",
@@ -529,7 +529,7 @@
   },
   {
     "nome": "Sentiero del Mulino",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.3714922,
     "lng": 15.2429094,
     "source": "osm",
@@ -540,7 +540,7 @@
   },
   {
     "nome": "Sentiero Gole del Calore",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.3687137,
     "lng": 15.2467734,
     "source": "osm",
@@ -551,7 +551,7 @@
   },
   {
     "nome": "via Vecchia Arola",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.63613,
     "lng": 14.4369732,
     "source": "osm",
@@ -562,7 +562,7 @@
   },
   {
     "nome": "Inizio variante",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6591514,
     "lng": 14.6978143,
     "source": "osm",
@@ -584,7 +584,7 @@
   },
   {
     "nome": "Deviazione per Santa Maria dell'Olearia",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.641182,
     "lng": 14.669842,
     "source": "osm",
@@ -595,7 +595,7 @@
   },
   {
     "nome": "Sentiero dell'Agave In Fiore",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6149298,
     "lng": 14.5381683,
     "source": "osm",
@@ -606,7 +606,7 @@
   },
   {
     "nome": "sentiero Penise variante alta",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6489623,
     "lng": 14.5498232,
     "source": "osm",
@@ -617,7 +617,7 @@
   },
   {
     "nome": "sentiero Polveriera Borbonica",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6517525,
     "lng": 14.5522652,
     "source": "osm",
@@ -628,7 +628,7 @@
   },
   {
     "nome": "sentiero Sorgente Rio Santa Marina",
-    "descrizione": "",
+    "descrizione": "Fonte nel territorio di Salerno",
     "lat": 40.7833803,
     "lng": 14.6422395,
     "source": "osm",
@@ -639,7 +639,7 @@
   },
   {
     "nome": "sentiero cai \"Vallone Alto\"",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.2560014,
     "lng": 14.9162761,
     "source": "osm",
@@ -650,7 +650,7 @@
   },
   {
     "nome": "Piano di Pecore-M. Marzano",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.7366721,
     "lng": 15.3116313,
     "source": "osm",
@@ -661,7 +661,7 @@
   },
   {
     "nome": "Rovigliano seafront pathway",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.7343817,
     "lng": 14.467372,
     "source": "osm",
@@ -672,7 +672,7 @@
   },
   {
     "nome": "sentiero S.Francesco",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.667294,
     "lng": 14.4362823,
     "source": "osm",
@@ -683,7 +683,7 @@
   },
   {
     "nome": "F.S. Monte Raiamagra",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7904735,
     "lng": 15.0727446,
     "source": "osm",
@@ -694,7 +694,7 @@
   },
   {
     "nome": "via Famiglia Acconciajoco",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6387514,
     "lng": 14.611725,
     "source": "osm",
@@ -705,7 +705,7 @@
   },
   {
     "nome": "Sentiero degli Ulivi",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.0188462,
     "lng": 15.4166378,
     "source": "osm",
@@ -716,7 +716,7 @@
   },
   {
     "nome": "sentiero \"n'gap é ven\"",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6677531,
     "lng": 14.4864365,
     "source": "osm",
@@ -727,7 +727,7 @@
   },
   {
     "nome": "Vallone Del Centenaro",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6466239,
     "lng": 14.4662154,
     "source": "osm",
@@ -738,7 +738,7 @@
   },
   {
     "nome": "Variante Punta Paipo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6247731,
     "lng": 14.5225639,
     "source": "osm",
@@ -749,7 +749,7 @@
   },
   {
     "nome": "Lo Sferracavallo",
-    "descrizione": "",
+    "descrizione": "Grotta nel territorio di Salerno",
     "lat": 40.6580214,
     "lng": 14.5193572,
     "source": "osm",
@@ -760,7 +760,7 @@
   },
   {
     "nome": "\"o' pass é Catiello\"",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6533488,
     "lng": 14.5062339,
     "source": "osm",
@@ -771,7 +771,7 @@
   },
   {
     "nome": "Vallone Revone",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6481751,
     "lng": 14.4776863,
     "source": "osm",
@@ -782,7 +782,7 @@
   },
   {
     "nome": "Vallone Del Milo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6476169,
     "lng": 14.4791448,
     "source": "osm",
@@ -793,7 +793,7 @@
   },
   {
     "nome": "sentiero Vallone Olivara",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6805623,
     "lng": 14.4970779,
     "source": "osm",
@@ -804,7 +804,7 @@
   },
   {
     "nome": "sentiero E.M. Forster - Fontana Carosa",
-    "descrizione": "",
+    "descrizione": "Fonte nel territorio di Salerno",
     "lat": 40.6672488,
     "lng": 14.6043562,
     "source": "osm",
@@ -815,7 +815,7 @@
   },
   {
     "nome": "Sentiero vicinale Bosco del Fruscio",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.7939457,
     "lng": 14.4518306,
     "source": "osm",
@@ -826,7 +826,7 @@
   },
   {
     "nome": "Via Enrico de Martino",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6315424,
     "lng": 14.4109057,
     "source": "osm",
@@ -837,7 +837,7 @@
   },
   {
     "nome": "Sentiero Pedecava",
-    "descrizione": "",
+    "descrizione": "Grotta nel territorio di Salerno",
     "lat": 40.6231254,
     "lng": 14.5463253,
     "source": "osm",
@@ -848,7 +848,7 @@
   },
   {
     "nome": "Sentiero Grotta dell'Angelo",
-    "descrizione": "",
+    "descrizione": "Grotta nel territorio di Cilento",
     "lat": 40.3341927,
     "lng": 15.3678866,
     "source": "osm",
@@ -859,7 +859,7 @@
   },
   {
     "nome": "sentiero Penise",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6500078,
     "lng": 14.5503111,
     "source": "osm",
@@ -881,7 +881,7 @@
   },
   {
     "nome": "via Pistiello Terza",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6130512,
     "lng": 14.5333311,
     "source": "osm",
@@ -892,7 +892,7 @@
   },
   {
     "nome": "Antica Via Sambuco",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6787685,
     "lng": 14.6140251,
     "source": "osm",
@@ -903,7 +903,7 @@
   },
   {
     "nome": "il Vrecciatone",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6779102,
     "lng": 14.6128686,
     "source": "osm",
@@ -914,7 +914,7 @@
   },
   {
     "nome": "ferrata rudimentale",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6309938,
     "lng": 14.575407,
     "source": "osm",
@@ -925,7 +925,7 @@
   },
   {
     "nome": "Madonnina Di Monte Chiunzi",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.7201566,
     "lng": 14.6250278,
     "source": "osm",
@@ -936,7 +936,7 @@
   },
   {
     "nome": "Via Casanova",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.644632,
     "lng": 14.6157148,
     "source": "osm",
@@ -947,7 +947,7 @@
   },
   {
     "nome": "sentiero F.N. Reid - Acqua dell'Inglese",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6746481,
     "lng": 14.6092375,
     "source": "osm",
@@ -958,7 +958,7 @@
   },
   {
     "nome": "sotto tiro a volo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6592362,
     "lng": 14.5346135,
     "source": "osm",
@@ -969,7 +969,7 @@
   },
   {
     "nome": "Sentiero della Vetta dei Picentini",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.7751267,
     "lng": 15.117539,
     "source": "osm",
@@ -980,7 +980,7 @@
   },
   {
     "nome": "Sentiero 6: La Strada Matrone",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.8099964,
     "lng": 14.4385566,
     "source": "osm",
@@ -1002,7 +1002,7 @@
   },
   {
     "nome": "Lo scivolo della pastorella",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.683141,
     "lng": 14.4759498,
     "source": "osm",
@@ -1013,7 +1013,7 @@
   },
   {
     "nome": "Sentiero della cisterna Menatora",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6758284,
     "lng": 14.4652665,
     "source": "osm",
@@ -1035,7 +1035,7 @@
   },
   {
     "nome": "Le tese di Pimonte",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.671447,
     "lng": 14.4977939,
     "source": "osm",
@@ -1046,7 +1046,7 @@
   },
   {
     "nome": "Alta Via dei Monti Lattari - 05",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6747508,
     "lng": 14.5691242,
     "source": "osm",
@@ -1057,7 +1057,7 @@
   },
   {
     "nome": "Alta Via dei Monti Lattari - 06",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6528168,
     "lng": 14.5238374,
     "source": "osm",
@@ -1068,7 +1068,7 @@
   },
   {
     "nome": "Alta Via dei Monti Lattari - 07",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6271837,
     "lng": 14.4444617,
     "source": "osm",
@@ -1079,7 +1079,7 @@
   },
   {
     "nome": "Alta Via dei Monti Lattari - 01",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6680351,
     "lng": 14.6825282,
     "source": "osm",
@@ -1090,7 +1090,7 @@
   },
   {
     "nome": "Alta Via dei Monti Lattari - 02",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6757576,
     "lng": 14.6741193,
     "source": "osm",
@@ -1101,7 +1101,7 @@
   },
   {
     "nome": "Alta Via dei Monti Lattari - 03",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.7062969,
     "lng": 14.6382559,
     "source": "osm",
@@ -1112,7 +1112,7 @@
   },
   {
     "nome": "Alta Via dei Monti Lattari - 04",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.7011846,
     "lng": 14.5987423,
     "source": "osm",
@@ -1123,7 +1123,7 @@
   },
   {
     "nome": "Sentiero degli Dei",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6258603,
     "lng": 14.5215527,
     "source": "osm",
@@ -1134,7 +1134,7 @@
   },
   {
     "nome": "Sentiero alto degli dei",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6345913,
     "lng": 14.5170495,
     "source": "osm",
@@ -1145,7 +1145,7 @@
   },
   {
     "nome": "Sentiero delle sorgenti",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6640972,
     "lng": 14.557244,
     "source": "osm",
@@ -1156,7 +1156,7 @@
   },
   {
     "nome": "Sentiero dei faggi secolari",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6573457,
     "lng": 14.4861463,
     "source": "osm",
@@ -1167,7 +1167,7 @@
   },
   {
     "nome": "Sentiero della grotta di S.Catello",
-    "descrizione": "",
+    "descrizione": "Grotta nel territorio di Salerno",
     "lat": 40.6546304,
     "lng": 14.497564,
     "source": "osm",
@@ -1178,7 +1178,7 @@
   },
   {
     "nome": "Sentiero alto della Valle delle Ferriere",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6531565,
     "lng": 14.5797003,
     "source": "osm",
@@ -1189,7 +1189,7 @@
   },
   {
     "nome": "Sentiero della Casa rossa",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.7130712,
     "lng": 14.5841128,
     "source": "osm",
@@ -1200,7 +1200,7 @@
   },
   {
     "nome": "Mulattiera Orsano-Megano",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6952337,
     "lng": 14.5676966,
     "source": "osm",
@@ -1211,7 +1211,7 @@
   },
   {
     "nome": "Sentiero dei cavalieri di Amalfi",
-    "descrizione": "",
+    "descrizione": "Grotta nel territorio di Salerno",
     "lat": 40.6783887,
     "lng": 14.5469162,
     "source": "osm",
@@ -1222,18 +1222,18 @@
   },
   {
     "nome": "Sentiero della Valle Lavatoio",
-    "descrizione": "",
+    "descrizione": "Fonte nel territorio di Salerno",
     "lat": 40.6716071,
     "lng": 14.5240684,
     "source": "osm",
     "link": "https://www.caimontilattari.it/sentiero/332b/",
     "id": "sentieri-sentiero-della-valle-lavatoio-185",
     "zona": "salerno",
-    "tipo": "sentiero"
+    "tipo": "fonte"
   },
   {
     "nome": "Sentiero Zappino",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6642539,
     "lng": 14.5285425,
     "source": "osm",
@@ -1244,7 +1244,7 @@
   },
   {
     "nome": "Sentiero della Sperlonga",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6786839,
     "lng": 14.4477658,
     "source": "osm",
@@ -1255,7 +1255,7 @@
   },
   {
     "nome": "Sentiero di Orsano",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.7116231,
     "lng": 14.562239,
     "source": "osm",
@@ -1266,7 +1266,7 @@
   },
   {
     "nome": "Sentiero della Grotta di S.Maria della Speranza",
-    "descrizione": "",
+    "descrizione": "Grotta nel territorio di Salerno",
     "lat": 40.711315,
     "lng": 14.578376,
     "source": "osm",
@@ -1277,7 +1277,7 @@
   },
   {
     "nome": "Sentiero del professore",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.7027745,
     "lng": 14.585325,
     "source": "osm",
@@ -1288,7 +1288,7 @@
   },
   {
     "nome": "Sentiero della Valle del Pericolo",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.693293,
     "lng": 14.5503406,
     "source": "osm",
@@ -1299,7 +1299,7 @@
   },
   {
     "nome": "Il Butto dell'Acqua",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6862927,
     "lng": 14.5435007,
     "source": "osm",
@@ -1310,7 +1310,7 @@
   },
   {
     "nome": "Sentiero di Monte Muto",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6915779,
     "lng": 14.5439632,
     "source": "osm",
@@ -1321,7 +1321,7 @@
   },
   {
     "nome": "Sentiero del Castello di Lettere",
-    "descrizione": "",
+    "descrizione": "Castello nel territorio di Salerno",
     "lat": 40.7149893,
     "lng": 14.5601708,
     "source": "osm",
@@ -1332,7 +1332,7 @@
   },
   {
     "nome": "I casali di Piano",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6266592,
     "lng": 14.4197732,
     "source": "osm",
@@ -1343,7 +1343,7 @@
   },
   {
     "nome": "Lo Scaricatore",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6165161,
     "lng": 14.4349254,
     "source": "osm",
@@ -1354,7 +1354,7 @@
   },
   {
     "nome": "Le Palommelle",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6522495,
     "lng": 14.5462914,
     "source": "osm",
@@ -1365,7 +1365,7 @@
   },
   {
     "nome": "Ferrata di Cospita",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6302681,
     "lng": 14.5731094,
     "source": "osm",
@@ -1376,7 +1376,7 @@
   },
   {
     "nome": "Sentiero di Cospita",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6328039,
     "lng": 14.5754703,
     "source": "osm",
@@ -1387,7 +1387,7 @@
   },
   {
     "nome": "Variante alta del Sentiero degli Dei",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6223704,
     "lng": 14.5226117,
     "source": "osm",
@@ -1398,7 +1398,7 @@
   },
   {
     "nome": "Sentiero della Madonna dell'Avvocata",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6508175,
     "lng": 14.6569025,
     "source": "osm",
@@ -1409,7 +1409,7 @@
   },
   {
     "nome": "Sentiero Sergio Rosa",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6933958,
     "lng": 14.6791787,
     "source": "osm",
@@ -1420,7 +1420,7 @@
   },
   {
     "nome": "Sentiero delle 13 Chiese",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6924612,
     "lng": 14.6342234,
     "source": "osm",
@@ -1431,7 +1431,7 @@
   },
   {
     "nome": "La Via della Neve",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.7096364,
     "lng": 14.6704876,
     "source": "osm",
@@ -1442,7 +1442,7 @@
   },
   {
     "nome": "Sentiero dei Pipistrelli Impazziti",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6185355,
     "lng": 14.5646383,
     "source": "osm",
@@ -1453,7 +1453,7 @@
   },
   {
     "nome": "Sentiero basso della Valle delle Ferriere",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6427556,
     "lng": 14.5923361,
     "source": "osm",
@@ -1464,7 +1464,7 @@
   },
   {
     "nome": "Le Tese di Positano",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.633915,
     "lng": 14.4791988,
     "source": "osm",
@@ -1475,7 +1475,7 @@
   },
   {
     "nome": "Sentiero di Santa Maria ai Monti",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6618436,
     "lng": 14.597842,
     "source": "osm",
@@ -1486,7 +1486,7 @@
   },
   {
     "nome": "Sentiero di Abu Tabela",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.624788,
     "lng": 14.5534668,
     "source": "osm",
@@ -1497,7 +1497,7 @@
   },
   {
     "nome": "Sentiero dei Castagneti di Tavernate",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6435534,
     "lng": 14.5914847,
     "source": "osm",
@@ -1508,7 +1508,7 @@
   },
   {
     "nome": "Via Maestra dei Villaggi",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6284361,
     "lng": 14.5852062,
     "source": "osm",
@@ -1519,7 +1519,7 @@
   },
   {
     "nome": "Sentiero della Madonna dei Fondi",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6341813,
     "lng": 14.5883549,
     "source": "osm",
@@ -1530,7 +1530,7 @@
   },
   {
     "nome": "Sentiero di Villa Notari",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6837644,
     "lng": 14.468447,
     "source": "osm",
@@ -1541,7 +1541,7 @@
   },
   {
     "nome": "Sentiero del Maestro Cannalonga - Rofrano",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.2381205,
     "lng": 15.3210402,
     "source": "osm",
@@ -1552,7 +1552,7 @@
   },
   {
     "nome": "Felito - Campora - Laurino",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.3397999,
     "lng": 15.2852739,
     "source": "osm",
@@ -1563,7 +1563,7 @@
   },
   {
     "nome": "Tempa de lupo - Vaddilonga - Cresta / Uomo morto - Passo della Beta",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.2199672,
     "lng": 15.3268353,
     "source": "osm",
@@ -1574,7 +1574,7 @@
   },
   {
     "nome": "Sentiero Monte Monaco - Torrente Torno",
-    "descrizione": "",
+    "descrizione": "Castello nel territorio di Cilento",
     "lat": 40.2749474,
     "lng": 15.3349749,
     "source": "osm",
@@ -1585,7 +1585,7 @@
   },
   {
     "nome": "European long distance path E12 - part Italia",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.2283,
     "lng": 15.3471574,
     "source": "osm",
@@ -1596,7 +1596,7 @@
   },
   {
     "nome": "collection of various Cilento hiking trails",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.1664282,
     "lng": 15.3198992,
     "source": "osm",
@@ -1607,7 +1607,7 @@
   },
   {
     "nome": "Sentiero del candelito",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.8071386,
     "lng": 14.8226677,
     "source": "osm",
@@ -1618,7 +1618,7 @@
   },
   {
     "nome": "Sentiero della scorza",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Costiera Amalfitana",
     "lat": 40.8115246,
     "lng": 14.850613,
     "source": "osm",
@@ -1629,7 +1629,7 @@
   },
   {
     "nome": "Circuito del Monte Rajamagra",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7880501,
     "lng": 15.0847727,
     "source": "osm",
@@ -1640,7 +1640,7 @@
   },
   {
     "nome": "Circuito acernese",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7558143,
     "lng": 15.0609657,
     "source": "osm",
@@ -1651,7 +1651,7 @@
   },
   {
     "nome": "Circuito acernese (variante)",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7647575,
     "lng": 15.0620028,
     "source": "osm",
@@ -1662,7 +1662,7 @@
   },
   {
     "nome": "Sentiero dei due Santuari",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.8033802,
     "lng": 14.8212009,
     "source": "osm",
@@ -1673,7 +1673,7 @@
   },
   {
     "nome": "Alta via Monti Picentini Occidentali",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Costiera Amalfitana",
     "lat": 40.793559,
     "lng": 14.8780499,
     "source": "osm",
@@ -1684,7 +1684,7 @@
   },
   {
     "nome": "Anello del Monte Panormo",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.5445665,
     "lng": 15.3162015,
     "source": "osm",
@@ -1695,7 +1695,7 @@
   },
   {
     "nome": "Tre Comuni Trek",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7629782,
     "lng": 14.8772167,
     "source": "osm",
@@ -1706,7 +1706,7 @@
   },
   {
     "nome": "Vallone Pagliariello",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.76423,
     "lng": 14.9320646,
     "source": "osm",
@@ -1717,7 +1717,7 @@
   },
   {
     "nome": "Vallone Infrattata",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7605565,
     "lng": 14.9632317,
     "source": "osm",
@@ -1728,7 +1728,7 @@
   },
   {
     "nome": "Vecchio sentiero dei pellegrini",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.7886451,
     "lng": 14.8417139,
     "source": "osm",
@@ -1739,7 +1739,7 @@
   },
   {
     "nome": "Sentiero di vallebona",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Costiera Amalfitana",
     "lat": 40.7787998,
     "lng": 15.0766271,
     "source": "osm",
@@ -1750,7 +1750,7 @@
   },
   {
     "nome": "Sentiero del Calore e del Monte Accellica Nord",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Costiera Amalfitana",
     "lat": 40.7882083,
     "lng": 15.00669,
     "source": "osm",
@@ -1761,7 +1761,7 @@
   },
   {
     "nome": "Sentiero dello Scorzella",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Costiera Amalfitana",
     "lat": 40.8074537,
     "lng": 14.9830009,
     "source": "osm",
@@ -1772,7 +1772,7 @@
   },
   {
     "nome": "Tra le due valli del Sabato e del Calore",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7939678,
     "lng": 14.9850066,
     "source": "osm",
@@ -1783,7 +1783,7 @@
   },
   {
     "nome": "European Long distance path E1 - part Italy - Campania",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.8250069,
     "lng": 14.9401088,
     "source": "osm",
@@ -1794,7 +1794,7 @@
   },
   {
     "nome": "Zanna Bianca",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.7306369,
     "lng": 14.61952,
     "source": "osm",
@@ -1805,7 +1805,7 @@
   },
   {
     "nome": "Via dei Limoni",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.6509541,
     "lng": 14.6363693,
     "source": "osm",
@@ -1816,7 +1816,7 @@
   },
   {
     "nome": "Via dei Lucani",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.0981718,
     "lng": 15.2725804,
     "source": "osm",
@@ -1827,7 +1827,7 @@
   },
   {
     "nome": "Alta Via del Cervati e degli Alburni",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.2656372,
     "lng": 15.4876402,
     "source": "osm",
@@ -1838,7 +1838,7 @@
   },
   {
     "nome": "Sentiero degli Cavalieri di Malta",
-    "descrizione": "",
+    "descrizione": "Grotta nel territorio di Cilento",
     "lat": 40.1233977,
     "lng": 15.2653934,
     "source": "osm",
@@ -1849,7 +1849,7 @@
   },
   {
     "nome": "Sentiero dei Trezeni",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.327983,
     "lng": 14.957532,
     "source": "osm",
@@ -1860,7 +1860,7 @@
   },
   {
     "nome": "Sentiero dei Ponti di Pietra",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.3201445,
     "lng": 14.9731166,
     "source": "osm",
@@ -1871,7 +1871,7 @@
   },
   {
     "nome": "Sentiero Corbezzoli e Castelluccio",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.1114682,
     "lng": 15.2530299,
     "source": "osm",
@@ -1882,7 +1882,7 @@
   },
   {
     "nome": "Sentiero della Grotta dell'Acqua",
-    "descrizione": "",
+    "descrizione": "Grotta nel territorio di Cilento",
     "lat": 40.0391331,
     "lng": 15.4769011,
     "source": "osm",
@@ -1893,7 +1893,7 @@
   },
   {
     "nome": "Sentiero Perdifumo - Monte Stella",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.2504996,
     "lng": 15.0369997,
     "source": "osm",
@@ -1904,7 +1904,7 @@
   },
   {
     "nome": "Sentiero Sessa Cilento - Monte Stella",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.2488212,
     "lng": 15.0598681,
     "source": "osm",
@@ -1915,7 +1915,7 @@
   },
   {
     "nome": "Sentiero Le Scalette Alberico Cusatis",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.0758708,
     "lng": 15.4299491,
     "source": "osm",
@@ -1926,7 +1926,7 @@
   },
   {
     "nome": "Sentiero S1 di Capaccio Paestum",
-    "descrizione": "",
+    "descrizione": "Sito archeologico nel territorio di Costiera Amalfitana",
     "lat": 40.452961,
     "lng": 15.0119625,
     "source": "osm",
@@ -1937,7 +1937,7 @@
   },
   {
     "nome": "Sentiero S5 di Capaccio Paestum",
-    "descrizione": "",
+    "descrizione": "Sito archeologico nel territorio di Cilento",
     "lat": 40.4130435,
     "lng": 15.0329079,
     "source": "osm",
@@ -1948,7 +1948,7 @@
   },
   {
     "nome": "Sentiero S8 di Capaccio Paestum",
-    "descrizione": "",
+    "descrizione": "Sito archeologico nel territorio di Cilento",
     "lat": 40.4383134,
     "lng": 15.0700476,
     "source": "osm",
@@ -1959,7 +1959,7 @@
   },
   {
     "nome": "Sentiero S2 di Capaccio Paestum",
-    "descrizione": "",
+    "descrizione": "Sito archeologico nel territorio di Cilento",
     "lat": 40.445305,
     "lng": 15.0570887,
     "source": "osm",
@@ -1970,7 +1970,7 @@
   },
   {
     "nome": "Sentiero S7 di Capaccio Paestum",
-    "descrizione": "",
+    "descrizione": "Sito archeologico nel territorio di Cilento",
     "lat": 40.4297775,
     "lng": 15.0810556,
     "source": "osm",
@@ -1981,7 +1981,7 @@
   },
   {
     "nome": "Sentiero S4 di Capaccio Paestum",
-    "descrizione": "",
+    "descrizione": "Sito archeologico nel territorio di Cilento",
     "lat": 40.4339471,
     "lng": 15.070627,
     "source": "osm",
@@ -1992,7 +1992,7 @@
   },
   {
     "nome": "Sentiero S3 di Capaccio Paestum",
-    "descrizione": "",
+    "descrizione": "Sito archeologico nel territorio di Cilento",
     "lat": 40.4266878,
     "lng": 15.0855953,
     "source": "osm",
@@ -2003,7 +2003,7 @@
   },
   {
     "nome": "Itinerario 29",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.616362,
     "lng": 14.3993829,
     "source": "osm",
@@ -2014,7 +2014,7 @@
   },
   {
     "nome": "Itinerario 59",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6083303,
     "lng": 14.3909711,
     "source": "osm",
@@ -2025,7 +2025,7 @@
   },
   {
     "nome": "Cammino delle due primule",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.1730582,
     "lng": 15.3837889,
     "source": "osm",
@@ -2036,7 +2036,7 @@
   },
   {
     "nome": "Sentiero della Masseta",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.045458,
     "lng": 15.4733905,
     "source": "osm",
@@ -2047,7 +2047,7 @@
   },
   {
     "nome": "Sentiero Francesco Raso",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Salerno",
     "lat": 40.7312911,
     "lng": 14.7469396,
     "source": "osm",
@@ -2058,7 +2058,7 @@
   },
   {
     "nome": "Sentiero del Marcellino",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.0302908,
     "lng": 15.4495423,
     "source": "osm",
@@ -2069,7 +2069,7 @@
   },
   {
     "nome": "Sentiero dei Carbonai",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.024058,
     "lng": 15.4306545,
     "source": "osm",
@@ -2080,7 +2080,7 @@
   },
   {
     "nome": "Sentiero delle Quattro Spiagge",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.0018805,
     "lng": 15.3588987,
     "source": "osm",
@@ -2091,7 +2091,7 @@
   },
   {
     "nome": "Sentiero di San Cono",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.0201617,
     "lng": 15.3305505,
     "source": "osm",
@@ -2102,7 +2102,7 @@
   },
   {
     "nome": "Sentiero della Primula",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.0360138,
     "lng": 15.2886506,
     "source": "osm",
@@ -2113,7 +2113,7 @@
   },
   {
     "nome": "Sentiero della Molpa",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.0342835,
     "lng": 15.3035206,
     "source": "osm",
@@ -2124,7 +2124,7 @@
   },
   {
     "nome": "Variante Croce di Carbonara",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Costiera Amalfitana",
     "lat": 40.7628822,
     "lng": 14.9073982,
     "source": "osm",
@@ -2135,7 +2135,7 @@
   },
   {
     "nome": "Variante per Vetta Avvocata",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6539147,
     "lng": 14.6721801,
     "source": "osm",
@@ -2146,7 +2146,7 @@
   },
   {
     "nome": "Variante per Monte Vico Alvano",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Salerno",
     "lat": 40.6229331,
     "lng": 14.436343,
     "source": "osm",
@@ -2168,7 +2168,7 @@
   },
   {
     "nome": "Il Castello che fu",
-    "descrizione": "",
+    "descrizione": "Castello nel territorio di Salerno",
     "lat": 40.6525396,
     "lng": 14.6018296,
     "source": "osm",
@@ -2179,7 +2179,7 @@
   },
   {
     "nome": "Sentiero della tragara",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.0764534,
     "lng": 15.3529961,
     "source": "osm",
@@ -2190,7 +2190,7 @@
   },
   {
     "nome": "Sentiero degli Iazzi",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.0702247,
     "lng": 15.3685918,
     "source": "osm",
@@ -2201,7 +2201,7 @@
   },
   {
     "nome": "Sentiero dell'Altipiano",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.0765382,
     "lng": 15.3993804,
     "source": "osm",
@@ -2212,7 +2212,7 @@
   },
   {
     "nome": "Sentiero Pagliaro",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.0820016,
     "lng": 15.4032056,
     "source": "osm",
@@ -2223,7 +2223,7 @@
   },
   {
     "nome": "Sentiero degli Eremiti",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.0635652,
     "lng": 15.4293261,
     "source": "osm",
@@ -2234,7 +2234,7 @@
   },
   {
     "nome": "Sentiero della Lequa",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.0606735,
     "lng": 15.4317238,
     "source": "osm",
@@ -2245,7 +2245,7 @@
   },
   {
     "nome": "Strada Macera",
-    "descrizione": "",
+    "descrizione": "Punto di interesse nel territorio di Cilento",
     "lat": 40.0851339,
     "lng": 15.3907396,
     "source": "osm",
@@ -2256,7 +2256,7 @@
   },
   {
     "nome": "Cammino di San Nilo - Tappa 6",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.1865031,
     "lng": 15.3957885,
     "source": "osm",
@@ -2267,7 +2267,7 @@
   },
   {
     "nome": "Cammino di San Nilo - Tappa 5",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.1921223,
     "lng": 15.4850989,
     "source": "osm",
@@ -2278,7 +2278,7 @@
   },
   {
     "nome": "Cammino di San Nilo - Tappa 8",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.0838571,
     "lng": 15.2946964,
     "source": "osm",
@@ -2289,7 +2289,7 @@
   },
   {
     "nome": "Cammino di San Nilo - Tappa 7",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.1502198,
     "lng": 15.3262443,
     "source": "osm",
@@ -2300,7 +2300,7 @@
   },
   {
     "nome": "Cammino del Negro - Tappa 4",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.4046652,
     "lng": 15.4982127,
     "source": "osm",
@@ -2311,7 +2311,7 @@
   },
   {
     "nome": "Cammino del Negro - Tappa 7",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.4991077,
     "lng": 15.5008902,
     "source": "osm",
@@ -2322,7 +2322,7 @@
   },
   {
     "nome": "Cammino del Negro - Tappa 6",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.5292215,
     "lng": 15.4713299,
     "source": "osm",
@@ -2333,7 +2333,7 @@
   },
   {
     "nome": "Cammino del Negro - Tappa 5",
-    "descrizione": "",
+    "descrizione": "Sentiero nel territorio di Cilento",
     "lat": 40.4745062,
     "lng": 15.4786646,
     "source": "osm",

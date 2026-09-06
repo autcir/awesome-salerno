@@ -1,7 +1,7 @@
 [
   {
     "nome": "Forcella della Cava",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.7455968,
     "lng": 14.7316071,
     "source": "osm",
@@ -12,12 +12,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "grotta",
+    "tipo": "panorama",
     "zona": "salerno"
   },
   {
     "nome": "Punta D'Aglio",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.6496337,
     "lng": 14.5976338,
     "source": "osm",
@@ -28,12 +28,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "salerno"
   },
   {
     "nome": "Capo Masina",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.6290421,
     "lng": 14.469991,
     "source": "osm",
@@ -44,12 +44,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "salerno"
   },
   {
     "nome": "Castelluccio di Pisciotta",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.1102776,
     "lng": 15.2711877,
     "source": "osm",
@@ -60,12 +60,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tozzo del Finocchio",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.0733765,
     "lng": 15.3575095,
     "source": "osm",
@@ -76,12 +76,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Castelluccio di San Mauro",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.1353514,
     "lng": 15.2710786,
     "source": "osm",
@@ -92,12 +92,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Località Male Mursiello",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.284482,
     "lng": 15.5056634,
     "source": "osm",
@@ -108,12 +108,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Vene di S.Pietro",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.657661,
     "lng": 14.6714273,
     "source": "osm",
@@ -124,12 +124,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "salerno"
   },
   {
     "nome": "Collina di Sant'Adiutore",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.7057358,
     "lng": 14.7163875,
     "source": "osm",
@@ -140,12 +140,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "salerno"
   },
   {
     "nome": "Il Telegrafo",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.7017402,
     "lng": 14.7431698,
     "source": "osm",
@@ -156,12 +156,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "salerno"
   },
   {
     "nome": "Scanno Chiuso",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2233938,
     "lng": 15.3348557,
     "source": "osm",
@@ -172,12 +172,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa Pistillo",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.0317533,
     "lng": 15.400947,
     "source": "osm",
@@ -188,12 +188,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Serra Pornia",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.0446787,
     "lng": 15.4141047,
     "source": "osm",
@@ -204,12 +204,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tozzo del Moio",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.0752883,
     "lng": 15.4184034,
     "source": "osm",
@@ -220,12 +220,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa della Rondinella",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.1558683,
     "lng": 15.2700185,
     "source": "osm",
@@ -236,12 +236,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Cozzo Trattonale",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2627043,
     "lng": 15.5739406,
     "source": "osm",
@@ -252,12 +252,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Rupe la Marvera",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2717061,
     "lng": 15.5329223,
     "source": "osm",
@@ -268,12 +268,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Colli lo Scorzo",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2837271,
     "lng": 15.5381541,
     "source": "osm",
@@ -284,12 +284,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Scanno del Tesoro",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3115959,
     "lng": 15.3585356,
     "source": "osm",
@@ -300,12 +300,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Rupa della Noce",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3547027,
     "lng": 15.2300915,
     "source": "osm",
@@ -316,12 +316,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Rupa della Conca",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3625056,
     "lng": 15.2134565,
     "source": "osm",
@@ -332,12 +332,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Punta delle Castagne",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.6525407,
     "lng": 14.5966545,
     "source": "osm",
@@ -348,12 +348,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "salerno"
   },
   {
     "nome": "la Raia del Pedale",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2475078,
     "lng": 15.4425044,
     "source": "osm",
@@ -364,12 +364,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Una finestra sulla Certosa e sul Vallo di Diano.",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3405781,
     "lng": 15.6550835,
     "source": "osm",
@@ -380,12 +380,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Costa Palomba",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4811851,
     "lng": 15.3692503,
     "source": "osm",
@@ -396,12 +396,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Vena San Marco",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.7030804,
     "lng": 14.601861,
     "source": "osm",
@@ -412,12 +412,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "archeologico",
+    "tipo": "panorama",
     "zona": "salerno"
   },
   {
     "nome": "Punta Serrapiana",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.7399724,
     "lng": 14.8143189,
     "source": "osm",
@@ -428,12 +428,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "salerno"
   },
   {
     "nome": "Toppo Scutero",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Costiera Amalfitana",
     "lat": 40.7387863,
     "lng": 15.0698343,
     "source": "osm",
@@ -444,12 +444,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "costiera"
   },
   {
     "nome": "Toppo Croce del Magnone",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Costiera Amalfitana",
     "lat": 40.7531571,
     "lng": 15.0672593,
     "source": "osm",
@@ -460,12 +460,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "costiera"
   },
   {
     "nome": "Accellica Sud - Raione",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Costiera Amalfitana",
     "lat": 40.7728014,
     "lng": 15.0090795,
     "source": "osm",
@@ -476,12 +476,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "costiera"
   },
   {
     "nome": "Toppa della Faragna",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Costiera Amalfitana",
     "lat": 40.7107502,
     "lng": 15.0103547,
     "source": "osm",
@@ -492,12 +492,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "costiera"
   },
   {
     "nome": "Toppa del Castello",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Costiera Amalfitana",
     "lat": 40.7188197,
     "lng": 15.0793164,
     "source": "osm",
@@ -508,12 +508,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "castello",
+    "tipo": "panorama",
     "zona": "costiera"
   },
   {
     "nome": "Ripe di Pappamondo",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Costiera Amalfitana",
     "lat": 40.6787351,
     "lng": 15.0348561,
     "source": "osm",
@@ -524,12 +524,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "costiera"
   },
   {
     "nome": "Castello d'Olevano",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Costiera Amalfitana",
     "lat": 40.6694914,
     "lng": 15.028333,
     "source": "osm",
@@ -540,12 +540,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "castello",
+    "tipo": "panorama",
     "zona": "costiera"
   },
   {
     "nome": "S.ra Pizzuta",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Costiera Amalfitana",
     "lat": 40.6427279,
     "lng": 15.0751128,
     "source": "osm",
@@ -556,12 +556,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "costiera"
   },
   {
     "nome": "Pizzo Corno",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Costiera Amalfitana",
     "lat": 40.688137,
     "lng": 15.0953689,
     "source": "osm",
@@ -572,12 +572,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "costiera"
   },
   {
     "nome": "S.ra Melara",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.6959935,
     "lng": 15.3532271,
     "source": "osm",
@@ -588,12 +588,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Serra del Dardano",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.7141502,
     "lng": 15.3432664,
     "source": "osm",
@@ -604,12 +604,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Toppo Tondo",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.7439805,
     "lng": 15.354418,
     "source": "osm",
@@ -620,12 +620,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Timpone Colagrosso",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.5315152,
     "lng": 15.2260427,
     "source": "osm",
@@ -636,12 +636,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Timpone Petrosa",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.5253187,
     "lng": 15.2217797,
     "source": "osm",
@@ -652,12 +652,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Costa la Croce",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4785275,
     "lng": 15.2914689,
     "source": "osm",
@@ -668,12 +668,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa del Prato",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.483769,
     "lng": 15.316038,
     "source": "osm",
@@ -684,12 +684,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa del Tesoro",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4802764,
     "lng": 15.307412,
     "source": "osm",
@@ -700,12 +700,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa delle Rupi",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4696993,
     "lng": 15.3148835,
     "source": "osm",
@@ -716,12 +716,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Timpone dei Rossi",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4643465,
     "lng": 15.2847956,
     "source": "osm",
@@ -732,12 +732,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa Vessano",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4576202,
     "lng": 15.2817486,
     "source": "osm",
@@ -748,12 +748,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa di Aquara",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4522974,
     "lng": 15.270891,
     "source": "osm",
@@ -764,12 +764,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempone delle Macchie",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4452759,
     "lng": 15.2717064,
     "source": "osm",
@@ -780,12 +780,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa delle Quote",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4423675,
     "lng": 15.2689169,
     "source": "osm",
@@ -796,12 +796,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa Suvero",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.5080185,
     "lng": 15.2624796,
     "source": "osm",
@@ -812,12 +812,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempone Pietra Cupa",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4291282,
     "lng": 15.1387668,
     "source": "osm",
@@ -828,12 +828,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempone Cotruzzo",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4415718,
     "lng": 15.1200127,
     "source": "osm",
@@ -844,12 +844,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Costa di Santa Maria",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4703111,
     "lng": 15.4706749,
     "source": "osm",
@@ -860,12 +860,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Timpone Soprano",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4739642,
     "lng": 15.4067397,
     "source": "osm",
@@ -876,12 +876,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa Previtipietro",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4445646,
     "lng": 15.5861641,
     "source": "osm",
@@ -892,12 +892,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Toppa dell'Arpa",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.543613,
     "lng": 15.5250097,
     "source": "osm",
@@ -908,12 +908,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Capo la Serra",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.5561039,
     "lng": 15.5158259,
     "source": "osm",
@@ -924,12 +924,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa del Bosco",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.5392772,
     "lng": 15.5012776,
     "source": "osm",
@@ -940,12 +940,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Costa Castello",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.5374638,
     "lng": 15.402465,
     "source": "osm",
@@ -956,12 +956,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "castello",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Serra Carpineto",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.5558528,
     "lng": 15.3429071,
     "source": "osm",
@@ -972,12 +972,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Serra Ventola",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.5036141,
     "lng": 15.3935622,
     "source": "osm",
@@ -988,12 +988,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Serra San Giacomo",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.5869095,
     "lng": 15.4457018,
     "source": "osm",
@@ -1004,12 +1004,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Timpone del Piano",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.1434916,
     "lng": 15.6982837,
     "source": "osm",
@@ -1020,12 +1020,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Serra Amignosa",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2917183,
     "lng": 15.2428635,
     "source": "osm",
@@ -1036,12 +1036,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa della Rosalia",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2168449,
     "lng": 15.3041895,
     "source": "osm",
@@ -1052,12 +1052,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa della Pantanella",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2053432,
     "lng": 15.321699,
     "source": "osm",
@@ -1068,12 +1068,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Serra di Falco",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3599206,
     "lng": 15.3205086,
     "source": "osm",
@@ -1084,12 +1084,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Cozzo la Croce",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2319404,
     "lng": 15.0510509,
     "source": "osm",
@@ -1100,12 +1100,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Cozzo del Convento",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2798526,
     "lng": 15.0413521,
     "source": "osm",
@@ -1116,12 +1116,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Serra di Campo Soprano",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3572806,
     "lng": 15.5065596,
     "source": "osm",
@@ -1132,12 +1132,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Serra la Manca",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3557125,
     "lng": 15.4972469,
     "source": "osm",
@@ -1148,12 +1148,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Serre dei Cuponi",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3575439,
     "lng": 15.5316221,
     "source": "osm",
@@ -1164,12 +1164,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Cozzo dell'Uovo",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3555081,
     "lng": 15.5758635,
     "source": "osm",
@@ -1180,12 +1180,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Cozzo Postale",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3730348,
     "lng": 15.6643571,
     "source": "osm",
@@ -1196,12 +1196,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Serra di Corleto",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3297396,
     "lng": 15.5701601,
     "source": "osm",
@@ -1212,12 +1212,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa di Cosimano",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3215945,
     "lng": 15.5923066,
     "source": "osm",
@@ -1228,12 +1228,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Preta Conca",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3067037,
     "lng": 15.6045803,
     "source": "osm",
@@ -1244,12 +1244,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa d'Inferno",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2837599,
     "lng": 15.5950531,
     "source": "osm",
@@ -1260,12 +1260,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Fossa la Pecora",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2674216,
     "lng": 15.5844509,
     "source": "osm",
@@ -1276,12 +1276,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Timpa Petruzzone",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3294467,
     "lng": 15.4033481,
     "source": "osm",
@@ -1292,12 +1292,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa d'Astore",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2707927,
     "lng": 15.367428,
     "source": "osm",
@@ -1308,12 +1308,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa della Lanza",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.274591,
     "lng": 15.355608,
     "source": "osm",
@@ -1324,12 +1324,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "i Tuzzi di Monte Piano",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2491125,
     "lng": 15.3400298,
     "source": "osm",
@@ -1340,12 +1340,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa del Carruso",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.1988824,
     "lng": 15.4000437,
     "source": "osm",
@@ -1356,12 +1356,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Rupe di San Paolo",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2013064,
     "lng": 15.4706823,
     "source": "osm",
@@ -1372,12 +1372,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Serra Piana",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2007164,
     "lng": 15.5772411,
     "source": "osm",
@@ -1388,12 +1388,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Serra della Forcella",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2187109,
     "lng": 15.612348,
     "source": "osm",
@@ -1404,12 +1404,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Timpone Vecchio",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2135888,
     "lng": 15.6607952,
     "source": "osm",
@@ -1420,12 +1420,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Cozzo d'Elice",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2252874,
     "lng": 15.6424274,
     "source": "osm",
@@ -1436,12 +1436,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa di Sorufo",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2339454,
     "lng": 15.6282696,
     "source": "osm",
@@ -1452,12 +1452,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Cozzi dei Caprari",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2317175,
     "lng": 15.6080565,
     "source": "osm",
@@ -1468,12 +1468,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Cozzo della Croce",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2350118,
     "lng": 15.5614483,
     "source": "osm",
@@ -1484,12 +1484,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Col di Lammardi",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2545824,
     "lng": 15.4641592,
     "source": "osm",
@@ -1500,12 +1500,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempone dei Cerri",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3697974,
     "lng": 15.6786095,
     "source": "osm",
@@ -1516,12 +1516,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Cozzo Vaccaro",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3933625,
     "lng": 15.6800687,
     "source": "osm",
@@ -1532,12 +1532,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa di Cuccaro Vetere",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.1841836,
     "lng": 15.312192,
     "source": "osm",
@@ -1548,12 +1548,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Scanno del Corvo",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.1858868,
     "lng": 15.3027077,
     "source": "osm",
@@ -1564,12 +1564,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa del Cerro",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.1828705,
     "lng": 15.2892323,
     "source": "osm",
@@ -1580,12 +1580,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Piano Ceraso",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.189143,
     "lng": 15.357122,
     "source": "osm",
@@ -1596,12 +1596,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempone di San Giorgio",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.1787754,
     "lng": 15.601914,
     "source": "osm",
@@ -1612,12 +1612,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Serre delle Fontanelle",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.1556553,
     "lng": 15.6542279,
     "source": "osm",
@@ -1628,12 +1628,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Vena del Coviello",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.6963189,
     "lng": 14.6664367,
     "source": "osm",
@@ -1644,12 +1644,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "salerno"
   },
   {
     "nome": "Statua S. Francesco",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.8216107,
     "lng": 14.7264816,
     "source": "osm",
@@ -1660,12 +1660,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "salerno"
   },
   {
     "nome": "Coddate di Filano",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2922073,
     "lng": 15.5525724,
     "source": "osm",
@@ -1676,7 +1676,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
@@ -1692,12 +1692,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "M. Valletto",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.1300011,
     "lng": 15.5862832,
     "source": "osm",
@@ -1708,12 +1708,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Timpa della Carità",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.5153993,
     "lng": 15.296471,
     "source": "osm",
@@ -1724,12 +1724,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa del Porco",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2567958,
     "lng": 15.3842947,
     "source": "osm",
@@ -1740,12 +1740,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa del lupo",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2279233,
     "lng": 15.3033099,
     "source": "osm",
@@ -1756,12 +1756,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Croce della Conocchia",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.6463687,
     "lng": 14.4983397,
     "source": "osm",
@@ -1772,12 +1772,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "salerno"
   },
   {
     "nome": "Punta di Tormine",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Costiera Amalfitana",
     "lat": 40.7731955,
     "lng": 14.9502799,
     "source": "osm",
@@ -1788,12 +1788,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "costiera"
   },
   {
     "nome": "Il Figliolo",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.518573,
     "lng": 15.372119,
     "source": "osm",
@@ -1804,12 +1804,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Timpone Sottano",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4693147,
     "lng": 15.3987256,
     "source": "osm",
@@ -1820,12 +1820,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Scarrone dei Corvi",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4308593,
     "lng": 15.4230863,
     "source": "osm",
@@ -1836,12 +1836,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "La Montagnola",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4029706,
     "lng": 15.4268249,
     "source": "osm",
@@ -1852,12 +1852,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Il Telefono",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.6918808,
     "lng": 14.6707842,
     "source": "osm",
@@ -1868,12 +1868,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "salerno"
   },
   {
     "nome": "Varco della Pettinessa",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Costiera Amalfitana",
     "lat": 40.7681631,
     "lng": 15.0057789,
     "source": "osm",
@@ -1884,12 +1884,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "archeologico",
+    "tipo": "panorama",
     "zona": "costiera"
   },
   {
     "nome": "M. Palladino",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.0538003,
     "lng": 15.666976,
     "source": "osm",
@@ -1900,12 +1900,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Cocuzzo delle Puglie",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4051225,
     "lng": 15.4395568,
     "source": "osm",
@@ -1916,12 +1916,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "M. Cerasulo",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3313497,
     "lng": 15.4695064,
     "source": "osm",
@@ -1932,12 +1932,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Costa Calda",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Costiera Amalfitana",
     "lat": 40.7047298,
     "lng": 15.0945576,
     "source": "osm",
@@ -1948,12 +1948,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "costiera"
   },
   {
     "nome": "Serra Nicola - Punto panoramico",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4842199,
     "lng": 15.4094366,
     "source": "osm",
@@ -1969,7 +1969,7 @@
   },
   {
     "nome": "Timpone Alto",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4634572,
     "lng": 15.4213307,
     "source": "osm",
@@ -1980,7 +1980,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
@@ -1996,12 +1996,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "salerno"
   },
   {
     "nome": "Piesco Grande",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.7408383,
     "lng": 14.7307164,
     "source": "osm",
@@ -2012,12 +2012,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "salerno"
   },
   {
     "nome": "Rupe di Valpalazzo",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2523214,
     "lng": 15.5060971,
     "source": "osm",
@@ -2028,7 +2028,7 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
@@ -2044,12 +2044,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "salerno"
   },
   {
     "nome": "Piesco rosso",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3985529,
     "lng": 15.6017474,
     "source": "osm",
@@ -2060,12 +2060,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Uomo A Cavallo",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.6390343,
     "lng": 14.68274,
     "source": "osm",
@@ -2076,12 +2076,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "grotta",
+    "tipo": "panorama",
     "zona": "salerno"
   },
   {
     "nome": "Madonna Del Sito Alto",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4094352,
     "lng": 15.6178021,
     "source": "osm",
@@ -2092,12 +2092,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "M. Pianello",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2987823,
     "lng": 15.3255415,
     "source": "osm",
@@ -2108,12 +2108,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Collina del Parco",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.7493792,
     "lng": 14.642542,
     "source": "osm",
@@ -2124,12 +2124,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "archeologico",
+    "tipo": "panorama",
     "zona": "salerno"
   },
   {
     "nome": "Tempa di Don Marco",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4528254,
     "lng": 15.2882051,
     "source": "osm",
@@ -2140,12 +2140,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "archeologico",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Timpone San Cono",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.5165887,
     "lng": 15.2485192,
     "source": "osm",
@@ -2156,12 +2156,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Timpone Palombella",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.545798,
     "lng": 15.2669728,
     "source": "osm",
@@ -2172,12 +2172,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Timpone Panariello",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.5430016,
     "lng": 15.2705991,
     "source": "osm",
@@ -2188,12 +2188,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Timpone Cuccesso",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.5343588,
     "lng": 15.2475536,
     "source": "osm",
@@ -2204,12 +2204,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Timpa Zacchera",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.5221347,
     "lng": 15.2370608,
     "source": "osm",
@@ -2220,12 +2220,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Timpa del Monaco",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.5110503,
     "lng": 15.3152633,
     "source": "osm",
@@ -2236,12 +2236,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Pietra di Gianmaria",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.5128041,
     "lng": 15.3210997,
     "source": "osm",
@@ -2252,12 +2252,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Santa Anastasia",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4840863,
     "lng": 15.2924967,
     "source": "osm",
@@ -2268,12 +2268,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa Pozzillo",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4906304,
     "lng": 15.3046632,
     "source": "osm",
@@ -2284,12 +2284,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Il Torrione",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4779332,
     "lng": 15.3054571,
     "source": "osm",
@@ -2300,12 +2300,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Tempa cavallerizza",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4887945,
     "lng": 15.2659857,
     "source": "osm",
@@ -2316,12 +2316,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "grotta",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Timpa della Cisterna",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.5090926,
     "lng": 15.3005969,
     "source": "osm",
@@ -2332,12 +2332,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Timpa Sarrauto",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.5031132,
     "lng": 15.3126454,
     "source": "osm",
@@ -2348,12 +2348,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Serra dei Ripini",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.5070207,
     "lng": 15.3521061,
     "source": "osm",
@@ -2364,12 +2364,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Serra Monaco",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.5239044,
     "lng": 15.2904796,
     "source": "osm",
@@ -2380,12 +2380,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Serra Nicola",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4487504,
     "lng": 15.4362402,
     "source": "osm",
@@ -2396,12 +2396,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "P.zo della Ciufara",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.8169055,
     "lng": 14.6533085,
     "source": "osm",
@@ -2412,12 +2412,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "salerno"
   },
   {
     "nome": "Serra Mancusi",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3243893,
     "lng": 15.5072182,
     "source": "osm",
@@ -2428,12 +2428,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Timpa Pianella",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.5232982,
     "lng": 15.219438,
     "source": "osm",
@@ -2444,12 +2444,12 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "altro",
+    "tipo": "panorama",
     "zona": "cilento"
   },
   {
     "nome": "Rudere Castello di Pogerola",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.6366503,
     "lng": 14.5953024,
     "source": "osm",
@@ -2460,349 +2460,349 @@
     "dislivello_m": null,
     "periodo": "",
     "frequenza": "",
-    "tipo": "castello",
+    "tipo": "panorama",
     "zona": "salerno"
   },
   {
     "nome": "Madonna del Silenzio",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.6269256,
     "lng": 14.5222546,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6269256&mlon=14.5222546#map=16/40.6269256/14.5222546",
     "id": "panorami-madonna-del-silenzio-442",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Punta Tresino",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3361586,
     "lng": 14.9466753,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.3361586&mlon=14.9466753#map=16/40.3361586/14.9466753",
     "id": "panorami-punta-tresino-443",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Pietra Mulacchio",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2438487,
     "lng": 15.0589307,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.2438487&mlon=15.0589307#map=16/40.2438487/15.0589307",
     "id": "panorami-pietra-mulacchio-444",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Fiordo di Furore",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.6139396,
     "lng": 14.5543071,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6139396&mlon=14.5543071#map=16/40.6139396/14.5543071",
     "id": "panorami-fiordo-di-furore-445",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Pianoro di Ciolandrea",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.0407407,
     "lng": 15.4573709,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.0407407&mlon=15.4573709#map=16/40.0407407/15.4573709",
     "id": "panorami-pianoro-di-ciolandrea-446",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Gola del Diavolo - Fiume Mingardo",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.087837,
     "lng": 15.3519557,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.087837&mlon=15.3519557#map=16/40.087837/15.3519557",
     "id": "panorami-gola-del-diavolo-fiume-mingardo-448",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Terrazza del Cilento",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4005288,
     "lng": 15.1059626,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.4005288&mlon=15.1059626#map=16/40.4005288/15.1059626",
     "id": "panorami-terrazza-del-cilento-449",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Panorama Monte Stella e Gelbison",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.0304832,
     "lng": 15.2728517,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.0304832&mlon=15.2728517#map=16/40.0304832/15.2728517",
     "id": "panorami-panorama-monte-stella-e-gelbison-450",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Bird-watching 3",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3030568,
     "lng": 15.1152096,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.3030568&mlon=15.1152096#map=16/40.3030568/15.1152096",
     "id": "panorami-bird-watching-3-452",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Bird-watching 4",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.298,
     "lng": 15.1192329,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.298&mlon=15.1192329#map=16/40.298/15.1192329",
     "id": "panorami-bird-watching-4-453",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Bird-watching 5",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.296748,
     "lng": 15.1198123,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.296748&mlon=15.1198123#map=16/40.296748/15.1198123",
     "id": "panorami-bird-watching-5-454",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Bird-watching 6",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2911998,
     "lng": 15.1233099,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.2911998&mlon=15.1233099#map=16/40.2911998/15.1233099",
     "id": "panorami-bird-watching-6-455",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Bird-watching 7",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2892111,
     "lng": 15.1228271,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.2892111&mlon=15.1228271#map=16/40.2892111/15.1228271",
     "id": "panorami-bird-watching-7-456",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Bird-watching 8",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2878444,
     "lng": 15.1234064,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.2878444&mlon=15.1234064#map=16/40.2878444/15.1234064",
     "id": "panorami-bird-watching-8-457",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Punta Bomerano",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.6219932,
     "lng": 14.5473013,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6219932&mlon=14.5473013#map=16/40.6219932/14.5473013",
     "id": "panorami-punta-bomerano-463",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Foresta a Galleria",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3192374,
     "lng": 15.1301775,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.3192374&mlon=15.1301775#map=16/40.3192374/15.1301775",
     "id": "panorami-foresta-a-galleria-465",
     "zona": "cilento",
-    "tipo": "museo"
+    "tipo": "panorama"
   },
   {
     "nome": "Macchia mediterranea",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3101404,
     "lng": 15.1129684,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.3101404&mlon=15.1129684#map=16/40.3101404/15.1129684",
     "id": "panorami-macchia-mediterranea-466",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Bosco Misto",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3151145,
     "lng": 15.125843,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.3151145&mlon=15.125843#map=16/40.3151145/15.125843",
     "id": "panorami-bosco-misto-468",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Punta San Lazzaro",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.6230464,
     "lng": 14.5678799,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6230464&mlon=14.5678799#map=16/40.6230464/14.5678799",
     "id": "panorami-punta-san-lazzaro-470",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Terrazza dell'Infinito",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.6421012,
     "lng": 14.610113,
     "source": "osm",
     "link": "https://it.wikipedia.org/wiki/Villa_Cimbrone",
     "id": "panorami-terrazza-dellinfinito-473",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "La Sentinella",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.0851378,
     "lng": 15.3536184,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.0851378&mlon=15.3536184#map=16/40.0851378/15.3536184",
     "id": "panorami-la-sentinella-475",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Pizzola di Montenero",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.7168384,
     "lng": 15.1592443,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.7168384&mlon=15.1592443#map=16/40.7168384/15.1592443",
     "id": "panorami-pizzola-di-montenero-479",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Timpone dell'Accellica",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Costiera Amalfitana",
     "lat": 40.7604496,
     "lng": 15.0062883,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.7604496&mlon=15.0062883#map=16/40.7604496/15.0062883",
     "id": "panorami-timpone-dellaccellica-480",
     "zona": "costiera",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Piazzetta Panoramica",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3993302,
     "lng": 15.1084148,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.3993302&mlon=15.1084148#map=16/40.3993302/15.1084148",
     "id": "panorami-piazzetta-panoramica-485",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Panorama a 360°",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.7158372,
     "lng": 14.6109112,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.7158372&mlon=14.6109112#map=16/40.7158372/14.6109112",
     "id": "panorami-panorama-a-360-486",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Vista sulla Valle del Mingardo",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2448275,
     "lng": 15.44258,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.2448275&mlon=15.44258#map=16/40.2448275/15.44258",
     "id": "panorami-vista-sulla-valle-del-mingardo-490",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Punta Pistiello",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.6164268,
     "lng": 14.5750663,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6164268&mlon=14.5750663#map=16/40.6164268/14.5750663",
     "id": "panorami-punta-pistiello-491",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Punta Vieca",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.6146432,
     "lng": 14.5731995,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6146432&mlon=14.5731995#map=16/40.6146432/14.5731995",
     "id": "panorami-punta-vieca-492",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "vista al M. Gelbison - Bulgheria",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.1062791,
     "lng": 15.2748209,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.1062791&mlon=15.2748209#map=16/40.1062791/15.2748209",
     "id": "panorami-vista-al-m-gelbison-bulgheria-493",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "vista Alburni, Cervati, Centaurino",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.2492138,
     "lng": 15.4431349,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.2492138&mlon=15.4431349#map=16/40.2492138/15.4431349",
     "id": "panorami-vista-alburni-cervati-centaurino-494",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Ruderi Basilica Sant'Eustachio",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.6443125,
     "lng": 14.6030495,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6443125&mlon=14.6030495#map=16/40.6443125/14.6030495",
     "id": "panorami-ruderi-basilica-santeustachio-496",
     "zona": "salerno",
-    "tipo": "chiesa"
+    "tipo": "panorama"
   },
   {
     "nome": "Mirador del Valle del Selle",
@@ -2813,132 +2813,132 @@
     "link": "https://www.openstreetmap.org/?mlat=40.4791899&mlon=15.1090643#map=16/40.4791899/15.1090643",
     "id": "panorami-mirador-del-valle-del-selle-497",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Cascata del Solofrone",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4085571,
     "lng": 15.1009801,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.4085571&mlon=15.1009801#map=16/40.4085571/15.1009801",
     "id": "panorami-cascata-del-solofrone-498",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Veduta sul Vesuvio",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.7893693,
     "lng": 14.6589869,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.7893693&mlon=14.6589869#map=16/40.7893693/14.6589869",
     "id": "panorami-veduta-sul-vesuvio-510",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Pietra impuntellata",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.1987076,
     "lng": 15.3436974,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.1987076&mlon=15.3436974#map=16/40.1987076/15.3436974",
     "id": "panorami-pietra-impuntellata-513",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Pizzo Castellone",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.65187,
     "lng": 14.5000349,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.65187&mlon=14.5000349#map=16/40.65187/14.5000349",
     "id": "panorami-pizzo-castellone-519",
     "zona": "salerno",
-    "tipo": "castello"
+    "tipo": "panorama"
   },
   {
     "nome": "Piazzetta dell’Amore",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.3522779,
     "lng": 14.9863258,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.3522779&mlon=14.9863258#map=16/40.3522779/14.9863258",
     "id": "panorami-piazzetta-dellamore-524",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Pietra del diavolo (punto esposto)",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.5570625,
     "lng": 15.3120721,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.5570625&mlon=15.3120721#map=16/40.5570625/15.3120721",
     "id": "panorami-pietra-del-diavolo-punto-esposto-527",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "sella dei Tre Calli",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.6323898,
     "lng": 14.5233118,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6323898&mlon=14.5233118#map=16/40.6323898/14.5233118",
     "id": "panorami-sella-dei-tre-calli-528",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Punta Paipo",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.6243545,
     "lng": 14.5214941,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6243545&mlon=14.5214941#map=16/40.6243545/14.5214941",
     "id": "panorami-punta-paipo-532",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Rovigliano amazing landscape",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.7287882,
     "lng": 14.4693614,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.7287882&mlon=14.4693614#map=16/40.7287882/14.4693614",
     "id": "panorami-rovigliano-amazing-landscape-533",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Punta Vento",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.6784013,
     "lng": 14.6114789,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6784013&mlon=14.6114789#map=16/40.6784013/14.6114789",
     "id": "panorami-punta-vento-534",
     "zona": "salerno",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Scanno del Cantatore",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.1969826,
     "lng": 15.3798804,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.1969826&mlon=15.3798804#map=16/40.1969826/15.3798804",
     "id": "panorami-scanno-del-cantatore-535",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Piazza Belvedere",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Salerno",
     "lat": 40.6538764,
     "lng": 14.6133031,
     "source": "osm",
@@ -2949,35 +2949,35 @@
   },
   {
     "nome": "Capo delle Armi",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.4386957,
     "lng": 15.3755477,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.4386957&mlon=15.3755477#map=16/40.4386957/15.3755477",
     "id": "panorami-capo-delle-armi-538",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Terrazza dell'Amore",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.6330448,
     "lng": 15.3759133,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.6330448&mlon=15.3759133#map=16/40.6330448/15.3759133",
     "id": "panorami-terrazza-dellamore-539",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   },
   {
     "nome": "Madonna della Montagna",
-    "descrizione": "",
+    "descrizione": "Punto panoramico nel territorio di Cilento",
     "lat": 40.493249,
     "lng": 15.3663965,
     "source": "osm",
     "link": "https://www.openstreetmap.org/?mlat=40.493249&mlon=15.3663965#map=16/40.493249/15.3663965",
     "id": "panorami-madonna-della-montagna-542",
     "zona": "cilento",
-    "tipo": "altro"
+    "tipo": "panorama"
   }
 ]

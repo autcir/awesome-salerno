@@ -52,3 +52,26 @@ jobs:
               sys.exit(1)
           print('All GPS coordinates valid')
           "
+
+  deploy-pages:
+    runs-on: ubuntu-latest
+    needs: [lint, validate-data]
+    if: github.ref == 'refs/heads/main'
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Sync data to docs
+        run: |
+          rm -rf docs/data
+          cp -r data docs/data
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deployment
+        uses: actions/deploy-pages@v4
