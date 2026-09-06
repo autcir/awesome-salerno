@@ -1,4 +1,4 @@
-<div align="center">
+<![CDATA[<div align="center">
 
 # Awesome Salerno
 
@@ -200,3 +200,4 @@ Per aggiungere una risorsa:
 
 Per segnalare un link morto o un errore, apri un
 [Issue](https://github.com/autcir/awesome-salerno/issues).
+]]>
