@@ -23,6 +23,7 @@
 - [Eventi](#eventi)
 - [Luci d'Artista](#luci-dartista)
 - [Map](#map)
+- [Daily refresh](#daily-refresh)
 - [API](#api)
 - [Ask Salerno](#ask-salerno)
 - [Monthly digest](#monthly-digest)
