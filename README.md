@@ -53,12 +53,28 @@ sotto sono in inglese; dati e documentazione per i contributor sono in italiano.
 | Metric | Value |
 |--------|-------|
 | Total POI | 5529 |
-| Cities mapped | 103 |
-| Salerno zone | 3371 |
-| Costiera zone | 846 |
-| Cilento zone | 1330 |
+| In declared scope (Salerno, Amalfi Coast, Cilento) | 3785 |
+| Outside declared scope, flagged not removed | 1744 |
+| Cities mapped | 102 |
+| Salerno districts (quartieri) | 14 |
+| Unique descriptions | 5411 (97.9%) |
 | Luci d'Artista | 36 |
-| Events | 49 |
+
+**On scope, honestly.** Every POI now carries `provincia`, `sigla_provincia`,
+`regione` (from the official ISTAT comuni list) and `in_ambito`. The collection
+grew past its declared area: 1744 POI sit outside it — 1557 in provincia di
+Napoli (Pompei, Sorrento, Castellammare, the Vesuvio side), 95 Cosenza, 70
+Avellino, 47 Latina, 4 Potenza. Their coordinates are correct; they are simply
+not Salerno, the Amalfi Coast or Cilento. Two exceptions are kept in scope on
+purpose, because the territory does not follow provincial borders: **Agerola**
+(NA, Amalfi Coast) and **Maratea** (PZ, southern end of the Cilento coast).
+
+Nothing was deleted — it is flagged, and you can filter:
+
+```bash
+curl "http://localhost:8080/api/all?ambito=1"        # declared scope only
+curl "http://localhost:8080/api/all?provincia=SA"    # by province
+```
 
 ## Sentieri
 
@@ -268,6 +284,23 @@ python3 api/server.py
 | `GET /api/geojson` | GeoJSON format for GIS |
 | `GET /api/cities` | List of all 103 cities |
 | `GET /api/search?q=<query>` | Fuzzy search |
+| `GET /api/oggi?giorni=<n>` | What's on now — curated + scraped, counted separately |
+| `GET /api/sources` | The source registry, with measured status and licence |
+| `GET /api/health` | Status, event counts, last ingest timestamp |
+
+**Live events (`/api/oggi`).** Events are refreshed daily by
+[`scripts/ingest_events.py`](scripts/ingest_events.py), which reads the source
+registry in [`data/sources.json`](data/sources.json) and collects only from
+sources measured as reachable. Every scraped record carries `curated: false`,
+its `source`, `license`, `retrieved_at` and `provenance` — and is kept in
+`data/eventi_scraped.json`, never mixed into the curated `data/eventi.json`.
+If an ingest returns nothing, the previous file is kept: an empty result is
+never published as success.
+
+```bash
+curl "http://localhost:8080/api/oggi?giorni=14&citta=Salerno"
+python3 scripts/ingest_events.py --self-check   # verifies the parsers, no network
+```
 
 **Filter by zone:**
 

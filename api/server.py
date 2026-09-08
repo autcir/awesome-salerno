@@ -39,8 +39,17 @@ def filter_items(items, params):
     tipo = params.get("tipo", [""])[0].lower()
     citta = params.get("citta", [""])[0].lower()
     quartiere = params.get("quartiere", [""])[0].lower()
-    
+    provincia = params.get("provincia", [""])[0].lower()
+    ambito = params.get("ambito", [""])[0].lower()
+
     result = items
+    if provincia:
+        result = [i for i in result
+                  if provincia in (i.get("provincia", "") or "").lower()
+                  or provincia == (i.get("sigla_provincia", "") or "").lower()]
+    if ambito in ("1", "true", "si", "yes"):
+        # solo Salerno, Costiera e Cilento: l'ambito dichiarato della lista
+        result = [i for i in result if i.get("in_ambito") is not False]
     if zona:
         result = [i for i in result if zona in i.get("zona", "").lower()]
     if tipo:
@@ -209,8 +218,41 @@ class APIHandler(BaseHTTPRequestHandler):
             else:
                 self.wfile.write(json.dumps({"error": "Missing query parameter 'q'"}, indent=2).encode())
         
+        elif path == "/api/sources":
+            # Il registro fonti con lo stato misurato: la provenienza e' pubblica.
+            self.wfile.write(json.dumps(load_json("sources.json"), ensure_ascii=False, indent=2).encode())
+
+        elif path == "/api/oggi":
+            # Cosa c'e' oggi (o in una finestra): curated + scrapato, distinti.
+            from datetime import date, timedelta
+            giorni = int(params.get("giorni", ["7"])[0])
+            da = params.get("da", [date.today().isoformat()])[0]
+            a = (date.fromisoformat(da) + timedelta(days=max(giorni, 0))).isoformat()
+            eventi = load_json("eventi.json") + load_json("eventi_scraped.json")
+            attivi = [
+                e for e in filter_items(eventi, params)
+                if (e.get("data_fine") or e.get("data_inizio") or "") >= da
+                and (e.get("data_inizio") or "") <= a
+            ]
+            attivi.sort(key=lambda e: e.get("data_inizio") or "")
+            self.wfile.write(json.dumps({
+                "da": da, "a": a,
+                "totale": len(attivi),
+                "curated": sum(1 for e in attivi if e.get("curated") is not False),
+                "scraped": sum(1 for e in attivi if e.get("curated") is False),
+                "eventi": attivi,
+            }, ensure_ascii=False, indent=2).encode())
+
         elif path == "/api/health":
-            self.wfile.write(json.dumps({"status": "ok", "version": "2.0.0"}, indent=2).encode())
+            scraped = load_json("eventi_scraped.json")
+            ultimo = max((e.get("retrieved_at", "") for e in scraped), default=None)
+            self.wfile.write(json.dumps({
+                "status": "ok",
+                "version": "2.1.0",
+                "eventi_curated": len(load_json("eventi.json")),
+                "eventi_scraped": len(scraped),
+                "ultimo_ingest": ultimo,
+            }, indent=2).encode())
         
         else:
             self.send_response(404)
@@ -228,10 +270,12 @@ def main():
     print(f"\nEndpoints:")
     print(f"  GET /api/sentieri?zona=<costiera|cilento|salerno>")
     print(f"  GET /api/monumenti?tipo=<chiesa|castello|museo|archeologico>")
-    print(f"  GET /api/all?citta=<nome>&quartiere=<nome>")
+    print(f"  GET /api/all?citta=<nome>&quartiere=<nome>&provincia=<SA>&ambito=1")
     print(f"  GET /api/search?q=<query>")
     print(f"  GET /api/geojson")
     print(f"  GET /api/cities")
+    print(f"  GET /api/oggi?giorni=<n>&da=<YYYY-MM-DD>&citta=<nome>")
+    print(f"  GET /api/sources")
     print(f"  GET /api/health")
     print(f"\nPress Ctrl+C to stop.")
     server.serve_forever()

@@ -10,7 +10,11 @@
     "zona": "cilento",
     "tipo": "spiaggia",
     "citta": "San Nicola Arcella",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Cosenza",
+    "sigla_provincia": "CS",
+    "regione": "Calabria",
+    "in_ambito": false
   },
   {
     "nome": "Spiagga Licinella",
@@ -23,7 +27,11 @@
     "zona": "cilento",
     "tipo": "spiaggia",
     "citta": "Capaccio Paestum",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Fiordo di Furore",
@@ -36,7 +44,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Praiano",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Marina di Vico",
@@ -49,7 +61,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "Vico Equense",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Napoli",
+    "sigla_provincia": "NA",
+    "regione": "Campania",
+    "in_ambito": false
   },
   {
     "nome": "Agnone( Campania)",
@@ -62,7 +78,11 @@
     "zona": "cilento",
     "tipo": "spiaggia",
     "citta": "Montecorice",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Sunset Beach Club Palinuro",
@@ -75,7 +95,11 @@
     "zona": "cilento",
     "tipo": "spiaggia",
     "citta": "San Nicola Arcella",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Cosenza",
+    "sigla_provincia": "CS",
+    "regione": "Calabria",
+    "in_ambito": false
   },
   {
     "nome": "Gavitella beach",
@@ -88,7 +112,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Praiano",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "La Molpa",
@@ -101,7 +129,11 @@
     "zona": "cilento",
     "tipo": "spiaggia",
     "citta": "San Nicola Arcella",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Cosenza",
+    "sigla_provincia": "CS",
+    "regione": "Calabria",
+    "in_ambito": false
   },
   {
     "nome": "Garden Beach",
@@ -114,7 +146,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "Castellammare di Stabia",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Napoli",
+    "sigla_provincia": "NA",
+    "regione": "Campania",
+    "in_ambito": false
   },
   {
     "nome": "Bagno Elena",
@@ -127,7 +163,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "Castellammare di Stabia",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Napoli",
+    "sigla_provincia": "NA",
+    "regione": "Campania",
+    "in_ambito": false
   },
   {
     "nome": "Bagno Conte",
@@ -140,7 +180,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "Castellammare di Stabia",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Napoli",
+    "sigla_provincia": "NA",
+    "regione": "Campania",
+    "in_ambito": false
   },
   {
     "nome": "Lido Moderno",
@@ -153,7 +197,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "Castellammare di Stabia",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Napoli",
+    "sigla_provincia": "NA",
+    "regione": "Campania",
+    "in_ambito": false
   },
   {
     "nome": "La Palombara",
@@ -166,7 +214,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "Castellammare di Stabia",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Napoli",
+    "sigla_provincia": "NA",
+    "regione": "Campania",
+    "in_ambito": false
   },
   {
     "nome": "Spiagia della Sciabichedda",
@@ -179,7 +231,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "San Giovanni a Piro",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Le 7 Scogliere di Rovigliano",
@@ -192,7 +248,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "Torre Annunziata",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Napoli",
+    "sigla_provincia": "NA",
+    "regione": "Campania",
+    "in_ambito": false
   },
   {
     "nome": "Lido Nettuno",
@@ -205,7 +265,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "Torre Annunziata",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Napoli",
+    "sigla_provincia": "NA",
+    "regione": "Campania",
+    "in_ambito": false
   },
   {
     "nome": "Lido Rinascenza",
@@ -218,7 +282,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "Torre Annunziata",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Napoli",
+    "sigla_provincia": "NA",
+    "regione": "Campania",
+    "in_ambito": false
   },
   {
     "nome": "Lido Eldorado",
@@ -231,7 +299,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "Torre Annunziata",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Napoli",
+    "sigla_provincia": "NA",
+    "regione": "Campania",
+    "in_ambito": false
   },
   {
     "nome": "Lido Risorgimento",
@@ -244,7 +316,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "Torre Annunziata",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Napoli",
+    "sigla_provincia": "NA",
+    "regione": "Campania",
+    "in_ambito": false
   },
   {
     "nome": "Marina del Sole",
@@ -257,7 +333,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "Torre Annunziata",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Napoli",
+    "sigla_provincia": "NA",
+    "regione": "Campania",
+    "in_ambito": false
   },
   {
     "nome": "San Pietro",
@@ -270,7 +350,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Positano",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Lido Azzurro",
@@ -283,7 +367,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "Torre Annunziata",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Napoli",
+    "sigla_provincia": "NA",
+    "regione": "Campania",
+    "in_ambito": false
   },
   {
     "nome": "Spiaggie Gemelle",
@@ -296,7 +384,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "San Giovanni a Piro",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Spiagge Gemelle",
@@ -309,7 +401,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "San Giovanni a Piro",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Lo Scaricatore",
@@ -322,7 +418,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Positano",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Antico Bagno Nettuno",
@@ -335,7 +435,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "Sorrento",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Napoli",
+    "sigla_provincia": "NA",
+    "regione": "Campania",
+    "in_ambito": false
   },
   {
     "nome": "La spiaggetta",
@@ -348,7 +452,11 @@
     "zona": "cilento",
     "tipo": "spiaggia",
     "citta": "Casal Velino",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Spiaggia degli Iscolelli",
@@ -361,7 +469,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "San Giovanni a Piro",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Lido Scaramella beach",
@@ -375,7 +487,11 @@
     "tipo": "spiaggia",
     "citta": "Salerno",
     "quartiere": "Lungomare",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Spiagga Licina",
@@ -388,7 +504,11 @@
     "zona": "cilento",
     "tipo": "spiaggia",
     "citta": "Capaccio Paestum",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Torretta 23",
@@ -401,7 +521,11 @@
     "zona": "cilento",
     "tipo": "spiaggia",
     "citta": "Castellabate",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Lido Tirreno",
@@ -414,7 +538,11 @@
     "zona": "cilento",
     "tipo": "spiaggia",
     "citta": "Castellabate",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Club Michele",
@@ -427,7 +555,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "San Giovanni a Piro",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Bikini beach",
@@ -440,7 +572,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "San Giovanni a Piro",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Playa porlamar",
@@ -453,7 +589,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "San Giovanni a Piro",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "La Pagliarella",
@@ -466,7 +606,11 @@
     "zona": "cilento",
     "tipo": "spiaggia",
     "citta": "Castellabate",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Lido La Conchiglia",
@@ -480,7 +624,11 @@
     "tipo": "spiaggia",
     "citta": "Salerno",
     "quartiere": "Lungomare",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Lido Night & Day",
@@ -493,7 +641,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "Bellizzi",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Lido Mojito Beach",
@@ -506,7 +658,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "Bellizzi",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-10015833082",
@@ -521,7 +677,11 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "Bellizzi",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-146704448",
@@ -536,7 +696,11 @@
     "zona": "cilento",
     "tipo": "spiaggia",
     "citta": "Capaccio Paestum",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-146704452",
@@ -551,7 +715,11 @@
     "zona": "cilento",
     "tipo": "spiaggia",
     "citta": "Capaccio Paestum",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-146986661",
@@ -566,7 +734,11 @@
     "zona": "cilento",
     "tipo": "spiaggia",
     "citta": "Capaccio Paestum",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-146986814",
@@ -581,7 +753,11 @@
     "zona": "cilento",
     "tipo": "spiaggia",
     "citta": "Agropoli",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-146987650",
@@ -596,7 +772,11 @@
     "zona": "cilento",
     "tipo": "spiaggia",
     "citta": "Capaccio Paestum",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-147038883",
@@ -611,7 +791,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Cetara",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-147038884",
@@ -626,7 +810,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Cetara",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-147038889",
@@ -641,7 +829,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Vietri sul Mare",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-147038890",
@@ -656,7 +848,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Cetara",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-147038891",
@@ -671,7 +867,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Cetara",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-147039294",
@@ -686,7 +886,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Minori",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-147039296",
@@ -701,7 +905,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Conca dei Marini",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-147039298",
@@ -716,7 +924,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Amalfi",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-147039301",
@@ -731,7 +943,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Maiori",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-147039314",
@@ -746,7 +962,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Furore",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-162834577",
@@ -761,7 +981,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Cetara",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-162834579",
@@ -776,7 +1000,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Cetara",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-162834653",
@@ -791,7 +1019,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Cetara",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-162834654",
@@ -806,7 +1038,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Cetara",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-191229148",
@@ -821,7 +1057,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Cetara",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-191229151",
@@ -836,7 +1076,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Cetara",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-191230547",
@@ -851,7 +1095,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Cetara",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-191230551",
@@ -866,7 +1114,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Cetara",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-191233419",
@@ -881,7 +1133,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Cetara",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-191233421",
@@ -896,7 +1152,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Cetara",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-191233425",
@@ -911,7 +1171,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Cetara",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-191233427",
@@ -926,7 +1190,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Cetara",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-191233431",
@@ -941,7 +1209,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Cetara",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-191233432",
@@ -956,7 +1228,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Cetara",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-191234130",
@@ -971,7 +1247,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Cetara",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-191235879",
@@ -986,7 +1266,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Cetara",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-398174788",
@@ -1001,7 +1285,11 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Vietri sul Mare",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-815827728",
@@ -1016,7 +1304,11 @@
     "zona": "cilento",
     "tipo": "spiaggia",
     "citta": "Agropoli",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-1280967130",
@@ -1031,7 +1323,11 @@
     "zona": "cilento",
     "tipo": "spiaggia",
     "citta": "Capaccio Paestum",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-1280967131",
@@ -1046,7 +1342,11 @@
     "zona": "cilento",
     "tipo": "spiaggia",
     "citta": "Capaccio Paestum",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-1280967132",
@@ -1061,7 +1361,11 @@
     "zona": "cilento",
     "tipo": "spiaggia",
     "citta": "Capaccio Paestum",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-1280967133",
@@ -1076,7 +1380,11 @@
     "zona": "cilento",
     "tipo": "spiaggia",
     "citta": "Capaccio Paestum",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-1366488651",
@@ -1091,6 +1399,10 @@
     "zona": "costiera",
     "tipo": "spiaggia",
     "citta": "Positano",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   }
 ]

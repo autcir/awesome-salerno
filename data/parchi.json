@@ -16,7 +16,11 @@
     "zona": "salerno",
     "citta": "Omignano",
     "link_rotto": "https://www.parcocesto.it",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Parco Naturale delle Ferriere",
@@ -35,7 +39,11 @@
     "zona": "costiera",
     "citta": "Amalfi",
     "link_rotto": "https://www.parcoamalfi.it",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Riserva Naturale Costiera Amalfitana",
@@ -54,7 +62,11 @@
     "zona": "costiera",
     "citta": "Amalfi",
     "link_rotto": "https://www.parcoamalfi.it",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Area Marina Protetta Costa degli Infreschi e della Masseta",
@@ -73,7 +85,11 @@
     "zona": "salerno",
     "citta": "San Giovanni a Piro",
     "link_rotto": "https://www.parcocesto.it",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Tenuta Castelluccio Gole del Cervati",
@@ -91,7 +107,11 @@
     "tipo": "altro",
     "zona": "cilento",
     "citta": "Piaggine",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "nome": "Area Marina Protetta Punta Campanella",
@@ -109,7 +129,11 @@
     "tipo": "altro",
     "zona": "salerno",
     "citta": "Sorrento",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Napoli",
+    "sigla_provincia": "NA",
+    "regione": "Campania",
+    "in_ambito": false
   },
   {
     "nome": "Area Marina Protetta Santa Maria di Castellabate",
@@ -127,7 +151,11 @@
     "tipo": "altro",
     "zona": "cilento",
     "citta": "Castellabate",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-93496743",
@@ -142,7 +170,11 @@
     "zona": "salerno",
     "tipo": "altro",
     "citta": "Colliano",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-116820888",
@@ -157,7 +189,11 @@
     "zona": "salerno",
     "tipo": "altro",
     "citta": "Valva",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-1330860923",
@@ -172,7 +208,11 @@
     "zona": "cilento",
     "tipo": "altro",
     "citta": "Capaccio Paestum",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-4100859",
@@ -187,7 +227,11 @@
     "zona": "cilento",
     "tipo": "archeologico",
     "citta": "Gioi",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   },
   {
     "id": "osm-4671891",
@@ -202,6 +246,10 @@
     "zona": "cilento",
     "tipo": "altro",
     "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07"
+    "last_verified": "2026-09-07",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true
   }
 ]

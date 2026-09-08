@@ -11,6 +11,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Ingest eventi (obscura)
+        # Se obscura non c'e' sul runner, l'ingest fallisce e si tiene
+        # l'ultimo eventi_scraped.json buono: mai pubblicare un vuoto.
+        continue-on-error: true
+        run: python3 scripts/ingest_events.py
+
       - name: Rebuild all.json + GeoJSON + RSS
         run: |
           python3 -c "
@@ -32,7 +38,7 @@ jobs:
       - name: Rebuild RAG chunks
         run: python3 scripts/build_rag.py
       - name: Sync docs
-        run: cp data/all.json docs/data/all.json && cp data/awesome-salerno.geojson docs/data/awesome-salerno.geojson && cp data/events.xml docs/data/events.xml && cp data/eventi.json docs/data/eventi.json && mkdir -p docs/data/rag && cp data/rag/chunks.jsonl docs/data/rag/chunks.jsonl
+        run: cp data/all.json docs/data/all.json && cp data/awesome-salerno.geojson docs/data/awesome-salerno.geojson && cp data/events.xml docs/data/events.xml && cp data/eventi.json docs/data/eventi.json && cp data/sources.json docs/data/sources.json && cp data/eventi_scraped.json docs/data/eventi_scraped.json && mkdir -p docs/data/rag && cp data/rag/chunks.jsonl docs/data/rag/chunks.jsonl
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
