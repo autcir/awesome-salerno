@@ -14,12 +14,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Giffoni Valle Piana",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Giffoni Valle Piana"
   },
   {
     "nome": "Punta D'Aglio",
@@ -36,12 +31,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "costiera",
-    "citta": "Amalfi",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Amalfi"
   },
   {
     "nome": "Capo Masina",
@@ -58,12 +48,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "costiera",
-    "citta": "Positano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Positano"
   },
   {
     "nome": "Castelluccio di Pisciotta",
@@ -80,12 +65,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "San Nicola Arcella",
-    "last_verified": "2026-09-07",
-    "provincia": "Cosenza",
-    "sigla_provincia": "CS",
-    "regione": "Calabria",
-    "in_ambito": false
+    "citta": "San Nicola Arcella"
   },
   {
     "nome": "Tozzo del Finocchio",
@@ -102,12 +82,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Montano Antilia",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Montano Antilia"
   },
   {
     "nome": "Castelluccio di San Mauro",
@@ -124,12 +99,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "San Nicola Arcella",
-    "last_verified": "2026-09-07",
-    "provincia": "Cosenza",
-    "sigla_provincia": "CS",
-    "regione": "Calabria",
-    "in_ambito": false
+    "citta": "San Nicola Arcella"
   },
   {
     "nome": "Località Male Mursiello",
@@ -146,12 +116,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Rofrano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Rofrano"
   },
   {
     "nome": "Vene di S.Pietro",
@@ -168,12 +133,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "costiera",
-    "citta": "Maiori",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Maiori"
   },
   {
     "nome": "Collina di Sant'Adiutore",
@@ -190,12 +150,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Giffoni Sei Casali",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Giffoni Sei Casali"
   },
   {
     "nome": "Il Telegrafo",
@@ -213,12 +168,7 @@
     "tipo": "panorama",
     "zona": "salerno",
     "citta": "Salerno",
-    "quartiere": "Arechi",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "quartiere": "Arechi"
   },
   {
     "nome": "Scanno Chiuso",
@@ -235,12 +185,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Moio della Civitella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Moio della Civitella"
   },
   {
     "nome": "Tempa Pistillo",
@@ -257,12 +202,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "San Giovanni a Piro",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "San Giovanni a Piro"
   },
   {
     "nome": "Serra Pornia",
@@ -279,12 +219,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "San Giovanni a Piro",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "San Giovanni a Piro"
   },
   {
     "nome": "Tozzo del Moio",
@@ -301,12 +236,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "San Giovanni a Piro",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "San Giovanni a Piro"
   },
   {
     "nome": "Tempa della Rondinella",
@@ -323,12 +253,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Pisciotta",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Pisciotta"
   },
   {
     "nome": "Cozzo Trattonale",
@@ -345,12 +270,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Padula",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Padula"
   },
   {
     "nome": "Rupe la Marvera",
@@ -367,12 +287,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Padula",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Padula"
   },
   {
     "nome": "Colli lo Scorzo",
@@ -389,12 +304,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Padula",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Padula"
   },
   {
     "nome": "Scanno del Tesoro",
@@ -411,12 +321,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Piaggine",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Piaggine"
   },
   {
     "nome": "Rupa della Noce",
@@ -433,12 +338,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Roccadaspide",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Roccadaspide"
   },
   {
     "nome": "Rupa della Conca",
@@ -455,12 +355,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Roccadaspide",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Roccadaspide"
   },
   {
     "nome": "Punta delle Castagne",
@@ -477,12 +372,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "costiera",
-    "citta": "Amalfi",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Amalfi"
   },
   {
     "nome": "la Raia del Pedale",
@@ -499,12 +389,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Rofrano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Rofrano"
   },
   {
     "nome": "Una finestra sulla Certosa e sul Vallo di Diano.",
@@ -521,12 +406,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Buonabitacolo",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Buonabitacolo"
   },
   {
     "nome": "Costa Palomba",
@@ -543,12 +423,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Vena San Marco",
@@ -565,12 +440,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Sant'Egidio del Monte Albino",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Egidio del Monte Albino"
   },
   {
     "nome": "Punta Serrapiana",
@@ -587,12 +457,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "San Cipriano Picentino",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "San Cipriano Picentino"
   },
   {
     "nome": "Toppo Scutero",
@@ -609,12 +474,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Acerno",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Acerno"
   },
   {
     "nome": "Toppo Croce del Magnone",
@@ -631,12 +491,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Acerno",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Acerno"
   },
   {
     "nome": "Accellica Sud - Raione",
@@ -653,12 +508,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Acerno",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Acerno"
   },
   {
     "nome": "Toppa della Faragna",
@@ -675,12 +525,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Montecorvino Rovella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Montecorvino Rovella"
   },
   {
     "nome": "Toppa del Castello",
@@ -697,12 +542,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Acerno",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Acerno"
   },
   {
     "nome": "Ripe di Pappamondo",
@@ -719,12 +559,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Montecorvino Rovella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Montecorvino Rovella"
   },
   {
     "nome": "Castello d'Olevano",
@@ -741,12 +576,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Montecorvino Rovella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Montecorvino Rovella"
   },
   {
     "nome": "S.ra Pizzuta",
@@ -763,12 +593,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Eboli",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Eboli"
   },
   {
     "nome": "Pizzo Corno",
@@ -785,12 +610,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Acerno",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Acerno"
   },
   {
     "nome": "S.ra Melara",
@@ -807,12 +627,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Palomonte",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Palomonte"
   },
   {
     "nome": "Serra del Dardano",
@@ -829,12 +644,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Valva",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Valva"
   },
   {
     "nome": "Toppo Tondo",
@@ -851,12 +661,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Valva",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Valva"
   },
   {
     "nome": "Timpone Colagrosso",
@@ -873,12 +678,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Ricigliano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Ricigliano"
   },
   {
     "nome": "Timpone Petrosa",
@@ -895,12 +695,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Ricigliano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Ricigliano"
   },
   {
     "nome": "Costa la Croce",
@@ -917,12 +712,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempa del Prato",
@@ -939,12 +729,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempa del Tesoro",
@@ -961,12 +746,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempa delle Rupi",
@@ -983,12 +763,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Timpone dei Rossi",
@@ -1005,12 +780,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempa Vessano",
@@ -1027,12 +797,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempa di Aquara",
@@ -1049,12 +814,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempone delle Macchie",
@@ -1071,12 +831,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempa delle Quote",
@@ -1093,12 +848,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempa Suvero",
@@ -1115,12 +865,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempone Pietra Cupa",
@@ -1137,12 +882,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Capaccio Paestum",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Capaccio Paestum"
   },
   {
     "nome": "Tempone Cotruzzo",
@@ -1159,12 +899,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Capaccio Paestum",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Capaccio Paestum"
   },
   {
     "nome": "Costa di Santa Maria",
@@ -1181,12 +916,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "San Pietro al Tanagro",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "San Pietro al Tanagro"
   },
   {
     "nome": "Timpone Soprano",
@@ -1203,12 +933,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempa Previtipietro",
@@ -1225,12 +950,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sala Consilina",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sala Consilina"
   },
   {
     "nome": "Toppa dell'Arpa",
@@ -1247,12 +967,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "San Pietro al Tanagro",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "San Pietro al Tanagro"
   },
   {
     "nome": "Capo la Serra",
@@ -1269,12 +984,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "San Pietro al Tanagro",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "San Pietro al Tanagro"
   },
   {
     "nome": "Tempa del Bosco",
@@ -1291,12 +1001,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "San Pietro al Tanagro",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "San Pietro al Tanagro"
   },
   {
     "nome": "Costa Castello",
@@ -1313,12 +1018,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Serra Carpineto",
@@ -1335,12 +1035,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Buccino",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Buccino"
   },
   {
     "nome": "Serra Ventola",
@@ -1357,12 +1052,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Serra San Giacomo",
@@ -1379,12 +1069,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Buccino",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Buccino"
   },
   {
     "nome": "Timpone del Piano",
@@ -1401,12 +1086,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Trecchina",
-    "last_verified": "2026-09-07",
-    "provincia": "Potenza",
-    "sigla_provincia": "PZ",
-    "regione": "Basilicata",
-    "in_ambito": false
+    "citta": "Trecchina"
   },
   {
     "nome": "Serra Amignosa",
@@ -1423,12 +1103,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Vallo della Lucania",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Vallo della Lucania"
   },
   {
     "nome": "Tempa della Rosalia",
@@ -1445,12 +1120,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Vallo della Lucania",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Vallo della Lucania"
   },
   {
     "nome": "Tempa della Pantanella",
@@ -1467,12 +1137,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Vallo della Lucania",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Vallo della Lucania"
   },
   {
     "nome": "Serra di Falco",
@@ -1489,12 +1154,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Piaggine",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Piaggine"
   },
   {
     "nome": "Cozzo la Croce",
@@ -1511,12 +1171,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sessa Cilento",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sessa Cilento"
   },
   {
     "nome": "Cozzo del Convento",
@@ -1533,12 +1188,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Perdifumo",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Perdifumo"
   },
   {
     "nome": "Serra di Campo Soprano",
@@ -1555,12 +1205,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Teggiano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Teggiano"
   },
   {
     "nome": "Serra la Manca",
@@ -1577,12 +1222,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Teggiano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Teggiano"
   },
   {
     "nome": "Serre dei Cuponi",
@@ -1599,12 +1239,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Teggiano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Teggiano"
   },
   {
     "nome": "Cozzo dell'Uovo",
@@ -1621,12 +1256,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Padula",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Padula"
   },
   {
     "nome": "Cozzo Postale",
@@ -1643,12 +1273,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Montesano sulla Marcellana",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Montesano sulla Marcellana"
   },
   {
     "nome": "Serra di Corleto",
@@ -1665,12 +1290,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Padula",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Padula"
   },
   {
     "nome": "Tempa di Cosimano",
@@ -1687,12 +1307,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Padula",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Padula"
   },
   {
     "nome": "Preta Conca",
@@ -1709,12 +1324,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Padula",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Padula"
   },
   {
     "nome": "Tempa d'Inferno",
@@ -1731,12 +1341,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Padula",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Padula"
   },
   {
     "nome": "Fossa la Pecora",
@@ -1753,12 +1358,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Padula",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Padula"
   },
   {
     "nome": "Timpa Petruzzone",
@@ -1775,12 +1375,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Piaggine",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Piaggine"
   },
   {
     "nome": "Tempa d'Astore",
@@ -1797,12 +1392,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Gioi",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Gioi"
   },
   {
     "nome": "Tempa della Lanza",
@@ -1819,12 +1409,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Gioi",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Gioi"
   },
   {
     "nome": "i Tuzzi di Monte Piano",
@@ -1841,12 +1426,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Moio della Civitella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Moio della Civitella"
   },
   {
     "nome": "Tempa del Carruso",
@@ -1863,12 +1443,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Roscigno",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Roscigno"
   },
   {
     "nome": "Rupe di San Paolo",
@@ -1885,12 +1460,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Santi Cosma e Damiano",
-    "last_verified": "2026-09-07",
-    "provincia": "Latina",
-    "sigla_provincia": "LT",
-    "regione": "Lazio",
-    "in_ambito": false
+    "citta": "Santi Cosma e Damiano"
   },
   {
     "nome": "Serra Piana",
@@ -1907,12 +1477,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Santi Cosma e Damiano",
-    "last_verified": "2026-09-07",
-    "provincia": "Latina",
-    "sigla_provincia": "LT",
-    "regione": "Lazio",
-    "in_ambito": false
+    "citta": "Santi Cosma e Damiano"
   },
   {
     "nome": "Serra della Forcella",
@@ -1929,12 +1494,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Santi Cosma e Damiano",
-    "last_verified": "2026-09-07",
-    "provincia": "Latina",
-    "sigla_provincia": "LT",
-    "regione": "Lazio",
-    "in_ambito": false
+    "citta": "Santi Cosma e Damiano"
   },
   {
     "nome": "Timpone Vecchio",
@@ -1951,12 +1511,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Padula",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Padula"
   },
   {
     "nome": "Cozzo d'Elice",
@@ -1973,12 +1528,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Padula",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Padula"
   },
   {
     "nome": "Tempa di Sorufo",
@@ -1995,12 +1545,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Padula",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Padula"
   },
   {
     "nome": "Cozzi dei Caprari",
@@ -2017,12 +1562,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Padula",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Padula"
   },
   {
     "nome": "Cozzo della Croce",
@@ -2039,12 +1579,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Rofrano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Rofrano"
   },
   {
     "nome": "Col di Lammardi",
@@ -2061,12 +1596,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Rofrano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Rofrano"
   },
   {
     "nome": "Tempone dei Cerri",
@@ -2083,12 +1613,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Montesano sulla Marcellana",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Montesano sulla Marcellana"
   },
   {
     "nome": "Cozzo Vaccaro",
@@ -2105,12 +1630,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Montesano sulla Marcellana",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Montesano sulla Marcellana"
   },
   {
     "nome": "Tempa di Cuccaro Vetere",
@@ -2127,12 +1647,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Montano Antilia",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Montano Antilia"
   },
   {
     "nome": "Scanno del Corvo",
@@ -2149,12 +1664,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Pisciotta",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Pisciotta"
   },
   {
     "nome": "Tempa del Cerro",
@@ -2171,12 +1681,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Pisciotta",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Pisciotta"
   },
   {
     "nome": "Piano Ceraso",
@@ -2193,12 +1698,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Roscigno",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Roscigno"
   },
   {
     "nome": "Tempone di San Giorgio",
@@ -2215,12 +1715,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Santi Cosma e Damiano",
-    "last_verified": "2026-09-07",
-    "provincia": "Latina",
-    "sigla_provincia": "LT",
-    "regione": "Lazio",
-    "in_ambito": false
+    "citta": "Santi Cosma e Damiano"
   },
   {
     "nome": "Serre delle Fontanelle",
@@ -2237,12 +1732,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Trecchina",
-    "last_verified": "2026-09-07",
-    "provincia": "Potenza",
-    "sigla_provincia": "PZ",
-    "regione": "Basilicata",
-    "in_ambito": false
+    "citta": "Trecchina"
   },
   {
     "nome": "Vena del Coviello",
@@ -2259,12 +1749,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "costiera",
-    "citta": "Tramonti",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Tramonti"
   },
   {
     "nome": "Statua S. Francesco",
@@ -2281,12 +1766,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Bracigliano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Bracigliano"
   },
   {
     "nome": "Coddate di Filano",
@@ -2303,12 +1783,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Padula",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Padula"
   },
   {
     "nome": "Stazione Osservazione Affunnaturo",
@@ -2325,12 +1800,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Padula",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Padula"
   },
   {
     "nome": "M. Valletto",
@@ -2347,12 +1817,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "San Giovanni a Piro",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "San Giovanni a Piro"
   },
   {
     "nome": "Timpa della Carità",
@@ -2369,12 +1834,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempa del Porco",
@@ -2391,12 +1851,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Moio della Civitella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Moio della Civitella"
   },
   {
     "nome": "Tempa del lupo",
@@ -2413,12 +1868,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Vallo della Lucania",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Vallo della Lucania"
   },
   {
     "nome": "Croce della Conocchia",
@@ -2435,12 +1885,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "costiera",
-    "citta": "Positano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Positano"
   },
   {
     "nome": "Punta di Tormine",
@@ -2457,12 +1902,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "San Cipriano Picentino",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "San Cipriano Picentino"
   },
   {
     "nome": "Il Figliolo",
@@ -2479,12 +1919,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Timpone Sottano",
@@ -2501,12 +1936,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Scarrone dei Corvi",
@@ -2523,12 +1953,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "San Rufo",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "San Rufo"
   },
   {
     "nome": "La Montagnola",
@@ -2545,12 +1970,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "San Rufo",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "San Rufo"
   },
   {
     "nome": "Il Telefono",
@@ -2567,12 +1987,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "costiera",
-    "citta": "Tramonti",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Tramonti"
   },
   {
     "nome": "Varco della Pettinessa",
@@ -2589,12 +2004,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Acerno",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Acerno"
   },
   {
     "nome": "M. Palladino",
@@ -2611,12 +2021,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Maratea",
-    "last_verified": "2026-09-07",
-    "provincia": "Potenza",
-    "sigla_provincia": "PZ",
-    "regione": "Basilicata",
-    "in_ambito": true
+    "citta": "Maratea"
   },
   {
     "nome": "Cocuzzo delle Puglie",
@@ -2633,12 +2038,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "San Rufo",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "San Rufo"
   },
   {
     "nome": "M. Cerasulo",
@@ -2655,12 +2055,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Piaggine",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Piaggine"
   },
   {
     "nome": "Costa Calda",
@@ -2677,12 +2072,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Acerno",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Acerno"
   },
   {
     "nome": "Serra Nicola - Punto panoramico",
@@ -2699,12 +2089,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Timpone Alto",
@@ -2721,12 +2106,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "San Rufo",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "San Rufo"
   },
   {
     "nome": "Vetta Nord",
@@ -2743,12 +2123,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "costiera",
-    "citta": "Tramonti",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Tramonti"
   },
   {
     "nome": "Piesco Grande",
@@ -2765,12 +2140,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Giffoni Valle Piana",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Giffoni Valle Piana"
   },
   {
     "nome": "Rupe di Valpalazzo",
@@ -2787,12 +2157,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Rofrano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Rofrano"
   },
   {
     "nome": "Poggio Sant'Antonio",
@@ -2809,12 +2174,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Giffoni Valle Piana",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Giffoni Valle Piana"
   },
   {
     "nome": "Piesco rosso",
@@ -2831,12 +2191,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sala Consilina",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sala Consilina"
   },
   {
     "nome": "Uomo A Cavallo",
@@ -2853,12 +2208,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "costiera",
-    "citta": "Cetara",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Cetara"
   },
   {
     "nome": "Madonna Del Sito Alto",
@@ -2875,12 +2225,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sala Consilina",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sala Consilina"
   },
   {
     "nome": "M. Pianello",
@@ -2897,12 +2242,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Gioi",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Gioi"
   },
   {
     "nome": "Collina del Parco",
@@ -2919,12 +2259,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Nocera Inferiore",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Nocera Inferiore"
   },
   {
     "nome": "Tempa di Don Marco",
@@ -2941,12 +2276,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Timpone San Cono",
@@ -2963,12 +2293,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Ricigliano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Ricigliano"
   },
   {
     "nome": "Timpone Palombella",
@@ -2985,12 +2310,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Timpone Panariello",
@@ -3007,12 +2327,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Timpone Cuccesso",
@@ -3029,12 +2344,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Ricigliano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Ricigliano"
   },
   {
     "nome": "Timpa Zacchera",
@@ -3051,12 +2361,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Ricigliano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Ricigliano"
   },
   {
     "nome": "Timpa del Monaco",
@@ -3073,12 +2378,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Pietra di Gianmaria",
@@ -3095,12 +2395,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Santa Anastasia",
@@ -3117,12 +2412,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempa Pozzillo",
@@ -3139,12 +2429,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Il Torrione",
@@ -3161,12 +2446,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Tempa cavallerizza",
@@ -3183,12 +2463,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Timpa della Cisterna",
@@ -3205,12 +2480,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Timpa Sarrauto",
@@ -3227,12 +2497,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Serra dei Ripini",
@@ -3249,12 +2514,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Serra Monaco",
@@ -3271,12 +2531,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Serra Nicola",
@@ -3293,12 +2548,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "San Rufo",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "San Rufo"
   },
   {
     "nome": "P.zo della Ciufara",
@@ -3315,12 +2565,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Siano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Siano"
   },
   {
     "nome": "Serra Mancusi",
@@ -3337,12 +2582,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "cilento",
-    "citta": "Teggiano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Teggiano"
   },
   {
     "nome": "Timpa Pianella",
@@ -3359,12 +2599,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "salerno",
-    "citta": "Ricigliano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Ricigliano"
   },
   {
     "nome": "Rudere Castello di Pogerola",
@@ -3381,12 +2616,7 @@
     "frequenza": "",
     "tipo": "panorama",
     "zona": "costiera",
-    "citta": "Amalfi",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Amalfi"
   },
   {
     "nome": "Madonna del Silenzio",
@@ -3398,12 +2628,7 @@
     "id": "panorami-madonna-del-silenzio-442",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Praiano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Praiano"
   },
   {
     "nome": "Punta Tresino",
@@ -3415,12 +2640,7 @@
     "id": "panorami-punta-tresino-443",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Agropoli",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Agropoli"
   },
   {
     "nome": "Pietra Mulacchio",
@@ -3432,12 +2652,7 @@
     "id": "panorami-pietra-mulacchio-444",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Sessa Cilento",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sessa Cilento"
   },
   {
     "nome": "Fiordo di Furore",
@@ -3449,12 +2664,7 @@
     "id": "panorami-fiordo-di-furore-445",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Praiano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Praiano"
   },
   {
     "nome": "Pianoro di Ciolandrea",
@@ -3466,12 +2676,7 @@
     "id": "panorami-pianoro-di-ciolandrea-446",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "San Giovanni a Piro",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "San Giovanni a Piro"
   },
   {
     "nome": "Gola del Diavolo - Fiume Mingardo",
@@ -3483,12 +2688,7 @@
     "id": "panorami-gola-del-diavolo-fiume-mingardo-448",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Montano Antilia",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Montano Antilia"
   },
   {
     "nome": "Terrazza del Cilento",
@@ -3500,12 +2700,7 @@
     "id": "panorami-terrazza-del-cilento-449",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Capaccio Paestum",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Capaccio Paestum"
   },
   {
     "nome": "Panorama Monte Stella e Gelbison",
@@ -3517,12 +2712,7 @@
     "id": "panorami-panorama-monte-stella-e-gelbison-450",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "San Nicola Arcella",
-    "last_verified": "2026-09-07",
-    "provincia": "Cosenza",
-    "sigla_provincia": "CS",
-    "regione": "Calabria",
-    "in_ambito": false
+    "citta": "San Nicola Arcella"
   },
   {
     "nome": "Bird-watching 3",
@@ -3534,12 +2724,7 @@
     "id": "panorami-bird-watching-3-452",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Rutino",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Rutino"
   },
   {
     "nome": "Bird-watching 4",
@@ -3551,12 +2736,7 @@
     "id": "panorami-bird-watching-4-453",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Rutino",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Rutino"
   },
   {
     "nome": "Bird-watching 5",
@@ -3568,12 +2748,7 @@
     "id": "panorami-bird-watching-5-454",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Rutino",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Rutino"
   },
   {
     "nome": "Bird-watching 6",
@@ -3585,12 +2760,7 @@
     "id": "panorami-bird-watching-6-455",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Rutino",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Rutino"
   },
   {
     "nome": "Bird-watching 7",
@@ -3602,12 +2772,7 @@
     "id": "panorami-bird-watching-7-456",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Rutino",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Rutino"
   },
   {
     "nome": "Bird-watching 8",
@@ -3619,12 +2784,7 @@
     "id": "panorami-bird-watching-8-457",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Rutino",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Rutino"
   },
   {
     "nome": "Punta Bomerano",
@@ -3636,12 +2796,7 @@
     "id": "panorami-punta-bomerano-463",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Praiano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Praiano"
   },
   {
     "nome": "Foresta a Galleria",
@@ -3653,12 +2808,7 @@
     "id": "panorami-foresta-a-galleria-465",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Rutino",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Rutino"
   },
   {
     "nome": "Macchia mediterranea",
@@ -3670,12 +2820,7 @@
     "id": "panorami-macchia-mediterranea-466",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Rutino",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Rutino"
   },
   {
     "nome": "Bosco Misto",
@@ -3687,12 +2832,7 @@
     "id": "panorami-bosco-misto-468",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Rutino",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Rutino"
   },
   {
     "nome": "Punta San Lazzaro",
@@ -3704,12 +2844,7 @@
     "id": "panorami-punta-san-lazzaro-470",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Furore",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Furore"
   },
   {
     "nome": "Terrazza dell'Infinito",
@@ -3721,12 +2856,7 @@
     "id": "panorami-terrazza-dellinfinito-473",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Amalfi",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Amalfi"
   },
   {
     "nome": "La Sentinella",
@@ -3738,12 +2868,7 @@
     "id": "panorami-la-sentinella-475",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Montano Antilia",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Montano Antilia"
   },
   {
     "nome": "Pizzola di Montenero",
@@ -3755,12 +2880,7 @@
     "id": "panorami-pizzola-di-montenero-479",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Colliano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Colliano"
   },
   {
     "nome": "Timpone dell'Accellica",
@@ -3772,12 +2892,7 @@
     "id": "panorami-timpone-dellaccellica-480",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Acerno",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Acerno"
   },
   {
     "nome": "Piazzetta Panoramica",
@@ -3789,12 +2904,7 @@
     "id": "panorami-piazzetta-panoramica-485",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Capaccio Paestum",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Capaccio Paestum"
   },
   {
     "nome": "Panorama a 360°",
@@ -3806,12 +2916,7 @@
     "id": "panorami-panorama-a-360-486",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Sant'Egidio del Monte Albino",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Egidio del Monte Albino"
   },
   {
     "nome": "Vista sulla Valle del Mingardo",
@@ -3823,12 +2928,7 @@
     "id": "panorami-vista-sulla-valle-del-mingardo-490",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Rofrano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Rofrano"
   },
   {
     "nome": "Punta Pistiello",
@@ -3840,12 +2940,7 @@
     "id": "panorami-punta-pistiello-491",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Furore",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Furore"
   },
   {
     "nome": "Punta Vieca",
@@ -3857,12 +2952,7 @@
     "id": "panorami-punta-vieca-492",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Furore",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Furore"
   },
   {
     "nome": "vista al M. Gelbison - Bulgheria",
@@ -3874,12 +2964,7 @@
     "id": "panorami-vista-al-m-gelbison-bulgheria-493",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "San Nicola Arcella",
-    "last_verified": "2026-09-07",
-    "provincia": "Cosenza",
-    "sigla_provincia": "CS",
-    "regione": "Calabria",
-    "in_ambito": false
+    "citta": "San Nicola Arcella"
   },
   {
     "nome": "vista Alburni, Cervati, Centaurino",
@@ -3891,12 +2976,7 @@
     "id": "panorami-vista-alburni-cervati-centaurino-494",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Rofrano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Rofrano"
   },
   {
     "nome": "Ruderi Basilica Sant'Eustachio",
@@ -3908,12 +2988,7 @@
     "id": "panorami-ruderi-basilica-santeustachio-496",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Amalfi",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Amalfi"
   },
   {
     "nome": "Mirador del Valle del Selle",
@@ -3925,12 +3000,7 @@
     "id": "panorami-mirador-del-valle-del-selle-497",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Capaccio Paestum",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Capaccio Paestum"
   },
   {
     "nome": "Cascata del Solofrone",
@@ -3942,12 +3012,7 @@
     "id": "panorami-cascata-del-solofrone-498",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Capaccio Paestum",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Capaccio Paestum"
   },
   {
     "nome": "Veduta sul Vesuvio",
@@ -3959,12 +3024,7 @@
     "id": "panorami-veduta-sul-vesuvio-510",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Siano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Siano"
   },
   {
     "nome": "Pietra impuntellata",
@@ -3976,12 +3036,7 @@
     "id": "panorami-pietra-impuntellata-513",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Roscigno",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Roscigno"
   },
   {
     "nome": "Pizzo Castellone",
@@ -3993,12 +3048,7 @@
     "id": "panorami-pizzo-castellone-519",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Positano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Positano"
   },
   {
     "nome": "Piazzetta dell’Amore",
@@ -4010,12 +3060,7 @@
     "id": "panorami-piazzetta-dellamore-524",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Capaccio Paestum",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Capaccio Paestum"
   },
   {
     "nome": "Pietra del diavolo (punto esposto)",
@@ -4027,12 +3072,7 @@
     "id": "panorami-pietra-del-diavolo-punto-esposto-527",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Buccino",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Buccino"
   },
   {
     "nome": "sella dei Tre Calli",
@@ -4044,12 +3084,7 @@
     "id": "panorami-sella-dei-tre-calli-528",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Praiano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Praiano"
   },
   {
     "nome": "Punta Paipo",
@@ -4061,12 +3096,7 @@
     "id": "panorami-punta-paipo-532",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Praiano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Praiano"
   },
   {
     "nome": "Rovigliano amazing landscape",
@@ -4078,12 +3108,7 @@
     "id": "panorami-rovigliano-amazing-landscape-533",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Torre Annunziata",
-    "last_verified": "2026-09-07",
-    "provincia": "Napoli",
-    "sigla_provincia": "NA",
-    "regione": "Campania",
-    "in_ambito": false
+    "citta": "Torre Annunziata"
   },
   {
     "nome": "Punta Vento",
@@ -4095,12 +3120,7 @@
     "id": "panorami-punta-vento-534",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Ravello",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Ravello"
   },
   {
     "nome": "Scanno del Cantatore",
@@ -4112,12 +3132,7 @@
     "id": "panorami-scanno-del-cantatore-535",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Roscigno",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Roscigno"
   },
   {
     "nome": "Piazza Belvedere",
@@ -4129,12 +3144,7 @@
     "id": "panorami-piazza-belvedere-536",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Amalfi",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Amalfi"
   },
   {
     "nome": "Capo delle Armi",
@@ -4146,12 +3156,7 @@
     "id": "panorami-capo-delle-armi-538",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "nome": "Terrazza dell'Amore",
@@ -4163,12 +3168,7 @@
     "id": "panorami-terrazza-dellamore-539",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Buccino",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Buccino"
   },
   {
     "nome": "Madonna della Montagna",
@@ -4180,12 +3180,7 @@
     "id": "panorami-madonna-della-montagna-542",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "id": "osm-317680027",
@@ -4199,12 +3194,7 @@
     "link": "https://www.openstreetmap.org/node/317680027",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Pompei",
-    "last_verified": "2026-09-07",
-    "provincia": "Napoli",
-    "sigla_provincia": "NA",
-    "regione": "Campania",
-    "in_ambito": false
+    "citta": "Pompei"
   },
   {
     "id": "osm-1436258471",
@@ -4218,12 +3208,7 @@
     "link": "https://www.openstreetmap.org/node/1436258471",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Campagna",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Campagna"
   },
   {
     "id": "osm-1436265123",
@@ -4237,12 +3222,7 @@
     "link": "https://www.openstreetmap.org/node/1436265123",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "San Cipriano Picentino",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "San Cipriano Picentino"
   },
   {
     "id": "osm-1601805585",
@@ -4256,12 +3236,7 @@
     "link": "https://www.openstreetmap.org/node/1601805585",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Capaccio Paestum",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Capaccio Paestum"
   },
   {
     "id": "osm-1762147523",
@@ -4275,12 +3250,7 @@
     "link": "https://www.openstreetmap.org/node/1762147523",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Sorrento",
-    "last_verified": "2026-09-07",
-    "provincia": "Napoli",
-    "sigla_provincia": "NA",
-    "regione": "Campania",
-    "in_ambito": false
+    "citta": "Sorrento"
   },
   {
     "id": "osm-1813679436",
@@ -4294,12 +3264,7 @@
     "link": "https://www.openstreetmap.org/node/1813679436",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Rutino",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Rutino"
   },
   {
     "id": "osm-1813679823",
@@ -4313,12 +3278,7 @@
     "link": "https://www.openstreetmap.org/node/1813679823",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Rutino",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Rutino"
   },
   {
     "id": "osm-1827346327",
@@ -4332,12 +3292,7 @@
     "link": "https://www.openstreetmap.org/node/1827346327",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Teora",
-    "last_verified": "2026-09-07",
-    "provincia": "Avellino",
-    "sigla_provincia": "AV",
-    "regione": "Campania",
-    "in_ambito": false
+    "citta": "Teora"
   },
   {
     "id": "osm-1827346357",
@@ -4351,12 +3306,7 @@
     "link": "https://www.openstreetmap.org/node/1827346357",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Teora",
-    "last_verified": "2026-09-07",
-    "provincia": "Avellino",
-    "sigla_provincia": "AV",
-    "regione": "Campania",
-    "in_ambito": false
+    "citta": "Teora"
   },
   {
     "id": "osm-1861294037",
@@ -4370,12 +3320,7 @@
     "link": "https://www.openstreetmap.org/node/1861294037",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Castellabate",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Castellabate"
   },
   {
     "id": "osm-1908450105",
@@ -4389,12 +3334,7 @@
     "link": "https://www.openstreetmap.org/node/1908450105",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Teora",
-    "last_verified": "2026-09-07",
-    "provincia": "Avellino",
-    "sigla_provincia": "AV",
-    "regione": "Campania",
-    "in_ambito": false
+    "citta": "Teora"
   },
   {
     "id": "osm-1982765733",
@@ -4408,12 +3348,7 @@
     "link": "https://www.openstreetmap.org/node/1982765733",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Furore",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Furore"
   },
   {
     "id": "osm-2091017399",
@@ -4427,12 +3362,7 @@
     "link": "https://www.openstreetmap.org/node/2091017399",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "San Giovanni a Piro",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "San Giovanni a Piro"
   },
   {
     "id": "osm-2247174273",
@@ -4446,12 +3376,7 @@
     "link": "https://www.openstreetmap.org/node/2247174273",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Amalfi",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Amalfi"
   },
   {
     "id": "osm-2249873262",
@@ -4465,12 +3390,7 @@
     "link": "https://www.openstreetmap.org/node/2249873262",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Laviano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Laviano"
   },
   {
     "id": "osm-2268656639",
@@ -4484,12 +3404,7 @@
     "link": "https://www.openstreetmap.org/node/2268656639",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Caposele",
-    "last_verified": "2026-09-07",
-    "provincia": "Avellino",
-    "sigla_provincia": "AV",
-    "regione": "Campania",
-    "in_ambito": false
+    "citta": "Caposele"
   },
   {
     "id": "osm-2268712477",
@@ -4503,12 +3418,7 @@
     "link": "https://www.openstreetmap.org/node/2268712477",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Laviano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Laviano"
   },
   {
     "id": "osm-2361769180",
@@ -4522,12 +3432,7 @@
     "link": "https://www.openstreetmap.org/node/2361769180",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Sorrento",
-    "last_verified": "2026-09-07",
-    "provincia": "Napoli",
-    "sigla_provincia": "NA",
-    "regione": "Campania",
-    "in_ambito": false
+    "citta": "Sorrento"
   },
   {
     "id": "osm-2375662550",
@@ -4541,12 +3446,7 @@
     "link": "https://www.openstreetmap.org/node/2375662550",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Amalfi",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Amalfi"
   },
   {
     "id": "osm-2452244651",
@@ -4560,12 +3460,7 @@
     "link": "https://www.openstreetmap.org/node/2452244651",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Vico Equense",
-    "last_verified": "2026-09-07",
-    "provincia": "Napoli",
-    "sigla_provincia": "NA",
-    "regione": "Campania",
-    "in_ambito": false
+    "citta": "Vico Equense"
   },
   {
     "id": "osm-2609086089",
@@ -4579,12 +3474,7 @@
     "link": "https://www.openstreetmap.org/node/2609086089",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Amalfi",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Amalfi"
   },
   {
     "id": "osm-2772195029",
@@ -4598,12 +3488,7 @@
     "link": "https://www.openstreetmap.org/node/2772195029",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Bracigliano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Bracigliano"
   },
   {
     "id": "osm-3358597325",
@@ -4617,12 +3502,7 @@
     "link": "https://www.openstreetmap.org/node/3358597325",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Sorrento",
-    "last_verified": "2026-09-07",
-    "provincia": "Napoli",
-    "sigla_provincia": "NA",
-    "regione": "Campania",
-    "in_ambito": false
+    "citta": "Sorrento"
   },
   {
     "id": "osm-3388099756",
@@ -4636,12 +3516,7 @@
     "link": "https://www.openstreetmap.org/node/3388099756",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Positano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Positano"
   },
   {
     "id": "osm-3726125820",
@@ -4655,12 +3530,7 @@
     "link": "https://www.openstreetmap.org/node/3726125820",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Teora",
-    "last_verified": "2026-09-07",
-    "provincia": "Avellino",
-    "sigla_provincia": "AV",
-    "regione": "Campania",
-    "in_ambito": false
+    "citta": "Teora"
   },
   {
     "id": "osm-4097256816",
@@ -4674,12 +3544,7 @@
     "link": "https://www.openstreetmap.org/node/4097256816",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Amalfi",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Amalfi"
   },
   {
     "id": "osm-4100111998",
@@ -4693,12 +3558,7 @@
     "link": "https://www.openstreetmap.org/node/4100111998",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Massa Lubrense",
-    "last_verified": "2026-09-07",
-    "provincia": "Napoli",
-    "sigla_provincia": "NA",
-    "regione": "Campania",
-    "in_ambito": false
+    "citta": "Massa Lubrense"
   },
   {
     "id": "osm-4345993072",
@@ -4712,12 +3572,7 @@
     "link": "https://www.openstreetmap.org/node/4345993072",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Amalfi",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Amalfi"
   },
   {
     "id": "osm-4510427293",
@@ -4731,12 +3586,7 @@
     "link": "https://www.openstreetmap.org/node/4510427293",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "San Pietro al Tanagro",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "San Pietro al Tanagro"
   },
   {
     "id": "osm-5577114531",
@@ -4750,12 +3600,7 @@
     "link": "https://www.openstreetmap.org/node/5577114531",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Amalfi",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Amalfi"
   },
   {
     "id": "osm-5598256225",
@@ -4769,12 +3614,7 @@
     "link": "https://www.openstreetmap.org/node/5598256225",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Massa Lubrense",
-    "last_verified": "2026-09-07",
-    "provincia": "Napoli",
-    "sigla_provincia": "NA",
-    "regione": "Campania",
-    "in_ambito": false
+    "citta": "Massa Lubrense"
   },
   {
     "id": "osm-5992392218",
@@ -4788,12 +3628,7 @@
     "link": "https://www.openstreetmap.org/node/5992392218",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "San Nicola Arcella",
-    "last_verified": "2026-09-07",
-    "provincia": "Cosenza",
-    "sigla_provincia": "CS",
-    "regione": "Calabria",
-    "in_ambito": false
+    "citta": "San Nicola Arcella"
   },
   {
     "id": "osm-5992392308",
@@ -4807,12 +3642,7 @@
     "link": "https://www.openstreetmap.org/node/5992392308",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "San Nicola Arcella",
-    "last_verified": "2026-09-07",
-    "provincia": "Cosenza",
-    "sigla_provincia": "CS",
-    "regione": "Calabria",
-    "in_ambito": false
+    "citta": "San Nicola Arcella"
   },
   {
     "id": "osm-6015528200",
@@ -4826,12 +3656,7 @@
     "link": "https://www.openstreetmap.org/node/6015528200",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Ravello",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Ravello"
   },
   {
     "id": "osm-6015542876",
@@ -4845,12 +3670,7 @@
     "link": "https://www.openstreetmap.org/node/6015542876",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Ravello",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Ravello"
   },
   {
     "id": "osm-6089918753",
@@ -4864,12 +3684,7 @@
     "link": "https://www.openstreetmap.org/node/6089918753",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Sorrento",
-    "last_verified": "2026-09-07",
-    "provincia": "Napoli",
-    "sigla_provincia": "NA",
-    "regione": "Campania",
-    "in_ambito": false
+    "citta": "Sorrento"
   },
   {
     "id": "osm-6133237650",
@@ -4883,12 +3698,7 @@
     "link": "https://www.openstreetmap.org/node/6133237650",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Sorrento",
-    "last_verified": "2026-09-07",
-    "provincia": "Napoli",
-    "sigla_provincia": "NA",
-    "regione": "Campania",
-    "in_ambito": false
+    "citta": "Sorrento"
   },
   {
     "id": "osm-6143839913",
@@ -4902,12 +3712,7 @@
     "link": "https://www.openstreetmap.org/node/6143839913",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   },
   {
     "id": "osm-6816996961",
@@ -4921,12 +3726,7 @@
     "link": "https://www.openstreetmap.org/node/6816996961",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Gioi",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Gioi"
   },
   {
     "id": "osm-8174045980",
@@ -4940,12 +3740,7 @@
     "link": "https://www.openstreetmap.org/node/8174045980",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "San Cipriano Picentino",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "San Cipriano Picentino"
   },
   {
     "id": "osm-8176020601",
@@ -4959,12 +3754,7 @@
     "link": "https://www.openstreetmap.org/node/8176020601",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "San Cipriano Picentino",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "San Cipriano Picentino"
   },
   {
     "id": "osm-8934549621",
@@ -4978,12 +3768,7 @@
     "link": "https://www.openstreetmap.org/node/8934549621",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Roccadaspide",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Roccadaspide"
   },
   {
     "id": "osm-8998613862",
@@ -4997,12 +3782,7 @@
     "link": "https://www.openstreetmap.org/node/8998613862",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Vico Equense",
-    "last_verified": "2026-09-07",
-    "provincia": "Napoli",
-    "sigla_provincia": "NA",
-    "regione": "Campania",
-    "in_ambito": false
+    "citta": "Vico Equense"
   },
   {
     "id": "osm-9028088018",
@@ -5016,12 +3796,7 @@
     "link": "https://www.openstreetmap.org/node/9028088018",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Amalfi",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Amalfi"
   },
   {
     "id": "osm-9167731785",
@@ -5035,12 +3810,7 @@
     "link": "https://www.openstreetmap.org/node/9167731785",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Agropoli",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Agropoli"
   },
   {
     "id": "osm-9425604011",
@@ -5054,12 +3824,7 @@
     "link": "https://www.openstreetmap.org/node/9425604011",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Vico Equense",
-    "last_verified": "2026-09-07",
-    "provincia": "Napoli",
-    "sigla_provincia": "NA",
-    "regione": "Campania",
-    "in_ambito": false
+    "citta": "Vico Equense"
   },
   {
     "id": "osm-9597020896",
@@ -5073,12 +3838,7 @@
     "link": "https://www.openstreetmap.org/node/9597020896",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Giffoni Valle Piana",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Giffoni Valle Piana"
   },
   {
     "id": "osm-9767039179",
@@ -5092,12 +3852,7 @@
     "link": "https://www.openstreetmap.org/node/9767039179",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "San Giovanni a Piro",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "San Giovanni a Piro"
   },
   {
     "id": "osm-10173675854",
@@ -5111,12 +3866,7 @@
     "link": "https://www.openstreetmap.org/node/10173675854",
     "zona": "cilento",
     "tipo": "panorama",
-    "citta": "Piaggine",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Piaggine"
   },
   {
     "id": "osm-12085666021",
@@ -5130,12 +3880,7 @@
     "link": "https://www.openstreetmap.org/node/12085666021",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Praiano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Praiano"
   },
   {
     "id": "osm-12105253647",
@@ -5149,12 +3894,7 @@
     "link": "https://www.openstreetmap.org/node/12105253647",
     "zona": "costiera",
     "tipo": "panorama",
-    "citta": "Positano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Positano"
   },
   {
     "id": "osm-13005727222",
@@ -5168,11 +3908,6 @@
     "link": "https://www.openstreetmap.org/node/13005727222",
     "zona": "salerno",
     "tipo": "panorama",
-    "citta": "Campagna",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Campagna"
   }
 ]

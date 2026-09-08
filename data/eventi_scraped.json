@@ -14,8 +14,10 @@
       "id": "salernotoday-eventi"
     },
     "license": "da verificare (testata registrata, contenuti (c))",
-    "retrieved_at": "2026-09-08T07:39:22+00:00",
-    "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/"
+    "retrieved_at": "2026-09-08T10:11:26+00:00",
+    "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "salernotoday-eventi-sagra-dell-uva-e-del-vino-2026-filetta-si-prepara-a-quattro-",
@@ -32,8 +34,10 @@
       "id": "salernotoday-eventi"
     },
     "license": "da verificare (testata registrata, contenuti (c))",
-    "retrieved_at": "2026-09-08T07:39:48+00:00",
-    "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/"
+    "retrieved_at": "2026-09-08T10:11:47+00:00",
+    "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "salernotoday-eventi-premio-charlot-vecchioni-franco-e-placido-i-grandi-protagoni",
@@ -50,8 +54,10 @@
       "id": "salernotoday-eventi"
     },
     "license": "da verificare (testata registrata, contenuti (c))",
-    "retrieved_at": "2026-09-08T07:41:01+00:00",
-    "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/"
+    "retrieved_at": "2026-09-08T10:12:45+00:00",
+    "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "comune-salerno-eventi-teatro-delle-arti-di-salerno-presentato-il-cartellone-2026-2",
@@ -68,9 +74,12 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-09-08T07:43:33+00:00",
+    "retrieved_at": "2026-09-08T10:14:40+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
-    "ufficiale": true
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "comune-salerno-eventi-teatro-verdi-e-sala-pasolini-i-cartelloni-2026-2027",
@@ -87,9 +96,12 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-09-08T07:43:35+00:00",
+    "retrieved_at": "2026-09-08T10:14:42+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
-    "ufficiale": true
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "comune-salerno-eventi-barbuti-festival-2026",
@@ -106,9 +118,12 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-09-08T07:43:37+00:00",
+    "retrieved_at": "2026-09-08T10:14:44+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
-    "ufficiale": true
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "comune-salerno-eventi-teatrando-al-quadriportico-2026",
@@ -125,9 +140,12 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-09-08T07:43:40+00:00",
+    "retrieved_at": "2026-09-08T10:14:46+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
-    "ufficiale": true
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "comune-salerno-eventi-limen-salerno-festival-2026",
@@ -144,9 +162,12 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-09-08T07:43:43+00:00",
+    "retrieved_at": "2026-09-08T10:14:48+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
-    "ufficiale": true
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "comune-salerno-eventi-martin-parr-wow-salerno-ricorda-il-grande-fotografo-britanni",
@@ -163,9 +184,12 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-09-08T07:43:45+00:00",
+    "retrieved_at": "2026-09-08T10:14:50+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
-    "ufficiale": true
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "comune-salerno-eventi-tornano-le-fiabe-per-luci-d-artista",
@@ -182,9 +206,12 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-09-08T07:43:49+00:00",
+    "retrieved_at": "2026-09-08T10:14:53+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
-    "ufficiale": true
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "comune-salerno-eventi-io-sono-qui-il-pontificato-di-papa-francesco-in-vignette",
@@ -201,9 +228,12 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-09-08T07:43:54+00:00",
+    "retrieved_at": "2026-09-08T10:15:04+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
-    "ufficiale": true
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "comune-salerno-eventi-festival-dante-senza-frontiere",
@@ -220,9 +250,12 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-09-08T07:43:57+00:00",
+    "retrieved_at": "2026-09-08T10:15:07+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
-    "ufficiale": true
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "comune-salerno-eventi-notte-bianca-weekend-salerno-2026",
@@ -239,9 +272,12 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-09-08T07:44:00+00:00",
+    "retrieved_at": "2026-09-08T10:15:10+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
-    "ufficiale": true
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "comune-salerno-eventi-jazz-in-luce-suoni-ed-emozioni-nel-cuore-della-citt",
@@ -258,9 +294,12 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-09-08T07:44:02+00:00",
+    "retrieved_at": "2026-09-08T10:15:11+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
-    "ufficiale": true
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "comune-salerno-eventi-capodanno-in-piazza-a-salerno-con-mahmood",
@@ -277,9 +316,12 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-09-08T07:44:06+00:00",
+    "retrieved_at": "2026-09-08T10:15:14+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
-    "ufficiale": true
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "comune-salerno-eventi-concerti-sotto-le-stelle-al-giardino-della-minerva",
@@ -296,9 +338,12 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-09-08T07:44:08+00:00",
+    "retrieved_at": "2026-09-08T10:15:16+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
-    "ufficiale": true
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "comune-salerno-eventi-salernosounds-la-musica-live-arriva-in-piazza-della-libert",
@@ -315,9 +360,12 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-09-08T07:44:10+00:00",
+    "retrieved_at": "2026-09-08T10:15:18+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
-    "ufficiale": true
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "comune-salerno-eventi-live-stream-fest-25-la-serata-finale",
@@ -334,9 +382,12 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-09-08T07:44:13+00:00",
+    "retrieved_at": "2026-09-08T10:15:20+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
-    "ufficiale": true
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "comune-salerno-eventi-ho-sbagliato-tutto-torna-il-limen-salerno-festival",
@@ -353,9 +404,12 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-09-08T07:44:15+00:00",
+    "retrieved_at": "2026-09-08T10:15:22+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
-    "ufficiale": true
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "comune-salerno-eventi-the-voice-the-violin-amii-stewart-e-alessandro-quarta-al-tea",
@@ -372,9 +426,34 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-09-08T07:44:17+00:00",
+    "retrieved_at": "2026-09-08T10:15:24+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
-    "ufficiale": true
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
+  },
+  {
+    "id": "comune-salerno-eventi-a-matierno-il-musical-inclusivo-gli-aristogatti-con-brani-su",
+    "nome": "A Matierno il musical inclusivo \"Gli Aristogatti - con brani suonati e cantati dal vivo\"",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/matierno-il-musical-inclusivo-gli-aristogatti-con-brani-suonati-e-cantati",
+    "data_inizio": "2025-06-11",
+    "data_fine": "2025-06-11",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T10:15:26+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "comune-salerno-eventi-domenica-26-ottobre-la-30-edizione-della-strasalerno",
@@ -391,9 +470,12 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-09-08T07:44:51+00:00",
+    "retrieved_at": "2026-09-08T10:15:29+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
-    "ufficiale": true
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "comune-salerno-eventi-nordic-walking-un-alleato-contro-la-fragilit",
@@ -410,9 +492,12 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-09-08T07:44:55+00:00",
+    "retrieved_at": "2026-09-08T10:15:33+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
-    "ufficiale": true
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "comune-salerno-eventi-alla-parrocchia-san-demetrio-il-presepe-vivente-dei-bambini",
@@ -429,9 +514,12 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-09-08T07:44:58+00:00",
+    "retrieved_at": "2026-09-08T10:15:35+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
-    "ufficiale": true
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "comune-salerno-eventi-un-natale-a-ritmo-di-legalit-a-matierno",
@@ -448,9 +536,12 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-09-08T07:45:02+00:00",
+    "retrieved_at": "2026-09-08T10:15:38+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
-    "ufficiale": true
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "comune-salerno-eventi-salerno-inaugura-la-race-for-the-cure-campania",
@@ -467,9 +558,12 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-09-08T07:45:05+00:00",
+    "retrieved_at": "2026-09-08T10:15:42+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
-    "ufficiale": true
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   },
   {
     "id": "comune-salerno-eventi-torna-ecommerce-hub-l-evento-di-riferimento-per-l-ecommerce-",
@@ -486,8 +580,385 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-09-08T07:45:09+00:00",
+    "retrieved_at": "2026-09-08T10:15:44+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
-    "ufficiale": true
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
+  },
+  {
+    "id": "comune-ravello-eventi-arte-le-ceramiche-di-manuel-cargaleiro-in-mostra-a-ravello",
+    "nome": "Arte. Le ceramiche di Manuel Cargaleiro in mostra a Ravello",
+    "link": "https://www.comune.ravello.sa.it/it/eventi/arte-le-ceramiche-di-manuel-cargaleiro-in-mostra-a-ravello",
+    "data_inizio": "2025-10-10",
+    "data_fine": "2026-01-06",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Ravello — Eventi",
+      "url": "https://www.comune.ravello.sa.it/it/vivere/eventi",
+      "type": "official",
+      "id": "comune-ravello-eventi"
+    },
+    "license": "PA italiana, da confermare",
+    "retrieved_at": "2026-09-08T10:15:46+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
+    "ufficiale": true,
+    "data_via": "time",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
+  },
+  {
+    "id": "comune-ravello-eventi-cultura-nella-sua-ravello-l-omaggio-a-gore-vidal",
+    "nome": "Cultura. Nella sua Ravello, l'omaggio a Gore Vidal",
+    "link": "https://www.comune.ravello.sa.it/it/eventi/cultura-nella-sua-ravello-l-omaggio-a-gore-vidal",
+    "data_inizio": "2025-10-03",
+    "data_fine": "2025-10-03",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Ravello — Eventi",
+      "url": "https://www.comune.ravello.sa.it/it/vivere/eventi",
+      "type": "official",
+      "id": "comune-ravello-eventi"
+    },
+    "license": "PA italiana, da confermare",
+    "retrieved_at": "2026-09-08T10:15:47+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
+    "ufficiale": true,
+    "data_via": "time",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
+  },
+  {
+    "id": "comune-ravello-eventi-eventi-a-ravello-la-terza-edizione-di-culture-sonore",
+    "nome": "Eventi. A Ravello la terza edizione di “Culture Sonore”",
+    "link": "https://www.comune.ravello.sa.it/it/eventi/eventi-a-ravello-la-terza-edizione-di-culture-sonore",
+    "data_inizio": "2025-09-23",
+    "data_fine": "2025-09-28",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Ravello — Eventi",
+      "url": "https://www.comune.ravello.sa.it/it/vivere/eventi",
+      "type": "official",
+      "id": "comune-ravello-eventi"
+    },
+    "license": "PA italiana, da confermare",
+    "retrieved_at": "2026-09-08T10:15:47+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
+    "ufficiale": true,
+    "data_via": "time",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
+  },
+  {
+    "id": "comune-ravello-eventi-ravello-l-incendio-del-borgo-illumina-la-frazione-di-torello",
+    "nome": "Ravello. L'“Incendio del borgo” illumina la frazione di Torello",
+    "link": "https://www.comune.ravello.sa.it/it/eventi/ravello-l-incendio-del-borgo-illumina-la-frazione-di-torello",
+    "data_inizio": "2025-09-21",
+    "data_fine": "2025-09-21",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Ravello — Eventi",
+      "url": "https://www.comune.ravello.sa.it/it/vivere/eventi",
+      "type": "official",
+      "id": "comune-ravello-eventi"
+    },
+    "license": "PA italiana, da confermare",
+    "retrieved_at": "2026-09-08T10:15:48+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
+    "ufficiale": true,
+    "data_via": "time",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
+  },
+  {
+    "id": "comune-ravello-eventi-ravello-week-end-con-le-passeggiate-tra-natura-sapori-e-lett",
+    "nome": "Ravello. Week-end con le passeggiate tra natura, sapori e letteratura",
+    "link": "https://www.comune.ravello.sa.it/it/eventi/ravello-week-end-con-le-passeggiate-tra-natura-sapori-e-letteratura",
+    "data_inizio": "2023-10-21",
+    "data_fine": "2023-10-22",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Ravello — Eventi",
+      "url": "https://www.comune.ravello.sa.it/it/vivere/eventi",
+      "type": "official",
+      "id": "comune-ravello-eventi"
+    },
+    "license": "PA italiana, da confermare",
+    "retrieved_at": "2026-09-08T10:15:49+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
+    "ufficiale": true,
+    "data_via": "time",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
+  },
+  {
+    "id": "comune-ravello-eventi-ravellomusic",
+    "nome": "Ravellomusic",
+    "link": "https://www.comune.ravello.sa.it/it/eventi/ravellomusic",
+    "data_inizio": "2023-09-28",
+    "data_fine": "2023-09-28",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Ravello — Eventi",
+      "url": "https://www.comune.ravello.sa.it/it/vivere/eventi",
+      "type": "official",
+      "id": "comune-ravello-eventi"
+    },
+    "license": "PA italiana, da confermare",
+    "retrieved_at": "2026-09-08T10:15:50+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
+    "ufficiale": true,
+    "data_via": "time",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
+  },
+  {
+    "id": "comune-ravello-eventi-commemorazione",
+    "nome": "Commemorazione",
+    "link": "https://www.comune.ravello.sa.it/it/vivere/eventi/commemorazione",
+    "data_inizio": "2023-06-02",
+    "data_fine": "2023-06-02",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Ravello — Eventi",
+      "url": "https://www.comune.ravello.sa.it/it/vivere/eventi",
+      "type": "official",
+      "id": "comune-ravello-eventi"
+    },
+    "license": "PA italiana, da confermare",
+    "retrieved_at": "2026-09-08T10:15:51+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
+    "ufficiale": true,
+    "data_via": "time",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
+  },
+  {
+    "id": "comune-ravello-eventi-eventi-sociali",
+    "nome": "Eventi sociali",
+    "link": "https://www.comune.ravello.sa.it/it/vivere/eventi/eventi-sociali",
+    "data_inizio": "2023-01-08",
+    "data_fine": "2023-02-28",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Ravello — Eventi",
+      "url": "https://www.comune.ravello.sa.it/it/vivere/eventi",
+      "type": "official",
+      "id": "comune-ravello-eventi"
+    },
+    "license": "PA italiana, da confermare",
+    "retrieved_at": "2026-09-08T10:15:51+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
+    "ufficiale": true,
+    "data_via": "time",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
+  },
+  {
+    "id": "comune-ravello-eventi-evento-culturale",
+    "nome": "Evento culturale",
+    "link": "https://www.comune.ravello.sa.it/it/vivere/eventi/evento-culturale",
+    "data_inizio": "2025-10-10",
+    "data_fine": "2025-10-10",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Ravello — Eventi",
+      "url": "https://www.comune.ravello.sa.it/it/vivere/eventi",
+      "type": "official",
+      "id": "comune-ravello-eventi"
+    },
+    "license": "PA italiana, da confermare",
+    "retrieved_at": "2026-09-08T10:15:52+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
+    "ufficiale": true,
+    "data_via": "time",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
+  },
+  {
+    "id": "comune-ravello-eventi-evento-di-formazione",
+    "nome": "Evento di formazione",
+    "link": "https://www.comune.ravello.sa.it/it/vivere/eventi/evento-di-formazione",
+    "data_inizio": "2023-03-28",
+    "data_fine": "2023-03-28",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Ravello — Eventi",
+      "url": "https://www.comune.ravello.sa.it/it/vivere/eventi",
+      "type": "official",
+      "id": "comune-ravello-eventi"
+    },
+    "license": "PA italiana, da confermare",
+    "retrieved_at": "2026-09-08T10:15:53+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
+    "ufficiale": true,
+    "data_via": "time",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
+  },
+  {
+    "id": "comune-ravello-eventi-incontro-con-esperti",
+    "nome": "Incontro con esperti",
+    "link": "https://www.comune.ravello.sa.it/it/vivere/eventi/incontro-con-esperti",
+    "data_inizio": "2023-03-29",
+    "data_fine": "2023-03-29",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Ravello — Eventi",
+      "url": "https://www.comune.ravello.sa.it/it/vivere/eventi",
+      "type": "official",
+      "id": "comune-ravello-eventi"
+    },
+    "license": "PA italiana, da confermare",
+    "retrieved_at": "2026-09-08T10:15:53+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
+    "ufficiale": true,
+    "data_via": "time",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
+  },
+  {
+    "id": "comune-ravello-eventi-manifestazione-musicale",
+    "nome": "Manifestazione musicale",
+    "link": "https://www.comune.ravello.sa.it/it/vivere/eventi/manifestazione-musicale",
+    "data_inizio": "2023-09-28",
+    "data_fine": "2023-09-28",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Ravello — Eventi",
+      "url": "https://www.comune.ravello.sa.it/it/vivere/eventi",
+      "type": "official",
+      "id": "comune-ravello-eventi"
+    },
+    "license": "PA italiana, da confermare",
+    "retrieved_at": "2026-09-08T10:15:54+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
+    "ufficiale": true,
+    "data_via": "time",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
+  },
+  {
+    "id": "comune-ravello-eventi-presentazione-libro",
+    "nome": "Presentazione libro",
+    "link": "https://www.comune.ravello.sa.it/it/vivere/eventi/presentazione-libro",
+    "data_inizio": "2023-09-11",
+    "data_fine": "2023-09-11",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Ravello — Eventi",
+      "url": "https://www.comune.ravello.sa.it/it/vivere/eventi",
+      "type": "official",
+      "id": "comune-ravello-eventi"
+    },
+    "license": "PA italiana, da confermare",
+    "retrieved_at": "2026-09-08T10:15:54+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
+    "ufficiale": true,
+    "data_via": "time",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
+  },
+  {
+    "id": "comune-agropoli-eventi-francesco-giorgino-all-anteprima-della-xviii-edizione-del-se",
+    "nome": "Francesco Giorgino all’anteprima della XVIII edizione del Settembre Culturale",
+    "link": "https://comune.agropoli.sa.it/vivere-il-comune/eventi/francesco-giorgino-allanteprima-della-xviii-edizione-del-settembre-culturale/",
+    "data_inizio": "2025-07-21",
+    "data_fine": "2025-07-21",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Citta' di Agropoli — Eventi",
+      "url": "https://www.comune.agropoli.sa.it/vivere-il-comune/eventi/",
+      "type": "official",
+      "id": "comune-agropoli-eventi"
+    },
+    "license": "PA italiana, da confermare",
+    "retrieved_at": "2026-09-08T10:15:59+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.agropoli.sa.it/vivere-il-comune/eventi/",
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
+  },
+  {
+    "id": "comune-agropoli-eventi-cerimonia-di-intitolazione-di-piazza-prof-paolo-serra",
+    "nome": "Cerimonia di intitolazione di Piazza Prof. Paolo Serra",
+    "link": "https://comune.agropoli.sa.it/vivere-il-comune/eventi/cerimonia-di-intitolazione-di-piazza-prof-paolo-serra/",
+    "data_inizio": "2025-07-09",
+    "data_fine": "2025-07-09",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Citta' di Agropoli — Eventi",
+      "url": "https://www.comune.agropoli.sa.it/vivere-il-comune/eventi/",
+      "type": "official",
+      "id": "comune-agropoli-eventi"
+    },
+    "license": "PA italiana, da confermare",
+    "retrieved_at": "2026-09-08T10:16:00+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.agropoli.sa.it/vivere-il-comune/eventi/",
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
+  },
+  {
+    "id": "comune-agropoli-eventi-carnevale-di-agropoli",
+    "nome": "Carnevale di Agropoli",
+    "link": "https://comune.agropoli.sa.it/vivere-il-comune/eventi/carnevale-di-agropoli/",
+    "data_inizio": "2024-02-11",
+    "data_fine": "2024-02-13",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Citta' di Agropoli — Eventi",
+      "url": "https://www.comune.agropoli.sa.it/vivere-il-comune/eventi/",
+      "type": "official",
+      "id": "comune-agropoli-eventi"
+    },
+    "license": "PA italiana, da confermare",
+    "retrieved_at": "2026-09-08T10:16:01+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.agropoli.sa.it/vivere-il-comune/eventi/",
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
+  },
+  {
+    "id": "comune-praiano-eventi-i-suoni-degli-dei-concerti-sul-sentiero-degli-dei-xviii-ediz",
+    "nome": "I Suoni degli Dei - Concerti sul Sentiero degli Dei - XVIII edizione – Anno 2026",
+    "link": "https://comune.praiano.sa.it/eventi/2702306/suoni",
+    "data_inizio": "2026-05-09",
+    "data_fine": "2026-05-09",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Praiano — Eventi",
+      "url": "https://www.comune.praiano.sa.it/eventi",
+      "type": "official",
+      "id": "comune-praiano-eventi"
+    },
+    "license": "PA italiana, da confermare",
+    "retrieved_at": "2026-09-08T10:16:08+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.praiano.sa.it/eventi",
+    "ufficiale": true,
+    "data_via": "calendario",
+    "visto_ultima_volta": "2026-09-08",
+    "visto_prima_volta": "2026-09-08"
   }
 ]

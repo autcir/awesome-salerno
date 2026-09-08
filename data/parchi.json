@@ -5,7 +5,7 @@
     "lat": 40.2833,
     "lng": 15.1667,
     "source": "hand-written",
-    "link": "https://www.openstreetmap.org/?mlat=40.2833&mlon=15.1667#map=16/40.2833/15.1667",
+    "link": "https://www.parcocesto.it",
     "id": "parco-cilento",
     "difficolta": "",
     "lunghezza_km": null,
@@ -14,13 +14,7 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "salerno",
-    "citta": "Omignano",
-    "link_rotto": "https://www.parcocesto.it",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Omignano"
   },
   {
     "nome": "Parco Naturale delle Ferriere",
@@ -28,7 +22,7 @@
     "lat": 40.6356,
     "lng": 14.6007,
     "source": "hand-written",
-    "link": "https://www.openstreetmap.org/?mlat=40.6356&mlon=14.6007#map=16/40.6356/14.6007",
+    "link": "https://www.parcoamalfi.it",
     "id": "parco-ferriere",
     "difficolta": "",
     "lunghezza_km": null,
@@ -37,13 +31,7 @@
     "frequenza": "",
     "tipo": "archeologico",
     "zona": "costiera",
-    "citta": "Amalfi",
-    "link_rotto": "https://www.parcoamalfi.it",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Amalfi"
   },
   {
     "nome": "Riserva Naturale Costiera Amalfitana",
@@ -51,7 +39,7 @@
     "lat": 40.6333,
     "lng": 14.6,
     "source": "hand-written",
-    "link": "https://www.openstreetmap.org/?mlat=40.6333&mlon=14.6#map=16/40.6333/14.6",
+    "link": "https://www.parcoamalfi.it",
     "id": "riserva-costiera",
     "difficolta": "",
     "lunghezza_km": null,
@@ -60,13 +48,7 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "costiera",
-    "citta": "Amalfi",
-    "link_rotto": "https://www.parcoamalfi.it",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Amalfi"
   },
   {
     "nome": "Area Marina Protetta Costa degli Infreschi e della Masseta",
@@ -74,7 +56,7 @@
     "lat": 40.033,
     "lng": 15.378,
     "source": "hand-written",
-    "link": "https://www.openstreetmap.org/?mlat=40.033&mlon=15.378#map=16/40.033/15.378",
+    "link": "https://www.parcocesto.it",
     "id": "area-marina-infreschi",
     "difficolta": "",
     "lunghezza_km": null,
@@ -83,13 +65,7 @@
     "frequenza": "",
     "tipo": "spiaggia",
     "zona": "salerno",
-    "citta": "San Giovanni a Piro",
-    "link_rotto": "https://www.parcocesto.it",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "San Giovanni a Piro"
   },
   {
     "nome": "Tenuta Castelluccio Gole del Cervati",
@@ -106,12 +82,7 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "cilento",
-    "citta": "Piaggine",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Piaggine"
   },
   {
     "nome": "Area Marina Protetta Punta Campanella",
@@ -128,12 +99,7 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "salerno",
-    "citta": "Sorrento",
-    "last_verified": "2026-09-07",
-    "provincia": "Napoli",
-    "sigla_provincia": "NA",
-    "regione": "Campania",
-    "in_ambito": false
+    "citta": "Sorrento"
   },
   {
     "nome": "Area Marina Protetta Santa Maria di Castellabate",
@@ -150,12 +116,7 @@
     "frequenza": "",
     "tipo": "altro",
     "zona": "cilento",
-    "citta": "Castellabate",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Castellabate"
   },
   {
     "id": "osm-93496743",
@@ -169,12 +130,7 @@
     "link": "https://www.openstreetmap.org/way/93496743",
     "zona": "salerno",
     "tipo": "altro",
-    "citta": "Colliano",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Colliano"
   },
   {
     "id": "osm-116820888",
@@ -188,12 +144,7 @@
     "link": "https://www.openstreetmap.org/way/116820888",
     "zona": "salerno",
     "tipo": "altro",
-    "citta": "Valva",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Valva"
   },
   {
     "id": "osm-1330860923",
@@ -207,12 +158,7 @@
     "link": "https://www.openstreetmap.org/way/1330860923",
     "zona": "cilento",
     "tipo": "altro",
-    "citta": "Capaccio Paestum",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Capaccio Paestum"
   },
   {
     "id": "osm-4100859",
@@ -226,12 +172,7 @@
     "link": "https://it.wikipedia.org/wiki/Parco_nazionale_del_Cilento,_Vallo_di_Diano_e_Alburni",
     "zona": "cilento",
     "tipo": "archeologico",
-    "citta": "Gioi",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Gioi"
   },
   {
     "id": "osm-4671891",
@@ -245,11 +186,6 @@
     "link": "https://www.openstreetmap.org/relation/4671891",
     "zona": "cilento",
     "tipo": "altro",
-    "citta": "Sant'Angelo a Fasanella",
-    "last_verified": "2026-09-07",
-    "provincia": "Salerno",
-    "sigla_provincia": "SA",
-    "regione": "Campania",
-    "in_ambito": true
+    "citta": "Sant'Angelo a Fasanella"
   }
 ]
