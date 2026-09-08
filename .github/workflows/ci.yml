@@ -8,7 +8,7 @@ on:
 
 jobs:
   lint:
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, linux, obscura]
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -19,7 +19,7 @@ jobs:
       - run: node scripts/test_ask.js
 
   validate-data:
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, linux, obscura]
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -69,7 +69,7 @@ jobs:
           "
 
   deploy-pages:
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, linux, obscura]
     needs: [lint, validate-data]
     if: github.ref == 'refs/heads/main'
     permissions:
