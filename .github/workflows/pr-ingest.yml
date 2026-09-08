@@ -1,0 +1,31 @@
+name: PR per l'ingest eventi
+on:
+  push:
+    branches: [dati/eventi-automatici]
+permissions:
+  contents: read
+  pull-requests: write
+jobs:
+  apri-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Apri o aggiorna la PR
+        env:
+          # GITHUB_TOKEN e' fornito da Actions: nessun token personale,
+          # nessun segreto da mettere sulla VPS.
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          N=$(python3 -c 'import json; print(len(json.load(open("data/eventi_scraped.json"))))')
+          if gh pr view dati/eventi-automatici --json number >/dev/null 2>&1; then
+            echo "PR gia' aperta: il push l'ha aggiornata"
+          else
+            gh pr create --base main --head dati/eventi-automatici \
+              --title "dati: ingest eventi — ${N} eventi" \
+              --body "Ingest automatico da soliso: **${N} eventi**.
+
+          Ogni record porta \`source\`, \`license\`, \`retrieved_at\`, \`provenance\` e \`curated: false\`.
+          Gli eventi non riconfermati per oltre 21 giorni escono da soli.
+
+          Generato da \`scripts/ingest_events.py\`. Guarda il diff prima di unire."
+          fi

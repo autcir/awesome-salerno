@@ -446,6 +446,13 @@ def main():
     out = DATA / "eventi_scraped.json"
     json.dump(finali, open(out, "w"), ensure_ascii=False, indent=2)
     print(f"scritto {out}")
+
+    # Lo stesso contenuto dove lo cerca plugin-salernos-events (from_disk).
+    # Gli alias serde del plugin mappano nome/data_inizio/citta/tipo, quindi
+    # non serve un secondo formato: serve solo il file al posto giusto.
+    plugin_out = DATA / "events.json"
+    json.dump(finali, open(plugin_out, "w"), ensure_ascii=False, indent=2)
+    print(f"scritto {plugin_out} (per plugin-salernos-events)")
     return 0
 
 
