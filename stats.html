@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statistiche - Awesome Salerno</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; color: #333; }
+
+        #header {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: white;
+            padding: 16px 24px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+        }
+        #header h1 { font-size: 20px; font-weight: 600; }
+        #header nav a { color: rgba(255,255,255,0.8); text-decoration: none; margin-left: 20px; font-size: 14px; transition: color 0.2s; }
+        #header nav a:hover { color: white; }
+        #header nav a.active { color: white; font-weight: 600; }
+
+        .container { max-width: 1100px; margin: 0 auto; padding: 20px 16px 40px; }
+
+        .summary-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+            gap: 16px;
+            margin-bottom: 24px;
+        }
+        .summary-card {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            text-align: center;
+        }
+        .summary-card .card-number {
+            font-size: 32px;
+            font-weight: 700;
+            color: #1a1a2e;
+        }
+        .summary-card .card-label {
+            font-size: 13px;
+            color: #888;
+            margin-top: 4px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(480px, 1fr));
+            gap: 20px;
+            margin-bottom: 24px;
+        }
+        @media (max-width: 560px) {
+            .charts-grid { grid-template-columns: 1fr; }
+        }
+
+        .chart-card {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        .chart-card h3 {
+            font-size: 15px;
+            color: #1a1a2e;
+            margin-bottom: 16px;
+            font-weight: 600;
+        }
+        .chart-card canvas { width: 100% !important; }
+        .chart-card.full-width { grid-column: 1 / -1; }
+
+        .top-cities { list-style: none; }
+        .top-cities li {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 8px 0;
+            border-bottom: 1px solid #f0f0f0;
+            font-size: 14px;
+        }
+        .top-cities li:last-child { border-bottom: none; }
+        .top-cities .rank {
+            width: 26px; height: 26px; flex-shrink: 0;
+            border-radius: 50%;
+            background: #1a1a2e; color: white;
+            font-size: 12px; font-weight: 700;
+            display: flex; align-items: center; justify-content: center;
+        }
+        .top-cities .city-name { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+        .top-cities .city-bar {
+            height: 8px; border-radius: 4px;
+            background: linear-gradient(90deg, #3498db, #16213e);
+            min-width: 4px;
+        }
+        .top-cities .city-count { font-weight: 700; color: #1a1a2e; min-width: 44px; text-align: right; }
+
+        .loading, .error {
+            text-align: center;
+            padding: 40px;
+            color: #888;
+            font-size: 14px;
+        }
+        .error { color: #c0392b; }
+    </style>
+</head>
+<body>
+    <div id="header">
+        <h1>Awesome Salerno</h1>
+        <nav>
+            <a href="index.html">Mappa</a>
+            <a href="calendar.html">Calendario</a>
+            <a href="stats.html" class="active">Statistiche</a>
+            <a href="ask.html">Ask</a>
+        </nav>
+    </div>
+
+    <div class="container">
+        <div class="loading" id="loading">Caricamento dati...</div>
+
+        <div class="summary-cards" id="summaryCards" style="display:none">
+            <div class="summary-card">
+                <div class="card-number" id="totalPOI">-</div>
+                <div class="card-label">POI Totali</div>
+            </div>
+            <div class="summary-card">
+                <div class="card-number" id="totalCities">-</div>
+                <div class="card-label">Comuni</div>
+            </div>
+            <div class="summary-card">
+                <div class="card-number" id="totalEvents">-</div>
+                <div class="card-label">Eventi</div>
+            </div>
+            <div class="summary-card">
+                <div class="card-number" id="totalTrails">-</div>
+                <div class="card-label">Sentieri</div>
+            </div>
+            <div class="summary-card">
+                <div class="card-number" id="totalMonuments">-</div>
+                <div class="card-label">Monumenti</div>
+            </div>
+        </div>
+
+        <div class="charts-grid" id="chartsGrid" style="display:none">
+            <div class="chart-card">
+                <h3>POI per Zona</h3>
+                <canvas id="chartZona"></canvas>
+            </div>
+            <div class="chart-card">
+                <h3>Eventi per Tipo</h3>
+                <canvas id="chartEventTipo"></canvas>
+            </div>
+            <div class="chart-card">
+                <h3>Eventi per Mese</h3>
+                <canvas id="chartEventMonth"></canvas>
+            </div>
+            <div class="chart-card">
+                <h3>Top 15 Comuni per POI</h3>
+                <ol class="top-cities" id="topCitiesList"></ol>
+            </div>
+            <div class="chart-card full-width">
+                <h3>POI per Tipo</h3>
+                <canvas id="chartTipo"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const CATEGORIES = ['sentieri', 'monumenti', 'spiagge', 'eventi', 'panorami', 'parchi'];
+        const MONTH_LABELS = ['Gen', 'Feb', 'Mar', 'Apr', 'Mag', 'Giu', 'Lug', 'Ago', 'Set', 'Ott', 'Nov', 'Dic'];
+        const TIPO_LABELS = {
+            'festa-patronale': 'Festa Patronale',
+            festival: 'Festival',
+            sagra: 'Sagra',
+            'luci-artista': "Luci d'Artista",
+            altro: 'Altro'
+        };
+        const TIPO_COLORS = {
+            'festa-patronale': '#ff6b6b',
+            festival: '#4ecdc4',
+            sagra: '#45b7d1',
+            'luci-artista': '#ffd700',
+            altro: '#999999'
+        };
+        const PALETTE = ['#e74c3c', '#3498db', '#27ae60', '#f39c12', '#9b59b6', '#1abc9c',
+            '#e67e22', '#34495e', '#2980b9', '#c0392b', '#d35400', '#7f8c8d',
+            '#2c3e50', '#16a085', '#8e44ad'];
+
+        async function fetchFirst(urls) {
+            let lastErr = null;
+            for (const u of urls) {
+                try {
+                    const r = await fetch(u);
+                    if (!r.ok) throw new Error(r.status + ' ' + u);
+                    return await r.json();
+                } catch (e) { lastErr = e; }
+            }
+            throw lastErr || new Error('fetch failed');
+        }
+
+        async function loadAll() {
+            try {
+                const allData = await fetchFirst(['data/all.json', '../data/all.json', '/api/all']);
+                buildDashboard(allData);
+            } catch (e) {
+                console.error('Error loading data:', e);
+                const el = document.getElementById('loading');
+                el.className = 'error';
+                el.textContent = 'Errore caricamento dati (data/all.json)';
+            }
+        }
+
+        function buildDashboard(allData) {
+            document.getElementById('loading').style.display = 'none';
+            document.getElementById('summaryCards').style.display = '';
+            document.getElementById('chartsGrid').style.display = '';
+
+            const allPOI = [];
+            for (const cat of CATEGORIES) {
+                for (const item of (allData[cat] || [])) {
+                    allPOI.push(item);
+                }
+            }
+            const events = allData.eventi || [];
+            const cities = new Set(allPOI.map(p => p.citta).filter(Boolean));
+
+            document.getElementById('totalPOI').textContent = allPOI.length.toLocaleString('it-IT');
+            document.getElementById('totalCities').textContent = cities.size.toLocaleString('it-IT');
+            document.getElementById('totalEvents').textContent = events.length.toLocaleString('it-IT');
+            document.getElementById('totalTrails').textContent = (allData.sentieri || []).length.toLocaleString('it-IT');
+            document.getElementById('totalMonuments').textContent = (allData.monumenti || []).length.toLocaleString('it-IT');
+
+            buildZonaChart(allPOI);
+            buildTipoChart(allPOI);
+            buildEventMonthChart(events);
+            buildEventTipoChart(events);
+            buildTopCitiesList(allPOI);
+        }
+
+        function buildZonaChart(poi) {
+            const counts = { salerno: 0, costiera: 0, cilento: 0 };
+            for (const p of poi) {
+                const z = (p.zona || 'salerno').toLowerCase();
+                if (Object.prototype.hasOwnProperty.call(counts, z)) counts[z]++;
+                else counts.salerno++;
+            }
+            new Chart(document.getElementById('chartZona'), {
+                type: 'bar',
+                data: {
+                    labels: ['Salerno', 'Costiera', 'Cilento'],
+                    datasets: [{
+                        label: 'POI',
+                        data: [counts.salerno, counts.costiera, counts.cilento],
+                        backgroundColor: ['#3498db', '#e74c3c', '#27ae60'],
+                        borderRadius: 6
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: { legend: { display: false } },
+                    scales: { y: { beginAtZero: true, ticks: { precision: 0 } } }
+                }
+            });
+        }
+
+        function buildTipoChart(poi) {
+            const counts = {};
+            for (const p of poi) {
+                const t = p.tipo || 'altro';
+                counts[t] = (counts[t] || 0) + 1;
+            }
+            const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+            new Chart(document.getElementById('chartTipo'), {
+                type: 'bar',
+                data: {
+                    labels: sorted.map(e => e[0].replace(/-/g, ' ')),
+                    datasets: [{
+                        label: 'POI',
+                        data: sorted.map(e => e[1]),
+                        backgroundColor: sorted.map((_, i) => PALETTE[i % PALETTE.length]),
+                        borderRadius: 4
+                    }]
+                },
+                options: {
+                    indexAxis: 'y',
+                    responsive: true,
+                    plugins: { legend: { display: false } },
+                    scales: { x: { beginAtZero: true, ticks: { precision: 0 } } }
+                }
+            });
+        }
+
+        function buildEventMonthChart(events) {
+            const monthCounts = new Array(12).fill(0);
+            for (const ev of events) {
+                const s = (ev.data_inizio || '').split('-');
+                const e = (ev.data_fine || '').split('-');
+                if (s.length < 2 || e.length < 2) continue;
+                const startM = parseInt(s[1], 10) - 1;
+                const endM = parseInt(e[1], 10) - 1;
+                for (let m = startM; m <= endM; m++) {
+                    if (m >= 0 && m < 12) monthCounts[m]++;
+                }
+            }
+            new Chart(document.getElementById('chartEventMonth'), {
+                type: 'bar',
+                data: {
+                    labels: MONTH_LABELS,
+                    datasets: [{
+                        label: 'Eventi',
+                        data: monthCounts,
+                        backgroundColor: '#1a1a2e',
+                        borderRadius: 6
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: { legend: { display: false } },
+                    scales: { y: { beginAtZero: true, ticks: { precision: 0 } } }
+                }
+            });
+        }
+
+        function buildEventTipoChart(events) {
+            const counts = {};
+            for (const ev of events) {
+                const t = ev.tipo || 'altro';
+                counts[t] = (counts[t] || 0) + 1;
+            }
+            const keys = Object.keys(counts);
+            new Chart(document.getElementById('chartEventTipo'), {
+                type: 'doughnut',
+                data: {
+                    labels: keys.map(k => TIPO_LABELS[k] || k),
+                    datasets: [{
+                        data: keys.map(k => counts[k]),
+                        backgroundColor: keys.map(k => TIPO_COLORS[k] || '#999999'),
+                        borderWidth: 2,
+                        borderColor: '#fff'
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: { position: 'bottom', labels: { padding: 16, usePointStyle: true } }
+                    }
+                }
+            });
+        }
+
+        function buildTopCitiesList(poi) {
+            const counts = {};
+            for (const p of poi) {
+                if (p.citta) counts[p.citta] = (counts[p.citta] || 0) + 1;
+            }
+            const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]).slice(0, 15);
+            const max = sorted.length ? sorted[0][1] : 1;
+            document.getElementById('topCitiesList').innerHTML = sorted.map(([city, n], i) => {
+                const width = Math.max(4, Math.round((n / max) * 120));
+                return `<li><span class="rank">${i + 1}</span>` +
+                    `<span class="city-name">${city}</span>` +
+                    `<span class="city-bar" style="width:${width}px"></span>` +
+                    `<span class="city-count">${n.toLocaleString('it-IT')}</span></li>`;
+            }).join('');
+        }
+
+        loadAll();
+    </script>
+</body>
+</html>

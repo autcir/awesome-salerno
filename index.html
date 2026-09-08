@@ -1,0 +1,970 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awesome Salerno - Mappa Interattiva</title>
+    <meta name="description" content="Mappa interattiva dei POI turistici di Salerno, Costiera Amalfitana e Cilento: 5529 sentieri, monumenti, spiagge, panorami, parchi ed eventi con coordinate GPS.">
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <meta name="theme-color" content="#1a1a2e">
+    <meta property="og:title" content="Awesome Salerno - Mappa Interattiva">
+    <meta property="og:description" content="Mappa interattiva dei POI turistici di Salerno, Costiera Amalfitana e Cilento: sentieri, monumenti, spiagge, panorami, parchi ed eventi.">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="it_IT">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Dataset",
+      "name": "Awesome Salerno",
+      "description": "Dati turistici curati di Salerno, Costiera Amalfitana e Cilento: 1658 sentieri, 3479 monumenti, 78 spiagge, 49 eventi, 253 panorami e 12 parchi con coordinate GPS.",
+      "keywords": ["Salerno", "Costiera Amalfitana", "Cilento", "POI", "turismo", "sentieri", "monumenti", "spiagge", "eventi"],
+      "spatialCoverage": {
+        "@type": "Place",
+        "name": "Salerno, Costiera Amalfitana e Cilento, Campania, Italia"
+      },
+      "variableMeasured": [
+        {"@type": "PropertyValue", "name": "total_poi", "value": 5529},
+        {"@type": "PropertyValue", "name": "trails", "value": 1658},
+        {"@type": "PropertyValue", "name": "monuments", "value": 3479},
+        {"@type": "PropertyValue", "name": "beaches", "value": 78},
+        {"@type": "PropertyValue", "name": "events", "value": 49},
+        {"@type": "PropertyValue", "name": "viewpoints", "value": 253},
+        {"@type": "PropertyValue", "name": "parks", "value": 12}
+      ],
+      "distribution": [
+        {"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "data/sentieri.json", "name": "Sentieri"},
+        {"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "data/monumenti.json", "name": "Monumenti"},
+        {"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "data/spiagge.json", "name": "Spiagge"},
+        {"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "data/eventi.json", "name": "Eventi"},
+        {"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "data/panorami.json", "name": "Panorami"},
+        {"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "data/parchi.json", "name": "Parchi"},
+        {"@type": "DataDownload", "encodingFormat": "application/vnd.google-earth.kml+xml", "contentUrl": "../data/awesome-salerno.kml", "name": "KML export"}
+      ],
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+    </script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; overflow: hidden; }
+
+        #header {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: white;
+            padding: 14px 24px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+            z-index: 1000;
+            position: relative;
+        }
+        #header h1 { font-size: 20px; font-weight: 600; }
+        #header .stats { font-size: 14px; opacity: 0.8; }
+        #site-nav { margin-left: auto; margin-right: 14px; }
+        #site-nav a { color: rgba(255,255,255,0.8); text-decoration: none; margin-left: 18px; font-size: 13px; }
+        #site-nav a:hover { color: #fff; }
+        @media (max-width: 640px) { #site-nav { display: none; } }
+
+        #lang-toggle {
+            background: rgba(255,255,255,0.15);
+            color: white;
+            border: 1px solid rgba(255,255,255,0.35);
+            border-radius: 6px;
+            padding: 4px 10px;
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+        }
+        #lang-toggle:hover { background: rgba(255,255,255,0.28); }
+        .marker-popup .verified {
+            font-size: 11px;
+            color: #27ae60;
+            margin: 4px 0 0;
+        }
+        .marker-popup .verified.stale { color: #e67e22; }
+
+        #controls {
+            background: #f8f9fa;
+            padding: 10px 24px;
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+            align-items: center;
+            border-bottom: 1px solid #e0e0e0;
+            z-index: 999;
+            position: relative;
+        }
+        #controls.hidden-mobile { display: none; }
+
+        #hamburger {
+            display: none;
+            background: none;
+            border: none;
+            font-size: 24px;
+            cursor: pointer;
+            color: #333;
+            padding: 4px 8px;
+        }
+
+        .filter-group {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .filter-group label {
+            font-size: 12px;
+            font-weight: 600;
+            color: #555;
+            white-space: nowrap;
+        }
+        select, input[type="text"] {
+            padding: 6px 10px;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            font-size: 13px;
+            background: white;
+            min-width: 120px;
+        }
+        select:focus, input:focus { outline: none; border-color: #007bff; box-shadow: 0 0 0 3px rgba(0,123,255,0.1); }
+
+        .toggle-btn {
+            background: white;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            padding: 5px 10px;
+            cursor: pointer;
+            font-size: 13px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            white-space: nowrap;
+            transition: background 0.2s;
+        }
+        .toggle-btn:hover { background: #e9ecef; }
+        .toggle-btn.active { background: #007bff; color: white; border-color: #007bff; }
+
+        #stats-bar {
+            margin-left: auto;
+            font-size: 12px;
+            color: #666;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            flex-wrap: wrap;
+            white-space: nowrap;
+        }
+        #stats-breakdown { font-size: 11px; color: #999; }
+
+        #map { height: calc(100vh - 96px); width: 100%; }
+
+        .legend {
+            background: white;
+            padding: 12px 14px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+            font-size: 11px;
+            max-height: 50vh;
+            overflow-y: auto;
+        }
+        .legend h4 { margin-bottom: 6px; font-size: 12px; }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            margin-bottom: 3px;
+        }
+        .legend-color {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            flex-shrink: 0;
+        }
+
+        .leaflet-popup-content-wrapper { border-radius: 10px; }
+        .marker-popup { font-size: 13px; min-width: 220px; max-width: 320px; }
+        .marker-popup h3 { font-size: 15px; margin-bottom: 6px; color: #1a1a2e; line-height: 1.3; }
+        .marker-popup .type-badge {
+            display: inline-block;
+            padding: 2px 10px;
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+        .marker-popup .event-dates {
+            font-size: 12px; color: #555; margin-bottom: 4px;
+        }
+        .marker-popup .event-meta {
+            font-size: 11px; color: #888; margin-bottom: 6px;
+        }
+        .marker-popup .event-places {
+            font-size: 12px; margin-bottom: 6px;
+        }
+        .marker-popup .event-places span {
+            display: inline-block;
+            background: #f0f0f0;
+            padding: 1px 6px;
+            border-radius: 4px;
+            font-size: 11px;
+            margin: 2px 2px;
+        }
+        .marker-popup .coords {
+            font-size: 10px; color: #aaa; margin-top: 4px;
+        }
+        .marker-popup .popup-actions {
+            display: flex; gap: 6px; margin-top: 8px; flex-wrap: wrap;
+        }
+        .marker-popup .popup-btn {
+            padding: 4px 10px;
+            border-radius: 6px;
+            font-size: 11px;
+            font-weight: 600;
+            cursor: pointer;
+            border: 1px solid #ddd;
+            background: white;
+            transition: all 0.2s;
+        }
+        .marker-popup .popup-btn:hover { background: #f0f0f0; }
+        .marker-popup .popup-btn.star-btn { font-size: 14px; padding: 3px 8px; }
+        .marker-popup .popup-btn.star-btn.starred { color: #f1c40f; border-color: #f1c40f; background: #fffde7; }
+        .marker-popup .copy-feedback {
+            font-size: 11px; color: #27ae60; font-weight: 600; display: none;
+        }
+
+        #qr-overlay {
+            display: none;
+            position: fixed;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: rgba(0,0,0,0.5);
+            z-index: 10000;
+            justify-content: center;
+            align-items: center;
+        }
+        #qr-overlay.visible { display: flex; }
+        #qr-box {
+            background: white;
+            padding: 20px;
+            border-radius: 12px;
+            text-align: center;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+        }
+        #qr-box img { display: block; margin: 10px auto; border-radius: 8px; }
+        #qr-box button {
+            margin-top: 10px;
+            padding: 8px 20px;
+            border: none;
+            background: #333;
+            color: white;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 13px;
+        }
+        #qr-box button:hover { background: #555; }
+
+        /* MarkerCluster overrides for category colors */
+        .marker-cluster-small { background-color: rgba(181, 226, 145, 0.7); }
+        .marker-cluster-small div { background-color: rgba(110, 204, 57, 0.7); }
+        .marker-cluster-medium { background-color: rgba(241, 213, 107, 0.7); }
+        .marker-cluster-medium div { background-color: rgba(240, 194, 12, 0.7); }
+        .marker-cluster-large { background-color: rgba(253, 156, 158, 0.7); }
+        .marker-cluster-large div { background-color: rgba(241, 129, 121, 0.7); }
+        .marker-cluster { width: 36px; height: 36px; border-radius: 50%; }
+        .marker-cluster div { width: 28px; height: 28px; margin: 4px; border-radius: 50%; text-align: center; color: white; font-weight: 700; font-size: 12px; line-height: 28px; }
+
+        @media (max-width: 768px) {
+            #hamburger { display: block; }
+            #controls { padding: 8px 12px; }
+            #stats-bar { width: 100%; }
+            #map { height: calc(100vh - 80px); }
+        }
+
+        @media print {
+            #header, #controls, .legend { display: none !important; }
+            #map { height: 100vh !important; }
+            .leaflet-control-zoom, .leaflet-control-layers { display: none !important; }
+        }
+    </style>
+</head>
+<body>
+    <div id="header">
+        <h1>Awesome Salerno</h1>
+        <span class="stats" id="tagline">Mappa interattiva con tutti i POI turistici</span>
+        <nav id="site-nav">
+            <a href="calendar.html">Calendario</a>
+            <a href="stats.html">Statistiche</a>
+            <a href="ask.html">Ask</a>
+        </nav>
+        <button id="lang-toggle" title="Switch to English">EN</button>
+    </div>
+
+    <button id="hamburger" aria-label="Menu filtri">&#9776;</button>
+
+    <div id="controls">
+        <div class="filter-group">
+            <label for="zona">Zona:</label>
+            <select id="zona">
+                <option value="">Tutte</option>
+                <option value="salerno">Salerno</option>
+                <option value="costiera">Costiera</option>
+                <option value="cilento">Cilento</option>
+            </select>
+        </div>
+
+        <div class="filter-group">
+            <label for="quartiere">Quartiere:</label>
+            <select id="quartiere">
+                <option value="">Tutti</option>
+            </select>
+        </div>
+
+        <div class="filter-group">
+            <label for="tipo">Tipo:</label>
+            <select id="tipo">
+                <option value="">Tutti</option>
+                <option value="chiesa">Chiesa</option>
+                <option value="castello">Castello</option>
+                <option value="museo">Museo</option>
+                <option value="sentiero">Sentiero</option>
+                <option value="spiaggia">Spiaggia</option>
+                <option value="panorama">Panorama</option>
+                <option value="torre">Torre</option>
+                <option value="ponte">Ponte</option>
+                <option value="grotta">Grotta</option>
+                <option value="fonte">Fonte</option>
+                <option value="archeologico">Archeologico</option>
+                <option value="monumento">Monumento</option>
+                <option value="luci-artista">Luci d'Artista</option>
+                <option value="festa-patronale">Festa Patronale</option>
+                <option value="festival">Festival</option>
+                <option value="sagra">Sagra</option>
+                <option value="altro">Altro</option>
+            </select>
+        </div>
+
+        <div class="filter-group">
+            <label for="evento-filter">Eventi:</label>
+            <select id="evento-filter">
+                <option value="tutti">Tutti</option>
+                <option value="oggi">In programma oggi</option>
+                <option value="settimana">Questa settimana</option>
+                <option value="mese">Questo mese</option>
+            </select>
+        </div>
+
+        <div class="filter-group">
+            <label for="search">Cerca:</label>
+            <input type="text" id="search" placeholder="Nome, citta...">
+        </div>
+
+        <div class="filter-group">
+            <label class="toggle-btn" id="fav-toggle" title="Solo preferiti" style="cursor:pointer;">
+                <input type="checkbox" id="fav-filter" style="margin-right:2px;cursor:pointer;"> &#9733; Preferiti
+            </label>
+        </div>
+
+        <div class="filter-group">
+            <label class="toggle-btn" id="satellite-toggle" title="Vista satellitare">
+                &#127758; Satellite
+            </label>
+        </div>
+        <div class="filter-group">
+            <label class="toggle-btn" id="dark-toggle" title="Mappa scura">
+                &#9790; Dark
+            </label>
+        </div>
+
+        <div id="stats-bar">
+            <span id="count">Caricamento...</span>
+            <span id="stats-breakdown"></span>
+        </div>
+    </div>
+
+    <div id="map"></div>
+
+    <div id="qr-overlay">
+        <div id="qr-box">
+            <strong>QR Code</strong>
+            <img id="qr-img" width="150" height="150" alt="QR Code">
+            <button onclick="closeQr()">Chiudi</button>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    <script>
+    (function() {
+        'use strict';
+
+        const STALE_DAYS = 180;
+
+        function verifiedBadge(dateStr) {
+            if (!dateStr) return '';
+            const age = (Date.now() - new Date(dateStr).getTime()) / 86400000;
+            if (age > STALE_DAYS) {
+                return '<p class="verified stale">&#9888; ' + t('stale') + '</p>';
+            }
+            return '<p class="verified">&#10003; ' + t('verified') + ' ' + dateStr + '</p>';
+        }
+
+        // Minimal UI translation: the POI data itself stays in Italian.
+        const EN = {
+            tagline: 'Interactive map of every tourist POI',
+            verified: 'verified on',
+            stale: 'to be verified',
+            loading: 'Loading...',
+            error: 'Data loading error',
+            poiOf: 'of',
+            poi: 'POI',
+            ui: {
+                'label[for=zona]': 'Area:',
+                'label[for=quartiere]': 'District:',
+                'label[for=tipo]': 'Type:',
+                'label[for=evento-filter]': 'Events:',
+                'label[for=search]': 'Search:',
+                '#fav-toggle': '\u2605 Favourites',
+                '#satellite-toggle': '\uD83C\uDF0E Satellite',
+                '#dark-toggle': '\u263E Dark',
+                '#qr-box strong': 'QR Code',
+                '#qr-box button': 'Close'
+            },
+            options: {
+                'Tutte': 'All', 'Tutti': 'All', 'Chiesa': 'Church', 'Castello': 'Castle',
+                'Museo': 'Museum', 'Sentiero': 'Trail', 'Spiaggia': 'Beach',
+                'Panorama': 'Viewpoint', 'Torre': 'Tower', 'Ponte': 'Bridge',
+                'Grotta': 'Cave', 'Fonte': 'Spring', 'Archeologico': 'Archaeological',
+                'Monumento': 'Monument', 'Festa Patronale': 'Patron Feast',
+                'Sagra': 'Food Festival', 'Altro': 'Other', 'Costiera': 'Amalfi Coast',
+                'In programma oggi': 'On today', 'Questa settimana': 'This week',
+                'Questo mese': 'This month'
+            }
+        };
+        const IT = {
+            tagline: 'Mappa interattiva con tutti i POI turistici',
+            verified: 'verificato il', stale: 'da verificare',
+            loading: 'Caricamento...', error: 'Errore caricamento dati',
+            poiOf: 'di', poi: 'POI'
+        };
+
+        let lang = localStorage.getItem('as-lang') || 'it';
+        function t(key) { return (lang === 'en' ? EN : IT)[key]; }
+
+        function applyLang() {
+            document.documentElement.lang = lang;
+            document.getElementById('tagline').textContent = t('tagline');
+            document.getElementById('lang-toggle').textContent = lang === 'en' ? 'IT' : 'EN';
+            Object.keys(EN.ui).forEach(function(sel) {
+                const el = document.querySelector(sel);
+                if (!el) return;
+                if (el.dataset.it === undefined) el.dataset.it = el.textContent.trim();
+                el.childNodes.forEach(function(n) {
+                    if (n.nodeType === 3 && n.textContent.trim()) { n.textContent = ''; }
+                });
+                el.appendChild(document.createTextNode(
+                    lang === 'en' ? EN.ui[sel] : el.dataset.it));
+            });
+            document.querySelectorAll('#controls option').forEach(function(o) {
+                if (o.dataset.it === undefined) o.dataset.it = o.textContent;
+                o.textContent = lang === 'en'
+                    ? (EN.options[o.dataset.it] || o.dataset.it) : o.dataset.it;
+            });
+            const search = document.getElementById('search');
+            if (search) search.placeholder = lang === 'en' ? 'Name, city...' : 'Nome, citta...';
+        }
+
+        const COLORS = {
+            chiesa: '#e74c3c',
+            castello: '#8e44ad',
+            museo: '#3498db',
+            sentiero: '#27ae60',
+            spiaggia: '#f39c12',
+            panorama: '#1abc9c',
+            torre: '#9b59b6',
+            ponte: '#e67e22',
+            grotta: '#34495e',
+            fonte: '#2980b9',
+            archeologico: '#c0392b',
+            'luci-artista': '#ffd700',
+            'festa-patronale': '#ff6b6b',
+            festival: '#4ecdc4',
+            sagra: '#45b7d1',
+            'monumento': '#9b59b6',
+            altro: '#95a5a6'
+        };
+
+        const TYPE_NAMES = {
+            chiesa: 'Chiese',
+            castello: 'Castelli',
+            museo: 'Musei',
+            sentiero: 'Sentieri',
+            spiaggia: 'Spiagge',
+            panorama: 'Panorami',
+            torre: 'Torri',
+            ponte: 'Ponti',
+            grotta: 'Grotte',
+            fonte: 'Fonti',
+            archeologico: 'Archeologico',
+            'luci-artista': "Luci d'Artista",
+            'festa-patronale': 'Feste Patronali',
+            festival: 'Festival',
+            sagra: 'Sagre',
+            'monumento': 'Monumenti',
+            altro: 'Altro'
+        };
+
+        const CAT_LABELS = {
+            sentieri: 'sentieri',
+            monumenti: 'monumenti',
+            spiagge: 'spiagge',
+            eventi: 'eventi',
+            panorami: 'panorami',
+            parchi: 'parchi'
+        };
+
+        const TILE_OSM = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+        const TILE_DARK = 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png';
+        const TILE_SAT = 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}';
+        const ATTR_OSM = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>';
+        const ATTR_DARK = '&copy; <a href="https://carto.com/">CARTO</a>';
+        const ATTR_SAT = '&copy; Esri, Maxar, Earthstar Geographics';
+
+        const map = L.map('map', { zoomControl: true }).setView([40.55, 14.85], 9);
+
+        const osmLayer = L.tileLayer(TILE_OSM, { attribution: ATTR_OSM, maxZoom: 18 });
+        const darkLayer = L.tileLayer(TILE_DARK, { attribution: ATTR_DARK, maxZoom: 18 });
+        const satLayer = L.tileLayer(TILE_SAT, { attribution: ATTR_SAT, maxZoom: 18, maxNativeZoom: 18 });
+
+        osmLayer.addTo(map);
+
+        const baseMaps = { 'OpenStreetMap': osmLayer, 'Dark': darkLayer, 'Satellite': satLayer };
+        L.control.layers(baseMaps, null, { position: 'topright' }).addTo(map);
+
+        const clusterGroup = L.markerClusterGroup({
+            maxClusterRadius: 50,
+            spiderfyOnMaxZoom: true,
+            showCoverageOnHover: false,
+            zoomToBoundsOnClick: true,
+            disableClusteringAtZoom: 16
+        });
+        map.addLayer(clusterGroup);
+
+        let allData = [];
+        let markerMap = {};
+        let favorites = new Set(JSON.parse(localStorage.getItem('awesome-salerno-favs') || '[]'));
+
+        function saveFavs() {
+            localStorage.setItem('awesome-salerno-favs', JSON.stringify([...favorites]));
+        }
+
+        function formatDate(d) {
+            if (!d) return '';
+            const parts = d.split('-');
+            return parts[2] + '/' + parts[1] + '/' + parts[0];
+        }
+
+        function getNow() {
+            return new Date();
+        }
+
+        function isEventActive(item, mode) {
+            if (!item.data_inizio || !item.data_fine) return false;
+            const now = getNow();
+            const start = new Date(item.data_inizio + 'T00:00:00');
+            const end = new Date(item.data_fine + 'T23:59:59');
+            if (mode === 'oggi') {
+                const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+                const todayEnd = new Date(today.getTime() + 86400000 - 1);
+                return start <= todayEnd && end >= today;
+            }
+            if (mode === 'settimana') {
+                const weekEnd = new Date(now.getTime() + 7 * 86400000);
+                return start <= weekEnd && end >= now;
+            }
+            if (mode === 'mese') {
+                const monthEnd = new Date(now.getFullYear(), now.getMonth() + 1, 0, 23, 59, 59);
+                return start <= monthEnd && end >= new Date(now.getFullYear(), now.getMonth(), 1);
+            }
+            return false;
+        }
+
+        function isEvent(item) {
+            return item.categoria === 'eventi' || item.data_inizio || item.data_fine;
+        }
+
+        function buildPopup(item) {
+            const tipo = item.tipo || 'altro';
+            const color = COLORS[tipo] || COLORS.altro;
+            const catLabel = CAT_LABELS[item.categoria] || item.categoria || '';
+            const isEvt = isEvent(item);
+            const favId = item.id || (item.lat + ',' + item.lng);
+            const isFav = favorites.has(favId);
+            const pageUrl = window.location.origin + window.location.pathname + '?poi=' + encodeURIComponent(favId);
+
+            let html = '<div class="marker-popup">';
+            html += '<h3>' + (item.nome || 'Senza nome') + '</h3>';
+            html += '<span class="type-badge" style="background:' + color + '20;color:' + color + '">' + (TYPE_NAMES[tipo] || tipo) + '</span>';
+
+            if (isEvt) {
+                if (item.data_inizio || item.data_fine) {
+                    let dateText = formatDate(item.data_inizio);
+                    if (item.data_fine && item.data_fine !== item.data_inizio) {
+                        dateText += ' &rarr; ' + formatDate(item.data_fine);
+                    }
+                    html += '<div class="event-dates">&#128197; ' + dateText + '</div>';
+                }
+                let metaParts = [];
+                if (item.ricorrenza) metaParts.push(item.ricorrenza.charAt(0).toUpperCase() + item.ricorrenza.slice(1));
+                if (item.edizione) metaParts.push(item.edizione + '&ordf; edizione');
+                if (item.anno_inizio) metaParts.push('dal ' + item.anno_inizio);
+                if (metaParts.length) {
+                    html += '<div class="event-meta">' + metaParts.join(' &middot; ') + '</div>';
+                }
+                if (item.luoghi && item.luoghi.length) {
+                    html += '<div class="event-places">';
+                    item.luoghi.forEach(function(l) { html += '<span>&#128205; ' + l + '</span>'; });
+                    html += '</div>';
+                }
+            }
+
+            if (item.descrizione) {
+                html += '<p style="font-size:12px;color:#444;margin:4px 0 6px;">' + item.descrizione + '</p>';
+            }
+
+            let infoParts = [];
+            if (item.zona) infoParts.push('<strong>Zona:</strong> ' + item.zona);
+            if (item.citta) infoParts.push('<strong>Citt&agrave;:</strong> ' + item.citta);
+            if (item.quartiere) infoParts.push('<strong>Quartiere:</strong> ' + item.quartiere);
+            if (infoParts.length) {
+                html += '<p style="font-size:12px;color:#666;margin:2px 0 4px;">' + infoParts.join(' &middot; ') + '</p>';
+            }
+
+            if (item.lat && item.lng) {
+                html += '<div class="coords">' + item.lat.toFixed(6) + ', ' + item.lng.toFixed(6) + '</div>';
+            }
+
+            html += verifiedBadge(item.last_verified);
+
+            html += '<div class="popup-actions">';
+            html += '<button class="popup-btn star-btn' + (isFav ? ' starred' : '') + '" data-fav-id="' + favId + '" title="Preferito">' + (isFav ? '&#9733;' : '&#9734;') + '</button>';
+
+            html += '<button class="popup-btn" data-action="share" data-url="' + pageUrl + '">Condividi</button>';
+            html += '<span class="copy-feedback">Copiato!</span>';
+
+            html += '<button class="popup-btn" data-action="qr" data-url="' + pageUrl + '">QR Code</button>';
+
+            if (item.link) {
+                html += '<a class="popup-btn" href="' + item.link + '" target="_blank" style="text-decoration:none;color:inherit;">Link &#8599;</a>';
+            }
+            html += '</div>';
+            html += '</div>';
+            return html;
+        }
+
+        function createMarker(item) {
+            const tipo = item.tipo || 'altro';
+            const color = COLORS[tipo] || COLORS.altro;
+
+            const marker = L.circleMarker([item.lat, item.lng], {
+                radius: 6,
+                fillColor: color,
+                color: '#fff',
+                weight: 2,
+                opacity: 1,
+                fillOpacity: 0.85
+            });
+
+            marker.bindPopup(buildPopup(item), { maxWidth: 340 });
+
+            marker.on('popupopen', function() {
+                const container = marker.getPopup().getElement();
+                if (!container) return;
+
+                container.addEventListener('click', function(e) {
+                    const target = e.target;
+
+                    if (target.classList.contains('star-btn')) {
+                        e.preventDefault();
+                        e.stopPropagation();
+                        const fid = target.getAttribute('data-fav-id');
+                        if (favorites.has(fid)) {
+                            favorites.delete(fid);
+                            target.classList.remove('starred');
+                            target.innerHTML = '&#9734;';
+                        } else {
+                            favorites.add(fid);
+                            target.classList.add('starred');
+                            target.innerHTML = '&#9733;';
+                        }
+                        saveFavs();
+                        applyFilters();
+                    }
+
+                    if (target.getAttribute('data-action') === 'share') {
+                        e.preventDefault();
+                        e.stopPropagation();
+                        const url = target.getAttribute('data-url');
+                        navigator.clipboard.writeText(url).then(function() {
+                            const fb = target.parentElement.querySelector('.copy-feedback');
+                            if (fb) { fb.style.display = 'inline'; setTimeout(function() { fb.style.display = 'none'; }, 2000); }
+                        }).catch(function() {
+                            prompt('Copia il link:', url);
+                        });
+                    }
+
+                    if (target.getAttribute('data-action') === 'qr') {
+                        e.preventDefault();
+                        e.stopPropagation();
+                        const url = target.getAttribute('data-url');
+                        showQr(url);
+                    }
+                });
+            });
+
+            marker.itemData = item;
+            return marker;
+        }
+
+        function showQr(url) {
+            const overlay = document.getElementById('qr-overlay');
+            const img = document.getElementById('qr-img');
+            img.src = 'https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=' + encodeURIComponent(url);
+            overlay.classList.add('visible');
+        }
+
+        window.closeQr = function() {
+            document.getElementById('qr-overlay').classList.remove('visible');
+        };
+
+        document.getElementById('qr-overlay').addEventListener('click', function(e) {
+            if (e.target === this) closeQr();
+        });
+
+        let quartieriSet = new Set();
+
+        function updateQuartiereDropdown() {
+            const zona = document.getElementById('zona').value.toLowerCase();
+            const sel = document.getElementById('quartiere');
+            const prev = sel.value;
+            sel.innerHTML = '<option value="">Tutti</option>';
+            quartieriSet.clear();
+
+            allData.forEach(function(item) {
+                if (zona && item.zona !== zona) return;
+                if (item.quartiere) quartieriSet.add(item.quartiere);
+            });
+
+            const sorted = [...quartieriSet].sort();
+            sorted.forEach(function(q) {
+                const opt = document.createElement('option');
+                opt.value = q;
+                opt.textContent = q;
+                sel.appendChild(opt);
+            });
+
+            if (sorted.indexOf(prev) !== -1) sel.value = prev;
+        }
+
+        function applyFilters() {
+            const zona = document.getElementById('zona').value.toLowerCase();
+            const quartiere = document.getElementById('quartiere').value;
+            const tipo = document.getElementById('tipo').value.toLowerCase();
+            const evento = document.getElementById('evento-filter').value;
+            const search = document.getElementById('search').value.toLowerCase();
+            const favOnly = document.getElementById('fav-filter') && document.getElementById('fav-filter').checked;
+
+            clusterGroup.clearLayers();
+            let counts = {};
+            let total = 0;
+
+            CAT_LABELS.keys || Object.keys(CAT_LABELS).forEach(function(k) { counts[k] = 0; });
+
+            const typeCounts = {};
+
+            allData.forEach(function(item) {
+                if (!item.lat || !item.lng) return;
+                if (zona && item.zona !== zona) return;
+                if (quartiere && item.quartiere !== quartiere) return;
+                if (tipo && item.tipo !== tipo) return;
+
+                const evt = isEvent(item);
+                if (evento !== 'tutti') {
+                    if (!evt) {
+                        // non-event POIs are always visible when event filter is on
+                    } else {
+                        if (!isEventActive(item, evento)) return;
+                    }
+                }
+
+                if (search) {
+                    const fields = [item.nome, item.descrizione, item.citta, item.quartiere, item.zona, item.tipo].join(' ').toLowerCase();
+                    if (fields.indexOf(search) === -1) return;
+                }
+
+                const favId = item.id || (item.lat + ',' + item.lng);
+                if (favOnly && !favorites.has(favId)) return;
+
+                if (!markerMap[favId]) {
+                    markerMap[favId] = createMarker(item);
+                }
+                clusterGroup.addLayer(markerMap[favId]);
+                total++;
+
+                const cat = item.categoria || 'other';
+                if (!counts[cat]) counts[cat] = 0;
+                counts[cat]++;
+
+                const tp = item.tipo || 'altro';
+                if (!typeCounts[tp]) typeCounts[tp] = 0;
+                typeCounts[tp]++;
+            });
+
+            document.getElementById('count').textContent =
+                total + ' ' + t('poiOf') + ' ' + allData.length + ' ' + t('poi');
+
+            const breakdownParts = [];
+            Object.keys(counts).forEach(function(k) {
+                if (counts[k] > 0) breakdownParts.push(counts[k] + ' ' + (CAT_LABELS[k] || k));
+            });
+            document.getElementById('stats-breakdown').textContent = breakdownParts.join(', ');
+
+            updateLegend(typeCounts);
+        }
+
+        function updateLegend(typeCounts) {
+            if (map._legendControl) map.removeControl(map._legendControl);
+
+            const legend = L.control({ position: 'bottomright' });
+            legend.onAdd = function() {
+                const div = L.DomUtil.create('div', 'legend');
+                div.innerHTML = '<h4>Tipo POI</h4>';
+                const types = Object.keys(typeCounts).sort();
+                types.forEach(function(type) {
+                    if (typeCounts[type] > 0) {
+                        div.innerHTML += '<div class="legend-item"><span class="legend-color" style="background:' + (COLORS[type] || COLORS.altro) + '"></span><span>' + (TYPE_NAMES[type] || type) + ' (' + typeCounts[type] + ')</span></div>';
+                    }
+                });
+                return div;
+            };
+            legend.addTo(map);
+            map._legendControl = legend;
+        }
+
+        async function loadData() {
+            try {
+                const files = [
+                    fetch('data/sentieri.json').then(function(r) { return r.json(); }).then(function(d) { return d.map(function(i) { return Object.assign(i, { categoria: 'sentieri' }); }); }),
+                    fetch('data/monumenti.json').then(function(r) { return r.json(); }).then(function(d) { return d.map(function(i) { return Object.assign(i, { categoria: 'monumenti' }); }); }),
+                    fetch('data/spiagge.json').then(function(r) { return r.json(); }).then(function(d) { return d.map(function(i) { return Object.assign(i, { categoria: 'spiagge' }); }); }),
+                    fetch('data/eventi.json').then(function(r) { return r.json(); }).then(function(d) { return d.map(function(i) { return Object.assign(i, { categoria: 'eventi' }); }); }),
+                    fetch('data/panorami.json').then(function(r) { return r.json(); }).then(function(d) { return d.map(function(i) { return Object.assign(i, { categoria: 'panorami' }); }); }),
+                    fetch('data/parchi.json').then(function(r) { return r.json(); }).then(function(d) { return d.map(function(i) { return Object.assign(i, { categoria: 'parchi' }); }); })
+                ];
+                const results = await Promise.all(files);
+                allData = [];
+                results.forEach(function(arr) { allData = allData.concat(arr); });
+
+                updateQuartiereDropdown();
+                applyFilters();
+                handleUrlParams();
+            } catch (err) {
+                console.error('Error loading data:', err);
+                document.getElementById('count').textContent = t('error');
+            }
+        }
+
+        function handleUrlParams() {
+            const params = new URLSearchParams(window.location.search);
+            const poiId = params.get('poi');
+            const zonaParam = params.get('zona');
+
+            if (zonaParam) {
+                const zonaSel = document.getElementById('zona');
+                const opts = zonaSel.options;
+                for (let i = 0; i < opts.length; i++) {
+                    if (opts[i].value === zonaParam.toLowerCase()) {
+                        zonaSel.value = zonaParam.toLowerCase();
+                        break;
+                    }
+                }
+                updateQuartiereDropdown();
+                applyFilters();
+            }
+
+            if (poiId) {
+                const marker = markerMap[poiId];
+                if (marker) {
+                    map.setView(marker.getLatLng(), 15);
+                    setTimeout(function() { marker.openPopup(); }, 500);
+                } else {
+                    const item = allData.find(function(d) { return d.id === poiId; });
+                    if (item) {
+                        map.setView([item.lat, item.lng], 15);
+                        const m = createMarker(item);
+                        markerMap[poiId] = m;
+                        clusterGroup.addLayer(m);
+                        setTimeout(function() { m.openPopup(); }, 500);
+                    }
+                }
+            }
+        }
+
+        document.getElementById('zona').addEventListener('change', function() {
+            updateQuartiereDropdown();
+            applyFilters();
+        });
+        document.getElementById('quartiere').addEventListener('change', applyFilters);
+        document.getElementById('tipo').addEventListener('change', applyFilters);
+        document.getElementById('evento-filter').addEventListener('change', applyFilters);
+        document.getElementById('search').addEventListener('input', applyFilters);
+        document.getElementById('fav-filter').addEventListener('change', applyFilters);
+
+        let darkMode = false;
+        document.getElementById('dark-toggle').addEventListener('click', function() {
+            darkMode = !darkMode;
+            if (darkMode) {
+                map.removeLayer(osmLayer);
+                darkLayer.addTo(map);
+                this.classList.add('active');
+            } else {
+                map.removeLayer(darkLayer);
+                osmLayer.addTo(map);
+                this.classList.remove('active');
+            }
+        });
+
+        let satMode = false;
+        document.getElementById('satellite-toggle').addEventListener('click', function() {
+            satMode = !satMode;
+            if (satMode) {
+                if (darkMode) map.removeLayer(darkLayer);
+                else map.removeLayer(osmLayer);
+                satLayer.addTo(map);
+                this.classList.add('active');
+            } else {
+                map.removeLayer(satLayer);
+                if (darkMode) darkLayer.addTo(map);
+                else osmLayer.addTo(map);
+                this.classList.remove('active');
+            }
+        });
+
+        document.getElementById('hamburger').addEventListener('click', function() {
+            const controls = document.getElementById('controls');
+            controls.classList.toggle('hidden-mobile');
+        });
+
+        document.getElementById('lang-toggle').addEventListener('click', function() {
+            lang = lang === 'en' ? 'it' : 'en';
+            localStorage.setItem('as-lang', lang);
+            applyLang();
+        });
+
+        applyLang();
+        loadData();
+    })();
+    </script>
+</body>
+</html>

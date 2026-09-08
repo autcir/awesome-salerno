@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ask Salerno - Awesome Salerno</title>
+<meta name="description" content="Fai una domanda sui 5529 POI di Salerno, Costiera Amalfitana e Cilento: la risposta cita sempre le fonti del dataset.">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#f5f5f5;color:#222}
+#header{background:linear-gradient(135deg,#1a1a2e 0%,#16213e 100%);color:#fff;padding:16px 24px;display:flex;align-items:center;justify-content:space-between;box-shadow:0 2px 8px rgba(0,0,0,.2)}
+#header h1{font-size:20px;font-weight:600}
+#header nav a{color:rgba(255,255,255,.8);text-decoration:none;margin-left:20px;font-size:14px}
+#header nav a:hover{color:#fff}
+#header nav a.active{color:#fff;font-weight:600}
+.container{max-width:820px;margin:0 auto;padding:24px 16px 64px}
+.intro{color:#555;font-size:14px;line-height:1.6;margin-bottom:18px}
+.ask-box{display:flex;gap:8px;margin-bottom:10px}
+.ask-box input{flex:1;padding:13px 14px;font-size:16px;border:1px solid #ccc;border-radius:8px}
+.ask-box input:focus{outline:none;border-color:#1a1a2e}
+.ask-box button{background:#1a1a2e;color:#fff;border:none;padding:0 22px;border-radius:8px;cursor:pointer;font-size:15px;font-weight:500}
+.ask-box button:hover{background:#2a2a4e}
+.examples{font-size:13px;color:#666;margin-bottom:24px}
+.examples button{background:none;border:1px solid #ddd;border-radius:14px;padding:4px 11px;margin:4px 4px 0 0;font-size:12px;color:#444;cursor:pointer}
+.examples button:hover{border-color:#1a1a2e;color:#1a1a2e}
+.answer{background:#fff;border-radius:10px;padding:18px 20px;box-shadow:0 1px 4px rgba(0,0,0,.08);margin-bottom:16px;line-height:1.6}
+.answer h2{font-size:16px;margin-bottom:8px;color:#1a1a2e}
+.answer .filters{font-size:12px;color:#777;margin-top:8px}
+.answer .filters code{background:#f0f0f3;padding:1px 5px;border-radius:4px}
+.source{background:#fff;border-radius:10px;padding:14px 16px;box-shadow:0 1px 4px rgba(0,0,0,.08);margin-bottom:10px}
+.source h3{font-size:15px;color:#1a1a2e;margin-bottom:4px}
+.source .meta{font-size:12px;color:#777;margin-bottom:6px}
+.source .badge{display:inline-block;background:#eef;color:#33a;border-radius:4px;padding:1px 6px;font-size:11px;margin-right:6px}
+.source p{font-size:13px;color:#444;margin-bottom:8px}
+.source a{font-size:13px;color:#1a6bb8;text-decoration:none;margin-right:14px}
+.source a:hover{text-decoration:underline}
+.verified{font-size:11px;color:#27ae60}
+.verified.stale{color:#e67e22}
+.tools{margin-top:20px;font-size:13px;color:#555;background:#fff;border-radius:10px;padding:16px 18px;box-shadow:0 1px 4px rgba(0,0,0,.08);line-height:1.6}
+.tools code{background:#f0f0f3;padding:1px 5px;border-radius:4px;font-size:12px}
+.status{color:#777;font-size:14px;padding:12px 0}
+</style>
+</head>
+<body>
+<header id="header">
+<h1>Ask Salerno</h1>
+<nav>
+<a href="index.html">Mappa</a>
+<a href="calendar.html">Calendario</a>
+<a href="stats.html">Statistiche</a>
+<a href="ask.html" class="active">Ask</a>
+</nav>
+</header>
+
+<div class="container">
+<p class="intro">
+Fai una domanda in italiano sui luoghi e gli eventi di Salerno, Costiera Amalfitana e Cilento.
+La ricerca gira <strong>nel tuo browser</strong> sul dataset pubblico: nessuna chiamata a un servizio esterno,
+nessuna risposta inventata. Ogni risultato e' una voce reale della lista, con la sua fonte e la data di verifica.
+</p>
+
+<div class="ask-box">
+  <input id="q" type="text" placeholder="Es. dove vedere un tempio greco nel Cilento?" autocomplete="off">
+  <button id="go">Chiedi</button>
+</div>
+<div class="examples" id="examples">Prova:</div>
+
+<div id="out"><p class="status">Carico il dataset...</p></div>
+
+<div class="tools">
+<strong>Vuoi una risposta scritta da un LLM?</strong> Questo dataset e' interrogabile da qualsiasi client MCP
+(Claude Code, Claude Desktop) col server incluso nel repo: <code>python3 mcp/server.py</code>, tool
+<code>search_poi</code>, <code>get_poi</code>, <code>nearby_poi</code>, <code>list_events</code>.
+In alternativa <code>data/rag/chunks.jsonl</code> e' pronto per essere indicizzato
+(<code>scripts/build_rag.py --qdrant</code>).
+</div>
+</div>
+
+<script>
+(function () {
+'use strict';
+
+var EXAMPLES = [
+  'dove vedere un tempio greco nel Cilento?',
+  'spiagge tranquille vicino ad Amalfi',
+  'castelli visitabili in provincia di Salerno',
+  'eventi a Salerno a dicembre',
+  'sentieri panoramici in Costiera'
+];
+
+// ponytail: keyword retrieval (BM25) on the raw chunks, so the page stays a
+// static file with no key and no server. Swap for the Qdrant embeddings in
+// build_rag.py when keyword recall stops being enough.
+var K1 = 1.5, B = 0.75;
+// stopwords, already stemmed
+var STOP = {};
+('di del dell dei dell da il lo la i gli le un uno una e ed a al in su per con '
+ + 'che dov com qual cos ci si non piu mi ved visit and far trov poss vorr son '
+ + 'vicin qualc').split(' ').forEach(function (w) { STOP[w] = 1; });
+
+// keys are stems (see stem()), so both singular and plural land here
+var ZONES = {salern: 'salerno', costier: 'costiera', amalfitan: 'costiera',
+             amalf: 'costiera', cilent: 'cilento'};
+var CATS = {event: 'eventi', sentier: 'sentieri', spiagg: 'spiagge',
+            parc: 'parchi', panoram: 'panorami'};
+
+var docs = [], df = {}, avgLen = 0;
+
+// Crude Italian stemmer: strip up to two trailing vowels so "castelli" and
+// "castello", "spiagge" and "spiaggia" land on the same term. Enough for
+// keyword retrieval; a real stemmer would be a dependency for little gain.
+function stem(word) {
+  var w = word;
+  for (var i = 0; i < 2 && w.length > 4 && 'aeiou'.indexOf(w.slice(-1)) >= 0; i++) {
+    w = w.slice(0, -1);
+  }
+  return w;
+}
+
+function tokens(text) {
+  var raw = text.toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    .match(/[a-z0-9]+/g) || [];
+  return raw.map(stem);
+}
+
+function index(rows) {
+  docs = rows;
+  var total = 0;
+  docs.forEach(function (d) {
+    d.terms = tokens(d.text);
+    d.len = d.terms.length;
+    total += d.len;
+    var seen = {};
+    d.terms.forEach(function (t) {
+      if (seen[t]) return;
+      seen[t] = 1;
+      df[t] = (df[t] || 0) + 1;
+    });
+    d.tf = {};
+    d.terms.forEach(function (t) { d.tf[t] = (d.tf[t] || 0) + 1; });
+  });
+  avgLen = total / docs.length;
+}
+
+function intent(qTokens) {
+  var out = {zona: null, categoria: null};
+  qTokens.forEach(function (t) {
+    if (ZONES[t] && !out.zona) out.zona = ZONES[t];
+    if (CATS[t] && !out.categoria) out.categoria = CATS[t];
+  });
+  return out;
+}
+
+function search(query) {
+  var qt = tokens(query).filter(function (t) { return !STOP[t] && t.length > 2; });
+  var filters = intent(tokens(query));
+  var pool = docs.filter(function (d) {
+    return (!filters.zona || d.zona === filters.zona)
+        && (!filters.categoria || d.categoria === filters.categoria);
+  });
+  if (!pool.length) { pool = docs; filters = {zona: null, categoria: null}; }
+
+  // idf comes from the whole corpus: df was counted there, and mixing it with
+  // a filtered pool size makes common terms score negative
+  var N = docs.length;
+  var scored = [];
+  pool.forEach(function (d) {
+    var s = 0;
+    qt.forEach(function (t) {
+      var f = d.tf[t];
+      if (!f) return;
+      var idf = Math.log(1 + (N - df[t] + 0.5) / (df[t] + 0.5));
+      s += idf * (f * (K1 + 1)) / (f + K1 * (1 - B + B * d.len / avgLen));
+    });
+    // a hit in the name beats a hit buried in the description, and "castelli"
+    // should rank a castle above a street called Via Castello
+    if (s > 0) {
+      if (!d.nameTerms) d.nameTerms = tokens(d.nome || '');
+      var inName = qt.filter(function (t) { return d.nameTerms.indexOf(t) >= 0; }).length;
+      s *= 1 + inName;
+      if (d.tipo && qt.indexOf(stem(d.tipo)) >= 0) s *= 4;
+    }
+    if (s > 0) scored.push({doc: d, score: s});
+  });
+  scored.sort(function (a, b) { return b.score - a.score; });
+  return {hits: scored.slice(0, 8), filters: filters, terms: qt};
+}
+
+function esc(s) {
+  return String(s == null ? '' : s).replace(/[&<>"]/g, function (c) {
+    return {'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c];
+  });
+}
+
+function verified(d) {
+  if (!d.last_verified) return '';
+  var age = (Date.now() - new Date(d.last_verified).getTime()) / 86400000;
+  return age > 180
+    ? '<div class="verified stale">&#9888; da verificare</div>'
+    : '<div class="verified">&#10003; verificato il ' + esc(d.last_verified) + '</div>';
+}
+
+function render(query, res) {
+  var out = document.getElementById('out');
+  if (!res.hits.length) {
+    out.innerHTML = '<div class="answer"><h2>Nessun risultato</h2>'
+      + 'Non trovo niente per <em>' + esc(query) + '</em>. '
+      + 'Prova con meno parole, o col nome di un comune.</div>';
+    return;
+  }
+
+  var what = res.filters.categoria || 'luoghi';
+  var where = res.filters.zona ? ' in zona ' + res.filters.zona : '';
+  var html = '<div class="answer"><h2>' + res.hits.length + ' ' + esc(what)
+    + esc(where) + ' che corrispondono</h2>'
+    + 'In ordine di pertinenza. Le informazioni sono quelle del dataset: '
+    + 'niente e\' generato, tutto e\' verificabile aprendo la fonte.';
+  if (res.filters.zona || res.filters.categoria) {
+    html += '<div class="filters">Filtri riconosciuti nella domanda: '
+      + (res.filters.zona ? '<code>zona=' + esc(res.filters.zona) + '</code> ' : '')
+      + (res.filters.categoria ? '<code>categoria=' + esc(res.filters.categoria) + '</code>' : '')
+      + '</div>';
+  }
+  html += '</div>';
+
+  res.hits.forEach(function (h) {
+    var d = h.doc;
+    var place = [d.quartiere, d.citta, d.zona].filter(Boolean).join(', ');
+    html += '<div class="source">'
+      + '<h3>' + esc(d.nome) + '</h3>'
+      + '<div class="meta"><span class="badge">' + esc(d.categoria) + '</span>'
+      + esc(place) + (d.tipo && d.tipo !== 'altro' ? ' &middot; ' + esc(d.tipo) : '')
+      + '</div>'
+      + '<p>' + esc(d.text) + '</p>'
+      + (d.link ? '<a href="' + esc(d.link) + '" target="_blank" rel="noopener">Fonte &#8599;</a>' : '')
+      + (d.lat && d.lng ? '<a href="index.html?poi=' + encodeURIComponent(d.id) + '">Vedi sulla mappa</a>' : '')
+      + verified(d)
+      + '</div>';
+  });
+  document.getElementById('out').innerHTML = html;
+}
+
+function ask() {
+  var q = document.getElementById('q').value.trim();
+  if (!q) return;
+  history.replaceState(null, '', '?q=' + encodeURIComponent(q));
+  render(q, search(q));
+}
+
+document.getElementById('go').addEventListener('click', ask);
+document.getElementById('q').addEventListener('keydown', function (e) {
+  if (e.key === 'Enter') ask();
+});
+
+var ex = document.getElementById('examples');
+EXAMPLES.forEach(function (t) {
+  var b = document.createElement('button');
+  b.textContent = t;
+  b.addEventListener('click', function () {
+    document.getElementById('q').value = t;
+    ask();
+  });
+  ex.appendChild(b);
+});
+
+// exposed for scripts/test_ask.js, which runs the same retrieval under node
+window.AskSalerno = {tokens: tokens, index: index, search: search};
+
+fetch('data/rag/chunks.jsonl')
+  .then(function (r) { return r.text(); })
+  .then(function (txt) {
+    index(txt.trim().split('\n').map(function (l) { return JSON.parse(l); }));
+    var initial = new URLSearchParams(location.search).get('q');
+    document.getElementById('out').innerHTML =
+      '<p class="status">' + docs.length + ' voci indicizzate. Fai una domanda.</p>';
+    if (initial) {
+      document.getElementById('q').value = initial;
+      ask();
+    }
+  })
+  .catch(function () {
+    document.getElementById('out').innerHTML =
+      '<p class="status">Non riesco a caricare il dataset.</p>';
+  });
+})();
+</script>
+</body>
+</html>

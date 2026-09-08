@@ -1,0 +1,493 @@
+[
+  {
+    "id": "salernotoday-eventi-tutto-pronto-per-il-velia-teatro-festival-parte-la-xxix-ediz",
+    "nome": "Tutto pronto per il \"Velia Teatro Festival\": parte la XXIX edizione",
+    "link": "https://www.salernotoday.it/eventi/teatro/velia-teatro-festival-23-luglio-19-settembre-2026.html",
+    "data_inizio": "2026-09-19",
+    "data_fine": "2026-09-19",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "SalernoToday — sezione Eventi",
+      "url": "https://www.salernotoday.it/eventi/",
+      "type": "external",
+      "id": "salernotoday-eventi"
+    },
+    "license": "da verificare (testata registrata, contenuti (c))",
+    "retrieved_at": "2026-09-08T07:39:22+00:00",
+    "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/"
+  },
+  {
+    "id": "salernotoday-eventi-sagra-dell-uva-e-del-vino-2026-filetta-si-prepara-a-quattro-",
+    "nome": "Sagra dell’Uva e del Vino 2026: Filetta si prepara a quattro giorni tra calici, sapori, musica e tradizione",
+    "link": "https://www.salernotoday.it/eventi/sagre/sagra-uva-san-cipriano-filetta-11-12-13-14-settembre-2026.html",
+    "data_inizio": "2026-09-11",
+    "data_fine": "2026-09-14",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "SalernoToday — sezione Eventi",
+      "url": "https://www.salernotoday.it/eventi/",
+      "type": "external",
+      "id": "salernotoday-eventi"
+    },
+    "license": "da verificare (testata registrata, contenuti (c))",
+    "retrieved_at": "2026-09-08T07:39:48+00:00",
+    "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/"
+  },
+  {
+    "id": "salernotoday-eventi-premio-charlot-vecchioni-franco-e-placido-i-grandi-protagoni",
+    "nome": "Premio Charlot: Vecchioni, Franco e Placido i grandi protagonisti della XXXVIII edizione",
+    "link": "https://www.salernotoday.it/eventi/teatro/premio-charlot-vecchioni-franco-placido-programma-20-26-settembre-20267.html",
+    "data_inizio": "2026-09-20",
+    "data_fine": "2026-09-26",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "SalernoToday — sezione Eventi",
+      "url": "https://www.salernotoday.it/eventi/",
+      "type": "external",
+      "id": "salernotoday-eventi"
+    },
+    "license": "da verificare (testata registrata, contenuti (c))",
+    "retrieved_at": "2026-09-08T07:41:01+00:00",
+    "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/"
+  },
+  {
+    "id": "comune-salerno-eventi-teatro-delle-arti-di-salerno-presentato-il-cartellone-2026-2",
+    "nome": "Teatro delle arti di Salerno, presentato il cartellone 2026/27",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/teatro-delle-arti-di-salerno-presentato-il-cartellone-202627",
+    "data_inizio": "2026-11-07",
+    "data_fine": "2026-11-07",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T07:43:33+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true
+  },
+  {
+    "id": "comune-salerno-eventi-teatro-verdi-e-sala-pasolini-i-cartelloni-2026-2027",
+    "nome": "Teatro Verdi e Sala Pasolini, i cartelloni 2026/2027",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/teatro-verdi-e-sala-pasolini-i-cartelloni-20262027",
+    "data_inizio": "2026-11-03",
+    "data_fine": "2026-11-03",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T07:43:35+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true
+  },
+  {
+    "id": "comune-salerno-eventi-barbuti-festival-2026",
+    "nome": "Barbuti Festival 2026",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/barbuti-festival-2026",
+    "data_inizio": "2026-08-01",
+    "data_fine": "2026-08-01",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T07:43:37+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true
+  },
+  {
+    "id": "comune-salerno-eventi-teatrando-al-quadriportico-2026",
+    "nome": "Teatrando al Quadriportico 2026",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/teatrando-al-quadriportico-2026",
+    "data_inizio": "2026-07-04",
+    "data_fine": "2026-07-04",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T07:43:40+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true
+  },
+  {
+    "id": "comune-salerno-eventi-limen-salerno-festival-2026",
+    "nome": "Limen Salerno Festival 2026",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/limen-salerno-festival-2026",
+    "data_inizio": "2026-06-25",
+    "data_fine": "2026-06-27",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T07:43:43+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true
+  },
+  {
+    "id": "comune-salerno-eventi-martin-parr-wow-salerno-ricorda-il-grande-fotografo-britanni",
+    "nome": "Martin Parr - Wow: Salerno ricorda il grande fotografo britannico",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/martin-parr-wow-salerno-ricorda-il-grande-fotografo-britannico",
+    "data_inizio": "2025-12-13",
+    "data_fine": "2026-01-11",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T07:43:45+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true
+  },
+  {
+    "id": "comune-salerno-eventi-tornano-le-fiabe-per-luci-d-artista",
+    "nome": "Tornano le Fiabe per Luci d'Artista",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/tornano-le-fiabe-luci-dartista-0",
+    "data_inizio": "2025-12-07",
+    "data_fine": "2026-01-06",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T07:43:49+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true
+  },
+  {
+    "id": "comune-salerno-eventi-io-sono-qui-il-pontificato-di-papa-francesco-in-vignette",
+    "nome": "\"Io sono qui\", il pontificato di Papa Francesco in vignette",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/io-sono-qui-il-pontificato-di-papa-francesco-vignette",
+    "data_inizio": "2025-12-04",
+    "data_fine": "2026-01-11",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T07:43:54+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true
+  },
+  {
+    "id": "comune-salerno-eventi-festival-dante-senza-frontiere",
+    "nome": "Festival \"Dante senza frontiere\"",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/festival-dante-senza-frontiere",
+    "data_inizio": "2025-12-02",
+    "data_fine": "2025-12-04",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T07:43:57+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true
+  },
+  {
+    "id": "comune-salerno-eventi-notte-bianca-weekend-salerno-2026",
+    "nome": "Notte Bianca Weekend Salerno 2026",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/notte-bianca-weekend-salerno-2026",
+    "data_inizio": "2026-07-11",
+    "data_fine": "2026-07-12",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T07:44:00+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true
+  },
+  {
+    "id": "comune-salerno-eventi-jazz-in-luce-suoni-ed-emozioni-nel-cuore-della-citt",
+    "nome": "Jazz in Luce: suoni ed emozioni nel cuore della città",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/jazz-luce-suoni-ed-emozioni-nel-cuore-della-citta",
+    "data_inizio": "2026-01-03",
+    "data_fine": "2026-01-05",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T07:44:02+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true
+  },
+  {
+    "id": "comune-salerno-eventi-capodanno-in-piazza-a-salerno-con-mahmood",
+    "nome": "Capodanno in Piazza a Salerno con Mahmood",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/capodanno-piazza-salerno-con-mahmood",
+    "data_inizio": "2025-12-31",
+    "data_fine": "2025-12-31",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T07:44:06+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true
+  },
+  {
+    "id": "comune-salerno-eventi-concerti-sotto-le-stelle-al-giardino-della-minerva",
+    "nome": "Concerti sotto le stelle al Giardino della Minerva",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/concerti-sotto-le-stelle-al-giardino-della-minerva",
+    "data_inizio": "2025-08-11",
+    "data_fine": "2025-08-11",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T07:44:08+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true
+  },
+  {
+    "id": "comune-salerno-eventi-salernosounds-la-musica-live-arriva-in-piazza-della-libert",
+    "nome": "SalernoSounds: la musica live arriva in Piazza della Libertà",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/salernosounds-la-musica-live-arriva-piazza-della-liberta",
+    "data_inizio": "2025-07-12",
+    "data_fine": "2025-07-12",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T07:44:10+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true
+  },
+  {
+    "id": "comune-salerno-eventi-live-stream-fest-25-la-serata-finale",
+    "nome": "Live Stream Fest 25, la serata Finale",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/live-stream-fest-25-la-serata-finale",
+    "data_inizio": "2025-06-27",
+    "data_fine": "2025-06-27",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T07:44:13+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true
+  },
+  {
+    "id": "comune-salerno-eventi-ho-sbagliato-tutto-torna-il-limen-salerno-festival",
+    "nome": "\"Ho sbagliato tutto\": torna il Limen Salerno Festival",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/ho-sbagliato-tutto-torna-il-limen-salerno-festival",
+    "data_inizio": "2025-06-26",
+    "data_fine": "2025-06-28",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T07:44:15+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true
+  },
+  {
+    "id": "comune-salerno-eventi-the-voice-the-violin-amii-stewart-e-alessandro-quarta-al-tea",
+    "nome": "The Voice & The Violin: Amii Stewart e Alessandro Quarta al Teatro Verdi",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/voice-violin-amii-stewart-e-alessandro-quarta-al-teatro-verdi",
+    "data_inizio": "2025-06-14",
+    "data_fine": "2025-06-14",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T07:44:17+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true
+  },
+  {
+    "id": "comune-salerno-eventi-domenica-26-ottobre-la-30-edizione-della-strasalerno",
+    "nome": "Domenica 26 ottobre la 30ª edizione della StraSalerno",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/domenica-26-ottobre-la-30a-edizione-della-strasalerno",
+    "data_inizio": "2025-10-26",
+    "data_fine": "2025-10-26",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T07:44:51+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true
+  },
+  {
+    "id": "comune-salerno-eventi-nordic-walking-un-alleato-contro-la-fragilit",
+    "nome": "Nordic Walking: un alleato contro la fragilità",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/nordic-walking-un-alleato-contro-la-fragilita",
+    "data_inizio": "2025-09-27",
+    "data_fine": "2025-09-27",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T07:44:55+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true
+  },
+  {
+    "id": "comune-salerno-eventi-alla-parrocchia-san-demetrio-il-presepe-vivente-dei-bambini",
+    "nome": "Alla Parrocchia San Demetrio “Il presepe vivente dei bambini”",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/alla-parrocchia-san-demetrio-il-presepe-vivente-dei-bambini",
+    "data_inizio": "2025-12-22",
+    "data_fine": "2025-12-22",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T07:44:58+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true
+  },
+  {
+    "id": "comune-salerno-eventi-un-natale-a-ritmo-di-legalit-a-matierno",
+    "nome": "Un Natale a ritmo di legalità a Matierno",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/un-natale-ritmo-di-legalita-matierno",
+    "data_inizio": "2025-12-13",
+    "data_fine": "2025-12-13",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T07:45:02+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true
+  },
+  {
+    "id": "comune-salerno-eventi-salerno-inaugura-la-race-for-the-cure-campania",
+    "nome": "Salerno inaugura la Race for the Cure Campania",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/salerno-inaugura-la-race-cure-campania",
+    "data_inizio": "2025-10-04",
+    "data_fine": "2025-10-05",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T07:45:05+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true
+  },
+  {
+    "id": "comune-salerno-eventi-torna-ecommerce-hub-l-evento-di-riferimento-per-l-ecommerce-",
+    "nome": "Torna Ecommerce HUB®, l’evento di riferimento per l’ecommerce e il marketing online",
+    "link": "https://www.comune.salerno.it/vivere-il-comune/eventi/torna-ecommerce-hubr-levento-di-riferimento-lecommerce-e-il-marketing",
+    "data_inizio": "2025-10-02",
+    "data_fine": "2025-10-02",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "Comune di Salerno — Vivere il Comune / Eventi",
+      "url": "https://www.comune.salerno.it/vivere-il-comune/eventi",
+      "type": "official",
+      "id": "comune-salerno-eventi"
+    },
+    "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
+    "retrieved_at": "2026-09-08T07:45:09+00:00",
+    "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
+    "ufficiale": true
+  }
+]

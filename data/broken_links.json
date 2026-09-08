@@ -1,0 +1,740 @@
+{
+  "checked_at": "2026-09-07T00:42:30",
+  "checked": 90,
+  "fixed": 103,
+  "broken": [
+    {
+      "url": "https://www.cilentolifestyle.it/trekking-sentiero-del-monte-stella/",
+      "error": "URLError",
+      "pois": [
+        "sentiero-monte-stella"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://it.wikipedia.org/wiki/Cripta_di_San_Matteo",
+      "error": "HTTP 404",
+      "pois": [
+        "cripta-san-matteo"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://it.wikipedia.org/wiki/San_Pietro_a_Corte",
+      "error": "HTTP 404",
+      "pois": [
+        "san-pietro-a-corte",
+        "monumenti-san-pietro-a-corte"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://it.wikipedia.org/wiki/Villa_Comunale_(Salerno)",
+      "error": "HTTP 404",
+      "pois": [
+        "villa-comunale"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://it.wikipedia.org/wiki/Museo_diocesano_di_San_Matteo_(Salerno)",
+      "error": "HTTP 404",
+      "pois": [
+        "museo-diocesano"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://it.wikipedia.org/wiki/Cattedrale_di_Sant%27Andrea_(Amalfi)",
+      "error": "HTTP 404",
+      "pois": [
+        "duomo-amalfi",
+        "chiesa-santandrea-amalfi"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Assunta_(Positano)",
+      "error": "HTTP 404",
+      "pois": [
+        "chiesa-santamaria-positano"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.museopaestum.beniculturali.it",
+      "error": "URLError",
+      "pois": [
+        "tempio-nettuno",
+        "tempio-hera",
+        "tempio-atena",
+        "tomba-tuffatore",
+        "museo-paestum",
+        "monumenti-altare-del-tempio-di-nettuno",
+        "monumenti-altare-romano-del-tempio-di-nettuno",
+        "monumenti-altare-del-tempio-di-atena"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://it.wikipedia.org/wiki/Castello_di_Agropoli",
+      "error": "HTTP 404",
+      "pois": [
+        "castello-agropoli"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.grottedicastelcivita.it",
+      "error": "URLError",
+      "pois": [
+        "grotta-castelcivita"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://it.wikipedia.org/wiki/Torri_costiere_del_Cilento",
+      "error": "HTTP 404",
+      "pois": [
+        "torri-costiere"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.comune.maiori.sa.it",
+      "error": "URLError",
+      "pois": [
+        "spiaggia-maiori"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.comune.vietrisulmare.sa.it",
+      "error": "URLError",
+      "pois": [
+        "spiaggia-vietri"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.regatarepubblichemarinare.it",
+      "error": "URLError",
+      "pois": [
+        "regata-repubbliche-marinare"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.battentieri.it",
+      "error": "URLError",
+      "pois": [
+        "battentieri"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.cita2.it",
+      "error": "URLError",
+      "pois": [
+        "monumenti-pilgrim-parking---cristo-è-la-risposta-ii"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://parrocchiasandemetrio.blogspot.fr/",
+      "error": "HTTP 404",
+      "pois": [
+        "monumenti-parrocchia-san-demetrio"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.associazionesangiuseppeonlus.it/homepage.html",
+      "error": "URLError",
+      "pois": [
+        "monumenti-parrocchia-san-giuseppe"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.comune.pianodisorrento.na.it/it/page/chiesa-e-congrega-della-ss",
+      "error": "HTTP 404",
+      "pois": [
+        "monumenti-congrega-della-santissima-annunziata"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.comune.pianodisorrento.na.it/it/page/chiesa-di-madonna-di-rosella",
+      "error": "HTTP 404",
+      "pois": [
+        "monumenti-chiesa-di-santa-maria-delle-grazie-detta-di-rosell"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.liberoricercatore.it/Storia/sanraffaele.htm",
+      "error": "HTTP 404",
+      "pois": [
+        "monumenti-san-raffaele-arcangelo"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Benedetto_da_Norcia_(Angri)",
+      "error": "HTTP 404",
+      "pois": [
+        "monumenti-chiesa-di-san-benedetto-da-norcia"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.comune.angri.sa.it/castello-doria.htm",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-castello-doria"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.spaziopaestum.com/",
+      "error": "URLError",
+      "pois": [
+        "monumenti-spazio-paestum"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://ambientesa.beniculturali.it/BAP/?q=luoghi&luogo=Monumenti&provincia=Salerno&comune=Minori&src=&ID=55",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-villa-marittima-archeologica-romana"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=150685&pagename=150685",
+      "error": "URLError",
+      "pois": [
+        "monumenti-antiquarium-della-chiesa-di-santa-maria",
+        "monumenti-anqituarium-della-cappella-palatina"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.comune.agropoli.sa.it/palazzo-civico-della-arti/",
+      "error": "HTTP 404",
+      "pois": [
+        "monumenti-palazzo-civico-delle-arti"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+the+baker+(VI%2C3%2C3)&idSezione=601",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-casa-del-forno-vi33"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?idSezione=134",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-tempio-di-venere-viii13"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=Casa+del+Chirurgo+(VI+1%2C9.10)&idSezione=85",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-casa-del-chirurgo-vi110"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+the+Dioscuri+(VI%2C9%2C6)&idSezione=786",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-casa-dei-dioscuri-vi96"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=Villa+di+Diomede&idSezione=175",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-villa-di-diomede"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+the+wild+boar+%28VII%2C4%2C48%29&idSezione=593&lookfor=hunt",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-casa-della-caccia-antica-vii448"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://pompeiisites.org/Sezione.jsp?idSezione=151",
+      "error": "HTTP 404",
+      "pois": [
+        "monumenti-terme-suburbane"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=Tempio+di+Asclepio+(Giove+Meilichio%3A+VIII%2C7%2C25)&idSezione=130",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-tempio-di-asclepio-viii725"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=Necropolis+of+Porta+Ercolano&idSezione=686",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-necropoli-di-porta-ercolano"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=Casa+del+Principe+di+Napoli+(VI+15%2C+7-8)&idSezione=6894",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-casa-del-principe-di-napoli-vi158"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=Pompeii%2C+Fullonica+of+Stephanus&idSezione=4996",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-fullonica-di-stephanus-i67"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://it.wikipedia.org/wiki/Acquedotto_Romano_di_Sant'Egidio",
+      "error": "HTTP 404",
+      "pois": [
+        "monumenti-acquedotto-romano"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://pompeiisites.org/Sezione.jsp?titolo=Casa+della+Venere+in+Conchiglia+(II+3%2C3)&idSezione=73",
+      "error": "HTTP 404",
+      "pois": [
+        "monumenti-casa-della-venere-in-conchiglia-ii33"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.museopaestum.beniculturali.it/",
+      "error": "URLError",
+      "pois": [
+        "monumenti-sito-archeologico-di-paestum",
+        "osm-107830986"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=150685&pagename=157031",
+      "error": "URLError",
+      "pois": [
+        "monumenti-sito-archeologico-di-elea-velia"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Eventi/visualizza_asset.html_1806741574.html",
+      "error": "URLError",
+      "pois": [
+        "monumenti-casa-degli-affreschi"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=Forum+Baths+%28VII%2C5%2C24%29&idSezione=664&lookfor=forum%20baths",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-terme-del-foro-vii52"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=Memorial+Arches&idSezione=2306&lookfor=forum",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-arco-onorario"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=Basilica+%28VIII%2C1%2C1%29&idSezione=2305&lookfor=basilica",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-basilica-di-pompei-viii11"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=the%20eruption%20of%20vesuvious&idSezione=135",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-tempio-di-apollo"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=Forum+granary+%28VII%2C7%2C29%29&idSezione=2317&lookfor=forum",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-granai-del-foro-vii729"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=Mensa+ponderaria+%28VII%2C7%2C31%29&idSezione=637",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-mensa-ponderaria-vii731"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?idSezione=126",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-edificio-di-eumachia-vii91"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=Tempio+di+Giove+(VII%2C8%2C1)&idSezione=133",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-tempio-di-giove-vii81"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=Casa+dell%27Ara+Massima+(VI+16%2C+15-17)&idSezione=6895",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-casa-dellara-massima-vi1615"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=Temple+of+Fortuna+Augusta+%28VII%2C4%2C1%29&idSezione=652&lookfor=Fortuna%20Augusta",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-tempio-della-fortuna-augusta"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+the+geometric+mosaics+(VIII%2C2%2C14-16)&idSezione=597",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-casa-dei-mosaici-geometrici-viii216"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://pompeiisites.org/Sezione.jsp?titolo=Casa+di+Apollo+(VI+7%2C23)&idSezione=288",
+      "error": "HTTP 404",
+      "pois": [
+        "monumenti-casa-di-apollo-vi723"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=Terme+centrali+(IX%2C4%2C5-18)&idSezione=150",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-terme-centrali-di-pompei"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=Forum+%28VII%2C8%29&idSezione=2303&lookfor=forum",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-foro-di-pompei-vii8"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.comune.roccagloriosa.sa.it/index.php?action=index&p=340",
+      "error": "HTTP 404",
+      "pois": [
+        "monumenti-area-archeologica-roccagloriosa"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=Casa+di+Sallustio+(VI+2%2C4)&idSezione=81",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-casa-di-sallustio-vi24"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=Thermopolium+of+Vetutius+Placidus+(I%2C8%2C8)&idSezione=2313",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-caupona-di-lucius-betutius-placidus-i88"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+Pansa+(VI%2C6%2C1)&idSezione=595",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-casa-di-pansa-vi61"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=Doric+temple+%28VIII%2C7%2C30-34%29&idSezione=2330",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-tempioa-dorico--santuario-di-atena-ed-eracle-viii7"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://cir.campania.beniculturali.it/museoarcheologiconazionale/percorso/nel-museo/P_RA24",
+      "error": "URLError",
+      "pois": [
+        "monumenti-tempio-diside-viii728"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.pompeiisites.org/Sezione.jsp?titolo=I+misteri+e+la+Villa+dei+Misteri&idSezione=6958",
+      "error": "HTTP 404",
+      "pois": [
+        "monumenti-villa-dei-misteri"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=Foro+triangolare+e+Tempio+dorico+%28VIII%2C7%2C30-34%29&idSezione=136",
+      "error": "ConnectionResetError",
+      "pois": [
+        "monumenti-foro-triangolare-viii730"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_del_Santissimo_Redentore_(Ercolano)",
+      "error": "HTTP 404",
+      "pois": [
+        "osm-220170605"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://sangiuseppeemadonnadilourdes.it/",
+      "error": "URLError",
+      "pois": [
+        "osm-744977390"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.polomusealecampania.beniculturali.it/index.php/il-museo-eboli",
+      "error": "URLError",
+      "pois": [
+        "osm-1246664053"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.polomusealecampania.beniculturali.it/index.php/il-museo-montella",
+      "error": "URLError",
+      "pois": [
+        "osm-1436199334"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://musei.beniculturali.it/musei?mid=74&nome=museo-archeologico-nazionale-di-muro-lucano",
+      "error": "URLError",
+      "pois": [
+        "osm-2265264378"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.polomusealecampania.beniculturali.it/index.php/il-museo-gvallet",
+      "error": "URLError",
+      "pois": [
+        "osm-3581704750"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://polomusealecampania.beniculturali.it/index.php/il-museo-pontecagnano",
+      "error": "URLError",
+      "pois": [
+        "osm-4340367751"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.polomusealecampania.beniculturali.it/index.php/il-museo-sarno",
+      "error": "URLError",
+      "pois": [
+        "osm-6718393565"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.museibiblioteche.provincia.salerno.it/index.php?option=com_content&view=article&id=15&Itemid=115&lang=it",
+      "error": "ConnectionResetError",
+      "pois": [
+        "osm-273425666"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.cir.campania.beniculturali.it/luoghi-della-cultura/ercolano-teatro-romano",
+      "error": "URLError",
+      "pois": [
+        "osm-2662236954"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=Sede+degli+Augustali+(VI%2C21+E+24)&idSezione=204",
+      "error": "ConnectionResetError",
+      "pois": [
+        "osm-168362546"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?idSezione=149",
+      "error": "ConnectionResetError",
+      "pois": [
+        "osm-303765631"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=La+terrazza+di+M.Nonio+Balbo+(Terrazza+Meridionale%2C+2)&idSezione=222",
+      "error": "ConnectionResetError",
+      "pois": [
+        "osm-310364908"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=banca%20dati&idSezione=180",
+      "error": "ConnectionResetError",
+      "pois": [
+        "osm-311209135"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=newsletter&idSezione=186",
+      "error": "ConnectionResetError",
+      "pois": [
+        "osm-321565894"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "http://www.pompeiisites.org/Sezione.jsp?titolo=La+casa+del+Genio&idSezione=184",
+      "error": "ConnectionResetError",
+      "pois": [
+        "osm-321565896"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.comune.amalfi.it",
+      "error": "URLError",
+      "pois": [
+        "festa-santandrea"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.sagradelpescecetara.it",
+      "error": "URLError",
+      "pois": [
+        "sagra-pesce-cetara"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.sagradellimone.it",
+      "error": "URLError",
+      "pois": [
+        "sagra-limone-costiera"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.paestumfestival.it",
+      "error": "URLError",
+      "pois": [
+        "paestum-festival-2026"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.cilentogolfofilmfestival.it",
+      "error": "URLError",
+      "pois": [
+        "cilento-golfo-film-festival"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.comune.novivelia.sa.it/Vivere-il-comune/Scopri-Novi-Velia/Sagre-e-Feste",
+      "error": "URLError",
+      "pois": [
+        "sagra-mozzarella-novi-velia"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://parchipaestumvelia.cultura.gov.it/musica-parole-2025-dal-26-luglio-al-17-agosto-la-musica-incontra-la-bellezza-senza-tempo-di-paestum-e-velia/",
+      "error": "URLError",
+      "pois": [
+        "musica-parole-paestum-velia"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.parcocesto.it",
+      "error": "URLError",
+      "pois": [
+        "parco-cilento",
+        "area-marina-infreschi"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.parcoamalfi.it",
+      "error": "URLError",
+      "pois": [
+        "parco-ferriere",
+        "riserva-costiera"
+      ],
+      "fixed_with": "openstreetmap"
+    }
+  ]
+}
