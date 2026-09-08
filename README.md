@@ -264,6 +264,19 @@ Interactive map with filters for zona, tipo, and search: [Open Map](https://autc
 - [Event calendar](https://autcir.github.io/awesome-salerno/calendar.html) - 49 events by date with zone filters.
 - [Statistics dashboard](https://autcir.github.io/awesome-salerno/stats.html) - Charts by zone, type and top cities.
 
+## Daily refresh
+
+Events are ingested every morning by a systemd timer on the project's own
+server (`scripts/soliso_ingest.sh`), which runs the headless browser, writes
+the events, and pushes them to the `dati/eventi-automatici` branch for review.
+
+> **GitHub Actions is currently blocked for this account** — every run since
+> 2026-09-06 fails before starting with *"the job was not started because your
+> account is locked due to a billing issue"*. That means `ci.yml`,
+> `auto-refresh.yml` and `pr-ingest.yml` never execute, and the Pages deploy
+> has not run either. The self-hosted timer is deliberately independent of
+> Actions, so the data keeps refreshing regardless.
+
 ## API
 
 JSON API with fuzzy search, filters, and GeoJSON export.

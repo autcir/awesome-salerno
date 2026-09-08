@@ -28,6 +28,10 @@ Generato da scripts/ingest_events.py su soliso.
 Ogni record porta source, license, retrieved_at, provenance e curated:false."
 git push -q -f origin "$RAMO"
 
-# La PR la apre .github/workflows/pr-ingest.yml al push su questo ramo,
-# con il GITHUB_TOKEN di Actions: nessun token personale su questa VPS.
-echo "consegnati ${N} eventi sul ramo ${RAMO}; la PR la apre Actions"
+# La PR la aprirebbe .github/workflows/pr-ingest.yml al push su questo ramo,
+# con il GITHUB_TOKEN di Actions e nessun token su questa VPS. Ma dal
+# 2026-09-06 ogni run e' bloccato a monte: "The job was not started because
+# your account is locked due to a billing issue". Finche' dura, il ramo e'
+# la consegna e la PR si apre a mano.
+echo "consegnati ${N} eventi sul ramo ${RAMO}"
+echo "PR: https://github.com/autcir/awesome-salerno/compare/${RAMO}?expand=1"
