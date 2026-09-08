@@ -67,20 +67,18 @@ jobs:
     needs: [lint, validate-data]
     if: github.ref == 'refs/heads/main'
     permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - name: Sync data to docs
         run: |
           rm -rf docs/data
           cp -r data docs/data
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+      # Non si passa da upload-pages-artifact: lo storage degli artifact e'
+      # bloccato ("Artifact storage quota has been hit"). Questo metodo
+      # pubblica spingendo sul ramo gh-pages, che non consuma quota ed e'
+      # lo stesso gia' usato da auto-refresh.yml.
+      - uses: peaceiris/actions-gh-pages@v4
         with:
-          path: docs
-      - id: deployment
-        uses: actions/deploy-pages@v4
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
