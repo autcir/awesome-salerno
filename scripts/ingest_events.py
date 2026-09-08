@@ -195,42 +195,6 @@ def da_rss(fonte):
     return out
 
 
-JS_COMUNE_LINK = r"""
-(function(){
-  var m = {};
-  var links = document.querySelectorAll('a');
-  for (var i = 0; i < links.length; i++) {
-    var a = links[i], h = a.href;
-    if (!/\/vivere-il-comune\/eventi\/[a-z0-9-]+$/.test(h)) continue;
-    var t = (a.textContent || '').trim().replace(/\s+/g, ' ');
-    if (!m[h] || t.length > m[h].length) m[h] = t;
-  }
-  var o = [];
-  for (var k in m) if (m[k].length > 8) o.push({href: k, t: m[k]});
-  return JSON.stringify(o);
-})()
-"""
-
-JS_COMUNE_DATE = r"""
-(function(){
-  // Il bottone "Aggiungi al calendario" e' un link Google Calendar con
-  // dates=<inizio>/<fine> leggibile a macchina: molto meglio del testo.
-  var links = document.querySelectorAll('a');
-  for (var i = 0; i < links.length; i++) {
-    var h = links[i].href || '';
-    var m = h.match(/[?&]dates=(\d{8}T\d{6}Z)\/(\d{8}T\d{6}Z)/);
-    if (m) return JSON.stringify({inizio: m[1], fine: m[2]});
-  }
-  return JSON.stringify({inizio: null, fine: null});
-})()
-"""
-
-CATEGORIE_COMUNE = [
-    "evento-culturale", "evento-musicale", "evento-sportivo",
-    "evento-sociale", "evento-di-affari-o-commerciale",
-]
-
-
 def _iso(stamp):
     return f"{stamp[0:4]}-{stamp[4:6]}-{stamp[6:8]}" if stamp else None
 
@@ -248,37 +212,137 @@ def fine_attendibile(fine_iso, adesso=None):
     return None if fine_iso >= oggi else fine_iso
 
 
-def da_comune(fonte, max_eventi=25):
-    base = "https://www.comune.salerno.it"
+JS_PA_INDEX = r"""
+(function(){
+  // Ogni comune ha il suo schema di URL (/eventi/<id>/<slug>,
+  // /it/eventi/<slug>, /vivere-il-comune/eventi/<slug>...). Quel che hanno
+  // in comune e' la forma: dall'indice pendono i dettagli, tutti con
+  // "event" nel percorso e piu' profondi dell'indice stesso.
+  var host = location.host, base = location.pathname.replace(/\/+$/, '');
+  var m = {};
+  var links = document.querySelectorAll('a');
+  for (var i = 0; i < links.length; i++) {
+    var a = links[i];
+    if (a.host !== host) continue;
+    var p = a.pathname.replace(/\/+$/, '');
+    if (!/event/i.test(p)) continue;
+    if (p === base || p.length <= base.length) continue;
+    // le pagine di categoria non sono eventi
+    if (/\/tipi?[-_]di[-_]evento\/|\/tipi?[_-]evento\//i.test(p)) continue;
+    var t = (a.textContent || '').trim().replace(/\s+/g, ' ');
+    if (/^categoria\s*:/i.test(t)) continue;
+    if (!m[a.href] || t.length > m[a.href].length) m[a.href] = t;
+  }
+  var o = [];
+  for (var k in m) if (m[k].length > 10) o.push({href: k, t: m[k]});
+  return JSON.stringify(o);
+})()
+"""
+
+JS_PA_DATE = r"""
+(function(){
+  // In ordine di affidabilita': il link "Aggiungi al calendario" (Google
+  // Calendar, misurato su Salerno e Agropoli), poi <time datetime>
+  // (Ravello). Il testo libero NON si usa: "15/05/2025" su Praiano puo'
+  // essere la data dell'evento o quella di pubblicazione, e indovinare
+  // significa inventare.
+  var links = document.querySelectorAll('a');
+  for (var i = 0; i < links.length; i++) {
+    var h = links[i].href || '';
+    var g = h.match(/[?&]dates=(\d{8})T?\d*Z?\/(\d{8})T?\d*Z?/);
+    if (g) return JSON.stringify({inizio: g[1], fine: g[2], via: 'calendario'});
+  }
+  var ts = document.querySelectorAll('time[datetime]');
+  if (ts.length) {
+    var a = ts[0].getAttribute('datetime').slice(0, 10).replace(/-/g, '');
+    var b = ts.length > 1 ? ts[ts.length - 1].getAttribute('datetime').slice(0, 10).replace(/-/g, '') : a;
+    if (/^\d{8}$/.test(a)) return JSON.stringify({inizio: a, fine: /^\d{8}$/.test(b) ? b : a, via: 'time'});
+  }
+  return JSON.stringify({inizio: null, fine: null, via: null});
+})()
+"""
+
+
+def da_pa(fonte, max_eventi=30):
+    """
+    Estrattore per i siti della PA. Il comune porta i suoi indici nel
+    registro (`indici`); lo schema degli URL cambia da comune a comune, la
+    forma no. Senza una data leggibile a macchina l'evento si scarta.
+    """
     visti = {}
-    for cat in CATEGORIE_COMUNE:
+    for u in fonte.get("indici", [fonte["url"]]):
         try:
-            for h in obscura_eval(f"{base}/tipi-di-evento/{cat}", JS_COMUNE_LINK):
+            for h in obscura_eval(u, JS_PA_INDEX):
                 visti.setdefault(h["href"], h["t"])
         except RuntimeError as e:
-            print(f"    ({cat}: saltata — {e})")
+            print(f"    (indice saltato {u.rsplit('/', 1)[-1]}: {e})")
 
     out = []
     for href, titolo in list(visti.items())[:max_eventi]:
         try:
-            d = obscura_eval(href, JS_COMUNE_DATE)
+            d = obscura_eval(href, JS_PA_DATE)
         except RuntimeError as e:
-            print(f"    ({href.rsplit('/', 1)[-1]}: saltato — {e})")
+            print(f"    ({href.rsplit('/', 1)[-1][:40]}: {e})")
             continue
         inizio = _iso(d.get("inizio"))
         if not inizio:
-            continue  # senza data non si pubblica
+            continue
         fine = fine_attendibile(_iso(d.get("fine"))) or inizio
         out.append(record(titolo, href, inizio, max(fine, inizio), fonte,
-                          {"tipo": "evento", "ufficiale": True}))
+                          {"tipo": "evento", "ufficiale": fonte["tipo"] == "official",
+                           "data_via": d.get("via")}))
     return out
 
 
 ESTRATTORI = {
-    "comune-salerno-eventi": da_comune,
     "salernotoday-eventi": da_salernotoday,
     "salernonotizie-rss": da_rss,
 }
+
+
+GIORNI_SCADENZA = 21
+
+
+def riconferma(nuovi, precedenti, oggi=None, giorni=GIORNI_SCADENZA):
+    """
+    t5 — un evento non riconfermato scade, ma non sparisce subito.
+
+    Le fonti PA tolgono e rimettono le pagine, e una fonte giu' per un
+    giorno non deve cancellare mezzo calendario. Quindi: chi torna
+    nell'ingest di oggi si riconferma; chi non torna resta, con
+    `visto_ultima_volta`, finche' non supera la finestra. Gli eventi gia'
+    finiti restano nell'archivio ma non si riconfermano da soli.
+    """
+    from datetime import date as _d, timedelta
+    oggi = oggi or _d.today()
+    limite = (oggi - timedelta(days=giorni)).isoformat()
+    oggi_s = oggi.isoformat()
+
+    per_id = {}
+    for e in precedenti:
+        per_id[e.get("id")] = e
+
+    vivi, scaduti = [], 0
+    visti_ora = set()
+    for e in nuovi:
+        e["visto_ultima_volta"] = oggi_s
+        prima = per_id.get(e["id"])
+        if prima and prima.get("visto_prima_volta"):
+            e["visto_prima_volta"] = prima["visto_prima_volta"]
+        else:
+            e["visto_prima_volta"] = oggi_s
+        visti_ora.add(e["id"])
+        vivi.append(e)
+
+    for e in precedenti:
+        if e.get("id") in visti_ora:
+            continue
+        ultimo = e.get("visto_ultima_volta", "")
+        if ultimo and ultimo >= limite:
+            vivi.append(e)          # non riconfermato, ma dentro la finestra
+        else:
+            scaduti += 1            # fuori finestra: esce
+    return vivi, scaduti
 
 
 def dedup(nuovi, curati):
@@ -322,6 +386,22 @@ def self_check():
     assert fine_attendibile(None, date(2026, 9, 8)) is None
     assert _iso("20260801T190000Z") == "2026-08-01" and _iso(None) is None
 
+    from datetime import date as _d
+    oggi = _d(2026, 9, 8)
+    fonte2 = {"id": "f", "nome": "F", "url": "https://e.it", "tipo": "external"}
+    a = record("A", "u", "2026-10-01", "2026-10-01", fonte2)
+    prima = [dict(a, visto_ultima_volta="2026-09-07", visto_prima_volta="2026-08-01"),
+             {"id": "vecchio", "nome": "V", "visto_ultima_volta": "2026-08-01"},
+             {"id": "recente", "nome": "R", "visto_ultima_volta": "2026-09-01"}]
+    vivi, scaduti = riconferma([a], prima, oggi=oggi)
+    ids = {e["id"] for e in vivi}
+    assert a["id"] in ids, "riconfermato oggi"
+    assert "recente" in ids, "non riconfermato ma dentro i 21 giorni: resta"
+    assert "vecchio" not in ids and scaduti == 1, "fuori finestra: esce"
+    rec = next(e for e in vivi if e["id"] == a["id"])
+    assert rec["visto_prima_volta"] == "2026-08-01", "la prima volta non si riscrive"
+    assert rec["visto_ultima_volta"] == "2026-09-08"
+
     assert PAROLE_EVENTO.search("Torna la Sagra del Vino")
     assert not PAROLE_EVENTO.search("Lavori hub Pompei, modifiche circolazione")
     # falso positivo misurato il 2026-09-08: "rassegna" dentro "rassegna stampa"
@@ -340,7 +420,7 @@ def main():
     raccolti, esiti = [], []
 
     for f in fonti:
-        fn = ESTRATTORI.get(f["id"])
+        fn = ESTRATTORI.get(f["id"]) or (da_pa if f.get("indici") else None)
         if not fn or f["semaforo"] in ("rosso", "arancio"):
             continue
         try:
@@ -351,8 +431,13 @@ def main():
             esiti.append(f"  {f['id']}: FALLITA — {e}")
 
     finali = dedup(raccolti, curati)
+    precedenti = []
+    if (DATA / "eventi_scraped.json").exists():
+        precedenti = json.load(open(DATA / "eventi_scraped.json"))
+    finali, scaduti = riconferma(finali, precedenti)
     print("\n".join(esiti))
-    print(f"raccolti {len(raccolti)} -> {len(finali)} dopo dedup")
+    print(f"raccolti {len(raccolti)} -> {len(finali)} vivi, {scaduti} scaduti "
+          f"(non riconfermati da oltre {GIORNI_SCADENZA} giorni)")
 
     if not finali:
         print("ZERO eventi: non sovrascrivo. Vuoto non e' un successo.")

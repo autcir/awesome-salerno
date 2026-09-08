@@ -1,7 +1,7 @@
 {
   "$comment": "Registro fonti eventi del Salernitano. Ogni voce porta lo stato MISURATO con obscura da VPS soliso, non dedotto. Nessuna fonte entra nell'ingest senza licenza e provenienza. Vedi docs/criteria.md.",
   "verificato": "2026-09-08",
-  "metodo": "obscura fetch --quiet --stealth --eval <estrattore>, da soliso (IP datacenter)",
+  "metodo": "obscura fetch --quiet --stealth --eval <estrattore>, da soliso (IP datacenter). Le fonti PA con `indici` passano dall estrattore generico da_pa().",
   "semaforo": {
     "verde": "risponde, contenuto strutturato, pronta per l'ingest",
     "giallo": "risponde ma il contenuto va filtrato o cercato piu' a fondo",
@@ -43,8 +43,15 @@
       "semaforo": "verde",
       "misura": "Gli eventi veri stanno sotto /tipi-di-evento/<categoria> (5 categorie). Le date sono nel link \"Aggiungi al calendario\" (Google Calendar, dates=<inizio>/<fine>), leggibili a macchina. ATTENZIONE: per gli eventi senza fine il sito stampa come fine l ora di render della pagina.",
       "copertura": "Salerno citta', fonte ufficiale",
-      "struttura": "taxonomy /tipi-di-evento/ -> dettaglio /vivere-il-comune/eventi/<slug> -> date dal link calendario",
-      "note": "Fonte di massimo valore (official) e da chiudere per prima. ATTENZIONE: /it/eventi e' un 404 che risponde 200 con titolo 'Pagina non trovata' — mai fidarsi del codice HTTP."
+      "struttura": "5 pagine /tipi-di-evento/ come indici -> dettaglio -> data dal link \"Aggiungi al calendario\"",
+      "note": "Fonte di massimo valore (official) e da chiudere per prima. ATTENZIONE: /it/eventi e' un 404 che risponde 200 con titolo 'Pagina non trovata' — mai fidarsi del codice HTTP.",
+      "indici": [
+        "https://www.comune.salerno.it/tipi-di-evento/evento-culturale",
+        "https://www.comune.salerno.it/tipi-di-evento/evento-musicale",
+        "https://www.comune.salerno.it/tipi-di-evento/evento-sportivo",
+        "https://www.comune.salerno.it/tipi-di-evento/evento-sociale",
+        "https://www.comune.salerno.it/tipi-di-evento/evento-di-affari-o-commerciale"
+      ]
     },
     {
       "id": "comune-amalfi",
@@ -127,6 +134,51 @@
       "semaforo": "rosso",
       "misura": "timeout: navigazione oltre i 30.000ms",
       "note": "Da ritentare con timeout piu' alto prima di scartarla."
+    },
+    {
+      "id": "comune-ravello-eventi",
+      "nome": "Comune di Ravello — Eventi",
+      "url": "https://www.comune.ravello.sa.it/it/vivere/eventi",
+      "indici": [
+        "https://www.comune.ravello.sa.it/it/vivere/eventi"
+      ],
+      "tipo": "official",
+      "licenza": "PA italiana, da confermare",
+      "semaforo": "verde",
+      "misura": "indice con eventi reali (mostre, rassegne). Date da <time datetime>, es. 2025-10-10T11:30",
+      "copertura": "Costiera Amalfitana",
+      "struttura": "/it/eventi/<slug>, data da <time datetime>",
+      "note": "Schema URL diverso da Salerno: l'estrattore PA generico lo regge senza codice dedicato."
+    },
+    {
+      "id": "comune-agropoli-eventi",
+      "nome": "Citta' di Agropoli — Eventi",
+      "url": "https://www.comune.agropoli.sa.it/vivere-il-comune/eventi/",
+      "indici": [
+        "https://www.comune.agropoli.sa.it/vivere-il-comune/eventi/"
+      ],
+      "tipo": "official",
+      "licenza": "PA italiana, da confermare",
+      "semaforo": "verde",
+      "misura": "indice con eventi reali. Date dal link Google Calendar, es. 20250709T200000/20250709T220000",
+      "copertura": "Cilento",
+      "struttura": "/vivere-il-comune/eventi/<slug>, data dal link calendario",
+      "note": "Ha anche /tipi_evento/ come tassonomia: l'estrattore la scarta."
+    },
+    {
+      "id": "comune-praiano-eventi",
+      "nome": "Comune di Praiano — Eventi",
+      "url": "https://www.comune.praiano.sa.it/eventi",
+      "indici": [
+        "https://www.comune.praiano.sa.it/eventi"
+      ],
+      "tipo": "official",
+      "licenza": "PA italiana, da confermare",
+      "semaforo": "giallo",
+      "misura": "indice con eventi reali (Festa di San Gennaro, I Suoni degli Dei) ma NESSUNA data leggibile a macchina: niente calendario, niente <time>. Solo 15/05/2025 nel testo, che puo' essere la pubblicazione.",
+      "copertura": "Costiera Amalfitana",
+      "struttura": "/eventi/<id>/<slug>",
+      "note": "Gli eventi vengono scartati finche' non c'e' una data affidabile: indovinare significa inventare."
     }
   ]
 }
