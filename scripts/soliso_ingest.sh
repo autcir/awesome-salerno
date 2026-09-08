@@ -6,7 +6,8 @@ cd "$HOME/awesome-salerno"
 RAMO="dati/eventi-automatici"
 
 git fetch -q origin
-git checkout -q main && git reset -q --hard origin/main
+git checkout -q main
+git reset -q --hard origin/main
 
 python3 scripts/ingest_events.py || { echo "ingest fallito: nulla da consegnare"; exit 1; }
 
@@ -17,12 +18,13 @@ if [ -z "$(git status --porcelain -- data/eventi_scraped.json)" ]; then
   exit 0
 fi
 
-N=$(python3 -c "import json;print(len(json.load(open(data/eventi_scraped.json))))")
+N=$(python3 -c 'import json; print(len(json.load(open("data/eventi_scraped.json"))))')
+
 git checkout -q -B "$RAMO"
 git add data/eventi_scraped.json
-git commit -q -m "dati: ingest eventi $(date +%F) — $N eventi
+git commit -q -m "dati: ingest eventi $(date +%F) — ${N} eventi
 
 Generato da scripts/ingest_events.py su soliso.
 Ogni record porta source, license, retrieved_at, provenance e curated:false."
 git push -q -f origin "$RAMO"
-echo "consegnati $N eventi sul ramo $RAMO"
+echo "consegnati ${N} eventi sul ramo ${RAMO}"
