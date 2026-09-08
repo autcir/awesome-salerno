@@ -15,9 +15,6 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0   # build_digest.py legge la storia per il changelog
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
 
       - name: Build digest
         run: python3 scripts/build_digest.py

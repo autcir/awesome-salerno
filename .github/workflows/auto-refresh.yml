@@ -8,9 +8,6 @@ jobs:
     runs-on: [self-hosted, linux, obscura]
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
       - name: Ingest eventi (obscura)
         # Gira sul runner self-hosted di soliso, dove obscura e' installato.
         # Se fallisce si tiene l'ultimo eventi_scraped.json buono: mai

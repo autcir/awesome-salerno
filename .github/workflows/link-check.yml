@@ -14,9 +14,6 @@ jobs:
     runs-on: [self-hosted, linux, obscura]
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
 
       - name: Verify links, stamp last_verified, repair dead ones
         run: python3 scripts/verify_links.py --stale-days 30 --fix
