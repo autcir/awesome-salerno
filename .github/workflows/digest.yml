@@ -5,14 +5,22 @@ on:
     - cron: '0 7 1 * *'   # il primo di ogni mese
   workflow_dispatch:
 
-permissions:
-  contents: write
+permissions: {}
+
+concurrency:
+  group: digest
+  cancel-in-progress: false
 
 jobs:
   digest:
+    name: digest
     runs-on: [self-hosted, linux, obscura]
+    timeout-minutes: 15
+    permissions:
+      contents: write   # committa e spinge il digest
     steps:
-      - uses: actions/checkout@v4
+      # persist-credentials resta attivo: serve al `git push` di sotto (vedi .github/zizmor.yml)
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
         with:
           fetch-depth: 0   # build_digest.py legge la storia per il changelog
 

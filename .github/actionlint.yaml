@@ -1,0 +1,4 @@
+# Etichetta del runner self-hosted su cui girano tutti i workflow (soliso, dove sta obscura).
+self-hosted-runner:
+  labels:
+    - obscura

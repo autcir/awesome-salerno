@@ -3,11 +3,23 @@ on:
   schedule:
     - cron: '0 6 * * *'
   workflow_dispatch:
+permissions: {}
+
 jobs:
   refresh:
+    name: refresh
     runs-on: [self-hosted, linux, obscura]
+    timeout-minutes: 60
+    # Condivisa con il deploy di ci.yml: entrambi pubblicano su gh-pages.
+    concurrency:
+      group: pages-deploy
+      cancel-in-progress: false
+    permissions:
+      contents: write   # peaceiris spinge sul ramo gh-pages
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false   # il push lo fa l'action col github_token
       - name: Ingest eventi (obscura)
         # Gira sul runner self-hosted di soliso, dove obscura e' installato.
         # Se fallisce si tiene l'ultimo eventi_scraped.json buono: mai
@@ -24,7 +36,7 @@ jobs:
       - name: Sync docs
         run: python3 scripts/export_data.py --docs
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453 # v4.1.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs

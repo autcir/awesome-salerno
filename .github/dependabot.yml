@@ -1,0 +1,29 @@
+version: 2
+# Le action sono fissate a SHA: Dependabot propone il nuovo SHA e aggiorna il
+# commento con la versione. Il cooldown evita di adottare una release appena
+# pubblicata (finestra tipica di una compromissione della supply chain).
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    cooldown:
+      default-days: 7
+    commit-message:
+      prefix: "chore(deps)"
+  - package-ecosystem: pip
+    directory: /
+    schedule:
+      interval: weekly
+    cooldown:
+      default-days: 7
+    commit-message:
+      prefix: "chore(deps)"
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+    cooldown:
+      default-days: 7
+    commit-message:
+      prefix: "chore(deps)"

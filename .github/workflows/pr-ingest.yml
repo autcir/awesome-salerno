@@ -2,14 +2,24 @@ name: PR per l'ingest eventi
 on:
   push:
     branches: [dati/eventi-automatici]
-permissions:
-  contents: read
-  pull-requests: write
+permissions: {}
+
+concurrency:
+  group: pr-ingest
+  cancel-in-progress: false
+
 jobs:
   apri-pr:
+    name: apri-pr
     runs-on: [self-hosted, linux, obscura]
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      pull-requests: write   # gh pr create apre la PR dell'ingest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false   # gh usa GH_TOKEN, non le credenziali di git
       - name: Apri o aggiorna la PR
         env:
           # GITHUB_TOKEN e' fornito da Actions: nessun token personale,
