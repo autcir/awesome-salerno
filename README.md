@@ -417,8 +417,10 @@ and swaps a dead one for the OpenStreetMap link built from the POI coordinates
 Wikipedia article back wherever one exists whose own coordinates land near the
 POI; whatever is left is reported in `data/broken_links.json` and in an issue
 labelled `needs-verification`. OpenStreetMap links are generated from the
-coordinates, so they are stamped without a network call. The map shows a
-"to be verified" badge for anything older than 180 days.
+coordinates, so they are not requested and not stamped: they carry
+`link_type: osm_generated`. `last_verified` moves only when a real request to an
+external link succeeded; `last_checked` and `last_status` record every attempt.
+The map shows a "to be verified" badge for anything older than 180 days.
 
 An official source beats both fallbacks, so the issue is worth reading: the
 automation keeps entries usable, it does not make them good.

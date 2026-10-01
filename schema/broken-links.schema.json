@@ -8,6 +8,8 @@
     "checked_at": {"type": "string"},
     "checked": {"type": "integer", "minimum": 0},
     "fixed": {"type": "integer", "minimum": 0},
+    "blocked": {"type": "integer", "minimum": 0},
+    "alive_again": {"type": "integer", "minimum": 0},
     "broken": {
       "type": "array",
       "items": {"type": "object", "required": ["url", "error", "pois"],

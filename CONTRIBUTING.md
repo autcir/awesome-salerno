@@ -124,12 +124,16 @@ Ogni PR viene verificato automaticamente:
 1. **awesome-lint** - Controlla il formato della README
 2. **JSON validation** - Verifica che tutti i JSON siano validi
 3. **GPS bounds check** - Controlla che le coordinate rispettino `schema/limits.json`
-4. **Link check** - Ogni lunedi `scripts/verify_links.py` controlla i link
-   esterni, aggiorna il campo `last_verified` di ogni voce e apre una issue
-   `needs-verification` con quelli rotti (report in `data/broken_links.json`).
-   Il workflow non riscrive i link da solo: `python3 scripts/verify_links.py --fix`
-   sostituisce quelli morti col link OpenStreetMap generato dalle coordinate,
-   ma va lanciato a mano dopo aver guardato il report
+4. **Link check** - Ogni lunedi `scripts/verify_links.py` fa richieste vere
+   (HEAD poi GET, User-Agent dichiarato, retry, un secondo tentativo prima di
+   dichiarare un link rotto) ai link esterni e registra `last_checked` e
+   `last_status`; `last_verified` si aggiorna solo se la richiesta e' riuscita.
+   I link OpenStreetMap generati dalle coordinate sono marcati
+   `link_type: osm_generated` e non si timbrano. Un server che risponde
+   401/403/429 e' vivo ma non verificato (campo `blocked` del report). Apre una
+   issue `needs-verification` con i link rotti (`data/broken_links.json`).
+   `--fix` li sostituisce col link OpenStreetMap e conserva l'originale in
+   `link_rotto`, che alle esecuzioni successive viene riesaminato
 
 ## Issue
 

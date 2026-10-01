@@ -47,19 +47,22 @@ Una voce e' ammessa se soddisfa **tutti** questi punti:
 
 ## Verifica e freschezza
 
-Ogni voce porta il campo `last_verified` (`YYYY-MM-DD`).
+`last_verified` (`YYYY-MM-DD`) dice quando una richiesta HTTP vera al link
+esterno della voce e' riuscita. `last_checked` e `last_status` dicono quando e
+con che esito e' stata fatta l'ultima richiesta, anche se fallita.
 
-- I link OpenStreetMap sono generati dalle coordinate: si considerano validi e
-  vengono ristampati senza chiamata di rete.
+- I link OpenStreetMap sono generati dalle coordinate: non si richiedono, non
+  ricevono `last_verified` e sono marcati `link_type: osm_generated`.
 - Gli altri link esterni vengono controllati da
   `.github/workflows/link-check.yml`, ogni lunedi, tramite
-  `scripts/verify_links.py`.
+  `scripts/verify_links.py` (HEAD poi GET, retry con backoff, limite per host).
 - I link rotti finiscono in `data/broken_links.json` e in una issue aperta
-  automaticamente con label `needs-verification`.
-- Un link morto viene sostituito a mano (`python3 scripts/verify_links.py --fix`)
-  con il link OpenStreetMap generato dalle coordinate della voce; l'URL
-  originale resta nel campo `link_rotto` per poterlo ripristinare se torna
-  online. Il workflow settimanale non lo fa da solo: segnala e basta.
+  automaticamente con label `needs-verification`. Un server che risponde
+  401/403/429 e' vivo ma non verificato.
+- Un link morto viene sostituito (`python3 scripts/verify_links.py --fix`, che
+  il workflow settimanale esegue) con il link OpenStreetMap generato dalle
+  coordinate della voce; l'URL originale resta nel campo `link_rotto` e viene
+  riesaminato a ogni controllo, per poterlo ripristinare se torna online.
 - Una voce non verificata da oltre **180 giorni** e' candidata alla rimozione.
 
 Sul sito, una voce verificata da oltre 180 giorni mostra il badge

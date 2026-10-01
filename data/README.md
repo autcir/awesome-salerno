@@ -54,7 +54,7 @@ Campi presenti su ogni voce:
 | `tipo` | stringa | Vedi CONTRIBUTING.md |
 | `source` | stringa | `osm`, `hand-written`, `curated` o `web` |
 | `link` | stringa (URL) | Fonte ufficiale, Wikipedia, oppure link OpenStreetMap generato dalle coordinate |
-| `last_verified` | data `AAAA-MM-GG` | |
+| `last_verified` | data `AAAA-MM-GG` | Ultima volta che una richiesta HTTP vera al link esterno e' riuscita. Mai impostata per i link generati dalle coordinate e mai spostata da un fallimento (vedi sotto) |
 | `provincia`, `sigla_provincia`, `regione` | stringa | Dall'elenco ISTAT dei comuni |
 | `in_ambito` | booleano | `false` = fuori da Salerno/Costiera/Cilento: segnalato, non rimosso |
 
@@ -65,6 +65,9 @@ Campi opzionali:
 | `quartiere` | Salerno citta' | |
 | `osm_id`, `osm_type` | voci OSM | `node`, `way` o `relation` |
 | `link_rotto` | dopo un link check con `--fix` | URL originale sostituito dal link OSM |
+| `last_checked`, `last_status` | dopo un link check | Data dell'ultima richiesta vera e suo esito (`200`, `404`, `timeout`, `dns`, `tls`, ...), qualunque esso sia |
+| `link_type` | dopo un link check | `osm_generated` = link OSM costruito da lat/lng (non si richiede e non si timbra), `external` = link esterno |
+| `link_rotto_checked`, `link_rotto_status` | voci con `link_rotto` | Riesame dell'URL originale: se risponde di nuovo compare in `data/broken_links.json` (`alive_again`) |
 | `difficolta`, `dislivello_m`, `lunghezza_km`, `periodo`, `frequenza` | sentieri, alcune voci di monumenti/panorami/parchi | Spesso stringa vuota o `null` |
 | `artista` | luci d'artista | |
 | `data_inizio`, `data_fine` | eventi, luci d'artista | `AAAA-MM-GG` |
