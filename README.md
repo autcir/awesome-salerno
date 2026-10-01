@@ -49,7 +49,7 @@ conferma il titolare.
 |-----------|-----------|
 | [docs/criteria.md](docs/criteria.md) | Criteri editoriali: cosa entra e cosa no |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | Come proporre una voce o una correzione |
-| [DATA-LICENSES.md](DATA-LICENSES.md) | Licenza di ogni fonte dei dati |
+| `DATA-LICENSES.md` | Licenza di ogni fonte dei dati (link nel paragrafo sopra) |
 | [docs/CONTRACT.md](docs/CONTRACT.md) | Chi legge i dati e cosa non si deve rompere |
 | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Codice di condotta |
 
@@ -434,7 +434,7 @@ Inclusion and exclusion rules: see `docs/criteria.md`.
 ## RAG dataset
 
 One chunk per POI, ready to embed - `data/rag/chunks.jsonl`, 5529 lines. It derives from the dataset, so the per-source
-licences in [DATA-LICENSES.md](DATA-LICENSES.md) apply (OpenStreetMap data is ODbL).
+licences in `DATA-LICENSES.md` apply (OpenStreetMap data is ODbL).
 
 ```bash
 python3 scripts/build_rag.py            # rebuild the JSONL
