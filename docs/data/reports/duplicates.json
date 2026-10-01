@@ -1,0 +1,3899 @@
+{
+  "note": "Gruppi con stesso nome e citta'. Nessuna voce e' stata rimossa o unita: decidere quale tenere e' una scelta editoriale (gli id sono parte del contratto con er0s).",
+  "gruppi_totali": 185,
+  "voci_coinvolte": 371,
+  "gruppi": [
+    {
+      "nome": "\"alternative to 325a\"",
+      "citta": "Amalfi",
+      "voci": [
+        {
+          "id": "monumenti-alternative-to-325a",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6500098,
+          "lng": 14.5839882
+        },
+        {
+          "id": "sentieri-alternative-to-325a-46",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6500098,
+          "lng": 14.5839882
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "\"o' pass é Catiello\"",
+      "citta": "Positano",
+      "voci": [
+        {
+          "id": "monumenti-o-pass-é-catiello",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6533488,
+          "lng": 14.5062339
+        },
+        {
+          "id": "sentieri-o-pass-é-catiello-127",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6533488,
+          "lng": 14.5062339
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "\"ò' mancino\"",
+      "citta": "Positano",
+      "voci": [
+        {
+          "id": "monumenti-ò-mancino",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6438738,
+          "lng": 14.486765
+        },
+        {
+          "id": "sentieri-ò-mancino-19",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6438738,
+          "lng": 14.486765
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "'A casarella 'o monte",
+      "citta": "Castellammare di Stabia",
+      "voci": [
+        {
+          "id": "monumenti-a-casarella-o-monte",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6808131,
+          "lng": 14.4711733
+        },
+        {
+          "id": "sentieri-a-casarella-o-monte-164",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6808131,
+          "lng": 14.4711733
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "108 Caserma del Gaudo-Monte Polveracchio",
+      "citta": "Laviano",
+      "voci": [
+        {
+          "id": "monumenti-108-caserma-del-gaudo-monte-polveracchio",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7429848,
+          "lng": 15.1387683
+        },
+        {
+          "id": "sentieri-108-caserma-del-gaudo-monte-polveracchio-53",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.7429848,
+          "lng": 15.1387683
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "190 Traversata Accellica Nord-Sud per il Varco del Paradiso",
+      "citta": "Acerno",
+      "voci": [
+        {
+          "id": "monumenti-190-traversata-accellica-nord-sud-per-il-varco-del",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7752714,
+          "lng": 15.0082252
+        },
+        {
+          "id": "sentieri-190-traversata-accellica-nord-sud-per-il-varco-del-paradiso-55",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.7752714,
+          "lng": 15.0082252
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Accesso di emergenza F",
+      "citta": "Vico Equense",
+      "voci": [
+        {
+          "id": "osm-13092309681",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6744903,
+          "lng": 14.436157
+        },
+        {
+          "id": "osm-1424378808",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.674272,
+          "lng": 14.4368913
+        }
+      ],
+      "distanza_max_m": 67
+    },
+    {
+      "nome": "Accesso di emergenza H",
+      "citta": "Vico Equense",
+      "voci": [
+        {
+          "id": "osm-1424378810",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6690278,
+          "lng": 14.4336894
+        },
+        {
+          "id": "osm-18114862",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6701242,
+          "lng": 14.4335704
+        }
+      ],
+      "distanza_max_m": 122
+    },
+    {
+      "nome": "Agnone( Campania)",
+      "citta": "Montecorice",
+      "voci": [
+        {
+          "id": "monumenti-agnone-campania",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.2170542,
+          "lng": 14.9931224
+        },
+        {
+          "id": "spiagge-agnone-campania-38",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.2170542,
+          "lng": 14.9931224
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Anello del Monte Panormo",
+      "citta": "Buccino",
+      "voci": [
+        {
+          "id": "monumenti-anello-del-monte-panormo",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.5445665,
+          "lng": 15.3162015
+        },
+        {
+          "id": "sentieri-anello-del-monte-panormo-229",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.5445665,
+          "lng": 15.3162015
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Antico Bagno Nettuno",
+      "citta": "Sorrento",
+      "voci": [
+        {
+          "id": "monumenti-antico-bagno-nettuno",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6395593,
+          "lng": 14.4018041
+        },
+        {
+          "id": "spiagge-antico-bagno-nettuno-101",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.6395593,
+          "lng": 14.4018041
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Bagno Conte",
+      "citta": "Castellammare di Stabia",
+      "voci": [
+        {
+          "id": "monumenti-bagno-conte",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6886908,
+          "lng": 14.4550838
+        },
+        {
+          "id": "spiagge-bagno-conte-75",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.6886908,
+          "lng": 14.4550838
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Bagno Elena",
+      "citta": "Castellammare di Stabia",
+      "voci": [
+        {
+          "id": "monumenti-bagno-elena",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6889448,
+          "lng": 14.4557921
+        },
+        {
+          "id": "spiagge-bagno-elena-74",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.6889448,
+          "lng": 14.4557921
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Beata Vergine del Carmelo",
+      "citta": "Agropoli",
+      "voci": [
+        {
+          "id": "madonna-del-carmelo-diffuso",
+          "categoria": "eventi",
+          "source": "web",
+          "lat": 40.35,
+          "lng": 14.9667
+        },
+        {
+          "id": "madonna-del-carmine-agropoli",
+          "categoria": "eventi",
+          "source": "web",
+          "lat": 40.35,
+          "lng": 14.9667
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Bikini beach",
+      "citta": "San Giovanni a Piro",
+      "voci": [
+        {
+          "id": "monumenti-bikini-beach",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.0141644,
+          "lng": 15.333556
+        },
+        {
+          "id": "spiagge-bikini-beach-113",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.0141644,
+          "lng": 15.333556
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Bird-watching 3",
+      "citta": "Rutino",
+      "voci": [
+        {
+          "id": "monumenti-bird-watching-3",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.3030568,
+          "lng": 15.1152096
+        },
+        {
+          "id": "panorami-bird-watching-3-452",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.3030568,
+          "lng": 15.1152096
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Bird-watching 4",
+      "citta": "Rutino",
+      "voci": [
+        {
+          "id": "monumenti-bird-watching-4",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.298,
+          "lng": 15.1192329
+        },
+        {
+          "id": "panorami-bird-watching-4-453",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.298,
+          "lng": 15.1192329
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Bird-watching 5",
+      "citta": "Rutino",
+      "voci": [
+        {
+          "id": "monumenti-bird-watching-5",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.296748,
+          "lng": 15.1198123
+        },
+        {
+          "id": "panorami-bird-watching-5-454",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.296748,
+          "lng": 15.1198123
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Bird-watching 6",
+      "citta": "Rutino",
+      "voci": [
+        {
+          "id": "monumenti-bird-watching-6",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.2911998,
+          "lng": 15.1233099
+        },
+        {
+          "id": "panorami-bird-watching-6-455",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.2911998,
+          "lng": 15.1233099
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Bird-watching 7",
+      "citta": "Rutino",
+      "voci": [
+        {
+          "id": "monumenti-bird-watching-7",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.2892111,
+          "lng": 15.1228271
+        },
+        {
+          "id": "panorami-bird-watching-7-456",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.2892111,
+          "lng": 15.1228271
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Bird-watching 8",
+      "citta": "Rutino",
+      "voci": [
+        {
+          "id": "monumenti-bird-watching-8",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.2878444,
+          "lng": 15.1234064
+        },
+        {
+          "id": "panorami-bird-watching-8-457",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.2878444,
+          "lng": 15.1234064
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Bosco Misto",
+      "citta": "Rutino",
+      "voci": [
+        {
+          "id": "monumenti-bosco-misto",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.3151145,
+          "lng": 15.125843
+        },
+        {
+          "id": "panorami-bosco-misto-468",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.3151145,
+          "lng": 15.125843
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Buondormire di terra",
+      "citta": "San Nicola Arcella",
+      "voci": [
+        {
+          "id": "monumenti-buondormire-di-terra",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.0272943,
+          "lng": 15.2921368
+        },
+        {
+          "id": "spiagge-buondormire-di-terra-0",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.0272943,
+          "lng": 15.2921368
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "CAI 141, Cascata Troncone",
+      "citta": "Acerno",
+      "voci": [
+        {
+          "id": "osm-1098324460",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.8033712,
+          "lng": 14.9850491
+        },
+        {
+          "id": "osm-229757810",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.8027861,
+          "lng": 14.986569
+        }
+      ],
+      "distanza_max_m": 144
+    },
+    {
+      "nome": "Capo delle Armi",
+      "citta": "Sant'Angelo a Fasanella",
+      "voci": [
+        {
+          "id": "monumenti-capo-delle-armi",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.4386957,
+          "lng": 15.3755477
+        },
+        {
+          "id": "panorami-capo-delle-armi-538",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.4386957,
+          "lng": 15.3755477
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Cascata del Solofrone",
+      "citta": "Capaccio Paestum",
+      "voci": [
+        {
+          "id": "monumenti-cascata-del-solofrone",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.4085571,
+          "lng": 15.1009801
+        },
+        {
+          "id": "panorami-cascata-del-solofrone-498",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.4085571,
+          "lng": 15.1009801
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Caserma del Gaudo-Monte Polveracchio",
+      "citta": "Laviano",
+      "voci": [
+        {
+          "id": "monumenti-caserma-del-gaudo-monte-polveracchio",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.733083,
+          "lng": 15.1594419
+        },
+        {
+          "id": "sentieri-caserma-del-gaudo-monte-polveracchio-50",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.733083,
+          "lng": 15.1594419
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Circuito acernese",
+      "citta": "Acerno",
+      "voci": [
+        {
+          "id": "monumenti-circuito-acernese",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7558143,
+          "lng": 15.0609657
+        },
+        {
+          "id": "sentieri-circuito-acernese-224",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.7558143,
+          "lng": 15.0609657
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Circuito acernese (variante)",
+      "citta": "Acerno",
+      "voci": [
+        {
+          "id": "monumenti-circuito-acernese-variante",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7647575,
+          "lng": 15.0620028
+        },
+        {
+          "id": "sentieri-circuito-acernese-variante-225",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.7647575,
+          "lng": 15.0620028
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Circuito del Monte Rajamagra",
+      "citta": "Campagna",
+      "voci": [
+        {
+          "id": "monumenti-circuito-del-monte-rajamagra",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7880501,
+          "lng": 15.0847727
+        },
+        {
+          "id": "sentieri-circuito-del-monte-rajamagra-223",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.7880501,
+          "lng": 15.0847727
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Civitella",
+      "citta": "Praiano",
+      "voci": [
+        {
+          "id": "monumenti-civitella",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6223138,
+          "lng": 14.5248296
+        },
+        {
+          "id": "osm-1304889721",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6230698,
+          "lng": 14.5231687
+        }
+      ],
+      "distanza_max_m": 163
+    },
+    {
+      "nome": "Club Michele",
+      "citta": "San Giovanni a Piro",
+      "voci": [
+        {
+          "id": "monumenti-club-michele",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.0154139,
+          "lng": 15.3325816
+        },
+        {
+          "id": "spiagge-club-michele-111",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.0154139,
+          "lng": 15.3325816
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "collection of various Cilento hiking trails",
+      "citta": "Montano Antilia",
+      "voci": [
+        {
+          "id": "monumenti-collection-of-various-cilento-hiking-trails",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.1664282,
+          "lng": 15.3198992
+        },
+        {
+          "id": "sentieri-collection-of-various-cilento-hiking-trails-220",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.1664282,
+          "lng": 15.3198992
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Discesa Zappino",
+      "citta": "Contursi Terme",
+      "voci": [
+        {
+          "id": "osm-107727299",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.664097,
+          "lng": 15.1064646
+        },
+        {
+          "id": "osm-177526745",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6640936,
+          "lng": 15.1062378
+        }
+      ],
+      "distanza_max_m": 19
+    },
+    {
+      "nome": "European Long distance path E1 - part Italy - Campania",
+      "citta": "Campagna",
+      "voci": [
+        {
+          "id": "monumenti-european-long-distance-path-e1---part-italy---camp",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.8250069,
+          "lng": 14.9401088
+        },
+        {
+          "id": "sentieri-european-long-distance-path-e1-part-italy-campania-239",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.8250069,
+          "lng": 14.9401088
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "European long distance path E12 - part Italia",
+      "citta": "Moio della Civitella",
+      "voci": [
+        {
+          "id": "monumenti-european-long-distance-path-e12---part-italia",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.2283,
+          "lng": 15.3471574
+        },
+        {
+          "id": "sentieri-european-long-distance-path-e12-part-italia-219",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.2283,
+          "lng": 15.3471574
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "F.S. Monte Raiamagra",
+      "citta": "Campagna",
+      "voci": [
+        {
+          "id": "monumenti-fs-monte-raiamagra",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7904735,
+          "lng": 15.0727446
+        },
+        {
+          "id": "sentieri-fs-monte-raiamagra-108",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.7904735,
+          "lng": 15.0727446
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Felito - Campora - Laurino",
+      "citta": "Piaggine",
+      "voci": [
+        {
+          "id": "monumenti-felito---campora---laurino",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.3397999,
+          "lng": 15.2852739
+        },
+        {
+          "id": "sentieri-felito-campora-laurino-216",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.3397999,
+          "lng": 15.2852739
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Ferrata di Cospita",
+      "citta": "Furore",
+      "voci": [
+        {
+          "id": "monumenti-ferrata-di-cospita",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6302681,
+          "lng": 14.5731094
+        },
+        {
+          "id": "sentieri-ferrata-di-cospita-198",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6302681,
+          "lng": 14.5731094
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Ferrata Ninno",
+      "citta": "Acerno",
+      "voci": [
+        {
+          "id": "monumenti-ferrata-ninno",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7751582,
+          "lng": 15.0082614
+        },
+        {
+          "id": "sentieri-ferrata-ninno-56",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.7751582,
+          "lng": 15.0082614
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "ferrata rudimentale",
+      "citta": "Furore",
+      "voci": [
+        {
+          "id": "monumenti-ferrata-rudimentale",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6309938,
+          "lng": 14.575407
+        },
+        {
+          "id": "sentieri-ferrata-rudimentale-149",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6309938,
+          "lng": 14.575407
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Fiordo di Furore",
+      "citta": "Praiano",
+      "voci": [
+        {
+          "id": "fiordo-di-furore",
+          "categoria": "monumenti",
+          "source": "hand-written",
+          "lat": 40.6143,
+          "lng": 14.5546
+        },
+        {
+          "id": "panorami-fiordo-di-furore-445",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.6139396,
+          "lng": 14.5543071
+        },
+        {
+          "id": "spiagge-fiordo-di-furore-36",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.6146322,
+          "lng": 14.5549546
+        }
+      ],
+      "distanza_max_m": 94
+    },
+    {
+      "nome": "Foresta a Galleria",
+      "citta": "Rutino",
+      "voci": [
+        {
+          "id": "monumenti-foresta-a-galleria",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.3192374,
+          "lng": 15.1301775
+        },
+        {
+          "id": "panorami-foresta-a-galleria-465",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.3192374,
+          "lng": 15.1301775
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Garden Beach",
+      "citta": "Castellammare di Stabia",
+      "voci": [
+        {
+          "id": "monumenti-garden-beach",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6891194,
+          "lng": 14.456306
+        },
+        {
+          "id": "spiagge-garden-beach-73",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.6891194,
+          "lng": 14.456306
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Gavitella beach",
+      "citta": "Praiano",
+      "voci": [
+        {
+          "id": "monumenti-gavitella-beach",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6139802,
+          "lng": 14.5205209
+        },
+        {
+          "id": "spiagge-gavitella-beach-66",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.6139802,
+          "lng": 14.5205209
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Gola del Diavolo - Fiume Mingardo",
+      "citta": "Montano Antilia",
+      "voci": [
+        {
+          "id": "monumenti-gola-del-diavolo---fiume-mingardo",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.087837,
+          "lng": 15.3519557
+        },
+        {
+          "id": "panorami-gola-del-diavolo-fiume-mingardo-448",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.087837,
+          "lng": 15.3519557
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Grotta di San Guglielmo",
+      "citta": "Campagna",
+      "voci": [
+        {
+          "id": "osm-7024659084",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.8074234,
+          "lng": 15.0957452
+        },
+        {
+          "id": "osm-751427461",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.8077211,
+          "lng": 15.0955254
+        }
+      ],
+      "distanza_max_m": 38
+    },
+    {
+      "nome": "Grotte del Bonea - Fontana della Frestola",
+      "citta": "Giffoni Sei Casali",
+      "voci": [
+        {
+          "id": "monumenti-grotte-del-bonea---fontana-della-frestola",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6819727,
+          "lng": 14.6951136
+        },
+        {
+          "id": "sentieri-grotte-del-bonea-fontana-della-frestola-54",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6819727,
+          "lng": 14.6951136
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "I casali di Piano",
+      "citta": "Sorrento",
+      "voci": [
+        {
+          "id": "monumenti-i-casali-di-piano",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6266592,
+          "lng": 14.4197732
+        },
+        {
+          "id": "sentieri-i-casali-di-piano-195",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6266592,
+          "lng": 14.4197732
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Il Butto dell'Acqua",
+      "citta": "Lettere",
+      "voci": [
+        {
+          "id": "monumenti-il-butto-dellacqua",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6862927,
+          "lng": 14.5435007
+        },
+        {
+          "id": "sentieri-il-butto-dellacqua-192",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6862927,
+          "lng": 14.5435007
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Il Castello che fu",
+      "citta": "Amalfi",
+      "voci": [
+        {
+          "id": "monumenti-il-castello-che-fu",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6525396,
+          "lng": 14.6018296
+        },
+        {
+          "id": "sentieri-il-castello-che-fu-284",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6525396,
+          "lng": 14.6018296
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "il Telegrafo",
+      "citta": "Salerno",
+      "voci": [
+        {
+          "id": "monumenti-il-telegrafo",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7010932,
+          "lng": 14.7430881
+        },
+        {
+          "id": "panorami-il-telegrafo",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.7017402,
+          "lng": 14.7431698
+        }
+      ],
+      "distanza_max_m": 72
+    },
+    {
+      "nome": "il Vallone Del Marcellino",
+      "citta": "San Giovanni a Piro",
+      "voci": [
+        {
+          "id": "monumenti-il-vallone-del-marcellino",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.0234085,
+          "lng": 15.4355925
+        },
+        {
+          "id": "sentieri-il-vallone-del-marcellino-80",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.0234085,
+          "lng": 15.4355925
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "il Vrecciatone",
+      "citta": "Ravello",
+      "voci": [
+        {
+          "id": "monumenti-il-vrecciatone",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6779102,
+          "lng": 14.6128686
+        },
+        {
+          "id": "sentieri-il-vrecciatone-146",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6779102,
+          "lng": 14.6128686
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Inizio variante",
+      "citta": "Cetara",
+      "voci": [
+        {
+          "id": "monumenti-inizio-variante",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6591514,
+          "lng": 14.6978143
+        },
+        {
+          "id": "sentieri-inizio-variante-89",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6591514,
+          "lng": 14.6978143
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Itinerario 29",
+      "citta": "Sorrento",
+      "voci": [
+        {
+          "id": "monumenti-itinerario-29",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.616362,
+          "lng": 14.3993829
+        },
+        {
+          "id": "sentieri-itinerario-29-263",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.616362,
+          "lng": 14.3993829
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Itinerario 59",
+      "citta": "Sorrento",
+      "voci": [
+        {
+          "id": "monumenti-itinerario-59",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6083303,
+          "lng": 14.3909711
+        },
+        {
+          "id": "sentieri-itinerario-59-264",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6083303,
+          "lng": 14.3909711
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Itinerario del Paradiso",
+      "citta": "Amalfi",
+      "voci": [
+        {
+          "id": "monumenti-itinerario-del-paradiso",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6482851,
+          "lng": 14.5988284
+        },
+        {
+          "id": "sentieri-itinerario-del-paradiso-283",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6482851,
+          "lng": 14.5988284
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "La Molpa",
+      "citta": "San Nicola Arcella",
+      "voci": [
+        {
+          "id": "monumenti-la-molpa",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.0298263,
+          "lng": 15.3002296
+        },
+        {
+          "id": "spiagge-la-molpa-71",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.0298263,
+          "lng": 15.3002296
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "La Pagliarella",
+      "citta": "Castellabate",
+      "voci": [
+        {
+          "id": "monumenti-la-pagliarella",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.3118145,
+          "lng": 14.9453859
+        },
+        {
+          "id": "spiagge-la-pagliarella-115",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.3118145,
+          "lng": 14.9453859
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "La Palombara",
+      "citta": "Castellammare di Stabia",
+      "voci": [
+        {
+          "id": "monumenti-la-palombara",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6882136,
+          "lng": 14.4532768
+        },
+        {
+          "id": "spiagge-la-palombara-77",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.6882136,
+          "lng": 14.4532768
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "La Panoramica",
+      "citta": "Agropoli",
+      "voci": [
+        {
+          "id": "monumenti-la-panoramica",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.3343914,
+          "lng": 14.9477448
+        },
+        {
+          "id": "sentieri-la-panoramica-95",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.3343914,
+          "lng": 14.9477448
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "La Sentinella",
+      "citta": "Montano Antilia",
+      "voci": [
+        {
+          "id": "monumenti-la-sentinella",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.0851378,
+          "lng": 15.3536184
+        },
+        {
+          "id": "panorami-la-sentinella-475",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.0851378,
+          "lng": 15.3536184
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "La spiaggetta",
+      "citta": "Casal Velino",
+      "voci": [
+        {
+          "id": "monumenti-la-spiaggetta",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.1755226,
+          "lng": 15.1217621
+        },
+        {
+          "id": "spiagge-la-spiaggetta-103",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.1755226,
+          "lng": 15.1217621
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Le 7 Scogliere di Rovigliano",
+      "citta": "Torre Annunziata",
+      "voci": [
+        {
+          "id": "monumenti-le-7-scogliere-di-rovigliano",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7399606,
+          "lng": 14.4626617
+        },
+        {
+          "id": "spiagge-le-7-scogliere-di-rovigliano-80",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.7399606,
+          "lng": 14.4626617
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Le Palommelle",
+      "citta": "Agerola",
+      "voci": [
+        {
+          "id": "monumenti-le-palommelle",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6522495,
+          "lng": 14.5462914
+        },
+        {
+          "id": "sentieri-le-palommelle-197",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6522495,
+          "lng": 14.5462914
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Le tese di Pimonte",
+      "citta": "Castellammare di Stabia",
+      "voci": [
+        {
+          "id": "monumenti-le-tese-di-pimonte",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.671447,
+          "lng": 14.4977939
+        },
+        {
+          "id": "sentieri-le-tese-di-pimonte-168",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.671447,
+          "lng": 14.4977939
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Le Tese di Positano",
+      "citta": "Vico Equense",
+      "voci": [
+        {
+          "id": "monumenti-le-tese-di-positano",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.633915,
+          "lng": 14.4791988
+        },
+        {
+          "id": "sentieri-le-tese-di-positano-207",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.633915,
+          "lng": 14.4791988
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Lido Azzurro",
+      "citta": "Torre Annunziata",
+      "voci": [
+        {
+          "id": "monumenti-lido-azzurro",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7547232,
+          "lng": 14.4393525
+        },
+        {
+          "id": "spiagge-lido-azzurro-94",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.7547232,
+          "lng": 14.4393525
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Lido Eldorado",
+      "citta": "Torre Annunziata",
+      "voci": [
+        {
+          "id": "monumenti-lido-eldorado",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7543615,
+          "lng": 14.4404689
+        },
+        {
+          "id": "spiagge-lido-eldorado-83",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.7543615,
+          "lng": 14.4404689
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Lido La Conchiglia",
+      "citta": "Salerno",
+      "voci": [
+        {
+          "id": "monumenti-lido-la-conchiglia",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6716667,
+          "lng": 14.7761751
+        },
+        {
+          "id": "spiagge-lido-la-conchiglia-117",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.6716667,
+          "lng": 14.7761751
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Lido Moderno",
+      "citta": "Castellammare di Stabia",
+      "voci": [
+        {
+          "id": "monumenti-lido-moderno",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6884041,
+          "lng": 14.4542905
+        },
+        {
+          "id": "spiagge-lido-moderno-76",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.6884041,
+          "lng": 14.4542905
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Lido Mojito Beach",
+      "citta": "Bellizzi",
+      "voci": [
+        {
+          "id": "monumenti-lido-mojito-beach",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.5639385,
+          "lng": 14.8960283
+        },
+        {
+          "id": "spiagge-lido-mojito-beach-125",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.5639385,
+          "lng": 14.8960283
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Lido Nettuno",
+      "citta": "Torre Annunziata",
+      "voci": [
+        {
+          "id": "monumenti-lido-nettuno",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7544858,
+          "lng": 14.4400602
+        },
+        {
+          "id": "spiagge-lido-nettuno-81",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.7544858,
+          "lng": 14.4400602
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Lido Night & Day",
+      "citta": "Bellizzi",
+      "voci": [
+        {
+          "id": "monumenti-lido-night--day",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.5636456,
+          "lng": 14.8962524
+        },
+        {
+          "id": "spiagge-lido-night-day-124",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.5636456,
+          "lng": 14.8962524
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Lido Rinascenza",
+      "citta": "Torre Annunziata",
+      "voci": [
+        {
+          "id": "monumenti-lido-rinascenza",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7542626,
+          "lng": 14.4408422
+        },
+        {
+          "id": "spiagge-lido-rinascenza-82",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.7542626,
+          "lng": 14.4408422
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Lido Risorgimento",
+      "citta": "Torre Annunziata",
+      "voci": [
+        {
+          "id": "monumenti-lido-risorgimento",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7539007,
+          "lng": 14.4411724
+        },
+        {
+          "id": "spiagge-lido-risorgimento-84",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.7539007,
+          "lng": 14.4411724
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Lido Scaramella beach",
+      "citta": "Salerno",
+      "voci": [
+        {
+          "id": "monumenti-lido-scaramella-beach",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6651385,
+          "lng": 14.7893159
+        },
+        {
+          "id": "spiagge-lido-scaramella-beach-106",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.6651385,
+          "lng": 14.7893159
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Lido Tirreno",
+      "citta": "Castellabate",
+      "voci": [
+        {
+          "id": "monumenti-lido-tirreno",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.3100561,
+          "lng": 14.9457336
+        },
+        {
+          "id": "spiagge-lido-tirreno-110",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.3100561,
+          "lng": 14.9457336
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Lo Scaricatore",
+      "citta": "Meta",
+      "voci": [
+        {
+          "id": "monumenti-lo-scaricatore",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6165161,
+          "lng": 14.4349254
+        },
+        {
+          "id": "sentieri-lo-scaricatore-196",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6165161,
+          "lng": 14.4349254
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Lo scivolo della pastorella",
+      "citta": "Castellammare di Stabia",
+      "voci": [
+        {
+          "id": "monumenti-lo-scivolo-della-pastorella",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.683141,
+          "lng": 14.4759498
+        },
+        {
+          "id": "sentieri-lo-scivolo-della-pastorella-165",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.683141,
+          "lng": 14.4759498
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Lo Sferracavallo",
+      "citta": "Positano",
+      "voci": [
+        {
+          "id": "monumenti-lo-sferracavallo",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6580214,
+          "lng": 14.5193572
+        },
+        {
+          "id": "sentieri-lo-sferracavallo-125",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6580214,
+          "lng": 14.5193572
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Macchia mediterranea",
+      "citta": "Rutino",
+      "voci": [
+        {
+          "id": "monumenti-macchia-mediterranea",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.3101404,
+          "lng": 15.1129684
+        },
+        {
+          "id": "panorami-macchia-mediterranea-466",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.3101404,
+          "lng": 15.1129684
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Madonna del Silenzio",
+      "citta": "Praiano",
+      "voci": [
+        {
+          "id": "monumenti-madonna-del-silenzio",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6269256,
+          "lng": 14.5222546
+        },
+        {
+          "id": "panorami-madonna-del-silenzio-442",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.6269256,
+          "lng": 14.5222546
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Madonna della Montagna",
+      "citta": "Sant'Angelo a Fasanella",
+      "voci": [
+        {
+          "id": "monumenti-madonna-della-montagna",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.4932168,
+          "lng": 15.3664996
+        },
+        {
+          "id": "panorami-madonna-della-montagna-542",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.493249,
+          "lng": 15.3663965
+        }
+      ],
+      "distanza_max_m": 9
+    },
+    {
+      "nome": "Madonnina Di Monte Chiunzi",
+      "citta": "Sant'Egidio del Monte Albino",
+      "voci": [
+        {
+          "id": "monumenti-madonnina-di-monte-chiunzi",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7201566,
+          "lng": 14.6250278
+        },
+        {
+          "id": "sentieri-madonnina-di-monte-chiunzi-150",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.7201566,
+          "lng": 14.6250278
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Marina del Sole",
+      "citta": "Torre Annunziata",
+      "voci": [
+        {
+          "id": "monumenti-marina-del-sole",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7531951,
+          "lng": 14.4424282
+        },
+        {
+          "id": "spiagge-marina-del-sole-85",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.7531951,
+          "lng": 14.4424282
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Marina di Vico",
+      "citta": "Vico Equense",
+      "voci": [
+        {
+          "id": "monumenti-marina-di-vico",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6656098,
+          "lng": 14.4278088
+        },
+        {
+          "id": "spiagge-marina-di-vico-37",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.6656098,
+          "lng": 14.4278088
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Mirador del Valle del Selle",
+      "citta": "Capaccio Paestum",
+      "voci": [
+        {
+          "id": "monumenti-mirador-del-valle-del-selle",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.4791899,
+          "lng": 15.1090643
+        },
+        {
+          "id": "panorami-mirador-del-valle-del-selle-497",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.4791899,
+          "lng": 15.1090643
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Mulattiera Orsano-Megano",
+      "citta": "Lettere",
+      "voci": [
+        {
+          "id": "monumenti-mulattiera-orsano-megano",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6952337,
+          "lng": 14.5676966
+        },
+        {
+          "id": "sentieri-mulattiera-orsano-megano-183",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6952337,
+          "lng": 14.5676966
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Panorama a 360°",
+      "citta": "Sant'Egidio del Monte Albino",
+      "voci": [
+        {
+          "id": "monumenti-panorama-a-360",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7158372,
+          "lng": 14.6109112
+        },
+        {
+          "id": "panorami-panorama-a-360-486",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.7158372,
+          "lng": 14.6109112
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Panorama Monte Stella e Gelbison",
+      "citta": "San Nicola Arcella",
+      "voci": [
+        {
+          "id": "monumenti-panorama-monte-stella-e-gelbison",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.0304832,
+          "lng": 15.2728517
+        },
+        {
+          "id": "panorami-panorama-monte-stella-e-gelbison-450",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.0304832,
+          "lng": 15.2728517
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Piano di Pecore-M. Marzano",
+      "citta": "Valva",
+      "voci": [
+        {
+          "id": "monumenti-piano-di-pecore-m-marzano",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7366721,
+          "lng": 15.3116313
+        },
+        {
+          "id": "sentieri-piano-di-pecore-m-marzano-104",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.7366721,
+          "lng": 15.3116313
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Pianoro di Ciolandrea",
+      "citta": "San Giovanni a Piro",
+      "voci": [
+        {
+          "id": "monumenti-pianoro-di-ciolandrea",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.0407407,
+          "lng": 15.4573709
+        },
+        {
+          "id": "panorami-pianoro-di-ciolandrea-446",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.0407407,
+          "lng": 15.4573709
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Piazza Belvedere",
+      "citta": "Amalfi",
+      "voci": [
+        {
+          "id": "monumenti-piazza-belvedere",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6538764,
+          "lng": 14.6133031
+        },
+        {
+          "id": "panorami-piazza-belvedere-536",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.6538764,
+          "lng": 14.6133031
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Piazzetta dell’Amore",
+      "citta": "Capaccio Paestum",
+      "voci": [
+        {
+          "id": "monumenti-piazzetta-dellamore",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.3522779,
+          "lng": 14.9863258
+        },
+        {
+          "id": "panorami-piazzetta-dellamore-524",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.3522779,
+          "lng": 14.9863258
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Piazzetta Panoramica",
+      "citta": "Capaccio Paestum",
+      "voci": [
+        {
+          "id": "monumenti-piazzetta-panoramica",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.3993302,
+          "lng": 15.1084148
+        },
+        {
+          "id": "panorami-piazzetta-panoramica-485",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.3993302,
+          "lng": 15.1084148
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Pietra del diavolo (punto esposto)",
+      "citta": "Buccino",
+      "voci": [
+        {
+          "id": "monumenti-pietra-del-diavolo-punto-esposto",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.5570625,
+          "lng": 15.3120721
+        },
+        {
+          "id": "panorami-pietra-del-diavolo-punto-esposto-527",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.5570625,
+          "lng": 15.3120721
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Pietra impuntellata",
+      "citta": "Roscigno",
+      "voci": [
+        {
+          "id": "monumenti-pietra-impuntellata",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.1987076,
+          "lng": 15.3436974
+        },
+        {
+          "id": "panorami-pietra-impuntellata-513",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.1987076,
+          "lng": 15.3436974
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Pietra Mulacchio",
+      "citta": "Sessa Cilento",
+      "voci": [
+        {
+          "id": "monumenti-pietra-mulacchio",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.2438487,
+          "lng": 15.0589307
+        },
+        {
+          "id": "panorami-pietra-mulacchio-444",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.2438487,
+          "lng": 15.0589307
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Pizzo Castellone",
+      "citta": "Positano",
+      "voci": [
+        {
+          "id": "monumenti-pizzo-castellone",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.65187,
+          "lng": 14.5000349
+        },
+        {
+          "id": "panorami-pizzo-castellone-519",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.65187,
+          "lng": 14.5000349
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Pizzola di Montenero",
+      "citta": "Colliano",
+      "voci": [
+        {
+          "id": "monumenti-pizzola-di-montenero",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7168384,
+          "lng": 15.1592443
+        },
+        {
+          "id": "panorami-pizzola-di-montenero-479",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.7168384,
+          "lng": 15.1592443
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Playa porlamar",
+      "citta": "San Giovanni a Piro",
+      "voci": [
+        {
+          "id": "monumenti-playa-porlamar",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.0148603,
+          "lng": 15.3330115
+        },
+        {
+          "id": "spiagge-playa-porlamar-114",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.0148603,
+          "lng": 15.3330115
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Ponte Cibberno acquedotto Borbonico",
+      "citta": "Castellammare di Stabia",
+      "voci": [
+        {
+          "id": "monumenti-ponte-cibberno-acquedotto-borbonico",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6788943,
+          "lng": 14.4888021
+        },
+        {
+          "id": "sentieri-ponte-cibberno-acquedotto-borbonico-62",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6788943,
+          "lng": 14.4888021
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Ponte di Annibale",
+      "citta": "Buccino",
+      "voci": [
+        {
+          "id": "monumenti-ponte-di-annibale",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.643864,
+          "lng": 15.4833052
+        },
+        {
+          "id": "osm-1097502195",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6466128,
+          "lng": 15.478625
+        }
+      ],
+      "distanza_max_m": 499
+    },
+    {
+      "nome": "Punta Bomerano",
+      "citta": "Praiano",
+      "voci": [
+        {
+          "id": "monumenti-punta-bomerano",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6219932,
+          "lng": 14.5473013
+        },
+        {
+          "id": "panorami-punta-bomerano-463",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.6219932,
+          "lng": 14.5473013
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Punta Pistiello",
+      "citta": "Furore",
+      "voci": [
+        {
+          "id": "monumenti-punta-pistiello",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6164268,
+          "lng": 14.5750663
+        },
+        {
+          "id": "panorami-punta-pistiello-491",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.6164268,
+          "lng": 14.5750663
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Punta San Lazzaro",
+      "citta": "Furore",
+      "voci": [
+        {
+          "id": "monumenti-punta-san-lazzaro",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6230464,
+          "lng": 14.5678799
+        },
+        {
+          "id": "panorami-punta-san-lazzaro-470",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.6230464,
+          "lng": 14.5678799
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Punta Tresino",
+      "citta": "Agropoli",
+      "voci": [
+        {
+          "id": "monumenti-punta-tresino",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.3361586,
+          "lng": 14.9466753
+        },
+        {
+          "id": "panorami-punta-tresino-443",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.3361586,
+          "lng": 14.9466753
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Punta Vento",
+      "citta": "Ravello",
+      "voci": [
+        {
+          "id": "monumenti-punta-vento",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6784013,
+          "lng": 14.6114789
+        },
+        {
+          "id": "panorami-punta-vento-534",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.6784013,
+          "lng": 14.6114789
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Punta Vieca",
+      "citta": "Furore",
+      "voci": [
+        {
+          "id": "monumenti-punta-vieca",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6146432,
+          "lng": 14.5731995
+        },
+        {
+          "id": "panorami-punta-vieca-492",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.6146432,
+          "lng": 14.5731995
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Rovigliano amazing landscape",
+      "citta": "Torre Annunziata",
+      "voci": [
+        {
+          "id": "monumenti-rovigliano-amazing-landscape",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7287882,
+          "lng": 14.4693614
+        },
+        {
+          "id": "panorami-rovigliano-amazing-landscape-533",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.7287882,
+          "lng": 14.4693614
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Rovigliano seafront pathway",
+      "citta": "Torre Annunziata",
+      "voci": [
+        {
+          "id": "monumenti-rovigliano-seafront-pathway",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7343817,
+          "lng": 14.467372
+        },
+        {
+          "id": "sentieri-rovigliano-seafront-pathway-105",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.7343817,
+          "lng": 14.467372
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Ruderi Basilica Sant'Eustachio",
+      "citta": "Amalfi",
+      "voci": [
+        {
+          "id": "monumenti-ruderi-basilica-santeustachio",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6443125,
+          "lng": 14.6030495
+        },
+        {
+          "id": "panorami-ruderi-basilica-santeustachio-496",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.6443125,
+          "lng": 14.6030495
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "SBII/CAM - 3 Paterno - Santa Maria a Castello",
+      "citta": "Siano",
+      "voci": [
+        {
+          "id": "monumenti-sbiicam---3-paterno---santa-maria-a-castello",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7824368,
+          "lng": 14.6569473
+        },
+        {
+          "id": "sentieri-sbiicam-3-paterno-santa-maria-a-castello-20",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.7824368,
+          "lng": 14.6569473
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Scanno del Cantatore",
+      "citta": "Roscigno",
+      "voci": [
+        {
+          "id": "monumenti-scanno-del-cantatore",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.1969826,
+          "lng": 15.3798804
+        },
+        {
+          "id": "panorami-scanno-del-cantatore-535",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.1969826,
+          "lng": 15.3798804
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Sciuliamazzo",
+      "citta": "Vico Equense",
+      "voci": [
+        {
+          "id": "monumenti-sciuliamazzo",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6467957,
+          "lng": 14.4645271
+        },
+        {
+          "id": "sentieri-sciuliamazzo-142",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6467957,
+          "lng": 14.4645271
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "selva della tomba",
+      "citta": "Meta",
+      "voci": [
+        {
+          "id": "monumenti-selva-della-tomba",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6259958,
+          "lng": 14.4387481
+        },
+        {
+          "id": "sentieri-selva-della-tomba-47",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6259958,
+          "lng": 14.4387481
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "sentiero E.M. Forster - Fontana Carosa",
+      "citta": "Scala",
+      "voci": [
+        {
+          "id": "osm-1212809008",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.672319,
+          "lng": 14.6019542
+        },
+        {
+          "id": "sentieri-sentiero-em-forster-fontana-carosa-133",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6672488,
+          "lng": 14.6043562
+        }
+      ],
+      "distanza_max_m": 599
+    },
+    {
+      "nome": "sotto tiro a volo",
+      "citta": "Agerola",
+      "voci": [
+        {
+          "id": "monumenti-sotto-tiro-a-volo",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6592362,
+          "lng": 14.5346135
+        },
+        {
+          "id": "sentieri-sotto-tiro-a-volo-158",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6592362,
+          "lng": 14.5346135
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Spiagga Licina",
+      "citta": "Capaccio Paestum",
+      "voci": [
+        {
+          "id": "monumenti-spiagga-licina",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.3539885,
+          "lng": 14.9914906
+        },
+        {
+          "id": "spiagge-spiagga-licina-108",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.3539885,
+          "lng": 14.9914906
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Spiagga Licinella",
+      "citta": "Capaccio Paestum",
+      "voci": [
+        {
+          "id": "monumenti-spiagga-licinella",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.4087605,
+          "lng": 14.9915039
+        },
+        {
+          "id": "spiagge-spiagga-licinella-17",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.4087605,
+          "lng": 14.9915039
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Spiagge Gemelle",
+      "citta": "San Giovanni a Piro",
+      "voci": [
+        {
+          "id": "monumenti-spiagge-gemelle",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.0285595,
+          "lng": 15.4563626
+        },
+        {
+          "id": "spiagge-spiagge-gemelle-96",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.0285595,
+          "lng": 15.4563626
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Spiaggia degli Iscolelli",
+      "citta": "San Giovanni a Piro",
+      "voci": [
+        {
+          "id": "monumenti-spiaggia-degli-iscolelli",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 39.9928265,
+          "lng": 15.4158515
+        },
+        {
+          "id": "spiagge-spiaggia-degli-iscolelli-105",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 39.9928265,
+          "lng": 15.4158515
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Spiaggia di Trentova",
+      "citta": "Agropoli",
+      "voci": [
+        {
+          "id": "osm-146986814",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.3438048,
+          "lng": 14.9717346
+        },
+        {
+          "id": "spiaggia-trentova",
+          "categoria": "monumenti",
+          "source": "hand-written",
+          "lat": 40.3436,
+          "lng": 14.9723
+        }
+      ],
+      "distanza_max_m": 53
+    },
+    {
+      "nome": "Spiaggie Gemelle",
+      "citta": "San Giovanni a Piro",
+      "voci": [
+        {
+          "id": "monumenti-spiaggie-gemelle",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.0291653,
+          "lng": 15.4566839
+        },
+        {
+          "id": "spiagge-spiaggie-gemelle-95",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.0291653,
+          "lng": 15.4566839
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Spiagia della Sciabichedda",
+      "citta": "San Giovanni a Piro",
+      "voci": [
+        {
+          "id": "monumenti-spiagia-della-sciabichedda",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.0234331,
+          "lng": 15.4496788
+        },
+        {
+          "id": "spiagge-spiagia-della-sciabichedda-78",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.0234331,
+          "lng": 15.4496788
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "SS Salvatore",
+      "citta": "Campagna",
+      "voci": [
+        {
+          "id": "osm-1436258471",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.8260927,
+          "lng": 15.0295241
+        },
+        {
+          "id": "osm-1436260760",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.825696,
+          "lng": 15.0295507
+        }
+      ],
+      "distanza_max_m": 44
+    },
+    {
+      "nome": "Strada Communale Pestrella",
+      "citta": "Positano",
+      "voci": [
+        {
+          "id": "osm-1185971700",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6305086,
+          "lng": 14.4920739
+        },
+        {
+          "id": "osm-1424883789",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6305909,
+          "lng": 14.4920171
+        }
+      ],
+      "distanza_max_m": 10
+    },
+    {
+      "nome": "Strada Macera",
+      "citta": "Montano Antilia",
+      "voci": [
+        {
+          "id": "monumenti-strada-macera",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.0851339,
+          "lng": 15.3907396
+        },
+        {
+          "id": "sentieri-strada-macera-294",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.0851339,
+          "lng": 15.3907396
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Strada Pedonale Pellegrino Cucciniello",
+      "citta": "Salerno",
+      "voci": [
+        {
+          "id": "osm-1259685181",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6844153,
+          "lng": 14.7772841
+        },
+        {
+          "id": "osm-1259685183",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6846509,
+          "lng": 14.7775893
+        }
+      ],
+      "distanza_max_m": 37
+    },
+    {
+      "nome": "Sunset Beach Club Palinuro",
+      "citta": "San Nicola Arcella",
+      "voci": [
+        {
+          "id": "monumenti-sunset-beach-club-palinuro",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.0541267,
+          "lng": 15.28257
+        },
+        {
+          "id": "spiagge-sunset-beach-club-palinuro-42",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.0541267,
+          "lng": 15.28257
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Tempa de lupo - Vaddilonga - Cresta / Uomo morto - Passo della Beta",
+      "citta": "Moio della Civitella",
+      "voci": [
+        {
+          "id": "monumenti-tempa-de-lupo---vaddilonga---cresta--uomo-morto---",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.2199672,
+          "lng": 15.3268353
+        },
+        {
+          "id": "sentieri-tempa-de-lupo-vaddilonga-cresta-uomo-morto-passo-della-beta-217",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.2199672,
+          "lng": 15.3268353
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Terrazza del Cilento",
+      "citta": "Capaccio Paestum",
+      "voci": [
+        {
+          "id": "monumenti-terrazza-del-cilento",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.4005288,
+          "lng": 15.1059626
+        },
+        {
+          "id": "panorami-terrazza-del-cilento-449",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.4005288,
+          "lng": 15.1059626
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Terrazza dell'Amore",
+      "citta": "Buccino",
+      "voci": [
+        {
+          "id": "monumenti-terrazza-dellamore",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6330448,
+          "lng": 15.3759133
+        },
+        {
+          "id": "panorami-terrazza-dellamore-539",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.6330448,
+          "lng": 15.3759133
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Terrazza dell'Infinito",
+      "citta": "Amalfi",
+      "voci": [
+        {
+          "id": "panorami-terrazza-dellinfinito-473",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.6421012,
+          "lng": 14.610113
+        },
+        {
+          "id": "terrazza-infinito",
+          "categoria": "monumenti",
+          "source": "hand-written",
+          "lat": 40.6489,
+          "lng": 14.6103
+        }
+      ],
+      "distanza_max_m": 756
+    },
+    {
+      "nome": "Timpone dell'Accellica",
+      "citta": "Acerno",
+      "voci": [
+        {
+          "id": "monumenti-timpone-dellaccellica",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7604496,
+          "lng": 15.0062883
+        },
+        {
+          "id": "panorami-timpone-dellaccellica-480",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.7604496,
+          "lng": 15.0062883
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Torre del Castello dell'Annunziata",
+      "citta": "Sorrento",
+      "voci": [
+        {
+          "id": "osm-6089918753",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.6031161,
+          "lng": 14.3363152
+        },
+        {
+          "id": "osm-749056931",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6031105,
+          "lng": 14.336322
+        }
+      ],
+      "distanza_max_m": 1
+    },
+    {
+      "nome": "Torre dello Ziro",
+      "citta": "Amalfi",
+      "voci": [
+        {
+          "id": "osm-1431362689",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6359075,
+          "lng": 14.6056908
+        },
+        {
+          "id": "osm-5577114531",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.6359016,
+          "lng": 14.6057239
+        }
+      ],
+      "distanza_max_m": 3
+    },
+    {
+      "nome": "Torre di Montalto",
+      "citta": "Massa Lubrense",
+      "voci": [
+        {
+          "id": "osm-4100111998",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.5740105,
+          "lng": 14.3447626
+        },
+        {
+          "id": "osm-749039948",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.5741225,
+          "lng": 14.3447471
+        }
+      ],
+      "distanza_max_m": 13
+    },
+    {
+      "nome": "Torretta 23",
+      "citta": "Castellabate",
+      "voci": [
+        {
+          "id": "monumenti-torretta-23",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.3097744,
+          "lng": 14.9457829
+        },
+        {
+          "id": "spiagge-torretta-23-109",
+          "categoria": "spiagge",
+          "source": "osm",
+          "lat": 40.3097744,
+          "lng": 14.9457829
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Tra le due valli del Sabato e del Calore",
+      "citta": "Acerno",
+      "voci": [
+        {
+          "id": "monumenti-tra-le-due-valli-del-sabato-e-del-calore",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7939678,
+          "lng": 14.9850066
+        },
+        {
+          "id": "sentieri-tra-le-due-valli-del-sabato-e-del-calore-238",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.7939678,
+          "lng": 14.9850066
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "traversa 114a con 114b",
+      "citta": "Acerno",
+      "voci": [
+        {
+          "id": "monumenti-traversa-114a-con-114b",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7600444,
+          "lng": 15.0964034
+        },
+        {
+          "id": "sentieri-traversa-114a-con-114b-71",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.7600444,
+          "lng": 15.0964034
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Tre Calli",
+      "citta": "Praiano",
+      "voci": [
+        {
+          "id": "osm-12085666021",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.6307101,
+          "lng": 14.5236697
+        },
+        {
+          "id": "osm-237082617",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6323098,
+          "lng": 14.5240669
+        }
+      ],
+      "distanza_max_m": 181
+    },
+    {
+      "nome": "Tre Comuni Trek",
+      "citta": "San Cipriano Picentino",
+      "voci": [
+        {
+          "id": "monumenti-tre-comuni-trek",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7629782,
+          "lng": 14.8772167
+        },
+        {
+          "id": "sentieri-tre-comuni-trek-230",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.7629782,
+          "lng": 14.8772167
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Vallone Del Centenaro",
+      "citta": "Vico Equense",
+      "voci": [
+        {
+          "id": "monumenti-vallone-del-centenaro",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6466239,
+          "lng": 14.4662154
+        },
+        {
+          "id": "sentieri-vallone-del-centenaro-120",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6466239,
+          "lng": 14.4662154
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Vallone Del Milo",
+      "citta": "Vico Equense",
+      "voci": [
+        {
+          "id": "monumenti-vallone-del-milo",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6476169,
+          "lng": 14.4791448
+        },
+        {
+          "id": "sentieri-vallone-del-milo-130",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6476169,
+          "lng": 14.4791448
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Vallone Infrattata",
+      "citta": "Acerno",
+      "voci": [
+        {
+          "id": "monumenti-vallone-infrattata",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7605565,
+          "lng": 14.9632317
+        },
+        {
+          "id": "sentieri-vallone-infrattata-233",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.7605565,
+          "lng": 14.9632317
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Vallone Pagliariello",
+      "citta": "San Cipriano Picentino",
+      "voci": [
+        {
+          "id": "monumenti-vallone-pagliariello",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.76423,
+          "lng": 14.9320646
+        },
+        {
+          "id": "sentieri-vallone-pagliariello-232",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.76423,
+          "lng": 14.9320646
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Vallone Pozzo",
+      "citta": "Positano",
+      "voci": [
+        {
+          "id": "monumenti-vallone-pozzo",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6399511,
+          "lng": 14.4821523
+        },
+        {
+          "id": "sentieri-vallone-pozzo-31",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6399511,
+          "lng": 14.4821523
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Vallone Revone",
+      "citta": "Vico Equense",
+      "voci": [
+        {
+          "id": "monumenti-vallone-revone",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6481751,
+          "lng": 14.4776863
+        },
+        {
+          "id": "sentieri-vallone-revone-129",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6481751,
+          "lng": 14.4776863
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Vallone Scurorillo",
+      "citta": "Castellammare di Stabia",
+      "voci": [
+        {
+          "id": "monumenti-vallone-scurorillo",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6827394,
+          "lng": 14.4617048
+        },
+        {
+          "id": "sentieri-vallone-scurorillo-33",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6827394,
+          "lng": 14.4617048
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Variante Croce di Carbonara",
+      "citta": "San Cipriano Picentino",
+      "voci": [
+        {
+          "id": "monumenti-variante-croce-di-carbonara",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7628822,
+          "lng": 14.9073982
+        },
+        {
+          "id": "sentieri-variante-croce-di-carbonara-279",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.7628822,
+          "lng": 14.9073982
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Variante M. Ceglie alle Gole del Calore",
+      "citta": "Roccadaspide",
+      "voci": [
+        {
+          "id": "monumenti-variante-m-ceglie-alle-gole-del-calore",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.3585635,
+          "lng": 15.2558245
+        },
+        {
+          "id": "sentieri-variante-m-ceglie-alle-gole-del-calore-83",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.3585635,
+          "lng": 15.2558245
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Variante per Monte Vico Alvano",
+      "citta": "Meta",
+      "voci": [
+        {
+          "id": "monumenti-variante-per-monte-vico-alvano",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6229331,
+          "lng": 14.436343
+        },
+        {
+          "id": "sentieri-variante-per-monte-vico-alvano-281",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6229331,
+          "lng": 14.436343
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Variante per Vetta Avvocata",
+      "citta": "Maiori",
+      "voci": [
+        {
+          "id": "monumenti-variante-per-vetta-avvocata",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6539147,
+          "lng": 14.6721801
+        },
+        {
+          "id": "sentieri-variante-per-vetta-avvocata-280",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6539147,
+          "lng": 14.6721801
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Variante Punta Paipo",
+      "citta": "Praiano",
+      "voci": [
+        {
+          "id": "monumenti-variante-punta-paipo",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6247731,
+          "lng": 14.5225639
+        },
+        {
+          "id": "sentieri-variante-punta-paipo-124",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6247731,
+          "lng": 14.5225639
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Veduta sul Vesuvio",
+      "citta": "Siano",
+      "voci": [
+        {
+          "id": "monumenti-veduta-sul-vesuvio",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7893693,
+          "lng": 14.6589869
+        },
+        {
+          "id": "panorami-veduta-sul-vesuvio-510",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.7893693,
+          "lng": 14.6589869
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Verso le Sorgenti del Sammaro",
+      "citta": "Piaggine",
+      "voci": [
+        {
+          "id": "monumenti-verso-le-sorgenti-del-sammaro",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.3853664,
+          "lng": 15.3630063
+        },
+        {
+          "id": "sentieri-verso-le-sorgenti-del-sammaro-0",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.3853664,
+          "lng": 15.3630063
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Via Asti",
+      "citta": "Montano Antilia",
+      "voci": [
+        {
+          "id": "osm-158013665",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.093546,
+          "lng": 15.4047303
+        },
+        {
+          "id": "osm-82668855",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.0924957,
+          "lng": 15.405551
+        }
+      ],
+      "distanza_max_m": 136
+    },
+    {
+      "nome": "via Atigliana",
+      "citta": "Sorrento",
+      "voci": [
+        {
+          "id": "osm-661222612",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6165976,
+          "lng": 14.3830627
+        },
+        {
+          "id": "osm-661222613",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6182619,
+          "lng": 14.3811391
+        }
+      ],
+      "distanza_max_m": 246
+    },
+    {
+      "nome": "Via Canalone",
+      "citta": "Vietri sul Mare",
+      "voci": [
+        {
+          "id": "osm-658966377",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6836592,
+          "lng": 14.7499017
+        },
+        {
+          "id": "osm-658966378",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6838065,
+          "lng": 14.7496216
+        }
+      ],
+      "distanza_max_m": 29
+    },
+    {
+      "nome": "Via Carmine Calò",
+      "citta": "Bellizzi",
+      "voci": [
+        {
+          "id": "osm-324057871",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6243942,
+          "lng": 14.90893
+        },
+        {
+          "id": "osm-814070489",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6282725,
+          "lng": 14.9099582
+        }
+      ],
+      "distanza_max_m": 440
+    },
+    {
+      "nome": "via Casa Rossa",
+      "citta": "Amalfi",
+      "voci": [
+        {
+          "id": "osm-1223727943",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6540316,
+          "lng": 14.6238293
+        },
+        {
+          "id": "osm-291155787",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6552632,
+          "lng": 14.6162748
+        }
+      ],
+      "distanza_max_m": 652
+    },
+    {
+      "nome": "via Casalanario",
+      "citta": "Tramonti",
+      "voci": [
+        {
+          "id": "osm-1316631161",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6903221,
+          "lng": 14.6502116
+        },
+        {
+          "id": "osm-1484081979",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6898573,
+          "lng": 14.6502457
+        }
+      ],
+      "distanza_max_m": 52
+    },
+    {
+      "nome": "Via Catello Ferreri",
+      "citta": "Nocera Inferiore",
+      "voci": [
+        {
+          "id": "osm-285340554",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.7411011,
+          "lng": 14.6532535
+        },
+        {
+          "id": "osm-397893941",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7409368,
+          "lng": 14.653255
+        }
+      ],
+      "distanza_max_m": 18
+    },
+    {
+      "nome": "Via Corvo",
+      "citta": "Vico Equense",
+      "voci": [
+        {
+          "id": "osm-1428209386",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6301918,
+          "lng": 14.4773117
+        },
+        {
+          "id": "osm-729893793",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6305686,
+          "lng": 14.4798932
+        }
+      ],
+      "distanza_max_m": 222
+    },
+    {
+      "nome": "Via Eduardo Astuti",
+      "citta": "Pagani",
+      "voci": [
+        {
+          "id": "osm-282278004",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.7443633,
+          "lng": 14.636938
+        },
+        {
+          "id": "osm-282889971",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7452938,
+          "lng": 14.6368399
+        }
+      ],
+      "distanza_max_m": 104
+    },
+    {
+      "nome": "Via Fontana",
+      "citta": "Massa Lubrense",
+      "voci": [
+        {
+          "id": "osm-679075137",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.5877563,
+          "lng": 14.3479614
+        },
+        {
+          "id": "osm-888698478",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.5874615,
+          "lng": 14.3469608
+        }
+      ],
+      "distanza_max_m": 91
+    },
+    {
+      "nome": "via Grotta Petina",
+      "citta": "Amalfi",
+      "voci": [
+        {
+          "id": "monumenti-via-grotta-petina",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6416038,
+          "lng": 14.6136466
+        },
+        {
+          "id": "sentieri-via-grotta-petina-32",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6416038,
+          "lng": 14.6136466
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Via Marina",
+      "citta": "Cetara",
+      "voci": [
+        {
+          "id": "osm-152197275",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6375053,
+          "lng": 14.6933344
+        },
+        {
+          "id": "osm-230360273",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6382932,
+          "lng": 14.6926744
+        }
+      ],
+      "distanza_max_m": 104
+    },
+    {
+      "nome": "Via Nocera",
+      "citta": "Pompei",
+      "voci": [
+        {
+          "id": "osm-28930306",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.7507456,
+          "lng": 14.4924671
+        },
+        {
+          "id": "osm-28930307",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7507331,
+          "lng": 14.4924959
+        }
+      ],
+      "distanza_max_m": 3
+    },
+    {
+      "nome": "via Paglietto",
+      "citta": "Amalfi",
+      "voci": [
+        {
+          "id": "osm-1451926652",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6359322,
+          "lng": 14.5926092
+        },
+        {
+          "id": "osm-1451927260",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6359142,
+          "lng": 14.5923212
+        }
+      ],
+      "distanza_max_m": 24
+    },
+    {
+      "nome": "Via Ponte di Mortora",
+      "citta": "Sorrento",
+      "voci": [
+        {
+          "id": "osm-1334586221",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6290609,
+          "lng": 14.412771
+        },
+        {
+          "id": "sentieri-via-ponte-di-mortora-65",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6300373,
+          "lng": 14.4121371
+        }
+      ],
+      "distanza_max_m": 121
+    },
+    {
+      "nome": "Via Positanesi d'America",
+      "citta": "Positano",
+      "voci": [
+        {
+          "id": "osm-1276233894",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6270352,
+          "lng": 14.482909
+        },
+        {
+          "id": "osm-214364558",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6264019,
+          "lng": 14.481882
+        }
+      ],
+      "distanza_max_m": 112
+    },
+    {
+      "nome": "Via Sirignano Piscina",
+      "citta": "Sorrento",
+      "voci": [
+        {
+          "id": "osm-503711318",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6130553,
+          "lng": 14.3424399
+        },
+        {
+          "id": "osm-932873458",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6138416,
+          "lng": 14.3428691
+        }
+      ],
+      "distanza_max_m": 95
+    },
+    {
+      "nome": "Via Spinosa",
+      "citta": "Vietri sul Mare",
+      "voci": [
+        {
+          "id": "osm-278890132",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6807048,
+          "lng": 14.7541322
+        },
+        {
+          "id": "osm-671471171",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6806831,
+          "lng": 14.7530818
+        }
+      ],
+      "distanza_max_m": 89
+    },
+    {
+      "nome": "via Terramare",
+      "citta": "Praiano",
+      "voci": [
+        {
+          "id": "osm-1416726731",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6136141,
+          "lng": 14.5391223
+        },
+        {
+          "id": "osm-58599565",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6119744,
+          "lng": 14.5378751
+        }
+      ],
+      "distanza_max_m": 211
+    },
+    {
+      "nome": "Via Titigliano",
+      "citta": "Sorrento",
+      "voci": [
+        {
+          "id": "osm-638204173",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.6048324,
+          "lng": 14.3575402
+        },
+        {
+          "id": "osm-803604555",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.6047626,
+          "lng": 14.357188
+        }
+      ],
+      "distanza_max_m": 31
+    },
+    {
+      "nome": "vico Barbarella",
+      "citta": "Massa Lubrense",
+      "voci": [
+        {
+          "id": "osm-338974732",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.5995793,
+          "lng": 14.3452922
+        },
+        {
+          "id": "osm-984862867",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.5990136,
+          "lng": 14.3443638
+        }
+      ],
+      "distanza_max_m": 101
+    },
+    {
+      "nome": "vista al M. Gelbison - Bulgheria",
+      "citta": "San Nicola Arcella",
+      "voci": [
+        {
+          "id": "monumenti-vista-al-m-gelbison---bulgheria",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.1062791,
+          "lng": 15.2748209
+        },
+        {
+          "id": "panorami-vista-al-m-gelbison-bulgheria-493",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.1062791,
+          "lng": 15.2748209
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "vista Alburni, Cervati, Centaurino",
+      "citta": "Rofrano",
+      "voci": [
+        {
+          "id": "monumenti-vista-alburni-cervati-centaurino",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.2492138,
+          "lng": 15.4431349
+        },
+        {
+          "id": "panorami-vista-alburni-cervati-centaurino-494",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.2492138,
+          "lng": 15.4431349
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "vista dal Monte Tubenna",
+      "citta": "San Cipriano Picentino",
+      "voci": [
+        {
+          "id": "monumenti-vista-dal-monte-tubenna",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7071509,
+          "lng": 14.8489692
+        },
+        {
+          "id": "osm-8174045980",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.7071509,
+          "lng": 14.8489692
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Vista sulla Valle del Mingardo",
+      "citta": "Rofrano",
+      "voci": [
+        {
+          "id": "monumenti-vista-sulla-valle-del-mingardo",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.2448275,
+          "lng": 15.44258
+        },
+        {
+          "id": "panorami-vista-sulla-valle-del-mingardo-490",
+          "categoria": "panorami",
+          "source": "osm",
+          "lat": 40.2448275,
+          "lng": 15.44258
+        }
+      ],
+      "distanza_max_m": 0
+    },
+    {
+      "nome": "Zanna Bianca",
+      "citta": "Sant'Egidio del Monte Albino",
+      "voci": [
+        {
+          "id": "monumenti-zanna-bianca",
+          "categoria": "monumenti",
+          "source": "osm",
+          "lat": 40.7306369,
+          "lng": 14.61952
+        },
+        {
+          "id": "sentieri-zanna-bianca-240",
+          "categoria": "sentieri",
+          "source": "osm",
+          "lat": 40.7306369,
+          "lng": 14.61952
+        }
+      ],
+      "distanza_max_m": 0
+    }
+  ]
+}
