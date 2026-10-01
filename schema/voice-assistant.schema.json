@@ -1,0 +1,7 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://autcir.github.io/awesome-salerno/schema/voice-assistant.schema.json",
+  "title": "data/voice-assistant.json",
+  "type": "object",
+  "required": ["name", "description", "language", "intents"]
+}

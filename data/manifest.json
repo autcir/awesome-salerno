@@ -134,6 +134,16 @@
       "sha256": "367da92fbf7b6d333fb8229db1fb0adc14103fae411b39d7d89b497fc4429670"
     },
     {
+      "path": "reports/duplicates.json",
+      "bytes": 94430,
+      "sha256": "68e14cbeff46cbaec49c21eb68b9add94f2100e40dad169b7980914fbcc5d603"
+    },
+    {
+      "path": "reports/quality.json",
+      "bytes": 14295,
+      "sha256": "47abded890ca1f6cfbbb90356c33782ed3485f04c8e19889a2f3420f42bc397f"
+    },
+    {
       "path": "sentieri.json",
       "bytes": 869341,
       "sha256": "b12646bd7d4ea11a8ab11c19222ee7480583ace1f5f6fe468524c6921493a82b"

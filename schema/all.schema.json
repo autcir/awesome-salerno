@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://autcir.github.io/awesome-salerno/schema/all.schema.json",
+  "title": "data/all.json",
+  "description": "Dizionario con ESATTAMENTE le sei chiavi del contratto (docs/CONTRACT.md): nessuna chiave top-level in piu'.",
+  "type": "object",
+  "required": ["monumenti", "parchi", "spiagge", "sentieri", "panorami", "eventi"],
+  "additionalProperties": false,
+  "properties": {
+    "monumenti": {"type": "array", "items": {"$ref": "poi.schema.json"}},
+    "parchi": {"type": "array", "items": {"$ref": "poi.schema.json"}},
+    "spiagge": {"type": "array", "items": {"$ref": "poi.schema.json"}},
+    "sentieri": {"type": "array", "items": {"$ref": "poi.schema.json"}},
+    "panorami": {"type": "array", "items": {"$ref": "poi.schema.json"}},
+    "eventi": {"type": "array", "items": {"$ref": "evento.schema.json"}}
+  }
+}

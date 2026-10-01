@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://autcir.github.io/awesome-salerno/schema/broken-links.schema.json",
+  "title": "data/broken_links.json",
+  "type": "object",
+  "required": ["checked_at", "checked", "fixed", "broken"],
+  "properties": {
+    "checked_at": {"type": "string"},
+    "checked": {"type": "integer", "minimum": 0},
+    "fixed": {"type": "integer", "minimum": 0},
+    "broken": {
+      "type": "array",
+      "items": {"type": "object", "required": ["url", "error", "pois"],
+        "properties": {"url": {"type": "string"}, "error": {"type": "string"}, "pois": {"type": "array", "items": {"type": "string"}}}}
+    }
+  }
+}

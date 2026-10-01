@@ -1,0 +1,8 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://autcir.github.io/awesome-salerno/schema/evento.schema.json",
+  "title": "Evento curato (data/eventi.json)",
+  "description": "Una voce POI con in piu' le date obbligatorie.",
+  "allOf": [{"$ref": "poi.schema.json"}],
+  "required": ["data_inizio", "data_fine", "ricorrenza"]
+}

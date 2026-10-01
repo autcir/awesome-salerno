@@ -25,42 +25,18 @@ jobs:
             python3 -c "import json; json.load(open('$f'))" || exit 1
             echo "✓ $f"
           done
-      - name: Check unique POI ids
+      - name: Install Python dependencies
         run: |
-          python3 -c "
-          import json, collections, sys
-          ids = []
-          for cat in ['sentieri','monumenti','spiagge','eventi','panorami','parchi']:
-              ids += [i['id'] for i in json.load(open(f'data/{cat}.json'))]
-          dup = [k for k, n in collections.Counter(ids).items() if n > 1]
-          if dup:
-              print('ERROR: duplicate ids:', dup)
-              sys.exit(1)
-          print(f'{len(ids)} POI, all ids unique')
-          "
-
-      - name: Check GPS coordinates
+          python3 -m venv "$RUNNER_TEMP/venv"
+          "$RUNNER_TEMP/venv/bin/pip" install --require-virtualenv -r requirements.txt
+      - name: Validate schema, ids, GPS limits and quality ratchet
         run: |
-          python3 -c "
-          import json, sys
-          errors = 0
-          for cat in ['sentieri', 'monumenti', 'spiagge', 'eventi', 'panorami', 'parchi']:
-              with open(f'data/{cat}.json') as f:
-                  items = json.load(f)
-              for i, item in enumerate(items):
-                  lat = item.get('lat', 0)
-                  lng = item.get('lng', 0)
-                  if lat == 0 and lng == 0:
-                      print(f'ERROR: {cat}[{i}] has GPS (0,0)')
-                      errors += 1
-                  elif lat < 39 or lat > 42 or lng < 14 or lng > 16:
-                      print(f'ERROR: {cat}[{i}] GPS out of bounds ({lat},{lng})')
-                      errors += 1
-          if errors:
-              print(f'{errors} GPS errors found')
-              sys.exit(1)
-          print('All GPS coordinates valid')
-          "
+          "$RUNNER_TEMP/venv/bin/python" scripts/validate_data.py
+          "$RUNNER_TEMP/venv/bin/python" scripts/validate_data.py --check-reports
+      - name: Check er0s contract
+        run: python3 scripts/check_er0s_contract.py
+      - name: Check manifest is up to date
+        run: python3 scripts/build_manifest.py --check
 
   deploy-pages:
     runs-on: [self-hosted, linux, obscura]
