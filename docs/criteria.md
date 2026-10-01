@@ -73,6 +73,6 @@ sulle preferenze.
 
 ## Licenza dei contributi
 
-I dati sono rilasciati in **CC0-1.0** (vedi `LICENSE`). Contribuendo accetti
-che il tuo contributo sia distribuito con la stessa licenza. Non inserire
-contenuti coperti da copyright altrui.
+Le licenze dipendono dalla fonte (vedi `DATA-LICENSES.md`): i dati OpenStreetMap
+sono ODbL, non CC0. La licenza del dataset composto la conferma il titolare.
+Non inserire contenuti coperti da copyright altrui.

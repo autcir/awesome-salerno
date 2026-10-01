@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-28T00:00:00Z",
+  "generator": "scripts/build_manifest.py",
+  "dataset": {
+    "name": "awesome-salerno",
+    "scope": "Salerno, Costiera Amalfitana, Cilento"
+  },
+  "counts": {
+    "all_json": {
+      "total": 5529,
+      "sentieri": 1658,
+      "monumenti": 3479,
+      "spiagge": 78,
+      "eventi": 49,
+      "panorami": 253,
+      "parchi": 12
+    },
+    "eventi_json": 49,
+    "eventi_scraped_json": 44,
+    "link_wikipedia": 244
+  },
+  "licensing": {
+    "note": "Le licenze dipendono dalla fonte (DATA-LICENSES.md). La licenza del dataset composto la conferma il titolare.",
+    "sources": [
+      {
+        "source": "curated",
+        "records": 46,
+        "name": "Curatori del progetto (verificate su fonti pubbliche)",
+        "license": "da confermare dal titolare (LICENSE dichiara CC0-1.0)",
+        "attribution": null,
+        "url": null,
+        "obligations": null
+      },
+      {
+        "source": "hand-written",
+        "records": 77,
+        "name": "Curatori del progetto (scritte a mano)",
+        "license": "da confermare dal titolare (LICENSE dichiara CC0-1.0)",
+        "attribution": null,
+        "url": null,
+        "obligations": null
+      },
+      {
+        "source": "osm",
+        "records": 5367,
+        "name": "OpenStreetMap",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors",
+        "url": "https://www.openstreetmap.org/copyright",
+        "obligations": "attribuzione; condivisione allo stesso modo per i database derivati"
+      },
+      {
+        "source": "web",
+        "records": 39,
+        "name": "Eventi da pagine di enti e testate (vedi data/sources.json)",
+        "license": "per fonte, vedi data/sources.json; spesso da verificare",
+        "attribution": null,
+        "url": null,
+        "obligations": null
+      }
+    ],
+    "sources_without_license_entry": []
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 5531,
+      "sha256": "03b1deb3404e36ea4a479aadd545686713e9140c86196f5a2b5935a6f16650e9"
+    },
+    {
+      "path": "all.json",
+      "bytes": 3479656,
+      "sha256": "a48595e23d6a9fbac5008affd5efc8f47656da1ea4f62a8bf2d4b0044bdbf2d7"
+    },
+    {
+      "path": "awesome-salerno.geojson",
+      "bytes": 3777269,
+      "sha256": "20dc2fa83e004130163415168bdc0d6c742ad5767c2b384689d239fb6b98f886"
+    },
+    {
+      "path": "awesome-salerno.kml",
+      "bytes": 2727921,
+      "sha256": "cc05b593bfddd53e7b88ffe24b268e9a4fce4f7a012b17f1aa4bf9c7c1646c70"
+    },
+    {
+      "path": "awesome-salerno.kmz",
+      "bytes": 285006,
+      "sha256": "e44f120722f42a3c367b14b780b6cb0cae485bbad19380721ca55f530bef1fde"
+    },
+    {
+      "path": "broken_links.json",
+      "bytes": 88,
+      "sha256": "87161c3b4e04ee14c0c004cf781b323dd6c176e39c0bad7e8f3af135962a87d7"
+    },
+    {
+      "path": "comuni_provincia.json",
+      "bytes": 12906,
+      "sha256": "1f1889c4e06f5e45bdc010ee0a00a4f775788d4ebe572c38b4d7ff34de6e5cef"
+    },
+    {
+      "path": "eventi.json",
+      "bytes": 42744,
+      "sha256": "b4cce90d85847ab0ca8ea96e2dc2f17543765306b58d0e4bccf38ac4460dac4b"
+    },
+    {
+      "path": "eventi_scraped.json",
+      "bytes": 40093,
+      "sha256": "54f64fd41fae9efce084f3fb1bae89687d30d0fc257d1d8537b944c5da166e3a"
+    },
+    {
+      "path": "events.xml",
+      "bytes": 22471,
+      "sha256": "6d7e2cb2d71c8341ab6a6e06b99ced65966afd8252fbc1f8b2c409515fcb334e"
+    },
+    {
+      "path": "monumenti.json",
+      "bytes": 2139947,
+      "sha256": "3a40ea2f949d96329397ff0ce0128ba3d1b5a71b174ba8ee3ec46e8107631136"
+    },
+    {
+      "path": "panorami.json",
+      "bytes": 155703,
+      "sha256": "3f60fa5ded92015b2fbf2f1fb9f9118dad1063861d2c3aaff2a715241b65c225"
+    },
+    {
+      "path": "parchi.json",
+      "bytes": 7909,
+      "sha256": "d67dc526a56a20096b8c6832e904e367bb630aa1f0e46b93377f5ee1ca1ef348"
+    },
+    {
+      "path": "rag/chunks.jsonl",
+      "bytes": 2482806,
+      "sha256": "367da92fbf7b6d333fb8229db1fb0adc14103fae411b39d7d89b497fc4429670"
+    },
+    {
+      "path": "sentieri.json",
+      "bytes": 869341,
+      "sha256": "b12646bd7d4ea11a8ab11c19222ee7480583ace1f5f6fe468524c6921493a82b"
+    },
+    {
+      "path": "sources.json",
+      "bytes": 9152,
+      "sha256": "260209151c199be8ec52284a5917985cb2823dcae61038263900da837c397dcb"
+    },
+    {
+      "path": "spiagge.json",
+      "bytes": 41735,
+      "sha256": "4a5875bb19a4866bdca39644ed00302b5de53b188f606a467f8683d80283a989"
+    },
+    {
+      "path": "voice-assistant.json",
+      "bytes": 1793,
+      "sha256": "8fc10ec85e322fbb85f95f283f49ccbbee7e8bf2f53b0c9e4579af88298e8910"
+    }
+  ]
+}

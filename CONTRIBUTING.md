@@ -148,4 +148,8 @@ comportamenti tossici: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
 ## License
 
-Contribuendo a questo progetto, accetti che i tuoi contributi siano rilasciati sotto la [CC0 1.0 Universal](LICENSE) license.
+Il codice e i testi dei curatori sono sotto [CC0 1.0 Universal](LICENSE). I dati di
+terzi (OpenStreetMap, Wikipedia, fonti degli eventi) mantengono la loro licenza:
+vedi [DATA-LICENSES.md](DATA-LICENSES.md). Se contribuisci una voce tua, la
+licenza con cui viene rilasciata la conferma il titolare; non inserire
+contenuti copiati da fonti con licenza incompatibile.
