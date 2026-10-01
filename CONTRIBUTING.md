@@ -122,9 +122,16 @@ I dati sono organizzati per categoria nella cartella `data/`:
 Ogni PR viene verificato automaticamente:
 
 1. **awesome-lint** - Controlla il formato della README
-2. **JSON validation** - Verifica che tutti i JSON siano validi
-3. **GPS bounds check** - Controlla che le coordinate rispettino `schema/limits.json`
-4. **Link check** - Ogni lunedi `scripts/verify_links.py` fa richieste vere
+2. **JSON validation** - Verifica che tutti i JSON siano validi e rispettino gli
+   schema in `schema/` (`scripts/validate_data.py`): id unici, limiti GPS di
+   `schema/limits.json`, e nessuna violazione di qualita' *nuova* rispetto a
+   `schema/quality-baseline.json`
+3. **Contratto er0s** - `scripts/check_er0s_contract.py` (vedi `docs/CONTRACT.md`)
+4. **File derivati** - sulle PR, `all.json`, il GeoJSON, `docs/data/` e
+   `data/manifest.json` devono essere aggiornati. Dopo aver cambiato i dati:
+   `python3 scripts/export_data.py --docs && python3 scripts/build_manifest.py`
+   (e `python3 scripts/validate_data.py --write-reports` se cambiano le segnalazioni)
+5. **Link check** - Ogni lunedi `scripts/verify_links.py` fa richieste vere
    (HEAD poi GET, User-Agent dichiarato, retry, un secondo tentativo prima di
    dichiarare un link rotto) ai link esterni e registra `last_checked` e
    `last_status`; `last_verified` si aggiorna solo se la richiesta e' riuscita.

@@ -35,7 +35,14 @@ jobs:
           "$RUNNER_TEMP/venv/bin/python" scripts/validate_data.py --check-reports
       - name: Check er0s contract
         run: python3 scripts/check_er0s_contract.py
+      # Derivati e specchio del sito. Saltati per la PR automatica dell'ingest
+      # (dati/eventi-automatici): tocca solo eventi_scraped.json, quindi manifest
+      # e docs/data restano indietro finche' una PR umana li rigenera.
+      - name: Check derived data and docs mirror are up to date
+        if: github.event_name == 'pull_request' && github.head_ref != 'dati/eventi-automatici'
+        run: python3 scripts/export_data.py --check --docs
       - name: Check manifest is up to date
+        if: github.event_name == 'pull_request' && github.head_ref != 'dati/eventi-automatici'
         run: python3 scripts/build_manifest.py --check
 
   deploy-pages:
@@ -47,9 +54,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Sync data to docs
-        run: |
-          rm -rf docs/data
-          cp -r data docs/data
+        run: python3 scripts/export_data.py --docs
       # Non si passa da upload-pages-artifact: lo storage degli artifact e'
       # bloccato ("Artifact storage quota has been hit"). Questo metodo
       # pubblica spingendo sul ramo gh-pages, che non consuma quota ed e'
