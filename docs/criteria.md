@@ -17,7 +17,9 @@ directory commerciale.
 Una voce e' ammessa se soddisfa **tutti** questi punti:
 
 1. **Esiste ed e' localizzabile** — coordinate GPS valide, all'interno dei
-   confini geografici del progetto (lat 39-42, lng 14-16).
+   limiti GPS del progetto (lat 39-42, lng 14-16, fonte unica
+   `schema/limits.json`). Il rettangolo e' largo: ciò che sta fuori da Salerno,
+   Costiera e Cilento resta nei dati con `in_ambito: false`.
 2. **E' di interesse pubblico** — sentieri, monumenti, spiagge, panorami,
    parchi, eventi ricorrenti o di rilievo.
 3. **E' verificabile** — esiste una fonte pubblica consultabile (OpenStreetMap,
@@ -38,7 +40,10 @@ Una voce e' ammessa se soddisfa **tutti** questi punti:
 - **Informazioni non verificabili** — "si dice che", passaparola senza fonte.
 - **Duplicati** — stessa voce entro 100 m con nome equivalente (vedi
   `scripts/merge_data.py`).
-- **Eventi conclusi e non ricorrenti** — vengono rimossi, non archiviati.
+- **Eventi conclusi e non ricorrenti** — non si mostrano in calendario e nel
+  README. Nei file dati non si spostano e non si cancellano: `data/eventi.json`
+  e `data/eventi_scraped.json` sono letti da altri sistemi (vedi
+  `docs/CONTRACT.md`) e non devono mai diventare vuoti.
 
 ## Verifica e freschezza
 
