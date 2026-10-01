@@ -1,0 +1,6 @@
+{
+  "$comment": "Fonte unica dei limiti GPS. Sono quelli che la CI applica dall'inizio (ci.yml, 'Check GPS coordinates'). Sono larghi di proposito: i dati includono voci fuori ambito (Napoli, Cosenza, Latina, Potenza) segnalate da `in_ambito: false`, non rimosse. Documentazione: data/README.md.",
+  "lat": {"min": 39, "max": 42},
+  "lng": {"min": 14, "max": 16},
+  "reject_null_island": true
+}

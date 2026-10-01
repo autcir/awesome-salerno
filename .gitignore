@@ -12,10 +12,21 @@ Thumbs.db
 # Python
 __pycache__/
 *.pyc
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
 
 # Temporary
 *.tmp
 *.bak
+*.bak-*
+*.log
+
+# Segreti locali: non entrano mai nel repo
+.env
+.env.*
+!.env.example
 
 # Raw scrape data (not part of the dataset)
 overpass_*.json

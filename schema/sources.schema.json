@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://autcir.github.io/awesome-salerno/schema/sources.schema.json",
+  "title": "data/sources.json (incorporato in er0s: chiavi stabili)",
+  "type": "object",
+  "required": ["fonti"],
+  "properties": {
+    "fonti": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["id", "nome", "url", "tipo", "licenza", "semaforo"],
+        "properties": {
+          "id": {"type": "string"}, "nome": {"type": "string"}, "url": {"type": "string"},
+          "tipo": {"type": "string"}, "licenza": {"type": "string"},
+          "semaforo": {"enum": ["verde", "giallo", "arancio", "rosso"]}
+        }
+      }
+    }
+  }
+}

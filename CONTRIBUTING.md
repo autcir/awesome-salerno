@@ -25,7 +25,7 @@ Ogni POI deve seguire questo formato:
   "citta": "Nome del comune",
   "quartiere": "Solo per Salerno (opzionale)",
   "tipo": "chiesa | castello | museo | archeologico | grotta | fonte | sentiero | panorama | spiaggia | piazza | monumento | torre | ponte | porta | scala | altro",
-  "source": "curated | osm | wikipedia",
+  "source": "curated | osm",
   "link": "https://..."
 }
 ```
@@ -37,12 +37,12 @@ Ogni POI deve seguire questo formato:
 | `id` | string | ID univoco. Formato: `custom-nome-poi` per contributi manuali, `osm-{id}` per OSM |
 | `nome` | string | Nome ufficiale del POI |
 | `descrizione` | string | Descrizione concisa (max 200 caratteri) |
-| `lat` | float | Latitudine GPS (range: 39.85 - 40.85) |
-| `lng` | float | Longitudine GPS (range: 14.3 - 15.6) |
+| `lat` | float | Latitudine GPS, tra 39 e 42 (limiti in `schema/limits.json`) |
+| `lng` | float | Longitudine GPS, tra 14 e 16 (limiti in `schema/limits.json`) |
 | `zona` | string | Una tra: `salerno`, `costiera`, `cilento` |
 | `citta` | string | Nome del comune (es. "Salerno", "Amalfi", "Capaccio Paestum") |
 | `tipo` | string | Categoria del POI (vedi lista sopra) |
-| `source` | string | Origine dei dati: `curated`, `osm`, `wikipedia` |
+| `source` | string | Origine dei dati. Per i contributi: `curated` o `osm`. Nel dataset compaiono anche `hand-written` e `web` (eventi raccolti dallo script di ingest) |
 
 ### Campi opzionali
 
@@ -53,7 +53,7 @@ Ogni POI deve seguire questo formato:
 | `osm_id` | int | ID OpenStreetMap (se source=osm) |
 | `osm_type` | string | Tipo OSM: `way`, `node`, o `relation` |
 | `difficolta` | string | Per sentieri: `facile`, `medio`, `difficile`, `molto_difficile` |
-| `dislivello` | int | Dislivello in metri (per sentieri) |
+| `dislivello_m` | int | Dislivello in metri (per sentieri) |
 | `lunghezza_km` | float | Lunghezza in km (per sentieri) |
 
 ### Campi per eventi
@@ -82,7 +82,7 @@ I dati sono organizzati per categoria nella cartella `data/`:
 
 ## Regole per le entry
 
-- **GPS obbligatorio.** Ogni POI deve avere coordinate GPS valide.
+- **GPS obbligatorio.** Ogni POI deve avere coordinate valide dentro i limiti di `schema/limits.json` (lat 39-42, lng 14-16, e mai la coppia 0,0). Sono i limiti che la CI applica; il perimetro editoriale lo dice `in_ambito`, non il rettangolo.
 - **Descrizione concisa.** Una riga, max 200 caratteri, senza punteggiatura finale.
 - **Zona corretta.** Classifica nella zona giusta:
   - `salerno`: città di Salerno e dintorni (lat > 40.55, lng < 14.85)
@@ -122,14 +122,25 @@ I dati sono organizzati per categoria nella cartella `data/`:
 Ogni PR viene verificato automaticamente:
 
 1. **awesome-lint** - Controlla il formato della README
-2. **JSON validation** - Verifica che tutti i JSON siano validi
-3. **GPS bounds check** - Controlla che le coordinate siano nel range corretto
-4. **Link check** - Ogni lunedi `scripts/verify_links.py` controlla i link
-   esterni, aggiorna il campo `last_verified` di ogni voce e apre una issue
-   `needs-verification` con quelli rotti (report in `data/broken_links.json`).
-   Il workflow non riscrive i link da solo: `python3 scripts/verify_links.py --fix`
-   sostituisce quelli morti col link OpenStreetMap generato dalle coordinate,
-   ma va lanciato a mano dopo aver guardato il report
+2. **JSON validation** - Verifica che tutti i JSON siano validi e rispettino gli
+   schema in `schema/` (`scripts/validate_data.py`): id unici, limiti GPS di
+   `schema/limits.json`, e nessuna violazione di qualita' *nuova* rispetto a
+   `schema/quality-baseline.json`
+3. **Contratto er0s** - `scripts/check_er0s_contract.py` (vedi `docs/CONTRACT.md`)
+4. **File derivati** - sulle PR, `all.json`, il GeoJSON, `docs/data/` e
+   `data/manifest.json` devono essere aggiornati. Dopo aver cambiato i dati:
+   `python3 scripts/export_data.py --docs && python3 scripts/build_manifest.py`
+   (e `python3 scripts/validate_data.py --write-reports` se cambiano le segnalazioni)
+5. **Link check** - Ogni lunedi `scripts/verify_links.py` fa richieste vere
+   (HEAD poi GET, User-Agent dichiarato, retry, un secondo tentativo prima di
+   dichiarare un link rotto) ai link esterni e registra `last_checked` e
+   `last_status`; `last_verified` si aggiorna solo se la richiesta e' riuscita.
+   I link OpenStreetMap generati dalle coordinate sono marcati
+   `link_type: osm_generated` e non si timbrano. Un server che risponde
+   401/403/429 e' vivo ma non verificato (campo `blocked` del report). Apre una
+   issue `needs-verification` con i link rotti (`data/broken_links.json`).
+   `--fix` li sostituisce col link OpenStreetMap e conserva l'originale in
+   `link_rotto`, che alle esecuzioni successive viene riesaminato
 
 ## Issue
 
@@ -148,4 +159,8 @@ comportamenti tossici: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
 ## License
 
-Contribuendo a questo progetto, accetti che i tuoi contributi siano rilasciati sotto la [CC0 1.0 Universal](LICENSE) license.
+Il codice e i testi dei curatori sono sotto [CC0 1.0 Universal](LICENSE). I dati di
+terzi (OpenStreetMap, Wikipedia, fonti degli eventi) mantengono la loro licenza:
+vedi [DATA-LICENSES.md](DATA-LICENSES.md). Se contribuisci una voce tua, la
+licenza con cui viene rilasciata la conferma il titolare; non inserire
+contenuti copiati da fonti con licenza incompatibile.
