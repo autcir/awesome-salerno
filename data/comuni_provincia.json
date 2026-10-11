@@ -1,0 +1,614 @@
+{
+  "Acerno": {
+    "comune": "Acerno",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Agerola": {
+    "comune": "Agerola",
+    "provincia": "Napoli",
+    "regione": "Campania",
+    "sigla": "NA"
+  },
+  "Agropoli": {
+    "comune": "Agropoli",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Amalfi": {
+    "comune": "Amalfi",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Ascea": {
+    "comune": "Ascea",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Bellizzi": {
+    "comune": "Bellizzi",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Boscoreale": {
+    "comune": "Boscoreale",
+    "provincia": "Napoli",
+    "regione": "Campania",
+    "sigla": "NA"
+  },
+  "Boscotrecase": {
+    "comune": "Boscotrecase",
+    "provincia": "Napoli",
+    "regione": "Campania",
+    "sigla": "NA"
+  },
+  "Bracigliano": {
+    "comune": "Bracigliano",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Buccino": {
+    "comune": "Buccino",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Buonabitacolo": {
+    "comune": "Buonabitacolo",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Campagna": {
+    "comune": "Campagna",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Capaccio Paestum": {
+    "comune": "Capaccio Paestum",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Caposele": {
+    "comune": "Caposele",
+    "provincia": "Avellino",
+    "regione": "Campania",
+    "sigla": "AV"
+  },
+  "Casal Velino": {
+    "comune": "Casal Velino",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Casola di Napoli": {
+    "comune": "Casola di Napoli",
+    "provincia": "Napoli",
+    "regione": "Campania",
+    "sigla": "NA"
+  },
+  "Castel San Lorenzo": {
+    "comune": "Castel San Lorenzo",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Castellabate": {
+    "comune": "Castellabate",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Castellammare di Stabia": {
+    "comune": "Castellammare di Stabia",
+    "provincia": "Napoli",
+    "regione": "Campania",
+    "sigla": "NA"
+  },
+  "Castelnuovo di Conza": {
+    "comune": "Castelnuovo di Conza",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Centola": {
+    "comune": "Centola",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Cetara": {
+    "comune": "Cetara",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Cicerale": {
+    "comune": "Cicerale",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Colliano": {
+    "comune": "Colliano",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Conca dei Marini": {
+    "comune": "Conca dei Marini",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Contursi Terme": {
+    "comune": "Contursi Terme",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Eboli": {
+    "comune": "Eboli",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Felitto": {
+    "comune": "Felitto",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Furore": {
+    "comune": "Furore",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Giffoni Sei Casali": {
+    "comune": "Giffoni Sei Casali",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Giffoni Valle Piana": {
+    "comune": "Giffoni Valle Piana",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Gioi": {
+    "comune": "Gioi",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Giungano": {
+    "comune": "Giungano",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Gragnano": {
+    "comune": "Gragnano",
+    "provincia": "Napoli",
+    "regione": "Campania",
+    "sigla": "NA"
+  },
+  "Laurito": {
+    "comune": "Laurito",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Laviano": {
+    "comune": "Laviano",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Lettere": {
+    "comune": "Lettere",
+    "provincia": "Napoli",
+    "regione": "Campania",
+    "sigla": "NA"
+  },
+  "Lustra": {
+    "comune": "Lustra",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Magliano Vetere": {
+    "comune": "Magliano Vetere",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Maiori": {
+    "comune": "Maiori",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Maratea": {
+    "comune": "Maratea",
+    "provincia": "Potenza",
+    "regione": "Basilicata",
+    "sigla": "PZ"
+  },
+  "Massa Lubrense": {
+    "comune": "Massa Lubrense",
+    "provincia": "Napoli",
+    "regione": "Campania",
+    "sigla": "NA"
+  },
+  "Meta": {
+    "comune": "Meta",
+    "provincia": "Napoli",
+    "regione": "Campania",
+    "sigla": "NA"
+  },
+  "Minori": {
+    "comune": "Minori",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Moio della Civitella": {
+    "comune": "Moio della Civitella",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Montano Antilia": {
+    "comune": "Montano Antilia",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Montecorice": {
+    "comune": "Montecorice",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Montecorvino Pugliano": {
+    "comune": "Montecorvino Pugliano",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Montecorvino Rovella": {
+    "comune": "Montecorvino Rovella",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Montesano sulla Marcellana": {
+    "comune": "Montesano sulla Marcellana",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Nocera Inferiore": {
+    "comune": "Nocera Inferiore",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Nocera Superiore": {
+    "comune": "Nocera Superiore",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Novi Velia": {
+    "comune": "Novi Velia",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Ogliastro Cilento": {
+    "comune": "Ogliastro Cilento",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Omignano": {
+    "comune": "Omignano",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Padula": {
+    "comune": "Padula",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Pagani": {
+    "comune": "Pagani",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Palomonte": {
+    "comune": "Palomonte",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Perdifumo": {
+    "comune": "Perdifumo",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Piaggine": {
+    "comune": "Piaggine",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Piano di Sorrento": {
+    "comune": "Piano di Sorrento",
+    "provincia": "Napoli",
+    "regione": "Campania",
+    "sigla": "NA"
+  },
+  "Pisciotta": {
+    "comune": "Pisciotta",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Polla": {
+    "comune": "Polla",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Pompei": {
+    "comune": "Pompei",
+    "provincia": "Napoli",
+    "regione": "Campania",
+    "sigla": "NA"
+  },
+  "Pontecagnano Faiano": {
+    "comune": "Pontecagnano Faiano",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Positano": {
+    "comune": "Positano",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Postiglione": {
+    "comune": "Postiglione",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Praiano": {
+    "comune": "Praiano",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Ravello": {
+    "comune": "Ravello",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Ricigliano": {
+    "comune": "Ricigliano",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Roccadaspide": {
+    "comune": "Roccadaspide",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Rofrano": {
+    "comune": "Rofrano",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Roscigno": {
+    "comune": "Roscigno",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Rutino": {
+    "comune": "Rutino",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Sala Consilina": {
+    "comune": "Sala Consilina",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Salerno": {
+    "comune": "Salerno",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "San Cipriano Picentino": {
+    "comune": "San Cipriano Picentino",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "San Giovanni a Piro": {
+    "comune": "San Giovanni a Piro",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "San Nicola Arcella": {
+    "comune": "San Nicola Arcella",
+    "provincia": "Cosenza",
+    "regione": "Calabria",
+    "sigla": "CS"
+  },
+  "San Pietro al Tanagro": {
+    "comune": "San Pietro al Tanagro",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "San Rufo": {
+    "comune": "San Rufo",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Sant'Andrea di Conza": {
+    "comune": "Sant'Andrea di Conza",
+    "provincia": "Avellino",
+    "regione": "Campania",
+    "sigla": "AV"
+  },
+  "Sant'Angelo a Fasanella": {
+    "comune": "Sant'Angelo a Fasanella",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Sant'Antonio Abate": {
+    "comune": "Sant'Antonio Abate",
+    "provincia": "Napoli",
+    "regione": "Campania",
+    "sigla": "NA"
+  },
+  "Sant'Egidio del Monte Albino": {
+    "comune": "Sant'Egidio del Monte Albino",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Santi Cosma e Damiano": {
+    "comune": "Santi Cosma e Damiano",
+    "provincia": "Latina",
+    "regione": "Lazio",
+    "sigla": "LT"
+  },
+  "Scala": {
+    "comune": "Scala",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Serre": {
+    "comune": "Serre",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Sessa Cilento": {
+    "comune": "Sessa Cilento",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Siano": {
+    "comune": "Siano",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Sorrento": {
+    "comune": "Sorrento",
+    "provincia": "Napoli",
+    "regione": "Campania",
+    "sigla": "NA"
+  },
+  "Stio": {
+    "comune": "Stio",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Teggiano": {
+    "comune": "Teggiano",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Teora": {
+    "comune": "Teora",
+    "provincia": "Avellino",
+    "regione": "Campania",
+    "sigla": "AV"
+  },
+  "Torchiara": {
+    "comune": "Torchiara",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Torre Annunziata": {
+    "comune": "Torre Annunziata",
+    "provincia": "Napoli",
+    "regione": "Campania",
+    "sigla": "NA"
+  },
+  "Tramonti": {
+    "comune": "Tramonti",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Trecchina": {
+    "comune": "Trecchina",
+    "provincia": "Potenza",
+    "regione": "Basilicata",
+    "sigla": "PZ"
+  },
+  "Vallo della Lucania": {
+    "comune": "Vallo della Lucania",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Valva": {
+    "comune": "Valva",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  },
+  "Vico Equense": {
+    "comune": "Vico Equense",
+    "provincia": "Napoli",
+    "regione": "Campania",
+    "sigla": "NA"
+  },
+  "Vietri sul Mare": {
+    "comune": "Vietri sul Mare",
+    "provincia": "Salerno",
+    "regione": "Campania",
+    "sigla": "SA"
+  }
+}
