@@ -21,7 +21,7 @@ jobs:
       issues: write     # apre o aggiorna l'issue dei link rotti
     steps:
       # persist-credentials resta attivo: serve al `git push` di sotto (vedi .github/zizmor.yml)
-      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       - name: Verify links, stamp last_verified, repair dead ones
         run: python3 scripts/verify_links.py --stale-days 30 --fix
