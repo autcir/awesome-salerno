@@ -1,0 +1,8 @@
+rules:
+  artipacked:
+    # Questi due workflow committano e fanno `git push` con il GITHUB_TOKEN del
+    # job: il checkout deve lasciare le credenziali nel .git/config. Il token e'
+    # valido solo per la durata del job e il job non carica artifact.
+    ignore:
+      - digest.yml:23
+      - link-check.yml:24

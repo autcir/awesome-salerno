@@ -100,7 +100,9 @@ def build(ym):
         lines.append(f"- Riparati automaticamente: {broken['fixed']}")
 
     lines += ["", "---", "",
-              "Dati CC0 - [awesome-salerno](https://github.com/autcir/awesome-salerno)",
+              "Dati © OpenStreetMap contributors (ODbL) e altre fonti, licenze in "
+              "[DATA-LICENSES.md](https://github.com/autcir/awesome-salerno/blob/main/DATA-LICENSES.md) - "
+              "[awesome-salerno](https://github.com/autcir/awesome-salerno)",
               ""]
     return "\n".join(lines)
 

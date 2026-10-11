@@ -1,51 +1,42 @@
-# Security Policy
+# Sicurezza
 
-## Scope
+## Cosa e' in ambito
 
-Awesome Salerno is a curated list of links plus the scripts that generate and
-verify it. There is no user account, no database of personal data and nothing
-that runs on your machine beyond a static site.
+- gli script in `scripts/`, `api/` e `mcp/` e i workflow in `.github/workflows/`;
+- i dati in `data/`, se contengono dati personali o link a contenuti dannosi;
+- le pagine statiche in `docs/` e `map.html`.
 
-So the security surface here is not a server — it is the **content**:
+Non e' un servizio con account o pagamenti: non contiene segreti e non deve
+contenerne. Se ne trovi uno nel repo, segnalalo come sotto.
 
-- **Malicious, hijacked or defaced links** — a POI, event or external resource
-  URL that now serves malware, phishing pages or unexpected adult/scam
-  content.
-- **Typosquatted or look-alike domains** — entries that imitate an official
-  site (`comune-di-salerno.it` instead of `comune.salerno.it`), so that a
-  visitor lands somewhere they did not mean to go.
-- **License and attribution problems in the listed resources** — content,
-  images or data redistributed under a license that does not allow it, or
-  without the attribution the license requires. This is the license surface
-  of a curated list, and it is the part contributors are most likely to get
-  wrong by accident.
-- **Repository integrity** — anything in `scripts/`, `api/` or the GitHub
-  Actions workflows that executes or fetches something the file does not
-  declare. The auto-refresh, link-check and digest jobs run unattended on a
-  schedule, so a compromised dependency or feed would be able to act here.
+## Come segnalare una vulnerabilita'
 
-## Supported versions
+Non aprire una issue pubblica con i dettagli tecnici.
 
-Only the `main` branch and the current GitHub Pages deployment are maintained.
-Past versions of the generated dataset in `data/` are not patched — problems
-are fixed forward in the current files, and the link-check workflow rewrites
-them on the next run.
+1. Usa la segnalazione privata di GitHub: scheda **Security** del repository,
+   **Report a vulnerability**.
+2. Se la scheda non e' disponibile, apri una issue che dica solo "vorrei
+   segnalare un problema di sicurezza, serve un canale privato", senza dettagli:
+   il titolare ti risponde con un contatto.
 
-## Reporting a vulnerability
+Indica cosa hai trovato, come riprodurlo e quale effetto ha. E' un progetto
+volontario: il titolare risponde appena possibile, senza tempi garantiti.
 
-**Please do not open a public issue for these.**
+## Versioni
 
-Report privately through [GitHub Security Advisories](../../security/advisories/new)
-(the *Security* tab → *Report a vulnerability*) or by email to
-`security@studiocentos.com`.
+Si corregge solo `main`: non ci sono rilasci mantenuti in parallelo.
 
-Include the URL(s) involved and what you observed. If the report is about a
-listed resource, a link to the correct or official domain makes the repair
-much faster. Reports are kept confidential until a fix is in place.
+## Come si evitano i problemi noti
 
-There is no response SLA: this list is maintained in spare time, so please
-allow a few days before following up.
+- le action dei workflow sono fissate a SHA di commit e aggiornate da Dependabot
+  con un periodo di attesa di 7 giorni;
+- i job hanno permessi minimi (`permissions` per job) e, dove non si spinge,
+  `persist-credentials: false`;
 
-A link that is merely *broken* is a bug, not a vulnerability — the
-[broken-link issue template](../../issues/new/choose) is the faster route for
-those and is always welcome.
+## Rischio aperto
+
+I workflow girano su un runner self-hosted e il repo e' pubblico. `ci.yml` parte
+su `pull_request`: una PR da fork puo' quindi far eseguire codice sul runner, a
+meno che le impostazioni del repo (Settings > Actions > General, approvazione
+dei workflow dei collaboratori esterni) non lo impediscano. Questa
+configurazione non e' nel repo e va verificata dal titolare.

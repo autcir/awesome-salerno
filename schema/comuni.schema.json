@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://autcir.github.io/awesome-salerno/schema/comuni.schema.json",
+  "title": "data/comuni_provincia.json (incorporato in er0s: chiavi stabili)",
+  "type": "object",
+  "minProperties": 1,
+  "additionalProperties": {
+    "type": "object",
+    "required": ["comune", "provincia", "regione", "sigla"],
+    "properties": {
+      "comune": {"type": "string"}, "provincia": {"type": "string"},
+      "regione": {"type": "string"}, "sigla": {"type": "string", "pattern": "^[A-Z]{2}$"}
+    }
+  }
+}

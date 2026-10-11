@@ -3,11 +3,23 @@ on:
   schedule:
     - cron: '0 6 * * *'
   workflow_dispatch:
+permissions: {}
+
 jobs:
   refresh:
+    name: refresh
     runs-on: [self-hosted, linux, obscura]
+    timeout-minutes: 60
+    # Condivisa con il deploy di ci.yml: entrambi pubblicano su gh-pages.
+    concurrency:
+      group: pages-deploy
+      cancel-in-progress: false
+    permissions:
+      contents: write   # peaceiris spinge sul ramo gh-pages
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false   # il push lo fa l'action col github_token
       - name: Ingest eventi (obscura)
         # Gira sul runner self-hosted di soliso, dove obscura e' installato.
         # Se fallisce si tiene l'ultimo eventi_scraped.json buono: mai
@@ -15,30 +27,16 @@ jobs:
         continue-on-error: true
         run: python3 scripts/ingest_events.py
 
-      - name: Rebuild all.json + GeoJSON + RSS
-        run: |
-          python3 -c "
-          import json
-          from pathlib import Path
-          DATA = Path('data')
-          files = ['sentieri','monumenti','spiagge','eventi','panorami','parchi']
-          all_data = {f: json.load(open(DATA/f'{f}.json')) for f in files}
-          json.dump(all_data, open(DATA/'all.json','w'), ensure_ascii=False, indent=2)
-          feats=[]
-          for cat, items in all_data.items():
-            for it in items:
-              if it.get('lat') and it.get('lng'):
-                feats.append({'type':'Feature','geometry':{'type':'Point','coordinates':[it['lng'],it['lat']]},'properties':{k:it.get(k) for k in ['id','nome','descrizione','zona','citta','quartiere','tipo','link','last_verified']}})
-          json.dump({'type':'FeatureCollection','features':feats}, open(DATA/'awesome-salerno.geojson','w'), ensure_ascii=False, indent=2)
-          "
+      - name: Rebuild all.json + GeoJSON
+        run: python3 scripts/export_data.py
       - name: Rebuild KML
         run: python3 api/kml_export.py
       - name: Rebuild RAG chunks
         run: python3 scripts/build_rag.py
       - name: Sync docs
-        run: cp data/all.json docs/data/all.json && cp data/awesome-salerno.geojson docs/data/awesome-salerno.geojson && cp data/events.xml docs/data/events.xml && cp data/eventi.json docs/data/eventi.json && cp data/sources.json docs/data/sources.json && cp data/eventi_scraped.json docs/data/eventi_scraped.json && mkdir -p docs/data/rag && cp data/rag/chunks.jsonl docs/data/rag/chunks.jsonl
+        run: python3 scripts/export_data.py --docs
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453 # v4.1.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs

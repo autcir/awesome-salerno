@@ -5,15 +5,23 @@ on:
     - cron: '0 5 * * 1'   # ogni lunedi
   workflow_dispatch:
 
-permissions:
-  contents: write
-  issues: write
+permissions: {}
+
+concurrency:
+  group: link-check
+  cancel-in-progress: false
 
 jobs:
   check:
+    name: check
     runs-on: [self-hosted, linux, obscura]
+    timeout-minutes: 90   # richieste vere con limite per host e secondo tentativo
+    permissions:
+      contents: write   # committa i dati aggiornati
+      issues: write     # apre o aggiorna l'issue dei link rotti
     steps:
-      - uses: actions/checkout@v4
+      # persist-credentials resta attivo: serve al `git push` di sotto (vedi .github/zizmor.yml)
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
 
       - name: Verify links, stamp last_verified, repair dead ones
         run: python3 scripts/verify_links.py --stale-days 30 --fix
@@ -21,16 +29,24 @@ jobs:
       - name: Recover official sources from Wikipedia
         run: python3 scripts/relink_wikipedia.py --apply
 
+      - name: Check er0s contract before committing
+        run: python3 scripts/check_er0s_contract.py
+
+      - name: Rebuild derived data, docs mirror and manifest
+        run: |
+          python3 scripts/export_data.py --docs
+          python3 scripts/build_manifest.py
+
       - name: Commit updated verification dates
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
+          git add data/ docs/data/
           git diff --staged --quiet || git commit -m "chore: link check, last_verified + repairs $(date -I)"
           git push
 
       - name: Open issue for broken links
-        uses: actions/github-script@v7
+        uses: actions/github-script@f28e40c7f34bde8b3046d885e986cb6290c5673b # v7.1.0
         with:
           script: |
             const fs = require('fs');

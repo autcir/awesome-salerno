@@ -12,6 +12,9 @@
     "mcp": "python3 mcp/server.py",
     "export-data": "python3 scripts/export_data.py"
   },
+  "engines": {
+    "node": ">=18"
+  },
   "devDependencies": {
     "awesome-lint": "^1.2.0"
   },

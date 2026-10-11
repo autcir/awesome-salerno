@@ -37,13 +37,20 @@
 > Costiera Amalfitana e Cilento.
 
 5529 POI (sentieri, monumenti, spiagge, panorami, parchi, eventi) con coordinate
-GPS, fonte e data di verifica. Dati in JSON, GeoJSON, KML/KMZ, RSS e dataset RAG,
-licenza CC0.
+GPS, fonte e data di verifica. Dati in JSON, GeoJSON, KML/KMZ, RSS e dataset RAG.
+
+Licenze: non sono uniformi. Le voci `source: osm` contengono dati ©
+OpenStreetMap contributors, sotto ODbL 1.0 (attribuzione obbligatoria); Wikipedia,
+Wikidata e le fonti degli eventi hanno condizioni proprie. Il dettaglio per fonte
+e' in [DATA-LICENSES.md](DATA-LICENSES.md); la licenza del dataset composto la
+conferma il titolare.
 
 | Documento | Contenuto |
 |-----------|-----------|
 | [docs/criteria.md](docs/criteria.md) | Criteri editoriali: cosa entra e cosa no |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | Come proporre una voce o una correzione |
+| `DATA-LICENSES.md` | Licenza di ogni fonte dei dati (link nel paragrafo sopra) |
+| [docs/CONTRACT.md](docs/CONTRACT.md) | Chi legge i dati e cosa non si deve rompere |
 | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Codice di condotta |
 
 La mappa interattiva (sezione Map) ha un selettore IT/EN. Le voci della lista qui
@@ -410,8 +417,10 @@ and swaps a dead one for the OpenStreetMap link built from the POI coordinates
 Wikipedia article back wherever one exists whose own coordinates land near the
 POI; whatever is left is reported in `data/broken_links.json` and in an issue
 labelled `needs-verification`. OpenStreetMap links are generated from the
-coordinates, so they are stamped without a network call. The map shows a
-"to be verified" badge for anything older than 180 days.
+coordinates, so they are not requested and not stamped: they carry
+`link_type: osm_generated`. `last_verified` moves only when a real request to an
+external link succeeded; `last_checked` and `last_status` record every attempt.
+The map shows a "to be verified" badge for anything older than 180 days.
 
 An official source beats both fallbacks, so the issue is worth reading: the
 automation keeps entries usable, it does not make them good.
@@ -424,7 +433,8 @@ Inclusion and exclusion rules: see `docs/criteria.md`.
 
 ## RAG dataset
 
-One chunk per POI, ready to embed - `data/rag/chunks.jsonl`, 5529 lines, CC0.
+One chunk per POI, ready to embed - `data/rag/chunks.jsonl`, 5529 lines. It derives from the dataset, so the per-source
+licences in `DATA-LICENSES.md` apply (OpenStreetMap data is ODbL).
 
 ```bash
 python3 scripts/build_rag.py            # rebuild the JSONL

@@ -6,79 +6,89 @@ on:
   pull_request:
     branches: [main]
 
+# Nessun permesso di default: ogni job chiede solo quello che gli serve.
+permissions: {}
+
+# Una PR aggiornata annulla il run precedente; un push su main non viene mai
+# interrotto a meta' (potrebbe essere un deploy).
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
 jobs:
   lint:
+    name: lint
     runs-on: [self-hosted, linux, obscura]
+    timeout-minutes: 15
+    permissions:
+      contents: read
     steps:
-      - uses: actions/checkout@v4
-      - run: npm ci
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false
+      - run: npm ci --ignore-scripts
       - run: npx awesome-lint
       - run: node scripts/test_ask.js
 
   validate-data:
+    name: validate-data
     runs-on: [self-hosted, linux, obscura]
+    timeout-minutes: 15
+    permissions:
+      contents: read
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false
       - name: Validate JSON files
         run: |
           for f in data/*.json; do
-            python3 -c "import json; json.load(open('$f'))" || exit 1
+            python3 -c 'import json, sys; json.load(open(sys.argv[1]))' "$f" || exit 1
             echo "✓ $f"
           done
-      - name: Check unique POI ids
+      - name: Install Python dependencies
         run: |
-          python3 -c "
-          import json, collections, sys
-          ids = []
-          for cat in ['sentieri','monumenti','spiagge','eventi','panorami','parchi']:
-              ids += [i['id'] for i in json.load(open(f'data/{cat}.json'))]
-          dup = [k for k, n in collections.Counter(ids).items() if n > 1]
-          if dup:
-              print('ERROR: duplicate ids:', dup)
-              sys.exit(1)
-          print(f'{len(ids)} POI, all ids unique')
-          "
-
-      - name: Check GPS coordinates
+          python3 -m venv "$RUNNER_TEMP/venv"
+          "$RUNNER_TEMP/venv/bin/pip" install --require-virtualenv -r requirements.txt
+      - name: Validate schema, ids, GPS limits and quality ratchet
         run: |
-          python3 -c "
-          import json, sys
-          errors = 0
-          for cat in ['sentieri', 'monumenti', 'spiagge', 'eventi', 'panorami', 'parchi']:
-              with open(f'data/{cat}.json') as f:
-                  items = json.load(f)
-              for i, item in enumerate(items):
-                  lat = item.get('lat', 0)
-                  lng = item.get('lng', 0)
-                  if lat == 0 and lng == 0:
-                      print(f'ERROR: {cat}[{i}] has GPS (0,0)')
-                      errors += 1
-                  elif lat < 39 or lat > 42 or lng < 14 or lng > 16:
-                      print(f'ERROR: {cat}[{i}] GPS out of bounds ({lat},{lng})')
-                      errors += 1
-          if errors:
-              print(f'{errors} GPS errors found')
-              sys.exit(1)
-          print('All GPS coordinates valid')
-          "
+          "$RUNNER_TEMP/venv/bin/python" scripts/validate_data.py
+          "$RUNNER_TEMP/venv/bin/python" scripts/validate_data.py --check-reports
+      - name: Check er0s contract
+        run: python3 scripts/check_er0s_contract.py
+      # Derivati e specchio del sito. Saltati per la PR automatica dell'ingest
+      # (dati/eventi-automatici): tocca solo eventi_scraped.json, quindi manifest
+      # e docs/data restano indietro finche' una PR umana li rigenera.
+      - name: Check derived data and docs mirror are up to date
+        if: github.event_name == 'pull_request' && github.head_ref != 'dati/eventi-automatici'
+        run: python3 scripts/export_data.py --check --docs
+      - name: Check manifest is up to date
+        if: github.event_name == 'pull_request' && github.head_ref != 'dati/eventi-automatici'
+        run: python3 scripts/build_manifest.py --check
 
   deploy-pages:
+    name: deploy-pages
     runs-on: [self-hosted, linux, obscura]
+    timeout-minutes: 15
     needs: [lint, validate-data]
     if: github.ref == 'refs/heads/main'
+    # Condivisa con auto-refresh.yml: entrambi pubblicano su gh-pages.
+    concurrency:
+      group: pages-deploy
+      cancel-in-progress: false
     permissions:
-      contents: write
+      contents: write   # peaceiris spinge sul ramo gh-pages
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false   # il push lo fa l'action col github_token
       - name: Sync data to docs
-        run: |
-          rm -rf docs/data
-          cp -r data docs/data
+        run: python3 scripts/export_data.py --docs
       # Non si passa da upload-pages-artifact: lo storage degli artifact e'
       # bloccato ("Artifact storage quota has been hit"). Questo metodo
       # pubblica spingendo sul ramo gh-pages, che non consuma quota ed e'
       # lo stesso gia' usato da auto-refresh.yml.
-      - uses: peaceiris/actions-gh-pages@v4
+      - uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453 # v4.1.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs

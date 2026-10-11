@@ -1,84 +1,117 @@
 #!/usr/bin/env python3
+"""Rigenera i file derivati dei dati e lo specchio del sito, partendo da data/.
+
+Fonte unica: i sei file di categoria in data/ (sentieri, monumenti, spiagge, eventi,
+panorami, parchi). Da questi si ricostruiscono:
+
+  data/all.json                 le sei categorie, nello stesso ordine di sempre
+  data/awesome-salerno.geojson  un Point per ogni voce con lat e lng
+
+Con --docs, dopo, docs/data/ diventa uno specchio identico di data/ (e' quello che
+pubblica GitHub Pages). KML, KMZ, events.xml e data/rag/ li producono api/kml_export.py
+e scripts/build_rag.py: vanno lanciati prima di --docs, qui si copiano soltanto.
+
+Uso:
+    python3 scripts/export_data.py            # ricostruisce all.json e GeoJSON
+    python3 scripts/export_data.py --docs     # ... e rigenera docs/data/ da data/
+    python3 scripts/export_data.py --check    # non scrive: esce 1 se all.json/GeoJSON sono fuori sincrono
+    python3 scripts/export_data.py --check --docs   # ... e se docs/data/ differisce da data/
+
+Solo libreria standard. Non modifica mai i file di categoria.
 """
-Export POI data from salernos data files to awesome-salerno/data/ as JSON and CSV.
-"""
+import filecmp
 import json
-import csv
-import os
+import shutil
+import sys
 from pathlib import Path
 
-SOURCE = Path("/home/autcir/Work/er0s/web/src/entities/tenant/salernos/data")
-DEST = Path("/home/autcir/Work/awesome-salerno/data")
+ROOT = Path(__file__).resolve().parent.parent
+DATA = ROOT / "data"
+DOCS_DATA = ROOT / "docs" / "data"
+# ordine storico di all.json: lo leggono in quest'ordine anche i consumatori
+CATEGORIES = ["sentieri", "monumenti", "spiagge", "eventi", "panorami", "parchi"]
+# le stesse proprieta' (e lo stesso ordine) del GeoJSON pubblicato: provincia, sigla_provincia
+# e in_ambito ci sono dall'arricchimento ISTAT, il vecchio script inline le perdeva
+GEOJSON_PROPS = ["id", "nome", "descrizione", "zona", "citta", "quartiere", "provincia",
+                 "sigla_provincia", "in_ambito", "tipo", "link", "last_verified"]
+MAX_SHOWN = 10
 
-DEST.mkdir(exist_ok=True)
 
-def load_json(path):
-    with open(path, 'r', encoding='utf-8') as f:
-        return json.load(f)
+def render(obj):
+    return json.dumps(obj, ensure_ascii=False, indent=2) + "\n"
 
-def flatten_poi(poi, category):
-    """Flatten a POI dict to a simple format for awesome-salerno."""
-    rating = poi.get("rating") or {}
-    return {
-        "id": poi.get("id", ""),
-        "name": poi.get("title", ""),
-        "category": category,
-        "subcategory": poi.get("subcategory", ""),
-        "address": poi.get("address", ""),
-        "district": poi.get("district", ""),
-        "lat": poi.get("lat") or "",
-        "lng": poi.get("lng") or "",
-        "rating_score": rating.get("score") or "",
-        "rating_count": rating.get("count") or 0,
-        "description": poi.get("description", ""),
-        "source": poi.get("source", ""),
-    }
 
-def main():
-    all_pois = []
-    category_map = {
-        "mangiare.json": "food",
-        "luoghi.json": "attractions",
-        "dormire.json": "accommodation",
-        "spiagge.json": "beaches",
-    }
-    
-    for filename, category in category_map.items():
-        source_path = SOURCE / filename
-        if not source_path.exists():
-            print(f"  SKIP {filename}: not found")
-            continue
-        
-        data = load_json(source_path)
-        print(f"  {filename}: {len(data)} entries")
-        
-        # Save as JSON
-        dest_json = DEST / filename.replace(".json", ".json")
-        with open(dest_json, 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
-        print(f"    -> {dest_json}")
-        
-        # Flatten for CSV
-        for poi in data:
-            all_pois.append(flatten_poi(poi, category))
-    
-    # Save combined JSON
-    combined_path = DEST / "all-pois.json"
-    with open(combined_path, 'w', encoding='utf-8') as f:
-        json.dump(all_pois, f, indent=2, ensure_ascii=False)
-    print(f"\n  Combined: {len(all_pois)} POI -> {combined_path}")
-    
-    # Save combined CSV
-    csv_path = DEST / "all-pois.csv"
-    if all_pois:
-        fieldnames = all_pois[0].keys()
-        with open(csv_path, 'w', newline='', encoding='utf-8') as f:
-            writer = csv.DictWriter(f, fieldnames=fieldnames)
-            writer.writeheader()
-            writer.writerows(all_pois)
-        print(f"  CSV: {len(all_pois)} rows -> {csv_path}")
+def build_all():
+    return {c: json.loads((DATA / f"{c}.json").read_text(encoding="utf-8")) for c in CATEGORIES}
+
+
+def build_geojson(all_data):
+    features = []
+    for items in all_data.values():
+        for it in items:
+            if it.get("lat") and it.get("lng"):
+                features.append({
+                    "type": "Feature",
+                    "geometry": {"type": "Point", "coordinates": [it["lng"], it["lat"]]},
+                    "properties": {k: it.get(k) for k in GEOJSON_PROPS},
+                })
+    return {"type": "FeatureCollection", "features": features}
+
+
+def derived():
+    all_data = build_all()
+    return {"all.json": render(all_data), "awesome-salerno.geojson": render(build_geojson(all_data))}
+
+
+def mirror_diff():
+    """Differenze tra data/ e docs/data/: (mancanti, in piu', diversi)."""
+    src = {p.relative_to(DATA).as_posix() for p in DATA.rglob("*") if p.is_file()}
+    dst = {p.relative_to(DOCS_DATA).as_posix() for p in DOCS_DATA.rglob("*") if p.is_file()} \
+        if DOCS_DATA.exists() else set()
+    differ = sorted(n for n in src & dst if not filecmp.cmp(DATA / n, DOCS_DATA / n, shallow=False))
+    return sorted(src - dst), sorted(dst - src), differ
+
+
+def sync_docs():
+    if DOCS_DATA.exists():
+        shutil.rmtree(DOCS_DATA)
+    shutil.copytree(DATA, DOCS_DATA)
+
+
+def main(argv):
+    check, docs = "--check" in argv, "--docs" in argv
+    files = derived()
+    problems = []
+    for name, text in files.items():
+        path = DATA / name
+        if check:
+            if not path.exists() or path.read_text(encoding="utf-8") != text:
+                problems.append(f"data/{name} non coincide con i file di categoria: "
+                                "lancia python3 scripts/export_data.py")
+        elif not path.exists() or path.read_text(encoding="utf-8") != text:
+            path.write_text(text, encoding="utf-8")
+            print(f"riscritto data/{name}")
+        else:
+            print(f"data/{name} gia' aggiornato")
+    if docs:
+        if check:
+            missing, extra, differ = mirror_diff()
+            if missing or extra or differ:
+                shown = (missing + extra + differ)[:MAX_SHOWN]
+                problems.append(f"docs/data fuori sincrono da data/ (mancanti {len(missing)}, in piu' "
+                                f"{len(extra)}, diversi {len(differ)}; es. {shown}): "
+                                "lancia python3 scripts/export_data.py --docs")
+        else:
+            sync_docs()
+            print("docs/data rigenerato da data/")
+    if problems:
+        for p in problems:
+            print("ERRORE:", p, file=sys.stderr)
+        return 1
+    if check:
+        print("derivati" + (" e docs/data" if docs else "") + " aggiornati")
+    return 0
+
 
 if __name__ == "__main__":
-    print("Exporting POI data...")
-    main()
-    print("Done!")
+    sys.exit(main(sys.argv[1:]))
