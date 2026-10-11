@@ -20,7 +20,7 @@ jobs:
       contents: write   # committa e spinge il digest
     steps:
       # persist-credentials resta attivo: serve al `git push` di sotto (vedi .github/zizmor.yml)
-      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           fetch-depth: 0   # build_digest.py legge la storia per il changelog
 
