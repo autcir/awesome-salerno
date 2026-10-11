@@ -1,0 +1,493 @@
+{
+  "note": "Problemi gia' presenti, segnalati e non corretti. La CI blocca solo quelli nuovi (schema/quality-baseline.json). Rigenerato da scripts/validate_data.py --write-reports.",
+  "voci_totali": 5529,
+  "regole": {
+    "dup_nome_citta": {
+      "descrizione": "stessa coppia nome+citta' (senza maiuscole/spazi) su piu' voci",
+      "conteggio": 371,
+      "per_categoria": {
+        "eventi": 2,
+        "monumenti": 183,
+        "panorami": 52,
+        "sentieri": 96,
+        "spiagge": 38
+      },
+      "esempi": [
+        {
+          "id": "fiordo-di-furore",
+          "nome": "Fiordo di Furore"
+        },
+        {
+          "id": "madonna-del-carmelo-diffuso",
+          "nome": "Beata Vergine del Carmelo"
+        },
+        {
+          "id": "madonna-del-carmine-agropoli",
+          "nome": "Beata Vergine del Carmelo"
+        },
+        {
+          "id": "monumenti-108-caserma-del-gaudo-monte-polveracchio",
+          "nome": "108 Caserma del Gaudo-Monte Polveracchio"
+        },
+        {
+          "id": "monumenti-190-traversata-accellica-nord-sud-per-il-varco-del",
+          "nome": "190 Traversata Accellica Nord-Sud per il Varco del Paradiso"
+        },
+        {
+          "id": "monumenti-a-casarella-o-monte",
+          "nome": "'A casarella 'o monte"
+        },
+        {
+          "id": "monumenti-agnone-campania",
+          "nome": "Agnone( Campania)"
+        },
+        {
+          "id": "monumenti-alternative-to-325a",
+          "nome": "\"alternative to 325a\""
+        },
+        {
+          "id": "monumenti-anello-del-monte-panormo",
+          "nome": "Anello del Monte Panormo"
+        },
+        {
+          "id": "monumenti-antico-bagno-nettuno",
+          "nome": "Antico Bagno Nettuno"
+        },
+        {
+          "id": "monumenti-bagno-conte",
+          "nome": "Bagno Conte"
+        },
+        {
+          "id": "monumenti-bagno-elena",
+          "nome": "Bagno Elena"
+        },
+        {
+          "id": "monumenti-bikini-beach",
+          "nome": "Bikini beach"
+        },
+        {
+          "id": "monumenti-bird-watching-3",
+          "nome": "Bird-watching 3"
+        },
+        {
+          "id": "monumenti-bird-watching-4",
+          "nome": "Bird-watching 4"
+        },
+        {
+          "id": "monumenti-bird-watching-5",
+          "nome": "Bird-watching 5"
+        },
+        {
+          "id": "monumenti-bird-watching-6",
+          "nome": "Bird-watching 6"
+        },
+        {
+          "id": "monumenti-bird-watching-7",
+          "nome": "Bird-watching 7"
+        },
+        {
+          "id": "monumenti-bird-watching-8",
+          "nome": "Bird-watching 8"
+        },
+        {
+          "id": "monumenti-bosco-misto",
+          "nome": "Bosco Misto"
+        }
+      ]
+    },
+    "tipo_altro": {
+      "descrizione": "tipo \"altro\": voce non classificata",
+      "conteggio": 3116,
+      "per_categoria": {
+        "monumenti": 1901,
+        "parchi": 8,
+        "sentieri": 1207
+      },
+      "esempi": [
+        {
+          "id": "anello-tre-mulini",
+          "nome": "Anello dei Tre Mulini"
+        },
+        {
+          "id": "battentieri",
+          "nome": "Battentieri"
+        },
+        {
+          "id": "castel-terracena",
+          "nome": "Castel Terracena"
+        },
+        {
+          "id": "chiostro-paradiso",
+          "nome": "Chiostro del Paradiso"
+        },
+        {
+          "id": "cripta-san-matteo",
+          "nome": "Cripta di San Matteo"
+        },
+        {
+          "id": "fiordo-di-furore",
+          "nome": "Fiordo di Furore"
+        },
+        {
+          "id": "giro-del-golfo-salerno",
+          "nome": "Giro del Golfo di Salerno"
+        },
+        {
+          "id": "luci-dartista",
+          "nome": "Luci d'Artista"
+        },
+        {
+          "id": "monumenti-108-caserma-del-gaudo-monte-polveracchio",
+          "nome": "108 Caserma del Gaudo-Monte Polveracchio"
+        },
+        {
+          "id": "monumenti-a-casarella-o-monte",
+          "nome": "'A casarella 'o monte"
+        },
+        {
+          "id": "monumenti-a-devozione-di-padre-pio",
+          "nome": "A devozione di Padre Pio"
+        },
+        {
+          "id": "monumenti-a-perenne-ricordo-dei-militari-della-guardia-di-fi",
+          "nome": "A perenne ricordo dei militari della Guardia di Finanza in servizio e in congedo vittime dell'epidemia del Coronavirus"
+        },
+        {
+          "id": "monumenti-a-riggiulella",
+          "nome": "A Riggiulella"
+        },
+        {
+          "id": "monumenti-abitato-di-acropoli---edificio-arcaico",
+          "nome": "Abitato di acropoli - edificio arcaico"
+        },
+        {
+          "id": "monumenti-acqua-cantani",
+          "nome": "Acqua Cantani"
+        },
+        {
+          "id": "monumenti-acqua-dei-marinai",
+          "nome": "Acqua dei Marinai"
+        },
+        {
+          "id": "monumenti-acqua-dei-porci",
+          "nome": "Acqua dei porci"
+        },
+        {
+          "id": "monumenti-acqua-del-castagno",
+          "nome": "Acqua del Castagno"
+        },
+        {
+          "id": "monumenti-acqua-del-milo",
+          "nome": "Acqua Del Milo"
+        },
+        {
+          "id": "monumenti-acqua-del-sambuco",
+          "nome": "Acqua del Sambuco"
+        }
+      ]
+    },
+    "descr_tipo_osm": {
+      "descrizione": "descrizione con \"Tipo:\" (tag OSM grezzi finiti nel testo)",
+      "conteggio": 40,
+      "per_categoria": {
+        "monumenti": 40
+      },
+      "esempi": [
+        {
+          "id": "monumenti-antico-eremo-di-santa-caterina-in-tramonti",
+          "nome": "Antico Eremo di Santa Caterina in Tramonti"
+        },
+        {
+          "id": "monumenti-antico-ninfeo-di-pipiano",
+          "nome": "Antico Ninfeo di Pipiano"
+        },
+        {
+          "id": "monumenti-bottega-i812",
+          "nome": "Bottega (I.8.12)"
+        },
+        {
+          "id": "monumenti-casa-del-labirinto-vi119",
+          "nome": "Casa del Labirinto (VI.11.9)"
+        },
+        {
+          "id": "monumenti-casa-della-statuetta-indiana-i85",
+          "nome": "Casa della Statuetta Indiana (I.8.5)"
+        },
+        {
+          "id": "monumenti-casa-di-aniceto-i323",
+          "nome": "Casa di Aniceto (I.3.23)"
+        },
+        {
+          "id": "monumenti-casa-di-epidius-primus-i814",
+          "nome": "Casa di Epidius Primus (I.8.14)"
+        },
+        {
+          "id": "monumenti-caupona-di-lucius-betutius-placidus-i88",
+          "nome": "Caupona di Lucius Betutius Placidus (I.8.8)"
+        },
+        {
+          "id": "monumenti-caupona-e-officina-di-fufidius-successus-i815",
+          "nome": "Caupona e officina di Fufidius Successus (I.8.15)"
+        },
+        {
+          "id": "monumenti-collegiata-smaria-maggiore",
+          "nome": "Collegiata S.Maria Maggiore"
+        },
+        {
+          "id": "monumenti-colonia-montana",
+          "nome": "Colonia Montana"
+        },
+        {
+          "id": "monumenti-complesso-conventuale-di-san-giovanni-in-parco",
+          "nome": "Complesso conventuale di San Giovanni in Parco"
+        },
+        {
+          "id": "monumenti-edificio-di-eumachia-vii91",
+          "nome": "Edificio di Eumachia (VII.9.1)"
+        },
+        {
+          "id": "monumenti-fornace-cd-del-mingazzini",
+          "nome": "Fornace cd. del Mingazzini"
+        },
+        {
+          "id": "monumenti-gazebo-ottagonale-neo-gotico",
+          "nome": "Gazebo ottagonale, neo gotico"
+        },
+        {
+          "id": "monumenti-hospitium-dei-pulcinella-i810",
+          "nome": "Hospitium dei Pulcinella (I.8.10)"
+        },
+        {
+          "id": "monumenti-officina-di-a-granius-romanus-i813",
+          "nome": "Officina di A. Granius romanus (I.8.13)"
+        },
+        {
+          "id": "monumenti-officina-tinctoria-di-terentius-i819",
+          "nome": "Officina tinctoria di Terentius (I.8.19)"
+        },
+        {
+          "id": "monumenti-residenza-baronale",
+          "nome": "Residenza Baronale"
+        },
+        {
+          "id": "monumenti-san-raffaele-arcangelo",
+          "nome": "San Raffaele Arcangelo"
+        }
+      ]
+    },
+    "descr_tedesca": {
+      "descrizione": "descrizione (in parte) in tedesco",
+      "conteggio": 6,
+      "per_categoria": {
+        "monumenti": 6
+      },
+      "esempi": [
+        {
+          "id": "monumenti-ruine-der-alten-mühle-von-molina-papiermühle",
+          "nome": "Ruine der alten Mühle von Molina (Papiermühle?)"
+        },
+        {
+          "id": "monumenti-städtische-ruinen",
+          "nome": "Städtische Ruinen"
+        },
+        {
+          "id": "monumenti-säulengang-zw-den-villen",
+          "nome": "Säulengang zw. den Villen"
+        },
+        {
+          "id": "monumenti-villa-del-fauno",
+          "nome": "Villa del Fauno"
+        },
+        {
+          "id": "monumenti-villa-del-filosofo",
+          "nome": "Villa del Filosofo"
+        },
+        {
+          "id": "monumenti-villa-del-pastore---79-ad",
+          "nome": "Villa del Pastore - 79 A.D."
+        }
+      ]
+    },
+    "nome_virgolette": {
+      "descrizione": "nome con virgolette doppie",
+      "conteggio": 35,
+      "per_categoria": {
+        "monumenti": 24,
+        "panorami": 1,
+        "sentieri": 10
+      },
+      "esempi": [
+        {
+          "id": "monumenti-alternative-to-325a",
+          "nome": "\"alternative to 325a\""
+        },
+        {
+          "id": "monumenti-aulivara",
+          "nome": "\"Aulivara\""
+        },
+        {
+          "id": "monumenti-cappella-diruta-del-salvatore",
+          "nome": "Cappella Diruta \"del Salvatore\""
+        },
+        {
+          "id": "monumenti-chiesa-san-felice-martire",
+          "nome": "Chiesa \"San Felice Martire\""
+        },
+        {
+          "id": "monumenti-custode-della-montagna-scintilla",
+          "nome": "custode della montagna \"scintilla\""
+        },
+        {
+          "id": "monumenti-il-seggio",
+          "nome": "Il \"Seggio\""
+        },
+        {
+          "id": "monumenti-lavatoio-fontana",
+          "nome": "Lavatoio \"Fontana\""
+        },
+        {
+          "id": "monumenti-o-pass-é-catiello",
+          "nome": "\"o' pass é Catiello\""
+        },
+        {
+          "id": "monumenti-rudere-paluorcio",
+          "nome": "Rudere \"Paluorcio\""
+        },
+        {
+          "id": "monumenti-salita-degli-scaloni---agropoli",
+          "nome": "Salita degli \"Scaloni\" - Agropoli"
+        },
+        {
+          "id": "monumenti-santuario-santa-domenica",
+          "nome": "Santuario \"Santa Domenica\""
+        },
+        {
+          "id": "monumenti-santuario-santi-cosma-e-damiano",
+          "nome": "Santuario \"Santi Cosma E Damiano\""
+        },
+        {
+          "id": "monumenti-zona-archeologica-tempa-della-guardia",
+          "nome": "Zona Archeologica \"Tempa della Guardia\""
+        },
+        {
+          "id": "monumenti-ò-mancino",
+          "nome": "\"ò' mancino\""
+        },
+        {
+          "id": "osm-10316214463",
+          "nome": "\"Totem X\""
+        },
+        {
+          "id": "osm-12108668255",
+          "nome": "Grotta “la Polverosa”"
+        },
+        {
+          "id": "osm-1235511887",
+          "nome": "Passeggiata \"Porta del Mare\""
+        },
+        {
+          "id": "osm-147057897",
+          "nome": "Sentiero \"Antica Olearola\""
+        },
+        {
+          "id": "osm-2513755031",
+          "nome": "\"PB\""
+        },
+        {
+          "id": "osm-3726125820",
+          "nome": "Cascate \"U Vértòné\""
+        }
+      ]
+    },
+    "descr_oltre_200": {
+      "descrizione": "descrizione oltre 200 caratteri (regola di CONTRIBUTING.md)",
+      "conteggio": 28,
+      "per_categoria": {
+        "eventi": 4,
+        "monumenti": 24
+      },
+      "esempi": [
+        {
+          "id": "cala-degli-infreschi",
+          "nome": "Cala degli Infreschi"
+        },
+        {
+          "id": "fiordo-di-furore",
+          "nome": "Fiordo di Furore"
+        },
+        {
+          "id": "madonna-che-viene-dal-mare",
+          "nome": "Madonna che viene dal Mare"
+        },
+        {
+          "id": "monumenti-antico-eremo-di-santa-caterina-in-tramonti",
+          "nome": "Antico Eremo di Santa Caterina in Tramonti"
+        },
+        {
+          "id": "monumenti-cappella-della-madonna-di-grienzi",
+          "nome": "Cappella della Madonna di Grienzi"
+        },
+        {
+          "id": "monumenti-cappella-di-santa-maria-del-pino",
+          "nome": "Cappella di Santa Maria del Pino"
+        },
+        {
+          "id": "monumenti-cappella-di-santa-rosa",
+          "nome": "Cappella di Santa Rosa"
+        },
+        {
+          "id": "monumenti-casa-di-aniceto-i323",
+          "nome": "Casa di Aniceto (I.3.23)"
+        },
+        {
+          "id": "monumenti-chiesa-di-san-francesco-e-madonna-di-loreto",
+          "nome": "Chiesa di San Francesco e Madonna di Loreto"
+        },
+        {
+          "id": "monumenti-chiesa-di-santa-maria-della-misericordia",
+          "nome": "Chiesa di Santa Maria della Misericordia"
+        },
+        {
+          "id": "monumenti-chiesa-santa-maria-dei-serroni",
+          "nome": "Chiesa Santa Maria dei Serroni"
+        },
+        {
+          "id": "monumenti-congrega-della-santissima-annunziata",
+          "nome": "Congrega della Santissima Annunziata"
+        },
+        {
+          "id": "monumenti-fornace-cd-del-mingazzini",
+          "nome": "Fornace cd. del Mingazzini"
+        },
+        {
+          "id": "monumenti-residenza-baronale",
+          "nome": "Residenza Baronale"
+        },
+        {
+          "id": "monumenti-san-martino---chiesa-del-cimitero",
+          "nome": "San Martino - Chiesa del Cimitero"
+        },
+        {
+          "id": "monumenti-targa-commemorativa-mons-michele-massa",
+          "nome": "Targa commemorativa Mons. Michele Massa"
+        },
+        {
+          "id": "osm-477264804",
+          "nome": "Chiesa Santa Maria degli Angeli"
+        },
+        {
+          "id": "sagra-ciccimmaretati-stio",
+          "nome": "Sagra dei Ciccimmaretati"
+        },
+        {
+          "id": "sagra-fusillo-felitto",
+          "nome": "Sagra del Fusillo Felittese"
+        },
+        {
+          "id": "sagra-mozzarella-novi-velia",
+          "nome": "Sagra della Mozzarella ind'a Murtedda"
+        }
+      ]
+    }
+  }
+}
