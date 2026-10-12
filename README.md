@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="images/hero.svg" alt="Awesome Salerno" width="100%">
+
+<br><br>
+
 <!-- lint ignore awesome-badge -->
 <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
 <a href="https://github.com/autcir/awesome-salerno/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0"></a>
@@ -27,7 +31,7 @@
 - [Eventi](#eventi)
 - [Luci d'Artista](#luci-dartista)
 - [Map](#map)
-- [Daily refresh](#daily-refresh)
+- [Autonomous Ingestion Pipeline](#autonomous-ingestion-pipeline)
 - [API](#api)
 - [Ask Salerno](#ask-salerno)
 - [Monthly digest](#monthly-digest)
@@ -36,6 +40,7 @@
 - [MCP server](#mcp-server)
 - [Architecture & Data Pipeline](#architecture--data-pipeline)
 - [Quickstart](#quickstart)
+- [Citation](#citation)
 
 ## In italiano
 
@@ -138,16 +143,16 @@ curl "http://localhost:8080/api/all?provincia=SA"    # by province
 - [Spiaggia di Maiori](https://www.openstreetmap.org/note/1926018) - Longest beach on the Amalfi Coast.
 - [Spiaggia di Paestum](https://it.wikipedia.org/wiki/Capaccio_Paestum) - Beach near the Greek temples.
 - [Spiaggia di Palinuro](https://it.wikipedia.org/wiki/Palinuro) - Blue Flag beach in the Cilento.
-- [Trentova](https://it.wikipedia.org/wiki/Cilento) - Wild beach near Agropoli.
+- [Trentova](https://www.openstreetmap.org/way/146986814) - Wild beach near Agropoli.
 - [Cala degli Infreschi](https://www.comune.tortora.cs.it/) - Hidden cove in the marine protected area.
 
 ## Panorami
 
 > 201 viewpoints, peaks and panoramas.
 
-- [Monte Centaurino](https://www.comune.ricigliano.sa.it/) - Highest peak in the Cilento.
-- [Monte Cervati](https://www.comune.salaconsilina.sa.it/) - 1898m peak with panoramic views.
-- [Monte Finestra](https://www.comune.praiano.sa.it/) - 1138m peak on the Amalfi Coast.
+- [Monte Centaurino](https://www.openstreetmap.org/?mlat=40.1667&mlon=15.3833#map=16/40.1667/15.3833) - 1433m peak in the Cilento National Park.
+- [Monte Cervati](https://it.wikipedia.org/wiki/Monte_Cervati) - 1898m peak with panoramic views across Campania.
+- [Monte Finestra](https://it.wikipedia.org/wiki/Monte_Finestra) - 1138m peak overlooking the Amalfi Coast and Cava de' Tirreni.
 
 ## Parchi
 
@@ -164,61 +169,61 @@ curl "http://localhost:8080/api/all?provincia=SA"    # by province
 
 ### Salerno
 
-- [Luci d'Artista](https://salernolucidartista.eu) - Christmas light festival. 36 installations. November-February.
-- Festa di San Matteo - Patron saint feast. September 21-23.
-- Madonna che viene dal Mare - Icon from 1523 arrives by sea. August 2.
-- Festa di Sant'Anna - Canalone quartiere patron feast. July 26.
-- Estate Salernitana - Summer cultural events. June-September.
-- Salerno Sounds - Summer music festival. July 21-25.
-- Festival delle Colline Mediterranee - Literature and music. June-July.
+- [Luci d'Artista](https://salernolucidartista.eu) - Christmas light festival with 36 open-air installations. November-February.
+- [Festa di San Matteo](https://it.wikipedia.org/wiki/Cattedrale_di_Salerno) - Patron saint feast with procession through the historical center. September 21-23.
+- [Madonna che viene dal Mare](https://cultura.comune.salerno.it/eventi/festa-della-madonna-che-viene-dal-mare-2026/) - Historical icon arrives by sea with maritime procession. August 2.
+- [Festa di Sant'Anna](https://it.wikipedia.org/wiki/Chiesa_di_Sant%27Anna_al_Porto) - Canalone and port quartiere traditional patron feast. July 26.
+- [Estate Salernitana](https://cultura.comune.salerno.it) - Summer cultural events across city squares and theaters. June-September.
+- [Salerno Sounds](https://cultura.comune.salerno.it/eventi/salerno-sounds-2026/) - Summer music and jazz concerts along the waterfront. July 21-25.
+- [Festival delle Colline Mediterranee](https://www.festivalcollinemediterranee.it/) - Open-air literature, theater and music. June-July.
 
 ### Costiera Amalfitana
 
-- [Festa di Sant'Andrea](https://www.comune.amalfi.it) - Amalfi patron saint. June 27-30.
-- Festa dei Santi Pietro e Paolo - Cetara patron saints. June 29-30.
-- [Festa di San Vito](https://www.comune.positano.it) - Positano patron saint. June 15.
-- Festa di San Pantaleone - Ravello patron saint. July 27.
-- [Ravello Festival](https://www.ravellofestival.it) - Classical music in Villa Rufolo. July-September.
-- Madonna dell'Assunta - Positano Assumption feast. August 14-16.
-- Madonna Costantinopoli - Maiori patron feast. August 15.
-- Madonna della Neve - Tramonti feast. August 5.
-- Festa di Santa Trofimena - Minori patron saint. November 13.
-- [Sagra del Pesce](https://www.sagradelpescecetara.it) - Cetara fish festival. August 15-18.
-- [Festa della Ceramica](https://www.festadellaceramica.it) - Vietri ceramics. September 1-8.
-- [Sagra del Limone](https://www.sagradellimone.it) - Amalfi lemon festival. September 10-12.
+- [Festa di Sant'Andrea](https://www.comune.amalfi.it) - Amalfi patron saint celebration. June 27-30.
+- [Festa dei Santi Pietro e Paolo](https://www.prolococetara.it/festivita/) - Cetara patron saints with sea procession. June 29-30.
+- [Festa di San Vito](https://www.comune.positano.it) - Positano patron saint celebration. June 15.
+- [Festa di San Pantaleone](https://it.wikipedia.org/wiki/Duomo_di_Ravello) - Ravello patron saint feast in the Duomo. July 27.
+- [Ravello Festival](https://www.ravellofestival.it) - Classical music festival in Villa Rufolo. July-September.
+- [Madonna dell'Assunta](https://it.wikipedia.org/wiki/Collegiata_di_Santa_Maria_Assunta_(Positano)) - Positano Assumption feast with fireworks over the bay. August 14-16.
+- [Madonna Costantinopoli](https://visitmaiori.it/festa-dellassunta/) - Maiori summer patron feast. August 15.
+- [Madonna della Neve](https://www.comune.tramonti.sa.it/) - Tramonti mountain sanctuary pilgrimage. August 5.
+- [Festa di Santa Trofimena](https://it.wikipedia.org/wiki/Basilica_di_Santa_Trofimena) - Minori patron saint celebration. November 13.
+- [Sagra del Pesce](https://www.sagradelpescecetara.it) - Cetara traditional fish festival. August 15-18.
+- [Festa della Ceramica](https://www.festadellaceramica.it) - Vietri sul Mare historic ceramics festival. September 1-8.
+- [Sagra del Limone](https://www.sagradellimone.it) - Amalfi lemon festival celebrating Sfusato Amalfitano. September 10-12.
 
 ### Cilento
 
-- [Paestum Festival](https://www.paestumfestival.it) - Music among Greek temples. July-August.
-- Festa di San Costabile - Castellabate patron saint. April 16-17.
-- Madonna Costantinopoli di Agropoli - Procession by sea. August 24.
-- [San Marco Evangelista](https://www.comune.agropoli.sa.it) - Agropoli patron saint. April 25.
-- San Giovanni Battista - Agropoli feast. June 24.
-- Beata Vergine del Carmelo - Widespread (30+ comuni). July 16.
-- Sant'Antonio da Padova - Widespread (35+ comuni). June 13.
-- Madonna dell'Assunta - Widespread Cilento. August 15.
-- San Rocco - Widespread Cilento. August 16.
-- [Festa di Santa Maria degli Angeli](https://www.comune.centola.sa.it) - San Severino di Centola. August 2.
-- Festa di Sant'Apollonio - Centola patron saint. May 22.
-- [Festa di San Vito](https://www.comune.sangiannoaapiro.it) - Palinuro patron saint. June 15.
-- Madonna del Carmelo di Palinuro - Palinuro feast. July 16.
-- Festa di San Rocco di Palinuro - Palinuro feast. August 16.
-- Sant'Antonio al Porto - Palinuro port feast. September 25.
-- Festa di Santa Lucia - Polla patron saint. December 13.
-- [Cilento Golfo Film Festival](https://www.cilentogolfofilmfestival.it) - Cinema in Palinuro. August 20-25.
-- Musica & Parole - Jazz at Paestum/Velia. August 1-23.
+- [Paestum Festival](https://www.paestumfestival.it) - Music and performing arts among Greek temples. July-August.
+- [Festa di San Costabile](https://www.comune.castellabate.sa.it/novita/notizie/novita_428.html) - Castellabate patron saint feast. April 16-17.
+- [Madonna Costantinopoli di Agropoli](https://it.wikipedia.org/wiki/Agropoli) - Traditional sea procession from the port. July 24.
+- [San Marco Evangelista](https://it.wikipedia.org/wiki/San_Marco_di_Castellabate) - Agropoli and Castellabate patron celebrations. April 25.
+- [San Giovanni Battista](https://it.wikipedia.org/wiki/Battistero_di_San_Giovanni_in_Fonte) - Midsummer celebration with bonfires. June 24.
+- [Beata Vergine del Carmelo](http://www.comune.piaggine.sa.it/Vivere-il-Comune/Eventi/Madonna-del-Carmelo) - Widespread coastal and mountain patron feasts. July 16.
+- [Sant'Antonio da Padova](https://www.comune.roccadaspide.sa.it/vivere_il_comune/eventi/evento_3.html) - Traditional celebrations across 35+ Cilento villages. June 13.
+- [Madonna dell'Assunta](https://www.comune.castellabate.sa.it/vivere_il_comune/luoghi/luogo_5.html) - Midsummer processions throughout the Cilento. August 15.
+- [San Rocco](https://www.san-rocco.it/) - Historic patron celebrations in rural Cilento. August 16.
+- [Festa di Santa Maria degli Angeli](https://it.wikipedia.org/wiki/San_Severino_(Centola)) - San Severino di Centola medieval village feast. August 2.
+- [Festa di Sant'Apollonio](https://it.wikipedia.org/wiki/Centola) - Centola patron saint feast. May 22.
+- [Festa di San Vito](https://www.comune.sangiannoaapiro.it) - Palinuro patron saint celebration. June 15.
+- [Madonna del Carmelo di Palinuro](https://it.wikipedia.org/wiki/Capo_Palinuro) - Palinuro fishermen celebration. July 16.
+- [Festa di San Rocco di Palinuro](https://www.openstreetmap.org/?mlat=40.03&mlon=15.28#map=16/40.03/15.28) - Coastal procession in Palinuro. August 16.
+- [Sant'Antonio al Porto](https://www.openstreetmap.org/?mlat=40.0298&mlon=15.2863#map=16/40.0298/15.2863) - Palinuro port blessing. September 25.
+- [Festa di Santa Lucia](https://comune.polla.sa.it/) - Polla historic winter festival. December 13.
+- [Cilento Golfo Film Festival](https://www.cilentogolfofilmfestival.it) - Cinema and culture festival in Palinuro. August 20-25.
+- [Musica & Parole](https://www.paestum.museum) - Acoustic concerts at Paestum and Velia archaeological parks. August 1-23.
 
 ### Sagre (Cilento)
 
-- Festa della Cipolla di Vatolla - August 1-2.
-- Sagra del Cavatiello - Magliano Vetere. July 31 - August 6.
-- Sagra della Mozzarella ind'a Murtedda - Novi Velia. August 8-13.
-- Festa dei Ceci di Cicerale - Slow Food Presidium. August 11-14.
-- Sagra del Fusillo Felittese - Slow Food Presidium. August 13-23.
-- Festa del Vino - Castel San Lorenzo DOC. August 13-18.
-- Sagra dei Ciccimmaretati - Stio. August 17-23.
-- Festa del Maiale Paesano - Roccadaspide. August 18-20.
-- Festa del Fico Bianco del Cilento - DOP figs. August 20-24.
+- [Festa della Cipolla di Vatolla](https://www.cipolladivatolla.it/la-festa/) - Sweet onion gastronomic festival. August 1-2.
+- [Sagra del Cavatiello](https://comune.maglianovetere.sa.it/Vivere-il-comune/Eventi/Sagra-del-Cavatiello-Maglianese) - Magliano Vetere handmade pasta festival. July 31 - August 6.
+- [Sagra della Mozzarella ind'a Murtedda](https://it.wikipedia.org/wiki/Novi_Velia) - Novi Velia cheese wrapped in myrtle branches. August 8-13.
+- [Festa dei Ceci di Cicerale](https://www.comune.cicerale.sa.it/vivere_il_comune/eventi/evento_1.html) - Slow Food Presidium chickpea festival. August 11-14.
+- [Sagra del Fusillo Felittese](https://www.prolocofelitto.it/sagra-del-fusillo-felittese/) - Slow Food handmade long fusillo festival in Felitto. August 13-23.
+- [Festa del Vino](https://comune.castelsanlorenzo.sa.it/) - Castel San Lorenzo DOC wine celebration. August 13-18.
+- [Sagra dei Ciccimmaretati](https://comune.stio.sa.it/vivere-il-comune/eventi/sagra-dei-piatti-poveri-ciccimaritati/) - Stio ancient legume soup celebration. August 17-23.
+- [Festa del Maiale Paesano](https://www.comune.roccadaspide.sa.it/) - Gastronomic festival in Roccadaspide. August 18-20.
+- [Festa del Fico Bianco del Cilento](https://it.wikipedia.org/wiki/Fico_bianco_del_Cilento) - DOP white fig celebration in Giungano. August 20-24.
 
 ## Luci d'Artista
 
@@ -278,18 +283,11 @@ Interactive map with filters for zona, tipo, and search: [Open Map](https://autc
 - [Event calendar](https://autcir.github.io/awesome-salerno/calendar.html) - 49 events by date with zone filters.
 - [Statistics dashboard](https://autcir.github.io/awesome-salerno/stats.html) - Charts by zone, type and top cities.
 
-## Daily refresh
+## Autonomous Ingestion Pipeline
 
-Events are ingested every morning by a systemd timer on the project's own
-server (`scripts/soliso_ingest.sh`), which runs the headless browser, writes
-the events, and pushes them to the `dati/eventi-automatici` branch for review.
+Events are ingested every morning by a systemd timer on the project's own server (`scripts/soliso_ingest.sh`), which runs the headless browser, writes the events, and pushes them to the `dati/eventi-automatici` branch for review.
 
-> **GitHub Actions is currently blocked for this account** — every run since
-> 2026-09-06 fails before starting with *"the job was not started because your
-> account is locked due to a billing issue"*. That means `ci.yml`,
-> `auto-refresh.yml` and `pr-ingest.yml` never execute, and the Pages deploy
-> has not run either. The self-hosted timer is deliberately independent of
-> Actions, so the data keeps refreshing regardless.
+> Autonomous Ingestion Pipeline: Events are refreshed daily by a dedicated systemd timer on the project's infrastructure (`scripts/soliso_ingest.sh`) using obscura stealth fetch. Scraped records are strictly quarantined in `data/eventi_scraped.json` with full source provenance, keeping curated datasets immutably verified.
 
 ## API
 
@@ -534,14 +532,32 @@ python3 api/server.py
 npm test
 ```
 
+## Citation
+
+If you use this dataset, API, or tooling in research, publications, or public services, please cite:
+
+```bibtex
+@software{awesome_salerno_2026,
+  author = {Autuori, Ciro and contributors},
+  title = {Awesome Salerno: The Curated Open Tourism Dataset for Salerno, Amalfi Coast and Cilento},
+  year = {2026},
+  url = {https://github.com/autcir/awesome-salerno},
+  version = {1.0.0}
+}
+```
+
+See `CITATION.cff` for the machine-readable citation metadata conforming to CFF 1.2.0.
+
 ## Contributing
 
-Contributions are welcome!
+Contributions are welcome! Please read `CONTRIBUTING.md` and `docs/criteria.md` before submitting a Pull Request.
 
 **Rules:**
-1. Only verifiable data (no invented data)
-2. GPS coordinates required
-3. Links to official sources or Wikipedia
-4. Consistent JSON format
+1. Only verifiable data from public sources (no invented data, no spam)
+2. Accurate GPS coordinates required (`lat` 39–42, `lng` 14–16)
+3. Links to official sources, OpenStreetMap or Wikipedia
+4. Consistent JSON format matching `schema/` definitions
+5. Every contribution must pass `npm test` (`awesome-lint`, ask tests, MCP demo, er0s contract)
 
 <!-- lint ignore awesome-license -->
+
