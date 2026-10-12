@@ -14,7 +14,8 @@
     "provincia": "Cosenza",
     "sigla_provincia": "CS",
     "regione": "Calabria",
-    "in_ambito": false
+    "in_ambito": false,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Spiagga Licinella",
@@ -31,7 +32,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Fiordo di Furore",
@@ -48,7 +50,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Marina di Vico",
@@ -65,7 +68,8 @@
     "provincia": "Napoli",
     "sigla_provincia": "NA",
     "regione": "Campania",
-    "in_ambito": false
+    "in_ambito": false,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Agnone( Campania)",
@@ -82,7 +86,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Sunset Beach Club Palinuro",
@@ -99,7 +104,8 @@
     "provincia": "Cosenza",
     "sigla_provincia": "CS",
     "regione": "Calabria",
-    "in_ambito": false
+    "in_ambito": false,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Gavitella beach",
@@ -116,7 +122,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "nome": "La Molpa",
@@ -133,7 +140,8 @@
     "provincia": "Cosenza",
     "sigla_provincia": "CS",
     "regione": "Calabria",
-    "in_ambito": false
+    "in_ambito": false,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Garden Beach",
@@ -150,7 +158,8 @@
     "provincia": "Napoli",
     "sigla_provincia": "NA",
     "regione": "Campania",
-    "in_ambito": false
+    "in_ambito": false,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Bagno Elena",
@@ -167,7 +176,8 @@
     "provincia": "Napoli",
     "sigla_provincia": "NA",
     "regione": "Campania",
-    "in_ambito": false
+    "in_ambito": false,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Bagno Conte",
@@ -184,7 +194,8 @@
     "provincia": "Napoli",
     "sigla_provincia": "NA",
     "regione": "Campania",
-    "in_ambito": false
+    "in_ambito": false,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Lido Moderno",
@@ -201,7 +212,8 @@
     "provincia": "Napoli",
     "sigla_provincia": "NA",
     "regione": "Campania",
-    "in_ambito": false
+    "in_ambito": false,
+    "link_type": "osm_generated"
   },
   {
     "nome": "La Palombara",
@@ -218,7 +230,8 @@
     "provincia": "Napoli",
     "sigla_provincia": "NA",
     "regione": "Campania",
-    "in_ambito": false
+    "in_ambito": false,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Spiagia della Sciabichedda",
@@ -235,7 +248,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Le 7 Scogliere di Rovigliano",
@@ -252,7 +266,8 @@
     "provincia": "Napoli",
     "sigla_provincia": "NA",
     "regione": "Campania",
-    "in_ambito": false
+    "in_ambito": false,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Lido Nettuno",
@@ -269,7 +284,8 @@
     "provincia": "Napoli",
     "sigla_provincia": "NA",
     "regione": "Campania",
-    "in_ambito": false
+    "in_ambito": false,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Lido Rinascenza",
@@ -286,7 +302,8 @@
     "provincia": "Napoli",
     "sigla_provincia": "NA",
     "regione": "Campania",
-    "in_ambito": false
+    "in_ambito": false,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Lido Eldorado",
@@ -303,7 +320,8 @@
     "provincia": "Napoli",
     "sigla_provincia": "NA",
     "regione": "Campania",
-    "in_ambito": false
+    "in_ambito": false,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Lido Risorgimento",
@@ -320,7 +338,8 @@
     "provincia": "Napoli",
     "sigla_provincia": "NA",
     "regione": "Campania",
-    "in_ambito": false
+    "in_ambito": false,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Marina del Sole",
@@ -337,7 +356,8 @@
     "provincia": "Napoli",
     "sigla_provincia": "NA",
     "regione": "Campania",
-    "in_ambito": false
+    "in_ambito": false,
+    "link_type": "osm_generated"
   },
   {
     "nome": "San Pietro",
@@ -354,7 +374,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Lido Azzurro",
@@ -367,11 +388,14 @@
     "zona": "salerno",
     "tipo": "spiaggia",
     "citta": "Torre Annunziata",
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Napoli",
     "sigla_provincia": "NA",
     "regione": "Campania",
-    "in_ambito": false
+    "in_ambito": false,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "nome": "Spiaggie Gemelle",
@@ -388,7 +412,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Spiagge Gemelle",
@@ -405,7 +430,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Lo Scaricatore",
@@ -422,7 +448,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Antico Bagno Nettuno",
@@ -439,7 +466,8 @@
     "provincia": "Napoli",
     "sigla_provincia": "NA",
     "regione": "Campania",
-    "in_ambito": false
+    "in_ambito": false,
+    "link_type": "osm_generated"
   },
   {
     "nome": "La spiaggetta",
@@ -456,7 +484,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Spiaggia degli Iscolelli",
@@ -473,7 +502,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Lido Scaramella beach",
@@ -491,7 +521,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Spiagga Licina",
@@ -508,7 +539,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Torretta 23",
@@ -525,7 +557,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Lido Tirreno",
@@ -542,7 +575,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Club Michele",
@@ -559,7 +593,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Bikini beach",
@@ -576,7 +611,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Playa porlamar",
@@ -593,7 +629,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "nome": "La Pagliarella",
@@ -610,7 +647,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Lido La Conchiglia",
@@ -628,7 +666,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Lido Night & Day",
@@ -645,7 +684,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Lido Mojito Beach",
@@ -662,7 +702,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-10015833082",
@@ -681,7 +722,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-146704448",
@@ -700,7 +742,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-146704452",
@@ -719,7 +762,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-146986661",
@@ -738,7 +782,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-146986814",
@@ -757,7 +802,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-146987650",
@@ -776,7 +822,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-147038883",
@@ -795,7 +842,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-147038884",
@@ -814,7 +862,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-147038889",
@@ -833,7 +882,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-147038890",
@@ -852,7 +902,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-147038891",
@@ -871,7 +922,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-147039294",
@@ -890,7 +942,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-147039296",
@@ -909,7 +962,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-147039298",
@@ -928,7 +982,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-147039301",
@@ -947,7 +1002,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-147039314",
@@ -966,7 +1022,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-162834577",
@@ -985,7 +1042,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-162834579",
@@ -1004,7 +1062,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-162834653",
@@ -1023,7 +1082,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-162834654",
@@ -1042,7 +1102,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-191229148",
@@ -1061,7 +1122,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-191229151",
@@ -1080,7 +1142,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-191230547",
@@ -1099,7 +1162,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-191230551",
@@ -1118,7 +1182,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-191233419",
@@ -1137,7 +1202,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-191233421",
@@ -1156,7 +1222,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-191233425",
@@ -1175,7 +1242,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-191233427",
@@ -1194,7 +1262,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-191233431",
@@ -1213,7 +1282,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-191233432",
@@ -1232,7 +1302,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-191234130",
@@ -1251,7 +1322,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-191235879",
@@ -1270,7 +1342,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-398174788",
@@ -1289,7 +1362,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-815827728",
@@ -1308,7 +1382,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-1280967130",
@@ -1327,7 +1402,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-1280967131",
@@ -1346,7 +1422,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-1280967132",
@@ -1365,7 +1442,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-1280967133",
@@ -1384,7 +1462,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-1366488651",
@@ -1403,6 +1482,7 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   }
 ]

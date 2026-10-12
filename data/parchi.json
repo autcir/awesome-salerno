@@ -20,7 +20,10 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated",
+    "link_rotto_checked": "2026-10-12",
+    "link_rotto_status": "dns"
   },
   {
     "nome": "Parco Naturale delle Ferriere",
@@ -43,7 +46,10 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated",
+    "link_rotto_checked": "2026-10-12",
+    "link_rotto_status": "dns"
   },
   {
     "nome": "Riserva Naturale Costiera Amalfitana",
@@ -66,7 +72,10 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated",
+    "link_rotto_checked": "2026-10-12",
+    "link_rotto_status": "dns"
   },
   {
     "nome": "Area Marina Protetta Costa degli Infreschi e della Masseta",
@@ -89,7 +98,10 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated",
+    "link_rotto_checked": "2026-10-12",
+    "link_rotto_status": "dns"
   },
   {
     "nome": "Tenuta Castelluccio Gole del Cervati",
@@ -111,7 +123,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Area Marina Protetta Punta Campanella",
@@ -133,7 +146,8 @@
     "provincia": "Napoli",
     "sigla_provincia": "NA",
     "regione": "Campania",
-    "in_ambito": false
+    "in_ambito": false,
+    "link_type": "osm_generated"
   },
   {
     "nome": "Area Marina Protetta Santa Maria di Castellabate",
@@ -155,7 +169,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-93496743",
@@ -174,7 +189,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-116820888",
@@ -193,7 +209,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-1330860923",
@@ -212,7 +229,8 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   },
   {
     "id": "osm-4100859",
@@ -227,11 +245,14 @@
     "zona": "cilento",
     "tipo": "archeologico",
     "citta": "Gioi",
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "osm-4671891",
@@ -250,6 +271,7 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated"
   }
 ]

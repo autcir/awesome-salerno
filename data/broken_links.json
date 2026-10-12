@@ -1,6 +1,28 @@
 {
-  "checked_at": "2026-10-05T14:10:45",
-  "checked": 0,
-  "fixed": 0,
-  "broken": []
+  "checked_at": "2026-10-12T15:21:47",
+  "checked": 383,
+  "fixed": 5,
+  "blocked": 5,
+  "alive_again": 4,
+  "broken": [
+    {
+      "url": "https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/",
+      "error": "dns",
+      "pois": [
+        "sentieri-cammino-di-san-nilo-tappa-6-295",
+        "sentieri-cammino-di-san-nilo-tappa-5-296",
+        "sentieri-cammino-di-san-nilo-tappa-8-297",
+        "sentieri-cammino-di-san-nilo-tappa-7-298"
+      ],
+      "fixed_with": "openstreetmap"
+    },
+    {
+      "url": "https://www.artproject.it/santa_teresa/index.html",
+      "error": "404",
+      "pois": [
+        "monumenti-congregazione-religiosa-delle-ancelle-di-santa-ter"
+      ],
+      "fixed_with": "openstreetmap"
+    }
+  ]
 }

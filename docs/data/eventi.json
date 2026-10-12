@@ -22,11 +22,14 @@
       "Villa Comunale",
       "Piazza Vittorio Veneto"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "festa-san-matteo",
@@ -50,11 +53,14 @@
       "Cripta di San Matteo",
       "Lungomare"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "madonna-che-viene-dal-mare",
@@ -77,11 +83,14 @@
       "Chiesa di San Matteo",
       "Piazza Cavour"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "festa-santanna-salerno",
@@ -104,11 +113,14 @@
       "Chiesa di Sant'Anna",
       "Via Canalone"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "salerno-sounds-2026",
@@ -131,11 +143,14 @@
       "Anfiteatro",
       "Lungomare"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "festival-colline-mediterranee",
@@ -158,11 +173,14 @@
       "Centro Storico",
       "Villa Comunale"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "ravello-festival-2026",
@@ -185,11 +203,14 @@
       "Villa Rufolo",
       "Villa Cimbrone"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "festa-santandrea",
@@ -217,7 +238,10 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated",
+    "link_rotto_checked": "2026-10-12",
+    "link_rotto_status": "dns"
   },
   {
     "id": "festa-sanpietro-paolo-cetara",
@@ -240,11 +264,14 @@
       "Duomo dei Santi Pietro e Paolo",
       "Porto di Cetara"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "festa-sanvito-positano",
@@ -267,11 +294,14 @@
       "Chiesa di Santa Maria Assunta",
       "Spiaggia Grande"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "madonna-costantinopoli-maiori",
@@ -294,11 +324,14 @@
       "Chiesa di Santa Maria a Mare",
       "Lungomare"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "santapantaleone-ravello",
@@ -321,11 +354,14 @@
       "Cattedrale di Ravello",
       "Piazza Duomo"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "madonna-assunta-positano",
@@ -348,11 +384,14 @@
       "Chiesa di Santa Maria Assunta",
       "Spiaggia Grande"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "santa-trofimena-minori",
@@ -375,11 +414,14 @@
       "Basilica di Santa Trofimena",
       "Centro Storico"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "madonna-della-neve-tramonti",
@@ -404,11 +446,14 @@
       "Gete",
       "Capitanara"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "sagra-pesce-cetara",
@@ -436,7 +481,10 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated",
+    "link_rotto_checked": "2026-10-12",
+    "link_rotto_status": "dns"
   },
   {
     "id": "festa-ceramica-vietri",
@@ -459,11 +507,14 @@
       "Centro Storico",
       "Chiesa di San Giovanni Battista"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "sagra-limone-costiera",
@@ -491,7 +542,10 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated",
+    "link_rotto_checked": "2026-10-12",
+    "link_rotto_status": "connection"
   },
   {
     "id": "paestum-festival-2026",
@@ -520,7 +574,10 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated",
+    "link_rotto_checked": "2026-10-12",
+    "link_rotto_status": "dns"
   },
   {
     "id": "cilento-golfo-film-festival",
@@ -548,7 +605,10 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated",
+    "link_rotto_checked": "2026-10-12",
+    "link_rotto_status": "dns"
   },
   {
     "id": "festa-san-costabile-castellabate",
@@ -571,11 +631,14 @@
       "Chiesa di Santa Maria de Gulia",
       "Piazza XXIV Maggio"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "madonna-costantinopoli-agropoli",
@@ -598,11 +661,14 @@
       "Porto di Agropoli",
       "Lungomare"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "san-marco-evangelista-agropoli",
@@ -625,11 +691,14 @@
       "Chiesa Madre",
       "Porto di Agropoli"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "san-giovanni-battista-agropoli",
@@ -652,11 +721,14 @@
       "Chiesa di San Giovanni Battista",
       "Centro Storico"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "madonna-del-carmine-agropoli",
@@ -679,11 +751,14 @@
       "Chiesa del Carmine",
       "Porto di Agropoli"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "festa-santa-maria-angeli-san-severino",
@@ -710,7 +785,10 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "403"
   },
   {
     "id": "santapollonio-centola",
@@ -733,11 +811,14 @@
       "Chiesa Madre",
       "Centro Storico"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "festa-sanvito-palinuro",
@@ -760,11 +841,14 @@
       "Porto di Palinuro",
       "Piazza Virgilio"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "madonna-del-carmine-palinuro",
@@ -787,11 +871,14 @@
       "Santuario del Carmine",
       "Porto di Palinuro"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "madonna-della-neve-palinuro",
@@ -814,11 +901,14 @@
       "Chiesa di Santa Maria della Neve",
       "Palinuro"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "san-rocco-palinuro",
@@ -841,11 +931,14 @@
       "Chiesa di San Rocco",
       "Palinuro"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "santantonio-al-porto-palinuro",
@@ -867,11 +960,14 @@
     "luoghi": [
       "Porto di Palinuro"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "santa-lucia-polla",
@@ -894,11 +990,14 @@
       "Chiesa di Santa Lucia",
       "Centro Storico"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "santantonio-da-padova-diffuso",
@@ -929,11 +1028,14 @@
       "Piaggine",
       "Camerota"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "madonna-del-carmelo-diffuso",
@@ -964,11 +1066,14 @@
       "Pisciotta",
       "Sassano"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "san-pietro-paolo-diffuso-cilento",
@@ -995,11 +1100,14 @@
       "Cuccaro Vetere",
       "Sessa Cilento"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "madonna-assunta-diffuso-cilento",
@@ -1028,11 +1136,14 @@
       "Sapri",
       "Ogliastro Cilento"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "san-rocco-diffuso-cilento",
@@ -1060,11 +1171,14 @@
       "Roscigno",
       "Santa Marina"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "sagra-cipolla-vatolla",
@@ -1087,11 +1201,14 @@
       "Vatolla",
       "Centro Storico"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "festa-ceci-cicerale",
@@ -1114,11 +1231,14 @@
       "Cicerale",
       "Centro Storico"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "sagra-fusillo-felitto",
@@ -1141,11 +1261,14 @@
       "Felitto",
       "Centro Storico"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "sagra-cavatiello-magliano",
@@ -1168,11 +1291,14 @@
       "Magliano Vetere",
       "Centro Storico"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "festa-vino-castel-san-lorenzo",
@@ -1195,11 +1321,14 @@
       "Castel San Lorenzo",
       "Cantine storiche"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "festa-fico-bianco-giungano",
@@ -1222,11 +1351,14 @@
       "Giungano",
       "Centro Storico"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "sagra-mozzarella-novi-velia",
@@ -1254,7 +1386,10 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated",
+    "link_rotto_checked": "2026-10-12",
+    "link_rotto_status": "200"
   },
   {
     "id": "sagra-ciccimmaretati-stio",
@@ -1277,11 +1412,14 @@
       "Stio",
       "Centro Storico"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "festa-maiale-roccadaspide",
@@ -1304,11 +1442,14 @@
       "Roccadaspide",
       "Centro Storico"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   },
   {
     "id": "musica-parole-paestum-velia",
@@ -1336,7 +1477,10 @@
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "osm_generated",
+    "link_rotto_checked": "2026-10-12",
+    "link_rotto_status": "200"
   },
   {
     "id": "estate-salernitana-2026",
@@ -1361,10 +1505,13 @@
       "Piazza Flavio Gioia",
       "Lungomare"
     ],
-    "last_verified": "2026-09-07",
+    "last_verified": "2026-10-12",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
-    "in_ambito": true
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-10-12",
+    "last_status": "200"
   }
 ]
