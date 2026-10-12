@@ -2143,7 +2143,7 @@ Zona: Salerno | Città: Montano Antilia | Tipo: altro<br/>
         <name>Cammino di San Nilo - Tappa 6</name>
         <description><![CDATA[Cammino di San Nilo - Tappa 6 a Roscigno<br/>
 Zona: Salerno | Città: Roscigno | Tipo: sentiero<br/>
-<a href="https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/">Link</a>]]></description>
+<a href="https://www.openstreetmap.org/?mlat=40.1865031&amp;mlon=15.3957885#map=16/40.1865031/15.3957885">Link</a>]]></description>
         <styleUrl>#style-sentieri</styleUrl>
         <Point>
           <coordinates>15.3957885,40.1865031,0</coordinates>
@@ -2153,7 +2153,7 @@ Zona: Salerno | Città: Roscigno | Tipo: sentiero<br/>
         <name>Cammino di San Nilo - Tappa 5</name>
         <description><![CDATA[Cammino di San Nilo - Tappa 5 a Santi Cosma e Damiano<br/>
 Zona: Salerno | Città: Santi Cosma e Damiano | Tipo: sentiero<br/>
-<a href="https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/">Link</a>]]></description>
+<a href="https://www.openstreetmap.org/?mlat=40.1921223&amp;mlon=15.4850989#map=16/40.1921223/15.4850989">Link</a>]]></description>
         <styleUrl>#style-sentieri</styleUrl>
         <Point>
           <coordinates>15.4850989,40.1921223,0</coordinates>
@@ -2163,7 +2163,7 @@ Zona: Salerno | Città: Santi Cosma e Damiano | Tipo: sentiero<br/>
         <name>Cammino di San Nilo - Tappa 8</name>
         <description><![CDATA[Cammino di San Nilo - Tappa 8 a San Nicola Arcella<br/>
 Zona: Cilento | Città: San Nicola Arcella | Tipo: sentiero<br/>
-<a href="https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/">Link</a>]]></description>
+<a href="https://www.openstreetmap.org/?mlat=40.0838571&amp;mlon=15.2946964#map=16/40.0838571/15.2946964">Link</a>]]></description>
         <styleUrl>#style-sentieri</styleUrl>
         <Point>
           <coordinates>15.2946964,40.0838571,0</coordinates>
@@ -2173,7 +2173,7 @@ Zona: Cilento | Città: San Nicola Arcella | Tipo: sentiero<br/>
         <name>Cammino di San Nilo - Tappa 7</name>
         <description><![CDATA[Cammino di San Nilo - Tappa 7 a Montano Antilia<br/>
 Zona: Salerno | Città: Montano Antilia | Tipo: sentiero<br/>
-<a href="https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/">Link</a>]]></description>
+<a href="https://www.openstreetmap.org/?mlat=40.1502198&amp;mlon=15.3262443#map=16/40.1502198/15.3262443">Link</a>]]></description>
         <styleUrl>#style-sentieri</styleUrl>
         <Point>
           <coordinates>15.3262443,40.1502198,0</coordinates>
@@ -19867,7 +19867,7 @@ Zona: Cilento | Città: Vallo della Lucania | Tipo: altro<br/>
         <name>Congregazione Religiosa delle Ancelle di Santa Teresa di Gesù Bambino</name>
         <description><![CDATA[Congregazione Religiosa delle Ancelle di Santa Teresa di Gesù Bambino: luogo di culto cattolico a Vallo della Lucania.<br/>
 Zona: Cilento | Città: Vallo della Lucania | Tipo: altro<br/>
-<a href="https://www.artproject.it/santa_teresa/index.html">Link</a>]]></description>
+<a href="https://www.openstreetmap.org/?mlat=40.231398&amp;mlon=15.2721252#map=16/40.231398/15.2721252">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>15.2721252,40.231398,0</coordinates>
@@ -28758,7 +28758,7 @@ Zona: Salerno | Città: Colliano | Tipo: altro<br/>
         <name>Terme del Foro (VII.5.2)</name>
         <description><![CDATA[Terme del Foro (VII.5.2): sito archeologico a Pompei.<br/>
 Zona: Salerno | Città: Pompei | Tipo: archeologico<br/>
-<a href="https://it.wikipedia.org/wiki/Terme_del_Foro">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Terme_del_Foro_%28Pompei%29">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.4841235,40.7503359,0</coordinates>
@@ -31918,7 +31918,7 @@ Zona: Salerno | Città: Pompei | Tipo: altro<br/>
         <name>Tempio d'Iside (VIII.7.28)</name>
         <description><![CDATA[Tempio d'Iside (VIII.7.28): sito archeologico a Pompei.<br/>
 Zona: Salerno | Città: Pompei | Tipo: archeologico<br/>
-<a href="https://it.wikipedia.org/wiki/Tempio_di_Iside_%28Pompei%29">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Tempio_di_Iside">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.4882708,40.7491818,0</coordinates>
