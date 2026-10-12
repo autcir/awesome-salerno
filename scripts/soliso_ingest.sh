@@ -1,8 +1,8 @@
 #!/bin/bash
 # Ingest giornaliero su soliso: obscura sta qui, non sui runner GitHub.
-# Consegna su un ramo dedicato, MAI su main: il diff lo guarda un umano.
 set -euo pipefail
-cd "$HOME/awesome-salerno"
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+cd "$DIR"
 RAMO="dati/eventi-automatici"
 
 git fetch -q origin

@@ -474,7 +474,9 @@ only, no dependencies.
 | `search_poi` | Fuzzy search with `categoria`, `zona`, `tipo`, `citta` filters |
 | `get_poi` | Full record by `id` |
 | `nearby_poi` | POI within a radius in km of a GPS point, nearest first |
-| `list_events` | Events in a date window, optionally by city |
+| `list_events` | Events in a date window, optionally by city (curated + scraped) |
+| `search_rag` | Semantic / keyword search over the 5529 RAG dataset chunks |
+| `get_sources_status` | Live status, coverage and licenses of monitored sources |
 
 ## Contributing
 

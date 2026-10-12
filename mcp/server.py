@@ -69,15 +69,37 @@ TOOLS = [
     },
     {
         "name": "list_events",
-        "description": "Eventi in programma, opzionalmente entro una finestra di date "
+        "description": "Eventi in programma sul territorio, opzionalmente entro una finestra di date "
                        "(YYYY-MM-DD). Senza argomenti: eventi attivi oggi o futuri.",
         "inputSchema": {
             "type": "object",
             "properties": {
-                "from": {"type": "string"},
-                "to": {"type": "string"},
-                "citta": {"type": "string"},
+                "from": {"type": "string", "description": "Data inizio (YYYY-MM-DD)"},
+                "to": {"type": "string", "description": "Data fine (YYYY-MM-DD)"},
+                "citta": {"type": "string", "description": "Filtra per città"},
+                "include_scraped": {"type": "boolean", "default": True,
+                                    "description": "Includi anche eventi recenti da fonti verificate (obscura)"},
             },
+        },
+    },
+    {
+        "name": "search_rag",
+        "description": "Ricerca semantica e contestuale tra i 5.529 chunk RAG del territorio salernitano.",
+        "inputSchema": {
+            "type": "object",
+            "properties": {
+                "query": {"type": "string", "description": "testo o domanda da cercare"},
+                "limit": {"type": "integer", "default": 10},
+            },
+            "required": ["query"],
+        },
+    },
+    {
+        "name": "get_sources_status",
+        "description": "Registro fonti con semaforo, copertura e data dell'ultimo ingest eseguito con obscura.",
+        "inputSchema": {
+            "type": "object",
+            "properties": {},
         },
     },
 ]
@@ -145,8 +167,17 @@ def tool_nearby(args):
 def tool_events(args):
     start = args.get("from") or date.today().isoformat()
     end = args.get("to") or "9999-12-31"
+    include_scraped = args.get("include_scraped", True)
+    pool = load_json("eventi.json")
+    if include_scraped:
+        pool = pool + load_json("eventi_scraped.json")
     out = []
-    for ev in load_json("eventi.json"):
+    seen = set()
+    for ev in pool:
+        ev_id = ev.get("id")
+        if ev_id in seen:
+            continue
+        seen.add(ev_id)
         ev_start = ev.get("data_inizio", "")
         ev_end = ev.get("data_fine") or ev_start
         if ev_end and ev_end < start:
@@ -160,8 +191,48 @@ def tool_events(args):
     return {"total": len(out), "results": [slim(e) for e in out]}
 
 
-HANDLERS = {"search_poi": tool_search, "get_poi": tool_get,
-            "nearby_poi": tool_nearby, "list_events": tool_events}
+def tool_rag_search(args):
+    q_words = args["query"].lower().split()
+    rag_file = ROOT / "data" / "rag" / "chunks.jsonl"
+    if not rag_file.exists():
+        return {"total": 0, "results": []}
+    limit = min(args.get("limit", 10), MAX_RESULTS)
+    scored = []
+    with open(rag_file, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            item = json.loads(line)
+            txt = (item.get("text", "") + " " + item.get("citta", "") + " " + item.get("tipo", "")).lower()
+            score = sum(1 for w in q_words if w in txt)
+            if score > 0:
+                scored.append((score, item))
+    scored.sort(key=lambda x: x[0], reverse=True)
+    return {"total": len(scored), "results": [it for _, it in scored[:limit]]}
+
+
+def tool_sources(_args):
+    sources = load_json("sources.json")
+    scraped = load_json("eventi_scraped.json")
+    ultimo = max((e.get("retrieved_at", "") for e in scraped), default=None)
+    fonti = sources.get("fonti", []) if isinstance(sources, dict) else []
+    return {
+        "status": "ok",
+        "ultimo_ingest": ultimo,
+        "totale_fonti": len(fonti),
+        "fonti": fonti,
+    }
+
+
+HANDLERS = {
+    "search_poi": tool_search,
+    "get_poi": tool_get,
+    "nearby_poi": tool_nearby,
+    "list_events": tool_events,
+    "search_rag": tool_rag_search,
+    "get_sources_status": tool_sources,
+}
 
 
 def handle(req):
@@ -215,7 +286,7 @@ def main():
 
 def demo():
     assert handle({"jsonrpc": "2.0", "id": 1, "method": "initialize"})["result"]["serverInfo"]["name"] == "awesome-salerno"
-    assert len(handle({"jsonrpc": "2.0", "id": 2, "method": "tools/list"})["result"]["tools"]) == 4
+    assert len(handle({"jsonrpc": "2.0", "id": 2, "method": "tools/list"})["result"]["tools"]) == 6
     assert handle({"jsonrpc": "2.0", "method": "notifications/initialized"}) is None
 
     def call(name, args):
@@ -232,6 +303,10 @@ def demo():
     assert res["results"] == sorted(res["results"], key=lambda i: i["distanza_km"])
     res, _ = call("list_events", {"from": "2025-01-01", "to": "2026-12-31"})
     assert res["total"] > 0
+    res, err = call("search_rag", {"query": "duomo normanno cripta"})
+    assert not err and res["total"] > 0, res
+    res, err = call("get_sources_status", {})
+    assert not err and res["status"] == "ok" and res["totale_fonti"] > 0, res
     res, err = call("get_poi", {"id": "non-esiste"})
     assert err and "error" in res
     res, err = call("get_poi", {"id": "luci-dartista-2025"})
