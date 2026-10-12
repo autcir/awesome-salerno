@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this dataset or software in your research, please cite it as below."
+authors:
+  - family-names: "Autuori"
+    given-names: "Ciro"
+    alias: "autcir"
+title: "Awesome Salerno: The Curated Open Tourism Dataset for Salerno, Amalfi Coast and Cilento"
+version: 1.0.0
+date-released: 2026-09-08
+url: "https://github.com/autcir/awesome-salerno"
+repository-code: "https://github.com/autcir/awesome-salerno"
+keywords:
+  - "salerno"
+  - "amalfi-coast"
+  - "cilento"
+  - "tourism"
+  - "open-data"
+  - "gis"
+  - "geojson"
+  - "mcp"
+license: "CC0-1.0"

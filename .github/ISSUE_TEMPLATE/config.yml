@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Mappa Interattiva / Interactive Map
+    url: https://autcir.github.io/awesome-salerno/
+    about: Esplora i 5.529 POI direttamente sulla mappa prima di aprire una segnalazione
+  - name: Calendario Eventi / Event Calendar
+    url: https://autcir.github.io/awesome-salerno/calendar.html
+    about: Consulta gli eventi attivi e futuri per data e zona
+  - name: Criteri Editoriali / Editorial Criteria
+    url: https://github.com/autcir/awesome-salerno/blob/main/docs/criteria.md
+    about: Verifica cosa entra nel dataset e cosa è escluso per regolamento

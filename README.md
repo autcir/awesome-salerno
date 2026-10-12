@@ -2,6 +2,10 @@
 
 <!-- lint ignore awesome-badge -->
 <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+<a href="https://github.com/autcir/awesome-salerno/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0"></a>
+<a href="https://autcir.github.io/awesome-salerno/"><img src="https://img.shields.io/badge/POIs-5529-blue.svg" alt="POIs: 5529"></a>
+<a href="https://github.com/autcir/awesome-salerno/tree/main/mcp"><img src="https://img.shields.io/badge/MCP-Ready-purple.svg" alt="MCP Ready"></a>
+<a href="https://github.com/autcir/awesome-salerno/actions/workflows/ci.yml"><img src="https://github.com/autcir/awesome-salerno/actions/workflows/ci.yml/badge.svg" alt="CI Status"></a>
 
 # Awesome Salerno
 
@@ -30,6 +34,8 @@
 - [Data quality](#data-quality)
 - [RAG dataset](#rag-dataset)
 - [MCP server](#mcp-server)
+- [Architecture & Data Pipeline](#architecture--data-pipeline)
+- [Quickstart](#quickstart)
 
 ## In italiano
 
@@ -45,28 +51,28 @@ Wikidata e le fonti degli eventi hanno condizioni proprie. Il dettaglio per font
 e' in [DATA-LICENSES.md](DATA-LICENSES.md); la licenza del dataset composto la
 conferma il titolare.
 
-| Documento | Contenuto |
-|-----------|-----------|
-| [docs/criteria.md](docs/criteria.md) | Criteri editoriali: cosa entra e cosa no |
-| [CONTRIBUTING.md](CONTRIBUTING.md) | Come proporre una voce o una correzione |
-| `DATA-LICENSES.md` | Licenza di ogni fonte dei dati (link nel paragrafo sopra) |
-| [docs/CONTRACT.md](docs/CONTRACT.md) | Chi legge i dati e cosa non si deve rompere |
-| [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Codice di condotta |
+| Documento                                | Contenuto                                                 |
+| ---------------------------------------- | --------------------------------------------------------- |
+| [docs/criteria.md](docs/criteria.md)     | Criteri editoriali: cosa entra e cosa no                  |
+| [CONTRIBUTING.md](CONTRIBUTING.md)       | Come proporre una voce o una correzione                   |
+| `DATA-LICENSES.md`                       | Licenza di ogni fonte dei dati (link nel paragrafo sopra) |
+| [docs/CONTRACT.md](docs/CONTRACT.md)     | Chi legge i dati e cosa non si deve rompere               |
+| [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Codice di condotta                                        |
 
 La mappa interattiva (sezione Map) ha un selettore IT/EN. Le voci della lista qui
 sotto sono in inglese; dati e documentazione per i contributor sono in italiano.
 
 ## Stats
 
-| Metric | Value |
-|--------|-------|
-| Total POI | 5529 |
-| In declared scope (Salerno, Amalfi Coast, Cilento) | 3785 |
-| Outside declared scope, flagged not removed | 1744 |
-| Cities mapped | 102 |
-| Salerno districts (quartieri) | 14 |
-| Unique descriptions | 5411 (97.9%) |
-| Luci d'Artista | 36 |
+| Metric                                             | Value        |
+| -------------------------------------------------- | ------------ |
+| Total POI                                          | 5529         |
+| In declared scope (Salerno, Amalfi Coast, Cilento) | 3785         |
+| Outside declared scope, flagged not removed        | 1744         |
+| Cities mapped                                      | 102          |
+| Salerno districts (quartieri)                      | 14           |
+| Unique descriptions                                | 5411 (97.9%) |
+| Luci d'Artista                                     | 36           |
 
 **On scope, honestly.** Every POI now carries `provincia`, `sigla_provincia`,
 `regione` (from the official ISTAT comuni list) and `in_ambito`. The collection
@@ -222,44 +228,44 @@ The most important Christmas event in Southern Italy. Since 2006, Salerno transf
 
 ### Main Installations
 
-| # | Name | Location | Artist |
-|---|------|----------|--------|
-| 1 | Giardino Preistorico | Villa Comunale | Luca Pannoli / Ondesign |
-| 2 | Percorso Fiorito | Centro Storico | — |
-| 3 | Noi siamo Natura | Via Mercanti | Luca Pannoli |
-| 4 | La danza delle meduse | Piazza Sedile del Campo | Luca Pannoli / Ondesign |
-| 5 | …e le stelle stanno a guardare | Piazza Flavio Gioia | Luca Pannoli / Ondesign |
-| 6 | Albero di Natale | Piazza Portanova | — |
-| 7 | Angeli | Via Duomo | — |
-| 8 | Colorare Salerno | Piazza Sant'Agostino | Luca Pannoli |
-| 9 | Il mare d'inverno | Corso Vittorio Emanuele | Luca Pannoli |
-| 10 | Locomotiva dei fiori | Piazza Vittorio Veneto | — |
-| 11 | Giochi di biglie | Piazza Caduti di Brescia | — |
-| 12 | Paesaggio Polare | Piazza Gian Camillo Gloriosi | — |
-| 13 | Albero natalizio con sfere | Piazza Monsignor Grasso | — |
-| 14 | Palme Dorate | Arenile Santa Teresa | — |
-| 15 | I Fiori del Mare | Piazza della Libertà | Luca Pannoli / Ondesign |
-| 16 | Partitura d'aMARE | Sottopiazza della Libertà | Luca Pannoli / Ondesign |
-| 17 | Alberi Magici | Piazza San Francesco | — |
-| 18 | La fata delle farfalle | Largo Dogana Regia | — |
-| 19 | Madonna con Bambino | Complesso di Santa Sofia | Eduardo Giannattasio |
-| 20 | Rami Dorati | Via del Carmine | — |
-| 21 | Foglie d'Argento | Via Trento | — |
-| 22 | Alberi Innevati | Corso Garibaldi | — |
-| 23 | Metamorphosis | Via Volpe | Eliana Petrizzi |
-| 24 | Il Mito | Via Nizza | Nello Ferrigno |
-| 25 | Sfere-Mondi | Via Ventimiglia | — |
-| 26 | Giochi d'Acqua | Via Santa Margherita | — |
-| 27 | Vele | Via Cocchia | — |
-| 28 | Onde e Vele | Via Diaz | — |
-| 29 | Circus | Via Memoli | Luca Pannoli |
-| 30 | Accendi il tuo futuro | Via Arce | Cooperativa Fili d'Erba |
-| 31 | Sei Tu il Regalo Più Bello | Piazza Dante | Luca Pannoli |
-| 32 | Le Parole dei Bambini | Via Settimio Mobilio | Roberto Castaldo |
-| 33 | Natività | Chiesa SS. Crocifisso | Eduardo Giannattasio |
-| 34 | Moonlight | Piazza Dante | Luca Pannoli |
-| 35 | Don Chisciotte | Piazza Vittorio Veneto | Eduardo Giannattasio |
-| 36 | Annunciazione | Chiesa del Sacro Cuore | Eduardo Giannattasio |
+| #   | Name                           | Location                     | Artist                  |
+| --- | ------------------------------ | ---------------------------- | ----------------------- |
+| 1   | Giardino Preistorico           | Villa Comunale               | Luca Pannoli / Ondesign |
+| 2   | Percorso Fiorito               | Centro Storico               | —                       |
+| 3   | Noi siamo Natura               | Via Mercanti                 | Luca Pannoli            |
+| 4   | La danza delle meduse          | Piazza Sedile del Campo      | Luca Pannoli / Ondesign |
+| 5   | …e le stelle stanno a guardare | Piazza Flavio Gioia          | Luca Pannoli / Ondesign |
+| 6   | Albero di Natale               | Piazza Portanova             | —                       |
+| 7   | Angeli                         | Via Duomo                    | —                       |
+| 8   | Colorare Salerno               | Piazza Sant'Agostino         | Luca Pannoli            |
+| 9   | Il mare d'inverno              | Corso Vittorio Emanuele      | Luca Pannoli            |
+| 10  | Locomotiva dei fiori           | Piazza Vittorio Veneto       | —                       |
+| 11  | Giochi di biglie               | Piazza Caduti di Brescia     | —                       |
+| 12  | Paesaggio Polare               | Piazza Gian Camillo Gloriosi | —                       |
+| 13  | Albero natalizio con sfere     | Piazza Monsignor Grasso      | —                       |
+| 14  | Palme Dorate                   | Arenile Santa Teresa         | —                       |
+| 15  | I Fiori del Mare               | Piazza della Libertà         | Luca Pannoli / Ondesign |
+| 16  | Partitura d'aMARE              | Sottopiazza della Libertà    | Luca Pannoli / Ondesign |
+| 17  | Alberi Magici                  | Piazza San Francesco         | —                       |
+| 18  | La fata delle farfalle         | Largo Dogana Regia           | —                       |
+| 19  | Madonna con Bambino            | Complesso di Santa Sofia     | Eduardo Giannattasio    |
+| 20  | Rami Dorati                    | Via del Carmine              | —                       |
+| 21  | Foglie d'Argento               | Via Trento                   | —                       |
+| 22  | Alberi Innevati                | Corso Garibaldi              | —                       |
+| 23  | Metamorphosis                  | Via Volpe                    | Eliana Petrizzi         |
+| 24  | Il Mito                        | Via Nizza                    | Nello Ferrigno          |
+| 25  | Sfere-Mondi                    | Via Ventimiglia              | —                       |
+| 26  | Giochi d'Acqua                 | Via Santa Margherita         | —                       |
+| 27  | Vele                           | Via Cocchia                  | —                       |
+| 28  | Onde e Vele                    | Via Diaz                     | —                       |
+| 29  | Circus                         | Via Memoli                   | Luca Pannoli            |
+| 30  | Accendi il tuo futuro          | Via Arce                     | Cooperativa Fili d'Erba |
+| 31  | Sei Tu il Regalo Più Bello     | Piazza Dante                 | Luca Pannoli            |
+| 32  | Le Parole dei Bambini          | Via Settimio Mobilio         | Roberto Castaldo        |
+| 33  | Natività                       | Chiesa SS. Crocifisso        | Eduardo Giannattasio    |
+| 34  | Moonlight                      | Piazza Dante                 | Luca Pannoli            |
+| 35  | Don Chisciotte                 | Piazza Vittorio Veneto       | Eduardo Giannattasio    |
+| 36  | Annunciazione                  | Chiesa del Sacro Cuore       | Eduardo Giannattasio    |
 
 ### Related Events During Luci d'Artista
 
@@ -293,21 +299,21 @@ JSON API with fuzzy search, filters, and GeoJSON export.
 python3 api/server.py
 ```
 
-| Endpoint | Description |
-|----------|-------------|
-| `GET /api/sentieri` | All trails (1658) |
-| `GET /api/monumenti` | All monuments (3479) |
-| `GET /api/spiagge` | All beaches (78) |
-| `GET /api/panorami` | All viewpoints (253) |
-| `GET /api/parchi` | All parks (12) |
-| `GET /api/eventi` | All events (49) |
-| `GET /api/all` | All data (5529) |
-| `GET /api/geojson` | GeoJSON format for GIS |
-| `GET /api/cities` | List of all 103 cities |
-| `GET /api/search?q=<query>` | Fuzzy search |
-| `GET /api/oggi?giorni=<n>` | What's on now — curated + scraped, counted separately |
-| `GET /api/sources` | The source registry, with measured status and licence |
-| `GET /api/health` | Status, event counts, last ingest timestamp |
+| Endpoint                    | Description                                           |
+| --------------------------- | ----------------------------------------------------- |
+| `GET /api/sentieri`         | All trails (1658)                                     |
+| `GET /api/monumenti`        | All monuments (3479)                                  |
+| `GET /api/spiagge`          | All beaches (78)                                      |
+| `GET /api/panorami`         | All viewpoints (253)                                  |
+| `GET /api/parchi`           | All parks (12)                                        |
+| `GET /api/eventi`           | All events (49)                                       |
+| `GET /api/all`              | All data (5529)                                       |
+| `GET /api/geojson`          | GeoJSON format for GIS                                |
+| `GET /api/cities`           | List of all 103 cities                                |
+| `GET /api/search?q=<query>` | Fuzzy search                                          |
+| `GET /api/oggi?giorni=<n>`  | What's on now — curated + scraped, counted separately |
+| `GET /api/sources`          | The source registry, with measured status and licence |
+| `GET /api/health`           | Status, event counts, last ingest timestamp           |
 
 **Live events (`/api/oggi`).** Events are refreshed daily by
 [`scripts/ingest_events.py`](scripts/ingest_events.py), which reads the source
@@ -403,7 +409,7 @@ python3 scripts/build_digest.py 2026-01    # a specific one
 ```
 
 `.github/workflows/digest.yml` builds it on the 1st of each month. The
-"what changed" section is read from git history, so it cannot drift from the
+"what changed" section is read from Git history, so it cannot drift from the
 repo.
 
 ## Data quality
@@ -469,14 +475,64 @@ only, no dependencies.
 }
 ```
 
-| Tool | Description |
-|------|-------------|
-| `search_poi` | Fuzzy search with `categoria`, `zona`, `tipo`, `citta` filters |
-| `get_poi` | Full record by `id` |
-| `nearby_poi` | POI within a radius in km of a GPS point, nearest first |
-| `list_events` | Events in a date window, optionally by city (curated + scraped) |
-| `search_rag` | Semantic / keyword search over the 5529 RAG dataset chunks |
-| `get_sources_status` | Live status, coverage and licenses of monitored sources |
+| Tool                 | Description                                                     |
+| -------------------- | --------------------------------------------------------------- |
+| `search_poi`         | Fuzzy search with `categoria`, `zona`, `tipo`, `citta` filters  |
+| `get_poi`            | Full record by `id`                                             |
+| `nearby_poi`         | POI within a radius in km of a GPS point, nearest first         |
+| `list_events`        | Events in a date window, optionally by city (curated + scraped) |
+| `search_rag`         | Semantic / keyword search over the 5529 RAG dataset chunks      |
+| `get_sources_status` | Live status, coverage and licenses of monitored sources         |
+
+
+## Architecture & Data Pipeline
+
+The project connects open source geospatial data, automated ingestion, and AI consumer surfaces:
+
+```text
+  [OpenStreetMap / Overpass] ──┐
+  [PA Comuni / Istituzionali]  ──┼──> [scripts/ingest_events.py] ──> [data/*.json] ──┬──> [Interactive Web Map]
+  [SalernoToday & Testate]    ──┤     (obscura stealth fetch)       (5529 POI)      ├──> [REST API server.py]
+  [Luci d'Artista Ufficiale]  ──┘                                                   ├──> [MCP Server stdlib]
+                                                                                    └──> [SalernOS Civic Core]
+```
+
+**Ingest & Freshness**: Daily headless fetch runs on a dedicated systemd timer via obscura, strictly isolating scraped records (`curated: false`) from curated records.
+<br />
+**Quality & Contracts**: Every update enforces JSON Schema validation and bit-exact parity with the SalernOS sovereign catalog.
+<br />
+**Distribution**: Data is served via static GeoJSON/KML on GitHub Pages, JSON REST endpoints, and stdlib Model Context Protocol (MCP).
+
+## Quickstart
+
+### Python & Data Science (Pandas / GeoPandas)
+
+```python
+import json
+import pandas as pd
+
+# Load monuments
+with open("data/monumenti.json") as f:
+    df = pd.DataFrame(json.load(f))
+
+# Filter in-scope Salerno points
+salerno_df = df[(df["citta"] == "Salerno") & (df["in_ambito"] == True)]
+print(f"Loaded {len(salerno_df)} verified monuments in Salerno")
+```
+
+### QGIS / GIS Visualization
+
+Import `data/awesome-salerno.geojson` directly into QGIS as a vector layer or open `data/awesome-salerno.kml` in Google Earth.
+
+### Run Local API & MCP Server
+
+```bash
+# Start JSON API
+python3 api/server.py
+
+# Run MCP Demo / Test Suite
+npm test
+```
 
 ## Contributing
 
