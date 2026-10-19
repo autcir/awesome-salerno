@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-11T00:00:00Z",
+  "generated_at": "2026-10-12T00:00:00Z",
   "generator": "scripts/build_manifest.py",
   "dataset": {
     "name": "awesome-salerno",
@@ -70,13 +70,13 @@
     },
     {
       "path": "all.json",
-      "bytes": 3479630,
-      "sha256": "5feeb83255f631f5a24625afdee2c2ac0f5d6ffba90b0c7e7c6bb9c727865395"
+      "bytes": 3715186,
+      "sha256": "eece0b0b2b6aa6f2830fc8a036964afd21b41fbe3bcd2bc380d322bacaf7458f"
     },
     {
       "path": "awesome-salerno.geojson",
-      "bytes": 3777270,
-      "sha256": "eaac85a4ddf24645decdcd3458a27d52efd5d0f7ae0cc51fc313e76da41ae138"
+      "bytes": 3777410,
+      "sha256": "7972f7acf6ef725ea945e3e6a3033bcb8e8ccfdae7306fc5f983d9b244349765"
     },
     {
       "path": "awesome-salerno.kml",
@@ -90,8 +90,8 @@
     },
     {
       "path": "broken_links.json",
-      "bytes": 88,
-      "sha256": "a1cd10743ac33906b35f23e9132deea4a3a52c3dc88b3cdc14f99c28a9f818f9"
+      "bytes": 747,
+      "sha256": "1297e02817b675509644a30d1fa8f74a7201748a38d14d647b5a3e47a67f06bc"
     },
     {
       "path": "comuni_provincia.json",
@@ -100,8 +100,8 @@
     },
     {
       "path": "eventi.json",
-      "bytes": 42744,
-      "sha256": "39896ee371ab94db3081846ccc89f89b32d1b530d166b005d2240542af081948"
+      "bytes": 47231,
+      "sha256": "b0623aa430f8021d1614ec8fc2c48c835b62fcb02c2b4b8b9622f6f154e0311a"
     },
     {
       "path": "eventi_scraped.json",
@@ -120,18 +120,18 @@
     },
     {
       "path": "monumenti.json",
-      "bytes": 2139921,
-      "sha256": "16fbefeeed24a072bbe366b09aedd01978fc994481624fbac659f438bdde1a00"
+      "bytes": 2282521,
+      "sha256": "a4ffc484cb8d5f0c530b00d12328b583cf8a51308aa389658b35552642d4bfaf"
     },
     {
       "path": "panorami.json",
-      "bytes": 155703,
-      "sha256": "9b50eda6f65ffb8fd48c797041f90202f872aef328412306d41fef2d402431fc"
+      "bytes": 164360,
+      "sha256": "ac1ed68e4f7ff57723c6a16148be0d3850403ec7995d02781c7a8598bddcf26a"
     },
     {
       "path": "parchi.json",
-      "bytes": 7909,
-      "sha256": "19eb79f225d9974d55ab6ee5b341b1df1cf0843f2398e6c35011cde3b7f8f298"
+      "bytes": 8660,
+      "sha256": "78af080f6ed1697f5ae94d0a8d8c5697f37e214bb52e224a858bfa3ee4eef0ef"
     },
     {
       "path": "rag/chunks.jsonl",
@@ -150,8 +150,8 @@
     },
     {
       "path": "sentieri.json",
-      "bytes": 869341,
-      "sha256": "d3aebf06e61c01a7619e666a83ab9e16360b4f9c2c7aef7461d7f7f515366298"
+      "bytes": 932307,
+      "sha256": "276d01c7fc9c6fd92d32bf129c17d1f6365b4ccbe349a80231bd09e3eb8ac7dc"
     },
     {
       "path": "sources.json",
@@ -160,8 +160,8 @@
     },
     {
       "path": "spiagge.json",
-      "bytes": 41735,
-      "sha256": "c7121a861f7c0b1c7e3bd711eb90a253367ba7ae94e22873d5cc1b7e04b9f5c4"
+      "bytes": 44442,
+      "sha256": "c5f1b6fcd7cb73fffcfdb99f560f714a1e4a5b3b2c408752db3891012a3e146b"
     },
     {
       "path": "voice-assistant.json",
