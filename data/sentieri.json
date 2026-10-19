@@ -3824,7 +3824,9 @@
     "link_type": "osm_generated",
     "last_checked": "2026-10-12",
     "last_status": "dns",
-    "link_rotto": "https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/"
+    "link_rotto": "https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/",
+    "link_rotto_checked": "2026-10-19",
+    "link_rotto_status": "dns"
   },
   {
     "nome": "Cammino di San Nilo - Tappa 5",
@@ -3845,7 +3847,9 @@
     "link_type": "osm_generated",
     "last_checked": "2026-10-12",
     "last_status": "dns",
-    "link_rotto": "https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/"
+    "link_rotto": "https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/",
+    "link_rotto_checked": "2026-10-19",
+    "link_rotto_status": "dns"
   },
   {
     "nome": "Cammino di San Nilo - Tappa 8",
@@ -3866,7 +3870,9 @@
     "link_type": "osm_generated",
     "last_checked": "2026-10-12",
     "last_status": "dns",
-    "link_rotto": "https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/"
+    "link_rotto": "https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/",
+    "link_rotto_checked": "2026-10-19",
+    "link_rotto_status": "dns"
   },
   {
     "nome": "Cammino di San Nilo - Tappa 7",
@@ -3887,7 +3893,9 @@
     "link_type": "osm_generated",
     "last_checked": "2026-10-12",
     "last_status": "dns",
-    "link_rotto": "https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/"
+    "link_rotto": "https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/",
+    "link_rotto_checked": "2026-10-19",
+    "link_rotto_status": "dns"
   },
   {
     "nome": "Cammino del Negro - Tappa 4",
