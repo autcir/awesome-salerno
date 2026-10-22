@@ -1,65 +1,5 @@
 [
   {
-    "id": "salernotoday-eventi-sicignano-degli-alburni-doppio-weekend-per-la-54-sagra-della",
-    "nome": "Sicignano degli Alburni, doppio weekend per la 54ª Sagra della castagna",
-    "link": "https://www.salernotoday.it/eventi/sagre/sagra-castagna-17-18-24-25-ottobre-2026.html",
-    "data_inizio": "2026-10-17",
-    "data_fine": "2026-10-25",
-    "tipo": "evento",
-    "curated": false,
-    "source": {
-      "name": "SalernoToday — sezione Eventi",
-      "url": "https://www.salernotoday.it/eventi/",
-      "type": "external",
-      "id": "salernotoday-eventi"
-    },
-    "license": "da verificare (testata registrata, contenuti (c))",
-    "retrieved_at": "2026-10-21T10:43:50+00:00",
-    "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/",
-    "visto_ultima_volta": "2026-10-21",
-    "visto_prima_volta": "2026-10-21"
-  },
-  {
-    "id": "salernotoday-eventi-cava-de-tirreni-il-trio-di-alessandro-carbonare-apre-i-conce",
-    "nome": "Cava de' Tirreni, il trio di Alessandro Carbonare apre i \"Concerti d'autunno\"",
-    "link": "https://www.salernotoday.it/eventi/concerti/concerto-alessandro-carbonare-cava.html",
-    "data_inizio": "2026-10-21",
-    "data_fine": "2026-11-19",
-    "tipo": "evento",
-    "curated": false,
-    "source": {
-      "name": "SalernoToday — sezione Eventi",
-      "url": "https://www.salernotoday.it/eventi/",
-      "type": "external",
-      "id": "salernotoday-eventi"
-    },
-    "license": "da verificare (testata registrata, contenuti (c))",
-    "retrieved_at": "2026-10-21T10:43:50+00:00",
-    "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/",
-    "visto_ultima_volta": "2026-10-21",
-    "visto_prima_volta": "2026-10-11"
-  },
-  {
-    "id": "salernotoday-eventi-salerno-al-teatro-arbostella-torna-la-rassegna-per-bambini",
-    "nome": "Salerno, al Teatro Arbostella torna la rassegna per bambini",
-    "link": "https://www.salernotoday.it/eventi/teatro/rassegna-bambini-salerno.html",
-    "data_inizio": "2026-10-21",
-    "data_fine": "2026-11-19",
-    "tipo": "evento",
-    "curated": false,
-    "source": {
-      "name": "SalernoToday — sezione Eventi",
-      "url": "https://www.salernotoday.it/eventi/",
-      "type": "external",
-      "id": "salernotoday-eventi"
-    },
-    "license": "da verificare (testata registrata, contenuti (c))",
-    "retrieved_at": "2026-10-21T10:43:50+00:00",
-    "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/",
-    "visto_ultima_volta": "2026-10-21",
-    "visto_prima_volta": "2026-10-11"
-  },
-  {
     "id": "salernotoday-eventi-giovediamoci-2026-nella-sala-teatro-de-i-giardini-di-trotula",
     "nome": "Giovediamoci 2026, nella Sala Teatro de \"I Giardini di Trotula\" arriva Rossana Lamberti",
     "link": "https://www.salernotoday.it/eventi/cultura/giovediamoci-presentazione-libro-rossana-lamberti-22-ottobre-2026.html",
@@ -74,10 +14,70 @@
       "id": "salernotoday-eventi"
     },
     "license": "da verificare (testata registrata, contenuti (c))",
-    "retrieved_at": "2026-10-21T10:44:14+00:00",
+    "retrieved_at": "2026-10-22T10:45:28+00:00",
     "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/",
-    "visto_ultima_volta": "2026-10-21",
-    "visto_prima_volta": "2026-10-21"
+    "visto_ultima_volta": "2026-10-22",
+    "visto_prima_volta": "2026-10-22"
+  },
+  {
+    "id": "salernotoday-eventi-sicignano-degli-alburni-doppio-weekend-per-la-54-sagra-della",
+    "nome": "Sicignano degli Alburni, doppio weekend per la 54ª Sagra della castagna",
+    "link": "https://www.salernotoday.it/eventi/sagre/sagra-castagna-17-18-24-25-ottobre-2026.html",
+    "data_inizio": "2026-10-17",
+    "data_fine": "2026-10-25",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "SalernoToday — sezione Eventi",
+      "url": "https://www.salernotoday.it/eventi/",
+      "type": "external",
+      "id": "salernotoday-eventi"
+    },
+    "license": "da verificare (testata registrata, contenuti (c))",
+    "retrieved_at": "2026-10-22T10:45:28+00:00",
+    "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/",
+    "visto_ultima_volta": "2026-10-22",
+    "visto_prima_volta": "2026-10-22"
+  },
+  {
+    "id": "salernotoday-eventi-cava-de-tirreni-il-trio-di-alessandro-carbonare-apre-i-conce",
+    "nome": "Cava de' Tirreni, il trio di Alessandro Carbonare apre i \"Concerti d'autunno\"",
+    "link": "https://www.salernotoday.it/eventi/concerti/concerto-alessandro-carbonare-cava.html",
+    "data_inizio": "2026-10-22",
+    "data_fine": "2026-11-20",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "SalernoToday — sezione Eventi",
+      "url": "https://www.salernotoday.it/eventi/",
+      "type": "external",
+      "id": "salernotoday-eventi"
+    },
+    "license": "da verificare (testata registrata, contenuti (c))",
+    "retrieved_at": "2026-10-22T10:45:28+00:00",
+    "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/",
+    "visto_ultima_volta": "2026-10-22",
+    "visto_prima_volta": "2026-10-11"
+  },
+  {
+    "id": "salernotoday-eventi-salerno-al-teatro-arbostella-torna-la-rassegna-per-bambini",
+    "nome": "Salerno, al Teatro Arbostella torna la rassegna per bambini",
+    "link": "https://www.salernotoday.it/eventi/teatro/rassegna-bambini-salerno.html",
+    "data_inizio": "2026-10-22",
+    "data_fine": "2026-11-20",
+    "tipo": "evento",
+    "curated": false,
+    "source": {
+      "name": "SalernoToday — sezione Eventi",
+      "url": "https://www.salernotoday.it/eventi/",
+      "type": "external",
+      "id": "salernotoday-eventi"
+    },
+    "license": "da verificare (testata registrata, contenuti (c))",
+    "retrieved_at": "2026-10-22T10:45:28+00:00",
+    "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/",
+    "visto_ultima_volta": "2026-10-22",
+    "visto_prima_volta": "2026-10-11"
   },
   {
     "id": "salernotoday-eventi-i-sapori-della-tradizione-torna-la-sagra-della-pastorella-cu",
@@ -94,10 +94,10 @@
       "id": "salernotoday-eventi"
     },
     "license": "da verificare (testata registrata, contenuti (c))",
-    "retrieved_at": "2026-10-21T10:44:31+00:00",
+    "retrieved_at": "2026-10-22T10:45:37+00:00",
     "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/",
-    "visto_ultima_volta": "2026-10-21",
-    "visto_prima_volta": "2026-10-21"
+    "visto_ultima_volta": "2026-10-22",
+    "visto_prima_volta": "2026-10-22"
   },
   {
     "id": "salernotoday-eventi-ottobre-in-jazz-fabrizio-bosso-e-julian-oliver-mazzariello-a",
@@ -114,10 +114,10 @@
       "id": "salernotoday-eventi"
     },
     "license": "da verificare (testata registrata, contenuti (c))",
-    "retrieved_at": "2026-10-21T10:44:31+00:00",
+    "retrieved_at": "2026-10-22T10:45:37+00:00",
     "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/",
-    "visto_ultima_volta": "2026-10-21",
-    "visto_prima_volta": "2026-10-21"
+    "visto_ultima_volta": "2026-10-22",
+    "visto_prima_volta": "2026-10-22"
   },
   {
     "id": "salernotoday-eventi-moio-della-civitella-a-pellare-torna-la-sagra-della-castagna",
@@ -134,10 +134,10 @@
       "id": "salernotoday-eventi"
     },
     "license": "da verificare (testata registrata, contenuti (c))",
-    "retrieved_at": "2026-10-21T10:44:50+00:00",
+    "retrieved_at": "2026-10-22T10:45:47+00:00",
     "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/",
-    "visto_ultima_volta": "2026-10-21",
-    "visto_prima_volta": "2026-10-21"
+    "visto_ultima_volta": "2026-10-22",
+    "visto_prima_volta": "2026-10-22"
   },
   {
     "id": "salernotoday-eventi-come-il-vento-a-olevano-sul-tusciano-i-ventagli-d-arte-diven",
@@ -154,10 +154,10 @@
       "id": "salernotoday-eventi"
     },
     "license": "da verificare (testata registrata, contenuti (c))",
-    "retrieved_at": "2026-10-21T10:45:08+00:00",
+    "retrieved_at": "2026-10-22T10:46:01+00:00",
     "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/",
-    "visto_ultima_volta": "2026-10-21",
-    "visto_prima_volta": "2026-10-21"
+    "visto_ultima_volta": "2026-10-22",
+    "visto_prima_volta": "2026-10-22"
   },
   {
     "id": "salernotoday-eventi-pooh-60-la-nostra-storia-il-grande-ritorno-live-doppia-data-",
@@ -174,9 +174,9 @@
       "id": "salernotoday-eventi"
     },
     "license": "da verificare (testata registrata, contenuti (c))",
-    "retrieved_at": "2026-10-21T10:45:46+00:00",
+    "retrieved_at": "2026-10-22T10:46:28+00:00",
     "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-10-11"
   },
   {
@@ -194,10 +194,10 @@
       "id": "salernotoday-eventi"
     },
     "license": "da verificare (testata registrata, contenuti (c))",
-    "retrieved_at": "2026-10-21T10:46:02+00:00",
+    "retrieved_at": "2026-10-22T10:46:39+00:00",
     "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/",
-    "visto_ultima_volta": "2026-10-21",
-    "visto_prima_volta": "2026-10-21"
+    "visto_ultima_volta": "2026-10-22",
+    "visto_prima_volta": "2026-10-22"
   },
   {
     "id": "salernotoday-eventi-cibo-musica-e-divertimento-a-montano-antilia-quattro-giorni-",
@@ -214,10 +214,10 @@
       "id": "salernotoday-eventi"
     },
     "license": "da verificare (testata registrata, contenuti (c))",
-    "retrieved_at": "2026-10-21T10:46:21+00:00",
+    "retrieved_at": "2026-10-22T10:46:50+00:00",
     "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/",
-    "visto_ultima_volta": "2026-10-21",
-    "visto_prima_volta": "2026-10-21"
+    "visto_ultima_volta": "2026-10-22",
+    "visto_prima_volta": "2026-10-22"
   },
   {
     "id": "salernotoday-eventi-festa-della-castagna-braciglianese-dal-6-all-8-novembre-la-p",
@@ -234,10 +234,10 @@
       "id": "salernotoday-eventi"
     },
     "license": "da verificare (testata registrata, contenuti (c))",
-    "retrieved_at": "2026-10-21T10:48:47+00:00",
+    "retrieved_at": "2026-10-22T10:48:29+00:00",
     "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/",
-    "visto_ultima_volta": "2026-10-21",
-    "visto_prima_volta": "2026-10-21"
+    "visto_ultima_volta": "2026-10-22",
+    "visto_prima_volta": "2026-10-22"
   },
   {
     "id": "salernotoday-eventi-salerno-al-teatro-nuovo-l-opera-harm-nya-di-claudio-collano",
@@ -254,17 +254,17 @@
       "id": "salernotoday-eventi"
     },
     "license": "da verificare (testata registrata, contenuti (c))",
-    "retrieved_at": "2026-10-21T10:51:18+00:00",
+    "retrieved_at": "2026-10-22T10:50:21+00:00",
     "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/",
-    "visto_ultima_volta": "2026-10-21",
-    "visto_prima_volta": "2026-10-21"
+    "visto_ultima_volta": "2026-10-22",
+    "visto_prima_volta": "2026-10-22"
   },
   {
     "id": "salernotoday-eventi-parte-la-nuova-stagione-teatrale-al-cinema-teatro-comunale-d",
     "nome": "Parte la nuova stagione teatrale al Cinema -Teatro Comunale di Mercato San Severino: ecco il programma",
     "link": "https://www.salernotoday.it/eventi/teatro/cinema-teatro-mercato-san-severino-206-2027.html",
     "data_inizio": "2026-11-14",
-    "data_fine": "2026-11-19",
+    "data_fine": "2026-11-20",
     "tipo": "evento",
     "curated": false,
     "source": {
@@ -274,10 +274,10 @@
       "id": "salernotoday-eventi"
     },
     "license": "da verificare (testata registrata, contenuti (c))",
-    "retrieved_at": "2026-10-21T10:51:18+00:00",
+    "retrieved_at": "2026-10-22T10:50:21+00:00",
     "provenance": "obscura fetch --stealth su https://www.salernotoday.it/eventi/",
-    "visto_ultima_volta": "2026-10-21",
-    "visto_prima_volta": "2026-10-21"
+    "visto_ultima_volta": "2026-10-22",
+    "visto_prima_volta": "2026-10-22"
   },
   {
     "id": "comune-salerno-eventi-teatro-delle-arti-di-salerno-presentato-il-cartellone-2026-2",
@@ -294,11 +294,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:53:17+00:00",
+    "retrieved_at": "2026-10-22T10:51:47+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -316,11 +316,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:53:19+00:00",
+    "retrieved_at": "2026-10-22T10:51:49+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -338,11 +338,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:53:22+00:00",
+    "retrieved_at": "2026-10-22T10:51:51+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -360,11 +360,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:53:25+00:00",
+    "retrieved_at": "2026-10-22T10:51:58+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -382,11 +382,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:53:28+00:00",
+    "retrieved_at": "2026-10-22T10:52:00+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -404,11 +404,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:53:35+00:00",
+    "retrieved_at": "2026-10-22T10:52:02+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -426,11 +426,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:53:44+00:00",
+    "retrieved_at": "2026-10-22T10:52:10+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -448,11 +448,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:54:12+00:00",
+    "retrieved_at": "2026-10-22T10:52:28+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -470,11 +470,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:54:22+00:00",
+    "retrieved_at": "2026-10-22T10:52:31+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -492,11 +492,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:54:26+00:00",
+    "retrieved_at": "2026-10-22T10:52:33+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -514,11 +514,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:54:28+00:00",
+    "retrieved_at": "2026-10-22T10:52:35+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -536,11 +536,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:54:32+00:00",
+    "retrieved_at": "2026-10-22T10:52:37+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -558,11 +558,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:54:34+00:00",
+    "retrieved_at": "2026-10-22T10:52:40+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -580,11 +580,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:54:42+00:00",
+    "retrieved_at": "2026-10-22T10:52:47+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -602,11 +602,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:54:44+00:00",
+    "retrieved_at": "2026-10-22T10:52:54+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -624,11 +624,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:54:47+00:00",
+    "retrieved_at": "2026-10-22T10:53:01+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -646,11 +646,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:54:57+00:00",
+    "retrieved_at": "2026-10-22T10:53:08+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -668,11 +668,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:54:59+00:00",
+    "retrieved_at": "2026-10-22T10:53:16+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -690,11 +690,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:55:08+00:00",
+    "retrieved_at": "2026-10-22T10:53:21+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -712,11 +712,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:55:16+00:00",
+    "retrieved_at": "2026-10-22T10:53:24+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -734,11 +734,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:55:23+00:00",
+    "retrieved_at": "2026-10-22T10:53:26+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -756,11 +756,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:55:27+00:00",
+    "retrieved_at": "2026-10-22T10:53:29+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -778,11 +778,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:55:41+00:00",
+    "retrieved_at": "2026-10-22T10:53:37+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -800,11 +800,11 @@
       "id": "comune-salerno-eventi"
     },
     "license": "PA italiana, da confermare (di norma CC-BY 4.0)",
-    "retrieved_at": "2026-10-21T10:55:45+00:00",
+    "retrieved_at": "2026-10-22T10:53:39+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.salerno.it/vivere-il-comune/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -822,11 +822,11 @@
       "id": "comune-ravello-eventi"
     },
     "license": "PA italiana, da confermare",
-    "retrieved_at": "2026-10-21T10:55:47+00:00",
+    "retrieved_at": "2026-10-22T10:53:42+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
     "ufficiale": true,
     "data_via": "time",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -844,11 +844,11 @@
       "id": "comune-ravello-eventi"
     },
     "license": "PA italiana, da confermare",
-    "retrieved_at": "2026-10-21T10:55:49+00:00",
+    "retrieved_at": "2026-10-22T10:53:43+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
     "ufficiale": true,
     "data_via": "time",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -866,11 +866,11 @@
       "id": "comune-ravello-eventi"
     },
     "license": "PA italiana, da confermare",
-    "retrieved_at": "2026-10-21T10:55:50+00:00",
+    "retrieved_at": "2026-10-22T10:53:44+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
     "ufficiale": true,
     "data_via": "time",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -888,11 +888,11 @@
       "id": "comune-ravello-eventi"
     },
     "license": "PA italiana, da confermare",
-    "retrieved_at": "2026-10-21T10:55:51+00:00",
+    "retrieved_at": "2026-10-22T10:53:45+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
     "ufficiale": true,
     "data_via": "time",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -910,11 +910,11 @@
       "id": "comune-ravello-eventi"
     },
     "license": "PA italiana, da confermare",
-    "retrieved_at": "2026-10-21T10:55:52+00:00",
+    "retrieved_at": "2026-10-22T10:53:46+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
     "ufficiale": true,
     "data_via": "time",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -932,11 +932,11 @@
       "id": "comune-ravello-eventi"
     },
     "license": "PA italiana, da confermare",
-    "retrieved_at": "2026-10-21T10:55:54+00:00",
+    "retrieved_at": "2026-10-22T10:53:46+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
     "ufficiale": true,
     "data_via": "time",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -954,11 +954,11 @@
       "id": "comune-ravello-eventi"
     },
     "license": "PA italiana, da confermare",
-    "retrieved_at": "2026-10-21T10:56:00+00:00",
+    "retrieved_at": "2026-10-22T10:53:52+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
     "ufficiale": true,
     "data_via": "time",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -976,11 +976,11 @@
       "id": "comune-ravello-eventi"
     },
     "license": "PA italiana, da confermare",
-    "retrieved_at": "2026-10-21T10:56:01+00:00",
+    "retrieved_at": "2026-10-22T10:53:53+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
     "ufficiale": true,
     "data_via": "time",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -998,11 +998,11 @@
       "id": "comune-ravello-eventi"
     },
     "license": "PA italiana, da confermare",
-    "retrieved_at": "2026-10-21T10:56:02+00:00",
+    "retrieved_at": "2026-10-22T10:53:54+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
     "ufficiale": true,
     "data_via": "time",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -1020,11 +1020,11 @@
       "id": "comune-ravello-eventi"
     },
     "license": "PA italiana, da confermare",
-    "retrieved_at": "2026-10-21T10:56:08+00:00",
+    "retrieved_at": "2026-10-22T10:53:55+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
     "ufficiale": true,
     "data_via": "time",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -1042,11 +1042,11 @@
       "id": "comune-ravello-eventi"
     },
     "license": "PA italiana, da confermare",
-    "retrieved_at": "2026-10-21T10:56:09+00:00",
+    "retrieved_at": "2026-10-22T10:53:56+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
     "ufficiale": true,
     "data_via": "time",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -1064,11 +1064,11 @@
       "id": "comune-ravello-eventi"
     },
     "license": "PA italiana, da confermare",
-    "retrieved_at": "2026-10-21T10:56:10+00:00",
+    "retrieved_at": "2026-10-22T10:53:57+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
     "ufficiale": true,
     "data_via": "time",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -1086,11 +1086,11 @@
       "id": "comune-ravello-eventi"
     },
     "license": "PA italiana, da confermare",
-    "retrieved_at": "2026-10-21T10:56:11+00:00",
+    "retrieved_at": "2026-10-22T10:53:57+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.ravello.sa.it/it/vivere/eventi",
     "ufficiale": true,
     "data_via": "time",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
@@ -1108,11 +1108,11 @@
       "id": "comune-agropoli-eventi"
     },
     "license": "PA italiana, da confermare",
-    "retrieved_at": "2026-10-21T10:56:31+00:00",
+    "retrieved_at": "2026-10-22T10:54:10+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.agropoli.sa.it/vivere-il-comune/eventi/",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-10-11"
   },
   {
@@ -1130,11 +1130,11 @@
       "id": "comune-agropoli-eventi"
     },
     "license": "PA italiana, da confermare",
-    "retrieved_at": "2026-10-21T10:56:38+00:00",
+    "retrieved_at": "2026-10-22T10:54:16+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.agropoli.sa.it/vivere-il-comune/eventi/",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-10-11"
   },
   {
@@ -1152,11 +1152,11 @@
       "id": "comune-agropoli-eventi"
     },
     "license": "PA italiana, da confermare",
-    "retrieved_at": "2026-10-21T10:56:44+00:00",
+    "retrieved_at": "2026-10-22T10:54:22+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.agropoli.sa.it/vivere-il-comune/eventi/",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-10-11"
   },
   {
@@ -1174,11 +1174,11 @@
       "id": "comune-praiano-eventi"
     },
     "license": "PA italiana, da confermare",
-    "retrieved_at": "2026-10-21T10:56:55+00:00",
+    "retrieved_at": "2026-10-22T10:54:30+00:00",
     "provenance": "obscura fetch --stealth su https://www.comune.praiano.sa.it/eventi",
     "ufficiale": true,
     "data_via": "calendario",
-    "visto_ultima_volta": "2026-10-21",
+    "visto_ultima_volta": "2026-10-22",
     "visto_prima_volta": "2026-09-12"
   },
   {
