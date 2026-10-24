@@ -14,7 +14,7 @@ concurrency:
 jobs:
   check:
     name: check
-    runs-on: [self-hosted, linux, obscura]
+    runs-on: [self-hosted, soliso, autcir, awesome-salerno]
     timeout-minutes: 90   # richieste vere con limite per host e secondo tentativo
     permissions:
       contents: write   # committa i dati aggiornati

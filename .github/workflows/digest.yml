@@ -14,7 +14,7 @@ concurrency:
 jobs:
   digest:
     name: digest
-    runs-on: [self-hosted, linux, obscura]
+    runs-on: [self-hosted, soliso, autcir, awesome-salerno]
     timeout-minutes: 15
     permissions:
       contents: write   # committa e spinge il digest
