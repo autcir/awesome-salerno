@@ -1,4 +1,10 @@
-# Etichetta del runner self-hosted su cui girano tutti i workflow (soliso, dove sta obscura).
+# Etichette del runner self-hosted su cui girano tutti i workflow:
+# soliso-autcir-awesome-salerno sulla VPS soliso, dove sta obscura.
+# I workflow chiedono [self-hosted, linux, obscura] (vincolo del contratto er0s,
+# docs/CONTRACT.md); soliso, autcir e awesome-salerno identificano il runner.
 self-hosted-runner:
   labels:
     - obscura
+    - soliso
+    - autcir
+    - awesome-salerno
