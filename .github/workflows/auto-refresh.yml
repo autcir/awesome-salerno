@@ -8,7 +8,7 @@ permissions: {}
 jobs:
   refresh:
     name: refresh
-    runs-on: [self-hosted, soliso, autcir, awesome-salerno]
+    runs-on: [self-hosted, linux, obscura]
     timeout-minutes: 60
     # Condivisa con il deploy di ci.yml: entrambi pubblicano su gh-pages.
     concurrency:

@@ -11,7 +11,7 @@ concurrency:
 jobs:
   apri-pr:
     name: apri-pr
-    runs-on: [self-hosted, soliso, autcir, awesome-salerno]
+    runs-on: [self-hosted, linux, obscura]
     timeout-minutes: 10
     permissions:
       contents: read
