@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-19T00:00:00Z",
+  "generated_at": "2026-10-26T00:00:00Z",
   "generator": "scripts/build_manifest.py",
   "dataset": {
     "name": "awesome-salerno",
@@ -71,12 +71,12 @@
     {
       "path": "all.json",
       "bytes": 3715566,
-      "sha256": "dde4add74fd9697121dd359d15c7adbca7adfac4e4a0369503a9534e1058e9b0"
+      "sha256": "7ed6e28ff7468536aff6a519aa9644dcd6706aa1fcf858207a32c213fcc98950"
     },
     {
       "path": "awesome-salerno.geojson",
       "bytes": 3777410,
-      "sha256": "858039de9b4c2a0299cacbbe79db20e9d76125475cc87d6afca22a019bfbf0fa"
+      "sha256": "46ebdcff1666143e0b0959fd52897f60853895f8ec212d650fb478fc9903cff9"
     },
     {
       "path": "awesome-salerno.kml",
@@ -91,7 +91,7 @@
     {
       "path": "broken_links.json",
       "bytes": 124,
-      "sha256": "8b850b11bc2bfe4f77fbd302e5218f8dabc783701c884425c3a13e7787e7967d"
+      "sha256": "b225206c5e8d06c49690302ff2303b934a7f779c88e1d42a89eb48ad7a91fc2f"
     },
     {
       "path": "comuni_provincia.json",
@@ -121,7 +121,7 @@
     {
       "path": "monumenti.json",
       "bytes": 2282593,
-      "sha256": "92fcd9463f9d9f9ecfd8c22727d7cd13959480ca6a36930aa7d1296122d914e9"
+      "sha256": "8f3074b5c3da78d3fac7cece37836b0296d08bf307f302ac44880e5af2a72722"
     },
     {
       "path": "panorami.json",
