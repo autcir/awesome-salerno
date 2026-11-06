@@ -26,12 +26,12 @@ Derivati dai file sopra (non si modificano a mano; per `events.xml` e `voice-ass
 
 | File | Generato da | Contenuto |
 |---|---|---|
-| `all.json` | `scripts/export_data.py` | Dizionario con le 6 chiavi `sentieri`, `monumenti`, `spiagge`, `eventi`, `panorami`, `parchi` (5529 voci in tutto) |
+| `all.json` | `scripts/export_data.py` | Dizionario con le 6 chiavi `sentieri`, `monumenti`, `spiagge`, `eventi`, `panorami`, `parchi` (5530 voci in tutto) |
 | `awesome-salerno.geojson` | `scripts/export_data.py` | FeatureCollection di soli `Point` |
 | `awesome-salerno.kml`, `.kmz` | `api/kml_export.py` | Una cartella per categoria |
 | `events.xml` | nessuno script nel repo (da `eventi.json`, oggi non rigenerato) | Feed RSS dei 49 eventi curati |
 | `rag/chunks.jsonl` | `scripts/build_rag.py` | Un chunk per voce, per il retrieval |
-| `voice-assistant.json` | a mano | Definizione degli intent per assistenti vocali; i conteggi in `data_summary` sono vecchi (5547 POI contro i 5529 reali) |
+| `voice-assistant.json` | a mano | Definizione degli intent per assistenti vocali; i conteggi in `data_summary` sono vecchi (5547 POI contro i 5530 reali) |
 
 `all.json` e' l'unione dei sei file di categoria e deve coincidere con essi.
 `docs/data/` e' la copia pubblicata sul sito: si rigenera da qui, non si modifica.

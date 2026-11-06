@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-19T00:00:00Z",
+  "generated_at": "2026-11-06T00:00:00Z",
   "generator": "scripts/build_manifest.py",
   "dataset": {
     "name": "awesome-salerno",
@@ -8,16 +8,16 @@
   },
   "counts": {
     "all_json": {
-      "total": 5529,
+      "total": 5530,
       "sentieri": 1658,
       "monumenti": 3479,
       "spiagge": 78,
-      "eventi": 49,
+      "eventi": 50,
       "panorami": 253,
       "parchi": 12
     },
-    "eventi_json": 49,
-    "eventi_scraped_json": 48,
+    "eventi_json": 50,
+    "eventi_scraped_json": 54,
     "link_wikipedia": 244
   },
   "licensing": {
@@ -25,7 +25,7 @@
     "sources": [
       {
         "source": "curated",
-        "records": 46,
+        "records": 47,
         "name": "Curatori del progetto (verificate su fonti pubbliche)",
         "license": "da confermare dal titolare (LICENSE dichiara CC0-1.0)",
         "attribution": null,
@@ -66,32 +66,32 @@
     {
       "path": "README.md",
       "bytes": 6184,
-      "sha256": "e785761eecab63381365669660f495d7a26a53d2e7bdcbf38b78cb4bc5e1a07e"
+      "sha256": "8d3ea5413a01504dc20c0c831c8f6651a95dcec4e6c2a384405bd847a6d930d4"
     },
     {
       "path": "all.json",
-      "bytes": 3715566,
-      "sha256": "dde4add74fd9697121dd359d15c7adbca7adfac4e4a0369503a9534e1058e9b0"
+      "bytes": 3717273,
+      "sha256": "de984158dfd3df187be5d88d5f1876aa1b4ba1c22ce4b102e50fa0736580039c"
     },
     {
       "path": "awesome-salerno.geojson",
-      "bytes": 3777410,
-      "sha256": "858039de9b4c2a0299cacbbe79db20e9d76125475cc87d6afca22a019bfbf0fa"
+      "bytes": 3778813,
+      "sha256": "67dedaa9177cc4f7c03c3c881ad46832982c0abf13e0ea9398a6afab15f24825"
     },
     {
       "path": "awesome-salerno.kml",
-      "bytes": 2727921,
-      "sha256": "cc05b593bfddd53e7b88ffe24b268e9a4fce4f7a012b17f1aa4bf9c7c1646c70"
+      "bytes": 2729455,
+      "sha256": "a96e1c166c808e21bfb8c1a125c8b526fbaef347332fcdf7a3976ec906ceebfe"
     },
     {
       "path": "awesome-salerno.kmz",
-      "bytes": 285006,
-      "sha256": "e44f120722f42a3c367b14b780b6cb0cae485bbad19380721ca55f530bef1fde"
+      "bytes": 285262,
+      "sha256": "ee24b0dbc3b2848622df750e73739119ab6b12059fd16237b58cfdc9655ac74f"
     },
     {
       "path": "broken_links.json",
       "bytes": 124,
-      "sha256": "8b850b11bc2bfe4f77fbd302e5218f8dabc783701c884425c3a13e7787e7967d"
+      "sha256": "b225206c5e8d06c49690302ff2303b934a7f779c88e1d42a89eb48ad7a91fc2f"
     },
     {
       "path": "comuni_provincia.json",
@@ -100,13 +100,13 @@
     },
     {
       "path": "eventi.json",
-      "bytes": 47231,
-      "sha256": "b0623aa430f8021d1614ec8fc2c48c835b62fcb02c2b4b8b9622f6f154e0311a"
+      "bytes": 48294,
+      "sha256": "9a69a5094f286122e4ba11ba26f9cb408a7ae20af0377b09328829d2c6d6f075"
     },
     {
       "path": "eventi_scraped.json",
-      "bytes": 43518,
-      "sha256": "223a646502b7c0bdc064b6ceb38fe9fa21c0b7ad26104e10e1d36d801b6a12f4"
+      "bytes": 48856,
+      "sha256": "b51f8240a90e56eaebb2d3cd4d0b9164290748dccfc16bb60a394cfb8a320ca8"
     },
     {
       "path": "events.json",
@@ -120,8 +120,8 @@
     },
     {
       "path": "monumenti.json",
-      "bytes": 2282593,
-      "sha256": "92fcd9463f9d9f9ecfd8c22727d7cd13959480ca6a36930aa7d1296122d914e9"
+      "bytes": 2283169,
+      "sha256": "acf1401a51073282698d04f57c79df00a589df1c1da869cac7d9f8e059547335"
     },
     {
       "path": "panorami.json",
@@ -135,8 +135,8 @@
     },
     {
       "path": "rag/chunks.jsonl",
-      "bytes": 2482806,
-      "sha256": "4900886f987720987dfd2525a8d1ffe095586462076cef1647688691f4dd8287"
+      "bytes": 2484273,
+      "sha256": "83a5ca6756534cd943b8c18e85e0151308bba4bcba908088c4597062f8a641ff"
     },
     {
       "path": "reports/duplicates.json",
@@ -146,7 +146,7 @@
     {
       "path": "reports/quality.json",
       "bytes": 14295,
-      "sha256": "47abded890ca1f6cfbbb90356c33782ed3485f04c8e19889a2f3420f42bc397f"
+      "sha256": "431c7cdee0cfccd6924f08f1413e7623b8a812bb2a9f5731eb3e165086d22c8f"
     },
     {
       "path": "sentieri.json",
@@ -155,8 +155,8 @@
     },
     {
       "path": "sources.json",
-      "bytes": 9152,
-      "sha256": "260209151c199be8ec52284a5917985cb2823dcae61038263900da837c397dcb"
+      "bytes": 9355,
+      "sha256": "5a3499702b27232d59cb7dc0bc9ddde6b0d4c7666e9331160e504ce3fbba043f"
     },
     {
       "path": "spiagge.json",

@@ -66,14 +66,14 @@
     },
     {
       "id": "luci-artista",
-      "nome": "Salerno Luci d'Artista — sito ufficiale",
-      "url": "https://salernolucidartista.eu",
+      "nome": "Comune di Salerno — Luci d'Artista (Salerno Cultura)",
+      "url": "https://cultura.comune.salerno.it/lucidartista/",
       "tipo": "official",
       "licenza": "da verificare",
       "semaforo": "verde",
-      "misura": "HTTP ok, 78 link, 24.876 caratteri",
+      "misura": "HTTP 200 il 2026-11-06; salernolucidartista.eu non risolve (DNS) e non e' piu' usato",
       "copertura": "l'evento di punta della citta'",
-      "note": "Gia' presente in eventi.json come record curated (luci-dartista-2025). Qui serve a CONFERMARE, non a duplicare."
+      "note": "Gia' presente in eventi.json come record curated (luci-dartista-2026). Qui serve a CONFERMARE, non a duplicare. Al 2026-11-06 la pagina Opere dice che mappa e dettagli delle nuove installazioni saranno disponibili nei prossimi giorni."
     },
     {
       "id": "ilmattino-salerno",

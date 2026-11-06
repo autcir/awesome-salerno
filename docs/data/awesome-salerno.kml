@@ -3,7 +3,7 @@
      xmlns:gx="http://www.google.com/kml/ext/2.2">
   <Document>
     <name>Awesome Salerno</name>
-    <description>Curated tourism data for Salerno, Amalfi Coast and Cilento. 5529 POI with GPS coordinates.</description>
+    <description>Curated tourism data for Salerno, Amalfi Coast and Cilento. 5530 POI with GPS coordinates.</description>
     <open>1</open>
     <visibility>1</visibility>
 
@@ -2143,7 +2143,7 @@ Zona: Salerno | Città: Montano Antilia | Tipo: altro<br/>
         <name>Cammino di San Nilo - Tappa 6</name>
         <description><![CDATA[Cammino di San Nilo - Tappa 6 a Roscigno<br/>
 Zona: Salerno | Città: Roscigno | Tipo: sentiero<br/>
-<a href="https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/">Link</a>]]></description>
+<a href="https://www.openstreetmap.org/?mlat=40.1865031&amp;mlon=15.3957885#map=16/40.1865031/15.3957885">Link</a>]]></description>
         <styleUrl>#style-sentieri</styleUrl>
         <Point>
           <coordinates>15.3957885,40.1865031,0</coordinates>
@@ -2153,7 +2153,7 @@ Zona: Salerno | Città: Roscigno | Tipo: sentiero<br/>
         <name>Cammino di San Nilo - Tappa 5</name>
         <description><![CDATA[Cammino di San Nilo - Tappa 5 a Santi Cosma e Damiano<br/>
 Zona: Salerno | Città: Santi Cosma e Damiano | Tipo: sentiero<br/>
-<a href="https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/">Link</a>]]></description>
+<a href="https://www.openstreetmap.org/?mlat=40.1921223&amp;mlon=15.4850989#map=16/40.1921223/15.4850989">Link</a>]]></description>
         <styleUrl>#style-sentieri</styleUrl>
         <Point>
           <coordinates>15.4850989,40.1921223,0</coordinates>
@@ -2163,7 +2163,7 @@ Zona: Salerno | Città: Santi Cosma e Damiano | Tipo: sentiero<br/>
         <name>Cammino di San Nilo - Tappa 8</name>
         <description><![CDATA[Cammino di San Nilo - Tappa 8 a San Nicola Arcella<br/>
 Zona: Cilento | Città: San Nicola Arcella | Tipo: sentiero<br/>
-<a href="https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/">Link</a>]]></description>
+<a href="https://www.openstreetmap.org/?mlat=40.0838571&amp;mlon=15.2946964#map=16/40.0838571/15.2946964">Link</a>]]></description>
         <styleUrl>#style-sentieri</styleUrl>
         <Point>
           <coordinates>15.2946964,40.0838571,0</coordinates>
@@ -2173,7 +2173,7 @@ Zona: Cilento | Città: San Nicola Arcella | Tipo: sentiero<br/>
         <name>Cammino di San Nilo - Tappa 7</name>
         <description><![CDATA[Cammino di San Nilo - Tappa 7 a Montano Antilia<br/>
 Zona: Salerno | Città: Montano Antilia | Tipo: sentiero<br/>
-<a href="https://www.italiadeicammini.it/cammino-di-san-nilo-tappe-cilento/">Link</a>]]></description>
+<a href="https://www.openstreetmap.org/?mlat=40.1502198&amp;mlon=15.3262443#map=16/40.1502198/15.3262443">Link</a>]]></description>
         <styleUrl>#style-sentieri</styleUrl>
         <Point>
           <coordinates>15.3262443,40.1502198,0</coordinates>
@@ -19867,7 +19867,7 @@ Zona: Cilento | Città: Vallo della Lucania | Tipo: altro<br/>
         <name>Congregazione Religiosa delle Ancelle di Santa Teresa di Gesù Bambino</name>
         <description><![CDATA[Congregazione Religiosa delle Ancelle di Santa Teresa di Gesù Bambino: luogo di culto cattolico a Vallo della Lucania.<br/>
 Zona: Cilento | Città: Vallo della Lucania | Tipo: altro<br/>
-<a href="https://www.artproject.it/santa_teresa/index.html">Link</a>]]></description>
+<a href="https://www.openstreetmap.org/?mlat=40.231398&amp;mlon=15.2721252#map=16/40.231398/15.2721252">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>15.2721252,40.231398,0</coordinates>
@@ -28758,7 +28758,7 @@ Zona: Salerno | Città: Colliano | Tipo: altro<br/>
         <name>Terme del Foro (VII.5.2)</name>
         <description><![CDATA[Terme del Foro (VII.5.2): sito archeologico a Pompei.<br/>
 Zona: Salerno | Città: Pompei | Tipo: archeologico<br/>
-<a href="https://it.wikipedia.org/wiki/Terme_del_Foro">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Terme_del_Foro_%28Pompei%29">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.4841235,40.7503359,0</coordinates>
@@ -31918,7 +31918,7 @@ Zona: Salerno | Città: Pompei | Tipo: altro<br/>
         <name>Tempio d'Iside (VIII.7.28)</name>
         <description><![CDATA[Tempio d'Iside (VIII.7.28): sito archeologico a Pompei.<br/>
 Zona: Salerno | Città: Pompei | Tipo: archeologico<br/>
-<a href="https://it.wikipedia.org/wiki/Tempio_di_Iside_%28Pompei%29">Link</a>]]></description>
+<a href="https://it.wikipedia.org/wiki/Tempio_di_Iside">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.4882708,40.7491818,0</coordinates>
@@ -51109,7 +51109,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: archeologico
         <name>Giardino Preistorico</name>
         <description><![CDATA[Installazione luminosa con dinosauri e creature preistoriche nella Villa Comunale<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Villa Comunale | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.773,40.681,0</coordinates>
@@ -51119,7 +51119,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Villa Comunale | Tipo: monumento<br
         <name>Percorso Fiorito</name>
         <description><![CDATA[Tunnel luminoso con fiori e rami colorati nel Centro Storico<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.765,40.6795,0</coordinates>
@@ -51129,7 +51129,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br
         <name>Noi siamo Natura</name>
         <description><![CDATA[Figure femminili in relazione con elementi naturali - capelli nuvole, mani farfalle<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.764,40.679,0</coordinates>
@@ -51139,7 +51139,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br
         <name>La danza delle meduse</name>
         <description><![CDATA[Meduse luminose multicolori che popolano il cielo della piazza<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.762,40.678,0</coordinates>
@@ -51149,7 +51149,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br
         <name>...e le stelle stanno a guardare</name>
         <description><![CDATA[Volta affrescata luminosa con cerchio di nuvole e figure misteriose<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.768,40.677,0</coordinates>
@@ -51159,7 +51159,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br
         <name>Albero di Natale</name>
         <description><![CDATA[Grande albero natalizio illuminato in Piazza Portanova<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.771,40.676,0</coordinates>
@@ -51169,7 +51169,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br
         <name>Angeli</name>
         <description><![CDATA[Figure angeliche luminose lungo Via Duomo<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.767,40.6755,0</coordinates>
@@ -51179,7 +51179,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br
         <name>Colorare Salerno</name>
         <description><![CDATA[Esplosione di colori e sfumature nella piazza<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.765,40.675,0</coordinates>
@@ -51189,7 +51189,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br
         <name>Il mare d'inverno</name>
         <description><![CDATA[Viaggio emozionale tra luci e riflessi d'acqua sul Corso Vittorio Emanuele<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.772,40.674,0</coordinates>
@@ -51199,7 +51199,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br
         <name>Locomotiva dei fiori</name>
         <description><![CDATA[Locomotiva luminosa con ciminiera di fiori variopinti in Piazza Vittorio Veneto<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Mercato | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.778,40.672,0</coordinates>
@@ -51209,7 +51209,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Mercato | Tipo: monumento<br/>
         <name>Giochi di biglie</name>
         <description><![CDATA[Sfere colorate ispirate ai giochi d'infanzia natalizi<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Mercato | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.775,40.673,0</coordinates>
@@ -51219,7 +51219,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Mercato | Tipo: monumento<br/>
         <name>Paesaggio Polare</name>
         <description><![CDATA[Scenario di acqua, ghiacci e orsi polari luminosi<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Mercato | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.776,40.6735,0</coordinates>
@@ -51229,7 +51229,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Mercato | Tipo: monumento<br/>
         <name>Albero natalizio con sfere colorate</name>
         <description><![CDATA[Albero decorato con sfere multicolori<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.769,40.6745,0</coordinates>
@@ -51239,7 +51239,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br
         <name>Palme Dorate</name>
         <description><![CDATA[Palme luminose dorate lungo il Lungomare<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Lungomare | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.782,40.668,0</coordinates>
@@ -51249,7 +51249,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Lungomare | Tipo: monumento<br/>
         <name>I Fiori del Mare</name>
         <description><![CDATA[Bulbi di luce nei pali e palme di Piazza della Libertà<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Lungomare | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.781,40.669,0</coordinates>
@@ -51259,7 +51259,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Lungomare | Tipo: monumento<br/>
         <name>Partitura d'aMARE</name>
         <description><![CDATA[Pentagramma musicale che diventa onde marine nella Sottopiazza della Libertà<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Lungomare | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.7805,40.6685,0</coordinates>
@@ -51269,7 +51269,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Lungomare | Tipo: monumento<br/>
         <name>Alberi Magici</name>
         <description><![CDATA[Alberi luminosi incantati in Piazza San Francesco<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.764,40.6765,0</coordinates>
@@ -51279,7 +51279,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br
         <name>La fata delle farfalle</name>
         <description><![CDATA[Fata magica con bacchetta scintillante e farfalle variopinte a Largo Dogana Regia<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.763,40.6755,0</coordinates>
@@ -51289,7 +51289,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br
         <name>Madonna con Bambino</name>
         <description><![CDATA[Presepe luminoso nel Complesso di Santa Sofia<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.766,40.6775,0</coordinates>
@@ -51299,7 +51299,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br
         <name>Rami Dorati</name>
         <description><![CDATA[Rami d'oro luminosi lungo Via del Carmine e Via dei Principati<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.766,40.6745,0</coordinates>
@@ -51309,7 +51309,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br
         <name>Foglie d'Argento, Fiocchi e Stelle</name>
         <description><![CDATA[Foglie argento e stelle luminose lungo Via Trento<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.769,40.673,0</coordinates>
@@ -51319,7 +51319,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br
         <name>Alberi Innevati</name>
         <description><![CDATA[Alberi coperti di neve artificiale lungo Corso Garibaldi<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Mercato | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.774,40.671,0</coordinates>
@@ -51329,7 +51329,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Mercato | Tipo: monumento<br/>
         <name>Metamorphosis</name>
         <description><![CDATA[Trasformazioni luminose di Eliana Petrizzi<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Mercato | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.777,40.6715,0</coordinates>
@@ -51339,7 +51339,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Mercato | Tipo: monumento<br/>
         <name>Il Mito</name>
         <description><![CDATA[Installazione mitologica di Nello Ferrigno<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Mercato | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.779,40.6725,0</coordinates>
@@ -51349,7 +51349,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Mercato | Tipo: monumento<br/>
         <name>Sfere-Mondi</name>
         <description><![CDATA[Sfere luminose che rappresentano mondi diversi<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Mercato | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.776,40.6705,0</coordinates>
@@ -51359,7 +51359,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Mercato | Tipo: monumento<br/>
         <name>Giochi d'Acqua</name>
         <description><![CDATA[Giochi luminosi d'acqua nelle vie del centro<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.763,40.674,0</coordinates>
@@ -51369,7 +51369,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br
         <name>Vele</name>
         <description><![CDATA[Vele luminose lungo Via Cocchia<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Lungomare | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.78,40.6695,0</coordinates>
@@ -51379,7 +51379,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Lungomare | Tipo: monumento<br/>
         <name>Onde e Vele</name>
         <description><![CDATA[Onde e vele marine luminose lungo Via Diaz<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Lungomare | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.7815,40.6688,0</coordinates>
@@ -51389,7 +51389,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Lungomare | Tipo: monumento<br/>
         <name>Circus</name>
         <description><![CDATA[Circus luminoso di Luca Pannoli nelle vie del centro<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.762,40.676,0</coordinates>
@@ -51399,7 +51399,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br
         <name>Accendi il tuo futuro</name>
         <description><![CDATA[Opera della Cooperativa Sociale Fili d'Erba<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Mercato | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.773,40.67,0</coordinates>
@@ -51409,7 +51409,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Mercato | Tipo: monumento<br/>
         <name>...e le stelle stanno a guardare (Piazza Flavio Gioia)</name>
         <description><![CDATA[Volta affrescata luminosa nella rotonda di Piazza Flavio Gioia<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.7685,40.677,0</coordinates>
@@ -51419,7 +51419,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br
         <name>Sei Tu il Regalo Più Bello</name>
         <description><![CDATA[Omaggio alla manifestazione per la XX edizione<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.7675,40.6742,0</coordinates>
@@ -51429,7 +51429,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br
         <name>Le Parole dei Bambini</name>
         <description><![CDATA[Opere dei bambini delle scuole primarie di Salerno<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.7655,40.6738,0</coordinates>
@@ -51439,7 +51439,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br
         <name>Natività</name>
         <description><![CDATA[Presepe luminoso nella Chiesa SS. Crocifisso<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.7685,40.6758,0</coordinates>
@@ -51449,7 +51449,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br
         <name>Moonlight</name>
         <description><![CDATA[Luna luminosa in Piazza Dante Alighieri<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.7695,40.6748,0</coordinates>
@@ -51459,7 +51459,7 @@ Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: monumento<br
         <name>Don Chisciotte e altre opere</name>
         <description><![CDATA[Don Chisciotte, Metamorphosis, Pulcinella, Il Tuffatore, Il Poeta - Piazza Vittorio Veneto<br/>
 Zona: Salerno | Città: Salerno | Quartiere: Mercato | Tipo: monumento<br/>
-<a href="https://salernolucidartista.eu/opere/">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/opere/">Link</a>]]></description>
         <styleUrl>#style-monumenti</styleUrl>
         <Point>
           <coordinates>14.7775,40.6722,0</coordinates>
@@ -52251,7 +52251,7 @@ Zona: Costiera | Città: Positano | Tipo: spiaggia<br/>
       </Placemark>
     </Folder>
     <Folder>
-      <name>Eventi (49)</name>
+      <name>Eventi (50)</name>
       <description>POI categoria Eventi</description>
       <Placemark id="luci-dartista-2025">
         <name>Luci d'Artista 2025-2026</name>
@@ -52261,7 +52261,7 @@ Da: 2025-11-14 | A: 2026-02-01<br/>
 Ricorrenza: annuale<br/>
 Edizione: 20<br/>
 Luoghi: Centro Storico, Lungomare, Villa Comunale, Piazza Vittorio Veneto<br/>
-<a href="https://salernolucidartista.eu">Link</a>]]></description>
+<a href="https://cultura.comune.salerno.it/lucidartista/">Link</a>]]></description>
         <styleUrl>#style-eventi</styleUrl>
         <Point>
           <coordinates>14.768,40.678,0</coordinates>
@@ -52891,6 +52891,19 @@ Luoghi: Anfiteatro, Villa Comunale, Piazza Flavio Gioia, Lungomare<br/>
         <styleUrl>#style-eventi</styleUrl>
         <Point>
           <coordinates>14.7633,40.6767,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="luci-dartista-2026">
+        <name>Luci d'Artista 2026-2027</name>
+        <description><![CDATA[Accensione sabato 7 novembre 2026, nel pomeriggio, salvo maltempo (SalernoToday, 5/11/2026). Opere, mappa, orari e fine non ancora pubblicati dal Comune: 6/1/2027 e' la data di Trenitalia.<br/>
+Zona: Salerno | Città: Salerno | Quartiere: Centro Storico | Tipo: luci-artista<br/>
+Da: 2026-11-07 | A: 2027-01-06<br/>
+Ricorrenza: annuale<br/>
+Luoghi: Teatro Pasolini, Villa Comunale, Centro Storico, Portanova, Rotonda, Pastena<br/>
+<a href="https://cultura.comune.salerno.it/lucidartista/">Link</a>]]></description>
+        <styleUrl>#style-eventi</styleUrl>
+        <Point>
+          <coordinates>14.768,40.678,0</coordinates>
         </Point>
       </Placemark>
     </Folder>

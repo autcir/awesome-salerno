@@ -1,6 +1,6 @@
 {
   "note": "Problemi gia' presenti, segnalati e non corretti. La CI blocca solo quelli nuovi (schema/quality-baseline.json). Rigenerato da scripts/validate_data.py --write-reports.",
-  "voci_totali": 5529,
+  "voci_totali": 5530,
   "regole": {
     "dup_nome_citta": {
       "descrizione": "stessa coppia nome+citta' (senza maiuscole/spazi) su piu' voci",

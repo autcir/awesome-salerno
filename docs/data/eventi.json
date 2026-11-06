@@ -10,7 +10,7 @@
     "quartiere": "Centro Storico",
     "tipo": "luci-artista",
     "source": "curated",
-    "link": "https://salernolucidartista.eu",
+    "link": "https://cultura.comune.salerno.it/lucidartista/",
     "data_inizio": "2025-11-14",
     "data_fine": "2026-02-01",
     "ricorrenza": "annuale",
@@ -22,13 +22,13 @@
       "Villa Comunale",
       "Piazza Vittorio Veneto"
     ],
-    "last_verified": "2026-10-12",
+    "last_verified": "2026-11-06",
     "provincia": "Salerno",
     "sigla_provincia": "SA",
     "regione": "Campania",
     "in_ambito": true,
     "link_type": "external",
-    "last_checked": "2026-10-12",
+    "last_checked": "2026-11-06",
     "last_status": "200"
   },
   {
@@ -1512,6 +1512,40 @@
     "in_ambito": true,
     "link_type": "external",
     "last_checked": "2026-10-12",
+    "last_status": "200"
+  },
+  {
+    "id": "luci-dartista-2026",
+    "nome": "Luci d'Artista 2026-2027",
+    "descrizione": "Accensione sabato 7 novembre 2026, nel pomeriggio, salvo maltempo (SalernoToday, 5/11/2026). Opere, mappa, orari e fine non ancora pubblicati dal Comune: 6/1/2027 e' la data di Trenitalia.",
+    "lat": 40.678,
+    "lng": 14.768,
+    "zona": "salerno",
+    "citta": "Salerno",
+    "quartiere": "Centro Storico",
+    "tipo": "luci-artista",
+    "source": "curated",
+    "link": "https://cultura.comune.salerno.it/lucidartista/",
+    "data_inizio": "2026-11-07",
+    "data_fine": "2027-01-06",
+    "ricorrenza": "annuale",
+    "edizione": null,
+    "anno_inizio": null,
+    "luoghi": [
+      "Teatro Pasolini",
+      "Villa Comunale",
+      "Centro Storico",
+      "Portanova",
+      "Rotonda",
+      "Pastena"
+    ],
+    "last_verified": "2026-11-06",
+    "provincia": "Salerno",
+    "sigla_provincia": "SA",
+    "regione": "Campania",
+    "in_ambito": true,
+    "link_type": "external",
+    "last_checked": "2026-11-06",
     "last_status": "200"
   }
 ]

@@ -7,7 +7,7 @@
 <!-- lint ignore awesome-badge -->
 <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
 <a href="https://github.com/autcir/awesome-salerno/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0"></a>
-<a href="https://autcir.github.io/awesome-salerno/"><img src="https://img.shields.io/badge/POIs-5529-blue.svg" alt="POIs: 5529"></a>
+<a href="https://autcir.github.io/awesome-salerno/"><img src="https://img.shields.io/badge/POIs-5530-blue.svg" alt="POIs: 5530"></a>
 <a href="https://github.com/autcir/awesome-salerno/tree/main/mcp"><img src="https://img.shields.io/badge/MCP-Ready-purple.svg" alt="MCP Ready"></a>
 <a href="https://github.com/autcir/awesome-salerno/actions/workflows/ci.yml"><img src="https://github.com/autcir/awesome-salerno/actions/workflows/ci.yml/badge.svg" alt="CI Status"></a>
 
@@ -47,7 +47,7 @@
 > Guida aperta, verificabile e mantenuta ai luoghi e agli eventi di Salerno,
 > Costiera Amalfitana e Cilento.
 
-5529 POI (sentieri, monumenti, spiagge, panorami, parchi, eventi) con coordinate
+5530 POI (sentieri, monumenti, spiagge, panorami, parchi, eventi) con coordinate
 GPS, fonte e data di verifica. Dati in JSON, GeoJSON, KML/KMZ, RSS e dataset RAG.
 
 Licenze: non sono uniformi. Le voci `source: osm` contengono dati ©
@@ -71,8 +71,8 @@ sotto sono in inglese; dati e documentazione per i contributor sono in italiano.
 
 | Metric                                             | Value        |
 | -------------------------------------------------- | ------------ |
-| Total POI                                          | 5529         |
-| In declared scope (Salerno, Amalfi Coast, Cilento) | 3785         |
+| Total POI                                          | 5530         |
+| In declared scope (Salerno, Amalfi Coast, Cilento) | 3786         |
 | Outside declared scope, flagged not removed        | 1744         |
 | Cities mapped                                      | 102          |
 | Salerno districts (quartieri)                      | 14           |
@@ -165,11 +165,11 @@ curl "http://localhost:8080/api/all?provincia=SA"    # by province
 
 ## Eventi
 
-> 49 annual festivals, feste patronali, sagre and cultural events with dates and recurrence.
+> 50 annual festivals, feste patronali, sagre and cultural events with dates and recurrence.
 
 ### Salerno
 
-- [Luci d'Artista](https://salernolucidartista.eu) - Christmas light festival with 36 open-air installations. November-February.
+- [Luci d'Artista](https://cultura.comune.salerno.it/lucidartista/) - Christmas light festival, 2026-2027 edition switches on Saturday November 7 2026 (weather permitting). Free entry.
 - [Festa di San Matteo](https://it.wikipedia.org/wiki/Cattedrale_di_Salerno) - Patron saint feast with procession through the historical center. September 21-23.
 - [Madonna che viene dal Mare](https://cultura.comune.salerno.it/eventi/festa-della-madonna-che-viene-dal-mare-2026/) - Historical icon arrives by sea with maritime procession. August 2.
 - [Festa di Sant'Anna](https://it.wikipedia.org/wiki/Chiesa_di_Sant%27Anna_al_Porto) - Canalone and port quartiere traditional patron feast. July 26.
@@ -227,11 +227,24 @@ curl "http://localhost:8080/api/all?provincia=SA"    # by province
 
 ## Luci d'Artista
 
-> 36 light installations for the XX edition (2025-2026). Free entry, November 14 - February 1.
+> 2026-2027 edition: switch-on announced for Saturday November 7 2026, in the afternoon, weather permitting. Free entry.
 
 The most important Christmas event in Southern Italy. Since 2006, Salerno transforms into an open-air light museum with works by contemporary artists.
 
-### Main Installations
+### 2026-2027 edition
+
+What is confirmed (checked 2026-11-06):
+
+- [SalernoToday, 5 November 2026](https://www.salernotoday.it/cronaca/luci-artista-data-accensione-de-luca-7-novembre-2026.html) - The mayor announced the switch-on for Saturday November 7 2026, in the afternoon, weather permitting. First-evening route: a new terracotta warriors installation behind the Teatro Pasolini, then the Villa Comunale (installations for children), the historical center, Portanova and the Rotonda, ending in Pastena. Trenitalia adds 19 weekend trains (Salerno - Arechi, Salerno - Napoli Campi Flegrei, Salerno - Caserta) from November 7 2026 to January 6 2027.
+- [Mobility during Luci d'Artista](https://cultura.comune.salerno.it/lucidartista/mobilita/) - Official Comune di Salerno page on how to reach the city, parking, shuttles and trains.
+
+Not published yet, so not listed here: the list of 2026-2027 installations, the 2026-2027 map, opening hours and the official end date. On 2026-11-06 the Comune's [Opere page](https://cultura.comune.salerno.it/lucidartista/opere/) says the map and details of the new installations will be available in the coming days. January 6 2027 is the end date of the Trenitalia extra trains, not an official end date of the lights.
+
+The former address `salernolucidartista.eu` does not resolve (DNS) as of 2026-11-06 and is no longer linked.
+
+### Installations of the 2025-2026 edition (archive)
+
+Edition of November 14 2025 - February 1 2026 ([Comune archive](https://cultura.comune.salerno.it/lucidartista/archivio-luci-dartista/)). Not the 2026-2027 list, which is not yet published.
 
 | #   | Name                           | Location                     | Artist                  |
 | --- | ------------------------------ | ---------------------------- | ----------------------- |
@@ -280,7 +293,7 @@ Related events include MeraviglioSA Christmas city in the Mirabile complex (Dece
 
 Interactive map with filters for zona, tipo, and search: [Open Map](https://autcir.github.io/awesome-salerno/)
 
-- [Event calendar](https://autcir.github.io/awesome-salerno/calendar.html) - 49 events by date with zone filters.
+- [Event calendar](https://autcir.github.io/awesome-salerno/calendar.html) - 50 events by date with zone filters.
 - [Statistics dashboard](https://autcir.github.io/awesome-salerno/stats.html) - Charts by zone, type and top cities.
 
 ## Autonomous Ingestion Pipeline
@@ -304,8 +317,8 @@ python3 api/server.py
 | `GET /api/spiagge`          | All beaches (78)                                      |
 | `GET /api/panorami`         | All viewpoints (253)                                  |
 | `GET /api/parchi`           | All parks (12)                                        |
-| `GET /api/eventi`           | All events (49)                                       |
-| `GET /api/all`              | All data (5529)                                       |
+| `GET /api/eventi`           | All events (50)                                       |
+| `GET /api/all`              | All data (5530)                                       |
 | `GET /api/geojson`          | GeoJSON format for GIS                                |
 | `GET /api/cities`           | List of all 103 cities                                |
 | `GET /api/search?q=<query>` | Fuzzy search                                          |
@@ -370,7 +383,7 @@ curl "http://localhost:8080/api/geojson" > awesome-salerno.geojson
 
 **KML/KMZ download:**
 
-- [KML export](https://autcir.github.io/awesome-salerno/data/awesome-salerno.kml) - All 5529 POI for Google Earth.
+- [KML export](https://autcir.github.io/awesome-salerno/data/awesome-salerno.kml) - All 5530 POI for Google Earth.
 - [KMZ export](https://autcir.github.io/awesome-salerno/data/awesome-salerno.kmz) - Compressed KML for mobile apps.
 
 **Voice assistant:**
@@ -437,7 +450,7 @@ Inclusion and exclusion rules: see `docs/criteria.md`.
 
 ## RAG dataset
 
-One chunk per POI, ready to embed - `data/rag/chunks.jsonl`, 5529 lines. It derives from the dataset, so the per-source
+One chunk per POI, ready to embed - `data/rag/chunks.jsonl`, 5530 lines. It derives from the dataset, so the per-source
 licences in `DATA-LICENSES.md` apply (OpenStreetMap data is ODbL).
 
 ```bash
@@ -479,7 +492,7 @@ only, no dependencies.
 | `get_poi`            | Full record by `id`                                             |
 | `nearby_poi`         | POI within a radius in km of a GPS point, nearest first         |
 | `list_events`        | Events in a date window, optionally by city (curated + scraped) |
-| `search_rag`         | Semantic / keyword search over the 5529 RAG dataset chunks      |
+| `search_rag`         | Semantic / keyword search over the 5530 RAG dataset chunks      |
 | `get_sources_status` | Live status, coverage and licenses of monitored sources         |
 
 
@@ -490,7 +503,7 @@ The project connects open source geospatial data, automated ingestion, and AI co
 ```text
   [OpenStreetMap / Overpass] ──┐
   [PA Comuni / Istituzionali]  ──┼──> [scripts/ingest_events.py] ──> [data/*.json] ──┬──> [Interactive Web Map]
-  [SalernoToday & Testate]    ──┤     (obscura stealth fetch)       (5529 POI)      ├──> [REST API server.py]
+  [SalernoToday & Testate]    ──┤     (obscura stealth fetch)       (5530 POI)      ├──> [REST API server.py]
   [Luci d'Artista Ufficiale]  ──┘                                                   ├──> [MCP Server stdlib]
                                                                                     └──> [SalernOS Civic Core]
 ```
